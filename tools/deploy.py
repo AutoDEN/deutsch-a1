@@ -23,6 +23,12 @@ import sys
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+def say(text):
+    """Свой вывод и вывод build.py должны идти по порядку, а не вперемешку:
+    подпроцесс пишет в консоль сразу, а print без flush ждёт буфера."""
+    print(text, flush=True)
+
+
 def git(*args, **kw):
     """git в папке сайта. capture=True — вернуть вывод вместо печати."""
     cmd = ['git', '-C', SITE] + list(args)
@@ -40,32 +46,32 @@ def main():
     if not message:
         message = datetime.datetime.now().strftime('Обновление сайта %d.%m.%Y %H:%M')
 
-    print('[1/4] Пересборка')
+    say('[1/4] Пересборка')
     code = subprocess.call([sys.executable, os.path.join(SITE, 'build.py')])
     if code:
         sys.exit('build.py завершился с ошибкой — ничего не выкачено.')
 
-    print('\n[2/4] Подготовка изменений')
+    say('\n[2/4] Подготовка изменений')
     if git('add', '-A')[0]:
         sys.exit('git add не сработал.')
 
     _, staged = git('diff', '--cached', '--stat', capture=True)
     if not staged.strip():
-        print('Изменений нет — выкатывать нечего.')
+        say('Изменений нет — выкатывать нечего.')
         return
-    print(staged.rstrip())
+    say(staged.rstrip())
 
-    print('\n[3/4] Коммит: %s' % message)
+    say('\n[3/4] Коммит: %s' % message)
     if git('commit', '-m', message)[0]:
         sys.exit('git commit не сработал.')
 
-    print('\n[4/4] Отправка на GitHub')
+    say('\n[4/4] Отправка на GitHub')
     if git('push')[0]:
         sys.exit('git push не сработал. Проверьте подключение и вход в GitHub.')
 
     _, url = git('remote', 'get-url', 'origin', capture=True)
-    print('\nГотово. Сайт обновится через 30-60 секунд.')
-    print(site_url(url.strip()))
+    say('\nГотово. Сайт обновится через 30-60 секунд.')
+    say(site_url(url.strip()))
 
 
 def site_url(remote):
