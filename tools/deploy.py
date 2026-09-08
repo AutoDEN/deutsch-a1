@@ -83,7 +83,7 @@ def site_url(remote):
     if len(parts) < 2:
         return remote
     user, repo = parts[-2], parts[-1]
-    return 'https://%s.github.io/%s/' % (user, repo)
+    return 'https://%s.github.io/%s/' % (user.lower(), repo)
 
 
 if __name__ == '__main__':
