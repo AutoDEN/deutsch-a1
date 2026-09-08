@@ -1,0 +1,173 @@
+[
+ {
+  "lemma": "Gasthaus", "gender": "das", "ipa": "ˈɡasthaʊ̯s",
+  "forms": "мн. die Gasthäuser",
+  "ru": "трактир, традиционный ресторан",
+  "ex": "Herzlich willkommen in unserem Gasthaus!",
+  "ex_ru": "Добро пожаловать в наш трактир!",
+  "note": "der Gast (гость) + das Haus. Заведение с традиционной кухней, часто с многолетней историей."
+ },
+ {
+  "lemma": "Speisekarte", "gender": "die", "ipa": "ˈʃpaɪ̯zəˌkaʁtə",
+  "forms": "мн. die Speisekarten",
+  "ru": "меню",
+  "ex": "Hier ist die Speisekarte.",
+  "ex_ru": "Вот меню.",
+  "note": "die Speise — блюдо, кушанье. Карта напитков отдельно — die Getränkekarte."
+ },
+ {
+  "lemma": "bestellen", "ipa": "bəˈʃtɛlən",
+  "forms": "bestellte · hat bestellt",
+  "ru": "заказывать",
+  "ex": "Was möchten Sie bestellen?",
+  "ex_ru": "Что вы хотите заказать?",
+  "note": "Приставка be- неотделяемая, в Partizip II нет ge-: hat bestellt."
+ },
+ {
+  "lemma": "wählen", "ipa": "ˈvɛːlən",
+  "forms": "wählte · hat gewählt",
+  "ru": "выбирать",
+  "ex": "Haben Sie schon gewählt?",
+  "ex_ru": "Вы уже выбрали?",
+  "note": "Отсюда die Wahl (выбор) из четырнадцатого урока."
+ },
+ {
+  "lemma": "empfehlen", "ipa": "ɛmˈp͡feːlən",
+  "forms": "empfahl · hat empfohlen",
+  "ru": "рекомендовать",
+  "ex": "Was können Sie empfehlen?",
+  "ex_ru": "Что вы можете порекомендовать?",
+  "note": "Неправильный: du empfiehlst, er empfiehlt."
+ },
+ {
+  "lemma": "Tagesgericht", "gender": "das", "ipa": "ˈtaːɡəsɡəˌʁɪçt",
+  "forms": "мн. die Tagesgerichte",
+  "ru": "блюдо дня",
+  "ex": "Unser Tagesgericht ist Rinderbraten mit Knödeln.",
+  "ex_ru": "Наше блюдо дня — жаркое из говядины с клёцками.",
+  "note": "Обычно дешевле обычных блюд и меняется каждый день."
+ },
+ {
+  "lemma": "Getränk", "gender": "das", "ipa": "ɡəˈtʁɛŋk",
+  "forms": "мн. die Getränke",
+  "ru": "напиток",
+  "ex": "Ich bin gleich wieder da mit Ihren Getränken.",
+  "ex_ru": "Я сейчас вернусь с вашими напитками.",
+  "note": "От trinken: то, что пьют."
+ },
+ {
+  "lemma": "Bier", "gender": "das", "ipa": "biːɐ̯",
+  "forms": "мн. die Biere",
+  "ru": "пиво",
+  "ex": "Ich hätte gern ein Bier vom Fass.",
+  "ex_ru": "Я хотел бы разливного пива.",
+  "note": "vom Fass — «из бочки», то есть разливное."
+ },
+ {
+  "lemma": "Wein", "gender": "der", "ipa": "vaɪ̯n",
+  "forms": "мн. die Weine",
+  "ru": "вино",
+  "ex": "Für mich bitte ein Glas Weißwein, trocken.",
+  "ex_ru": "Мне, пожалуйста, бокал белого вина, сухого.",
+  "note": "Weißwein — белое, Rotwein — красное, trocken — сухое."
+ },
+ {
+  "lemma": "Glas", "gender": "das", "ipa": "ɡlaːs",
+  "forms": "мн. die Gläser",
+  "ru": "стакан, бокал; стекло",
+  "ex": "Ein Glas Weißwein, bitte.",
+  "ex_ru": "Бокал белого вина, пожалуйста.",
+  "note": "После меры существительное без артикля: ein Glas Wein."
+ },
+ {
+  "lemma": "Fleisch", "gender": "das", "ipa": "flaɪ̯ʃ",
+  "forms": "без мн. ч.",
+  "ru": "мясо",
+  "ex": "Ich esse nicht so viel Fleisch.",
+  "ex_ru": "Я ем не так много мяса."
+ },
+ {
+  "lemma": "Fisch", "gender": "der", "ipa": "fɪʃ",
+  "forms": "мн. die Fische",
+  "ru": "рыба",
+  "ex": "Ich suche etwas Leichteres… Vielleicht einen Salat oder Fisch.",
+  "ex_ru": "Я ищу что-нибудь полегче… Может, салат или рыбу."
+ },
+ {
+  "lemma": "Salat", "gender": "der", "ipa": "zaˈlaːt",
+  "forms": "мн. die Salate",
+  "ru": "салат",
+  "ex": "Der Salat war auch ausgezeichnet.",
+  "ex_ru": "Салат тоже был превосходным."
+ },
+ {
+  "lemma": "Salatteller", "gender": "der", "ipa": "zaˈlaːtˌtɛlɐ",
+  "forms": "мн. die Salatteller",
+  "ru": "салатная тарелка (блюдо)",
+  "ex": "Ich hätte gern den Salatteller mit Ziegenkäse.",
+  "ex_ru": "Я хотела бы салатную тарелку с козьим сыром.",
+  "note": "der Teller — тарелка. Полноценное блюдо, а не гарнир."
+ },
+ {
+  "lemma": "Schnitzel", "gender": "das", "ipa": "ˈʃnɪt͡sl̩",
+  "forms": "мн. die Schnitzel",
+  "ru": "шницель",
+  "ex": "Ich nehme das Wiener Schnitzel mit Pommes.",
+  "ex_ru": "Я возьму венский шницель с картофелем фри."
+ },
+ {
+  "lemma": "Nachtisch", "gender": "der", "ipa": "ˈnaːxˌtɪʃ",
+  "forms": "мн. die Nachtische",
+  "ru": "десерт",
+  "ex": "Möchten Sie noch einen Nachtisch oder einen Kaffee?",
+  "ex_ru": "Желаете ещё десерт или кофе?",
+  "note": "nach (после) + Tisch (стол): то, что после основного стола."
+ },
+ {
+  "lemma": "schmecken", "ipa": "ˈʃmɛkn̩",
+  "forms": "schmeckte · hat geschmeckt",
+  "ru": "быть вкусным, нравиться на вкус",
+  "ex": "Hat es Ihnen geschmeckt?",
+  "ex_ru": "Вам понравилось?",
+  "note": "Кому вкусно — в Dativ, как gefallen: Das schmeckt mir."
+ },
+ {
+  "lemma": "Rechnung", "gender": "die", "ipa": "ˈʁɛçnʊŋ",
+  "forms": "мн. die Rechnungen",
+  "ru": "счёт",
+  "ex": "Und die Rechnung bitte auch.",
+  "ex_ru": "И счёт, пожалуйста.",
+  "note": "Die Rechnung, bitte! — так просят счёт в ресторане."
+ },
+ {
+  "lemma": "Appetit", "gender": "der", "ipa": "apeˈtiːt",
+  "forms": "без мн. ч.",
+  "ru": "аппетит",
+  "ex": "Guten Appetit!",
+  "ex_ru": "Приятного аппетита!",
+  "note": "Говорят всем за столом перед едой; ответ — Danke, gleichfalls!"
+ },
+ {
+  "lemma": "willkommen", "ipa": "vɪlˈkɔmən",
+  "ru": "добро пожаловать",
+  "ex": "Herzlich willkommen in unserem Gasthaus!",
+  "ex_ru": "Добро пожаловать в наш трактир!",
+  "note": "herzlich willkommen — «сердечно рады», стандартное приветствие гостей."
+ },
+ {
+  "lemma": "leicht", "rank": 232, "ipa": "laɪ̯çt",
+  "forms": "leichter, am leichtesten",
+  "ru": "лёгкий; легко",
+  "ex": "Ich suche etwas Leichteres.",
+  "ex_ru": "Я ищу что-нибудь полегче.",
+  "note": "И о весе, и о еде, и о задаче: Das ist leicht — «это просто»."
+ },
+ {
+  "lemma": "möglich", "rank": 107, "ipa": "ˈmøːklɪç",
+  "forms": "möglicher, am möglichsten",
+  "ru": "возможный",
+  "ex": "Mit Ziegenkäse, wenn möglich.",
+  "ex_ru": "С козьим сыром, если возможно.",
+  "note": "wenn möglich — вежливая добавка к просьбе."
+ }
+]

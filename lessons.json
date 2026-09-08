@@ -1,0 +1,896 @@
+[
+ {
+  "n": 1,
+  "kind": "prep",
+  "title": "Звуки немецкого языка",
+  "slug": "prep-1-laute",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "01 Подготовительный урок 1 - Звуки немецкого языка_",
+    "media": {
+     "video": [
+      "video-1-0.mp4"
+     ],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": true,
+  "has_audio": true
+ },
+ {
+  "n": 2,
+  "kind": "prep",
+  "title": "Вся грамматика А1 (и даже больше)",
+  "slug": "prep-2-grammatik-a1",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "02 Подготовительный урок 2 - Вся грамматика А1 (и даже больше)_",
+    "media": {
+     "video": [
+      "video-1-0.mp4",
+      "video-2-0.mp4"
+     ],
+     "audio": [],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": true,
+  "has_audio": false
+ },
+ {
+  "n": 3,
+  "kind": "guide",
+  "title": "Как читать транскрипцию",
+  "slug": "prep-3-transkription",
+  "sources": [],
+  "ready": true,
+  "has_video": false,
+  "has_audio": false
+ },
+ {
+  "n": 1,
+  "kind": "lesson",
+  "title": "Приветствие",
+  "slug": "01-begruessung",
+  "sources": [
+   {
+    "part": "grammar",
+    "folder": "03 Урок 1 - Приветствие (грамматика)_",
+    "media": {
+     "video": [
+      "video-1-0_.mp4"
+     ],
+     "audio": [],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   },
+   {
+    "part": "materials",
+    "folder": "04 Урок 1 - Приветствие (материалы)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": true,
+  "has_audio": true
+ },
+ {
+  "n": 2,
+  "kind": "lesson",
+  "title": "Представьтесь",
+  "slug": "02-vorstellung",
+  "sources": [
+   {
+    "part": "grammar",
+    "folder": "06 Урок 2 - Представьтесь (материалы)_\\05 Урок 2 - Представьтесь (грамматика)_",
+    "media": {
+     "video": [
+      "video-1-0.mp4"
+     ],
+     "audio": [],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   },
+   {
+    "part": "materials",
+    "folder": "06 Урок 2 - Представьтесь (материалы)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": true,
+  "has_audio": true
+ },
+ {
+  "n": 3,
+  "kind": "lesson",
+  "title": "Откуда Вы",
+  "slug": "03-herkunft",
+  "sources": [
+   {
+    "part": "grammar",
+    "folder": "07 Урок 3 - Откуда Вы (грамматика)_",
+    "media": {
+     "video": [
+      "video-1-0.mp4"
+     ],
+     "audio": [],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   },
+   {
+    "part": "materials",
+    "folder": "08 Урок 3 - Откуда Вы (материалы)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": true,
+  "has_audio": true
+ },
+ {
+  "n": 4,
+  "kind": "lesson",
+  "title": "Как дела",
+  "slug": "04-wie-geht-es",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "09 Урок 4 - Как дела_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 5,
+  "kind": "lesson",
+  "title": "Счет и числа (0-10)",
+  "slug": "05-zahlen-0-10",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "10 Урок 5 - Счет и числа (0-10)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 6,
+  "kind": "lesson",
+  "title": "Да, Нет, Спасибо, Пожалуйста",
+  "slug": "06-ja-nein-danke",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "11 Урок 6 - Да, Нет, Спасибо, Пожалуйста_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 7,
+  "kind": "lesson",
+  "title": "Что это (Der, Die, Das)",
+  "slug": "07-der-die-das",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "12 Урок 7 - Что это (Der, Die, Das)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [
+      "!Бонус! [skladchiki.org].pdf"
+     ],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 8,
+  "kind": "lesson",
+  "title": "Семья",
+  "slug": "08-familie",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "13 Урок 8 - Семья_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 9,
+  "kind": "lesson",
+  "title": "Номер телефона, Адрес",
+  "slug": "09-telefon-adresse",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "14 Урок 9 - Номер телефона, Адрес_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 10,
+  "kind": "lesson",
+  "title": "Хобби",
+  "slug": "10-hobby",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "15 Урок 10 - Хобби_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 11,
+  "kind": "lesson",
+  "title": "Жильё Лены (WG)",
+  "slug": "11-wg",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "16 Урок 11 - Жильё Лены (WG)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 12,
+  "kind": "lesson",
+  "title": "В супермаркете",
+  "slug": "12-supermarkt",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "17 Урок 12 - В супермаркете_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 13,
+  "kind": "lesson",
+  "title": "День Макса",
+  "slug": "13-max-tag",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "18 Урок 13 - День Макса_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 14,
+  "kind": "lesson",
+  "title": "Покупка одежды",
+  "slug": "14-kleidung",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "19 Урок 14 - Покупка одежды_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [
+      "!Бонус! [skladchiki.org].pdf"
+     ],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 15,
+  "kind": "lesson",
+  "title": "Книжный магазин Клары",
+  "slug": "15-buchhandlung",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "20 Урок 15 - Книжный магазин Клары_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 16,
+  "kind": "lesson",
+  "title": "Запись к врачу",
+  "slug": "16-arzttermin",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "21 Урок 16 - Запись к врачу_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 17,
+  "kind": "lesson",
+  "title": "Сад господина Мюллера",
+  "slug": "17-garten",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "22 Урок 17 - Сад господина Мюллера_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 18,
+  "kind": "lesson",
+  "title": "Спросить дорогу",
+  "slug": "18-weg-fragen",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "23 Урок 18 - Спросить дорогу_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 19,
+  "kind": "lesson",
+  "title": "Погода в Германии",
+  "slug": "19-wetter",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "24 Урок 19 - Погода в Германии_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 20,
+  "kind": "lesson",
+  "title": "Приглашение на кофе",
+  "slug": "20-einladung-kaffee",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "25 Урок 20 - Приглашение на кофе_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 21,
+  "kind": "lesson",
+  "title": "Выходные Лены (Perfekt)",
+  "slug": "21-wochenende-perfekt",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "26 Урок 21 - Выходные Лены (Perfekt)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 22,
+  "kind": "lesson",
+  "title": "У врача",
+  "slug": "22-beim-arzt",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "27 Урок 22 - У врача_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 23,
+  "kind": "lesson",
+  "title": "Общественный транспорт",
+  "slug": "23-verkehr",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "28 Урок 23 - Общественный транспорт_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 24,
+  "kind": "lesson",
+  "title": "Заказ в ресторане",
+  "slug": "24-restaurant",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "29 Урок 24 - Заказ в ресторане_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 25,
+  "kind": "lesson",
+  "title": "Поход на рынок",
+  "slug": "25-markt",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "30 Урок 25 - Поход на рынок_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 26,
+  "kind": "lesson",
+  "title": "Планы на выходные (Мод. глаголы)",
+  "slug": "26-modalverben",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "31 Урок 26 - Планы на выходные (Мод. глаголы)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 27,
+  "kind": "lesson",
+  "title": "Сортировка мусора",
+  "slug": "27-muelltrennung",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "32 Урок 27 - Сортировка мусора_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 28,
+  "kind": "lesson",
+  "title": "Разговор с соседями (Smalltalk)",
+  "slug": "28-smalltalk",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "33 Урок 28 - Разговор с соседями (Smalltalk)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 29,
+  "kind": "lesson",
+  "title": "Немецкий праздник (РождествоПасха)",
+  "slug": "29-feste",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "34 Урок 29 - Немецкий праздник (РождествоПасха)_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 30,
+  "kind": "lesson",
+  "title": "Планы на будущее",
+  "slug": "30-zukunft",
+  "sources": [
+   {
+    "part": "materials",
+    "folder": "35 Урок 30 - Планы на будущее_",
+    "media": {
+     "video": [],
+     "audio": [
+      "audio-0.mp3"
+     ],
+     "pdf": [],
+     "zip": [],
+     "html": [
+      "lesson.html"
+     ]
+    }
+   }
+  ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ }
+]

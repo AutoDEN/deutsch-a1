@@ -1,0 +1,172 @@
+[
+ {
+  "lemma": "Supermarkt", "gender": "der", "ipa": "ˈzuːpɐˌmaʁkt",
+  "forms": "мн. die Supermärkte",
+  "ru": "супермаркет",
+  "ex": "Ich kenne mich in diesem Supermarkt noch nicht aus.",
+  "ex_ru": "Я ещё не ориентируюсь в этом супермаркете.",
+  "note": "sich auskennen — «ориентироваться, разбираться», приставка уходит в конец."
+ },
+ {
+  "lemma": "Gang", "gender": "der", "ipa": "ɡaŋ",
+  "forms": "мн. die Gänge",
+  "ru": "проход, ряд (в магазине)",
+  "ex": "Die Milch ist in Gang 3, neben den Joghurts.",
+  "ex_ru": "Молоко в третьем ряду, рядом с йогуртами.",
+  "note": "В супермаркете ряды нумеруют — так проще объяснить, где что лежит."
+ },
+ {
+  "lemma": "Obstabteilung", "gender": "die", "ipa": "ˈoːpstʔapˌtaɪ̯lʊŋ",
+  "forms": "мн. die Obstabteilungen",
+  "ru": "фруктовый отдел",
+  "ex": "Äpfel finden Sie in der Obstabteilung, gleich am Eingang links.",
+  "ex_ru": "Яблоки вы найдёте во фруктовом отделе, сразу слева от входа.",
+  "note": "das Obst — фрукты, die Abteilung — отдел."
+ },
+ {
+  "lemma": "Kasse", "gender": "die", "ipa": "ˈkasə",
+  "forms": "мн. die Kassen",
+  "ru": "касса",
+  "ex": "Die Kassen sind vorne rechts, wenn Sie fertig sind.",
+  "ex_ru": "Кассы впереди справа, когда вы закончите."
+ },
+ {
+  "lemma": "Milch", "gender": "die", "ipa": "mɪlç",
+  "forms": "без мн. ч.",
+  "ru": "молоко",
+  "ex": "Ich suche Milch, aber ich finde sie nicht.",
+  "ex_ru": "Я ищу молоко, но не могу его найти.",
+  "note": "По-немецки женского рода, поэтому в тексте про молоко говорят sie."
+ },
+ {
+  "lemma": "Käse", "gender": "der", "ipa": "ˈkɛːzə",
+  "forms": "мн. die Käse (редко)",
+  "ru": "сыр",
+  "ex": "Ich brauche auch Käse. Wo finde ich den?",
+  "ex_ru": "Мне ещё нужен сыр. Где мне его найти?",
+  "note": "den здесь — мужской род в Akkusativ, отсылка к der Käse."
+ },
+ {
+  "lemma": "Apfel", "gender": "der", "ipa": "ˈap͡fl̩",
+  "forms": "мн. die Äpfel",
+  "ru": "яблоко",
+  "ex": "Die roten Äpfel kosten 2,99 Euro pro Kilo.",
+  "ex_ru": "Красные яблоки стоят 2,99 евро за килограмм.",
+  "note": "Множественное число отличается только умляутом: Apfel — Äpfel."
+ },
+ {
+  "lemma": "Brot", "gender": "das", "ipa": "bʁoːt",
+  "forms": "мн. die Brote",
+  "ru": "хлеб",
+  "ex": "Es passt gut zu unserem frischen Brot.",
+  "ex_ru": "Он хорошо подходит к нашему свежему хлебу.",
+  "note": "das Brötchen — булочка, уменьшительное от Brot."
+ },
+ {
+  "lemma": "Flasche", "gender": "die", "ipa": "ˈflaʃə",
+  "forms": "мн. die Flaschen",
+  "ru": "бутылка",
+  "ex": "Wir brauchen drei Flaschen Wasser für die Party.",
+  "ex_ru": "Нам нужно три бутылки воды для вечеринки.",
+  "note": "После меры существительное идёт без артикля: drei Flaschen Wasser."
+ },
+ {
+  "lemma": "Packung", "gender": "die", "ipa": "ˈpakʊŋ",
+  "forms": "мн. die Packungen",
+  "ru": "упаковка, пачка",
+  "ex": "Ich nehme ein Stück Käse und eine Packung Milch.",
+  "ex_ru": "Я возьму кусок сыра и упаковку молока."
+ },
+ {
+  "lemma": "Kilo", "gender": "das", "ipa": "ˈkiːlo",
+  "forms": "мн. die Kilo (после числа не меняется)",
+  "ru": "килограмм",
+  "ex": "Ich nehme ein Kilo rote Äpfel.",
+  "ex_ru": "Я возьму килограмм красных яблок.",
+  "note": "Полная форма das Kilogramm, но в магазине говорят Kilo."
+ },
+ {
+  "lemma": "Sorte", "gender": "die", "ipa": "ˈzɔʁtə",
+  "forms": "мн. die Sorten",
+  "ru": "сорт, вид",
+  "ex": "Welchen Käse möchten Sie? Wir haben verschiedene Sorten.",
+  "ex_ru": "Какой сыр вы хотите? У нас разные сорта."
+ },
+ {
+  "lemma": "Kollege", "gender": "der", "ipa": "kɔˈleːɡə",
+  "forms": "den / dem Kollegen · мн. die Kollegen · ж. die Kollegin",
+  "ru": "коллега",
+  "ex": "Am Wochenende will ich ein paar Kollegen zum Abendessen einladen.",
+  "ex_ru": "На выходных я хочу пригласить нескольких коллег на ужин.",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Kollegen."
+ },
+ {
+  "lemma": "Abendessen", "gender": "das", "ipa": "ˈaːbn̩tˌʔɛsn̩",
+  "forms": "мн. die Abendessen",
+  "ru": "ужин",
+  "ex": "…Kollegen zum Abendessen einladen.",
+  "ex_ru": "…пригласить коллег на ужин.",
+  "note": "Три приёма пищи: das Frühstück, das Mittagessen, das Abendessen."
+ },
+ {
+  "lemma": "einladen", "ipa": "ˈaɪ̯nˌlaːdn̩",
+  "forms": "lud ein · hat eingeladen",
+  "ru": "приглашать",
+  "ex": "Am Wochenende lädt er seine Kollegen zum Abendessen ein.",
+  "ex_ru": "На выходных он приглашает коллег на ужин.",
+  "note": "Приставка отделяемая, и корень меняется: du lädst ein, er lädt ein."
+ },
+ {
+  "lemma": "lecker", "ipa": "ˈlɛkɐ",
+  "forms": "leckerer, am leckersten",
+  "ru": "вкусный",
+  "ex": "Es ist sehr lecker und passt gut zu unserem frischen Brot.",
+  "ex_ru": "Это очень вкусно и хорошо подходит к нашему свежему хлебу.",
+  "note": "Lecker! — обычная похвала за столом."
+ },
+ {
+  "lemma": "frisch", "ipa": "fʁɪʃ",
+  "forms": "frischer, am frischesten",
+  "ru": "свежий",
+  "ex": "Haben Sie frische Äpfel?",
+  "ex_ru": "У вас есть свежие яблоки?"
+ },
+ {
+  "lemma": "rechts", "ipa": "ʁɛçt͡s",
+  "ru": "справа, направо",
+  "ex": "Die Kassen sind vorne rechts.",
+  "ex_ru": "Кассы впереди справа.",
+  "note": "Пара к нему — links (слева): am Eingang links."
+ },
+ {
+  "lemma": "Paar", "gender": "das", "rank": 170, "ipa": "paːɐ̯",
+  "forms": "мн. die Paare",
+  "ru": "пара",
+  "ex": "Ich will ein paar Kollegen einladen.",
+  "ex_ru": "Я хочу пригласить нескольких коллег.",
+  "note": "ein paar с маленькой буквы — «несколько», ein Paar с большой — «пара» (двое)."
+ },
+ {
+  "lemma": "Frage", "gender": "die", "rank": 92, "ipa": "ˈfʁaːɡə",
+  "forms": "мн. die Fragen",
+  "ru": "вопрос",
+  "ex": "Wenn Sie Fragen haben, helfe ich Ihnen gerne.",
+  "ex_ru": "Если у вас есть вопросы, я с удовольствием помогу.",
+  "note": "eine Frage stellen — задать вопрос."
+ },
+ {
+  "lemma": "erklären", "rank": 167, "ipa": "ɛɐ̯ˈklɛːʁən",
+  "forms": "erklärte · hat erklärt",
+  "ru": "объяснять",
+  "ex": "Max erklärt: „Ich suche einen milden Gouda.“",
+  "ex_ru": "Макс объясняет: «Я ищу мягкую гауду»."
+ },
+ {
+  "lemma": "erzählen", "rank": 191, "ipa": "ɛɐ̯ˈt͡sɛːlən",
+  "forms": "erzählte · hat erzählt",
+  "ru": "рассказывать",
+  "ex": "Er erzählt der Mitarbeiterin, dass er umgezogen ist.",
+  "ex_ru": "Он рассказывает сотруднице, что переехал.",
+  "note": "Кому рассказывают — в Dativ: erzählt der Mitarbeiterin."
+ }
+]

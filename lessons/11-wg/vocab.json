@@ -1,0 +1,210 @@
+[
+ {
+  "lemma": "Mitbewohner",
+  "gender": "der",
+  "ipa": "ˈmɪtbəˌvoːnɐ",
+  "forms": "мн. die Mitbewohner · ж. die Mitbewohnerin",
+  "ru": "сосед по квартире",
+  "ex": "Ich habe zwei Mitbewohner: Sophia und Felix.",
+  "ex_ru": "У меня два соседа по квартире: София и Феликс.",
+  "note": "Не путайте с der Nachbar — тот живёт в соседней квартире, а Mitbewohner в той же."
+ },
+ {
+  "lemma": "genug",
+  "ipa": "ɡəˈnuːk",
+  "ru": "достаточно",
+  "ex": "Haben wir genug Zutaten?",
+  "ex_ru": "У нас достаточно ингредиентов?",
+  "note": "Стоит после существительного: Zeit genug или genug Zeit — оба варианта возможны."
+ },
+ {
+  "lemma": "Küche",
+  "gender": "die",
+  "ipa": "ˈkʏçə",
+  "forms": "мн. die Küchen",
+  "ru": "кухня",
+  "ex": "Wir haben eine große Küche.",
+  "ex_ru": "У нас большая кухня.",
+  "note": "in der Küche — на кухне (где), in die Küche — на кухню (куда)."
+ },
+ {
+  "lemma": "Bad",
+  "gender": "das",
+  "ipa": "baːt",
+  "forms": "мн. die Bäder",
+  "ru": "ванная комната",
+  "ex": "Unser Bad ist klein.",
+  "ex_ru": "Наша ванная маленькая.",
+  "note": "Полностью — das Badezimmer, но в речи чаще das Bad."
+ },
+ {
+  "lemma": "Bett",
+  "gender": "das",
+  "ipa": "bɛt",
+  "forms": "мн. die Betten",
+  "ru": "кровать",
+  "ex": "Ich habe ein Bett, einen Schreibtisch und einen Stuhl.",
+  "ex_ru": "У меня есть кровать, письменный стол и стул.",
+  "note": "ins Bett gehen — ложиться спать."
+ },
+ {
+  "lemma": "Schreibtisch",
+  "gender": "der",
+  "ipa": "ˈʃʁaɪ̯pˌtɪʃ",
+  "forms": "мн. die Schreibtische",
+  "ru": "письменный стол",
+  "ex": "Auf meinem Schreibtisch steht mein Laptop.",
+  "ex_ru": "На моём письменном столе стоит ноутбук.",
+  "note": "schreiben + Tisch — «стол для письма»."
+ },
+ {
+  "lemma": "Wand",
+  "gender": "die",
+  "ipa": "vant",
+  "forms": "мн. die Wände",
+  "ru": "стена",
+  "ex": "An der Wand habe ich viele Fotos von meiner Familie.",
+  "ex_ru": "На стене у меня много фотографий семьи.",
+  "note": "die Wand — стена внутри комнаты, die Mauer — наружная, каменная."
+ },
+ {
+  "lemma": "Foto",
+  "gender": "das",
+  "ipa": "ˈfoːto",
+  "forms": "мн. die Fotos",
+  "ru": "фотография",
+  "ex": "An der Wand habe ich viele Fotos.",
+  "ex_ru": "На стене у меня много фотографий.",
+  "note": "ein Foto machen — сделать фото."
+ },
+ {
+  "lemma": "Dusche",
+  "gender": "die",
+  "ipa": "ˈduːʃə",
+  "forms": "мн. die Duschen",
+  "ru": "душ",
+  "ex": "Es hat eine Dusche, eine Toilette und ein Waschbecken.",
+  "ex_ru": "Там есть душ, туалет и раковина."
+ },
+ {
+  "lemma": "Toilette",
+  "gender": "die",
+  "ipa": "toaˈlɛtə",
+  "forms": "мн. die Toiletten",
+  "ru": "туалет",
+  "ex": "Das Bad hat eine Dusche und eine Toilette.",
+  "ex_ru": "В ванной есть душ и туалет.",
+  "note": "В кафе спрашивают: Wo ist die Toilette, bitte?"
+ },
+ {
+  "lemma": "Waschbecken",
+  "gender": "das",
+  "ipa": "ˈvaʃˌbɛkn̩",
+  "forms": "мн. die Waschbecken",
+  "ru": "раковина, умывальник",
+  "ex": "Das Bad hat ein Waschbecken.",
+  "ex_ru": "В ванной есть раковина."
+ },
+ {
+  "lemma": "Student",
+  "gender": "der",
+  "ipa": "ʃtuˈdɛnt",
+  "forms": "den / dem Studenten · мн. die Studenten",
+  "ru": "студент",
+  "ex": "Viele Studenten in Deutschland wohnen in WGs.",
+  "ex_ru": "Многие студенты в Германии живут в общих квартирах.",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Studenten."
+ },
+ {
+  "lemma": "Laptop",
+  "gender": "der",
+  "ipa": "ˈlɛptɔp",
+  "forms": "мн. die Laptops",
+  "ru": "ноутбук",
+  "ex": "Auf meinem Schreibtisch steht mein Laptop.",
+  "ex_ru": "На моём письменном столе стоит ноутбук."
+ },
+ {
+  "lemma": "Liste",
+  "gender": "die",
+  "ipa": "ˈlɪstə",
+  "forms": "мн. die Listen",
+  "ru": "список",
+  "ex": "Ich habe eine Liste gemacht.",
+  "ex_ru": "Я составила список.",
+  "note": "die Einkaufsliste — список покупок."
+ },
+ {
+  "lemma": "Spaß",
+  "gender": "der",
+  "ipa": "ʃpaːs",
+  "forms": "мн. die Späße",
+  "ru": "удовольствие, радость; шутка",
+  "ex": "Das macht mir Spaß!",
+  "ex_ru": "Мне это в радость!",
+  "note": "Spaß machen — «доставлять удовольствие», кому — в Dativ: macht mir Spaß."
+ },
+ {
+  "lemma": "essen",
+  "rank": 244,
+  "ipa": "ˈɛsn̩",
+  "forms": "aß · hat gegessen",
+  "ru": "есть, кушать",
+  "ex": "Hier essen wir zusammen.",
+  "ex_ru": "Здесь мы едим вместе.",
+  "note": "Неправильный: du isst, er isst. Существительное das Essen — «еда»."
+ },
+ {
+  "lemma": "gemeinsam",
+  "rank": 216,
+  "ipa": "ɡəˈmaɪ̯nzaːm",
+  "ru": "совместный; вместе",
+  "ex": "Manchmal kochen wir auch gemeinsam.",
+  "ex_ru": "Иногда мы готовим вместе.",
+  "note": "Синоним zusammen, но звучит чуть более книжно."
+ },
+ {
+  "lemma": "eigen",
+  "rank": 102,
+  "ipa": "ˈaɪ̯ɡn̩",
+  "ru": "собственный",
+  "ex": "Eine WG ist günstiger als eine eigene Wohnung.",
+  "ex_ru": "Общая квартира дешевле, чем собственная.",
+  "note": "Всегда стоит перед существительным: mein eigenes Zimmer."
+ },
+ {
+  "lemma": "gemütlich",
+  "ipa": "ɡəˈmyːtlɪç",
+  "forms": "gemütlicher, am gemütlichsten",
+  "ru": "уютный",
+  "ex": "Mein Zimmer ist nicht sehr groß, aber gemütlich.",
+  "ex_ru": "Моя комната не очень большая, но уютная.",
+  "note": "Одно из самых немецких слов: уют, тепло и покой сразу."
+ },
+ {
+  "lemma": "günstig",
+  "ipa": "ˈɡʏnstɪç",
+  "forms": "günstiger, am günstigsten",
+  "ru": "недорогой, выгодный",
+  "ex": "Eine WG ist günstiger als eine eigene Wohnung.",
+  "ex_ru": "Общая квартира дешевле, чем собственная.",
+  "note": "Вежливее, чем billig («дешёвый»), которое может звучать как «дешёвка»."
+ },
+ {
+  "lemma": "schwierig",
+  "ipa": "ˈʃviːʁɪç",
+  "forms": "schwieriger, am schwierigsten",
+  "ru": "трудный, сложный",
+  "ex": "Manchmal ist es schwierig, wenn alle gleichzeitig ins Bad müssen.",
+  "ex_ru": "Иногда сложно, когда всем одновременно нужно в ванную.",
+  "note": "О задаче — schwierig, о весе — schwer."
+ },
+ {
+  "lemma": "gleichzeitig",
+  "ipa": "ˈɡlaɪ̯çˌt͡saɪ̯tɪç",
+  "ru": "одновременно",
+  "ex": "…wenn alle gleichzeitig ins Bad müssen.",
+  "ex_ru": "…когда всем одновременно нужно в ванную.",
+  "note": "gleich + Zeit — «в одно и то же время»."
+ }
+]

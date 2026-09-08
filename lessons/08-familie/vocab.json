@@ -1,0 +1,166 @@
+[
+ {
+  "lemma": "Familie", "gender": "die", "rank": 251, "ipa": "faˈmiːli̯ə",
+  "forms": "мн. die Familien",
+  "ru": "семья",
+  "ex": "Meine Familie ist nicht sehr groß.",
+  "ex_ru": "Моя семья не очень большая."
+ },
+ {
+  "lemma": "Eltern", "gender": "die", "ipa": "ˈɛltɐn",
+  "forms": "только мн. ч.",
+  "ru": "родители",
+  "ex": "Meine Eltern leben in Hamburg.",
+  "ex_ru": "Мои родители живут в Гамбурге.",
+  "note": "Единственного числа нет: про одного говорят der Vater или die Mutter."
+ },
+ {
+  "lemma": "Vater", "gender": "der", "rank": 162, "ipa": "ˈfaːtɐ",
+  "forms": "мн. die Väter",
+  "ru": "отец",
+  "ex": "Mein Vater arbeitet als Ingenieur.",
+  "ex_ru": "Мой отец работает инженером.",
+  "note": "Ласково — Papa или Vati."
+ },
+ {
+  "lemma": "Mutter", "gender": "die", "rank": 148, "ipa": "ˈmʊtɐ",
+  "forms": "мн. die Mütter",
+  "ru": "мать, мама",
+  "ex": "Meine Mutter ist Grundschullehrerin.",
+  "ex_ru": "Моя мама — учительница начальной школы.",
+  "note": "Ласково — Mama или Mutti."
+ },
+ {
+  "lemma": "Kind", "gender": "das", "rank": 69, "ipa": "kɪnt",
+  "forms": "мн. die Kinder",
+  "ru": "ребёнок",
+  "ex": "Herr Müller hat zwei Kinder.",
+  "ex_ru": "У господина Мюллера двое детей.",
+  "note": "В Dativ множественного числа добавляется -n: mit den Kindern."
+ },
+ {
+  "lemma": "Sohn", "gender": "der", "ipa": "zoːn",
+  "forms": "мн. die Söhne",
+  "ru": "сын",
+  "ex": "Sein Sohn arbeitet bei einer Bank.",
+  "ex_ru": "Его сын работает в банке."
+ },
+ {
+  "lemma": "Tochter", "gender": "die", "ipa": "ˈtɔxtɐ",
+  "forms": "мн. die Töchter",
+  "ru": "дочь",
+  "ex": "Meine Tochter ist Ärztin.",
+  "ex_ru": "Моя дочь — врач."
+ },
+ {
+  "lemma": "Bruder", "gender": "der", "ipa": "ˈbʁuːdɐ",
+  "forms": "мн. die Brüder",
+  "ru": "брат",
+  "ex": "Ich habe zwei Brüder.",
+  "ex_ru": "У меня два брата."
+ },
+ {
+  "lemma": "Schwester", "gender": "die", "ipa": "ˈʃvɛstɐ",
+  "forms": "мн. die Schwestern",
+  "ru": "сестра",
+  "ex": "Ich habe eine ältere Schwester.",
+  "ex_ru": "У меня есть старшая сестра."
+ },
+ {
+  "lemma": "Geschwister", "gender": "die", "ipa": "ɡəˈʃvɪstɐ",
+  "forms": "только мн. ч.",
+  "ru": "братья и сёстры",
+  "ex": "Hast du Geschwister?",
+  "ex_ru": "У тебя есть братья или сёстры?",
+  "note": "Одним словом покрывает и братьев, и сестёр — в русском такого нет."
+ },
+ {
+  "lemma": "Enkelkind", "gender": "das", "ipa": "ˈɛŋkl̩ˌkɪnt",
+  "forms": "мн. die Enkelkinder",
+  "ru": "внук, внучка",
+  "ex": "Ja, ich habe vier Enkelkinder.",
+  "ex_ru": "Да, у меня четверо внуков.",
+  "note": "Отдельно — der Enkel (внук) и die Enkelin (внучка)."
+ },
+ {
+  "lemma": "Lehrer", "gender": "der", "ipa": "ˈleːʁɐ",
+  "forms": "мн. die Lehrer · ж. die Lehrerin",
+  "ru": "учитель",
+  "ex": "Mein älterer Bruder ist Lehrer.",
+  "ex_ru": "Мой старший брат — учитель.",
+  "note": "Профессия идёт без артикля: Er ist Lehrer."
+ },
+ {
+  "lemma": "groß", "rank": 26, "ipa": "ɡʁoːs",
+  "forms": "größer, am größten",
+  "ru": "большой; высокий (о росте)",
+  "ex": "Herr Müller hat eine große Familie.",
+  "ex_ru": "У господина Мюллера большая семья."
+ },
+ {
+  "lemma": "klein", "rank": 54, "ipa": "klaɪ̯n",
+  "forms": "kleiner, am kleinsten",
+  "ru": "маленький",
+  "ex": "Sie hat zwei kleine Kinder.",
+  "ex_ru": "У неё двое маленьких детей."
+ },
+ {
+  "lemma": "sprechen", "rank": 97, "ipa": "ˈʃpʁɛçn̩",
+  "forms": "sprach · hat gesprochen",
+  "ru": "говорить, разговаривать",
+  "ex": "Max und Clara sprechen über ihre Familien.",
+  "ex_ru": "Макс и Клара говорят о своих семьях.",
+  "note": "Неправильный: du sprichst, er spricht. О теме — über + Akkusativ."
+ },
+ {
+  "lemma": "wirklich", "rank": 123, "ipa": "ˈvɪʁklɪç",
+  "ru": "действительно, правда",
+  "ex": "Wirklich? Das ist toll.",
+  "ex_ru": "Правда? Это здорово.",
+  "note": "Одно слово Wirklich? — обычная реакция удивления."
+ },
+ {
+  "lemma": "oft", "rank": 153, "ipa": "ɔft",
+  "forms": "öfter, am häufigsten",
+  "ru": "часто",
+  "ex": "Besuchen Sie Ihre Schwester oft?",
+  "ex_ru": "Вы часто навещаете сестру?"
+ },
+ {
+  "lemma": "manchmal", "rank": 297, "ipa": "ˈmançmaːl",
+  "ru": "иногда",
+  "ex": "Er hilft mir manchmal mit meinen alten Kameras.",
+  "ex_ru": "Он иногда помогает мне со старыми камерами."
+ },
+ {
+  "lemma": "weit", "rank": 160, "ipa": "vaɪ̯t",
+  "forms": "weiter, am weitesten",
+  "ru": "далёкий; далеко",
+  "ex": "Meine Eltern wohnen nicht weit von mir.",
+  "ex_ru": "Мои родители живут недалеко от меня.",
+  "note": "nicht weit von + Dativ — «недалеко от»."
+ },
+ {
+  "lemma": "früh", "rank": 283, "ipa": "fʁyː",
+  "forms": "früher, am frühesten",
+  "ru": "ранний, рано",
+  "ex": "Früher haben wir als Kinder immer zusammen Musik gemacht.",
+  "ex_ru": "Раньше мы детьми всегда вместе играли музыку.",
+  "note": "Форма früher значит «раньше, в прошлом» — с неё начинают воспоминание."
+ },
+ {
+  "lemma": "jetzt", "rank": 31, "ipa": "jɛt͡st",
+  "ru": "сейчас, теперь",
+  "ex": "Er studiert jetzt Informatik.",
+  "ex_ru": "Сейчас он изучает информатику.",
+  "note": "Пара к früher: früher … jetzt — «раньше … теперь»."
+ },
+ {
+  "lemma": "telefonieren", "ipa": "telefoˈniːʁən",
+  "forms": "telefonierte · hat telefoniert",
+  "ru": "звонить, разговаривать по телефону",
+  "ex": "Am Wochenende telefoniere ich immer mit ihnen.",
+  "ex_ru": "На выходных я всегда созваниваюсь с ними.",
+  "note": "С кем говорят — mit + Dativ: mit meinen Eltern telefonieren."
+ }
+]

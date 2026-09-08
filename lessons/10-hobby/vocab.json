@@ -1,0 +1,166 @@
+[
+ {
+  "lemma": "Hobby", "gender": "das", "ipa": "ˈhɔbi",
+  "forms": "мн. die Hobbys",
+  "ru": "хобби, увлечение",
+  "ex": "Ich koche sehr gern. Das ist mein Hobby.",
+  "ex_ru": "Я очень люблю готовить. Это моё хобби.",
+  "note": "Was sind deine Hobbys? — обычный вопрос при знакомстве."
+ },
+ {
+  "lemma": "mögen", "rank": 104, "ipa": "ˈmøːɡn̩",
+  "forms": "mochte · hat gemocht",
+  "ru": "любить, нравиться",
+  "ex": "Welche Komponisten mögen Sie?",
+  "ex_ru": "Какие композиторы Вам нравятся?",
+  "note": "mögen — про вещи и людей, gern — про действия: Ich mag Musik, но Ich höre gern Musik."
+ },
+ {
+  "lemma": "Musik", "gender": "die", "ipa": "muˈziːk",
+  "forms": "без мн. ч.",
+  "ru": "музыка",
+  "ex": "Ich höre gern Musik, aber eher Rock.",
+  "ex_ru": "Я люблю слушать музыку, но скорее рок.",
+  "note": "Ударение на второй слог: muSIK."
+ },
+ {
+  "lemma": "kochen", "ipa": "ˈkɔxn̩",
+  "forms": "kochte · hat gekocht",
+  "ru": "готовить (еду); варить",
+  "ex": "Ich koche gern traditionelle deutsche Gerichte.",
+  "ex_ru": "Я люблю готовить традиционные немецкие блюда."
+ },
+ {
+  "lemma": "Gericht", "gender": "das", "ipa": "ɡəˈʁɪçt",
+  "forms": "мн. die Gerichte",
+  "ru": "блюдо",
+  "ex": "Er kocht gern traditionelle deutsche Gerichte.",
+  "ex_ru": "Он любит готовить традиционные немецкие блюда.",
+  "note": "У слова есть и второе значение — «суд»: das Gericht в юридическом смысле."
+ },
+ {
+  "lemma": "Rezept", "gender": "das", "ipa": "ʁeˈt͡sɛpt",
+  "forms": "мн. die Rezepte",
+  "ru": "рецепт",
+  "ex": "Ich probiere gern neue Rezepte aus.",
+  "ex_ru": "Я люблю пробовать новые рецепты.",
+  "note": "Так же называется и рецепт от врача — ein Rezept vom Arzt."
+ },
+ {
+  "lemma": "spazieren gehen", "ipa": "ʃpaˈt͡siːʁən ˌɡeːən",
+  "forms": "ging spazieren · ist spazieren gegangen",
+  "ru": "гулять, ходить на прогулку",
+  "ex": "Am Wochenende gehe ich gern im Park spazieren.",
+  "ex_ru": "По выходным я люблю гулять в парке.",
+  "note": "spazieren уходит в конец предложения: Ich gehe im Park spazieren."
+ },
+ {
+  "lemma": "Wald", "gender": "der", "ipa": "valt",
+  "forms": "мн. die Wälder",
+  "ru": "лес",
+  "ex": "Am liebsten im Wald oder am See.",
+  "ex_ru": "Больше всего — в лесу или у озера."
+ },
+ {
+  "lemma": "Natur", "gender": "die", "ipa": "naˈtuːɐ̯",
+  "forms": "без мн. ч.",
+  "ru": "природа",
+  "ex": "Die Natur ist so schön.",
+  "ex_ru": "Природа такая красивая.",
+  "note": "in der Natur sein — быть на природе."
+ },
+ {
+  "lemma": "Wochenende", "gender": "das", "ipa": "ˈvɔxn̩ˌʔɛndə",
+  "forms": "мн. die Wochenenden",
+  "ru": "выходные, конец недели",
+  "ex": "Wie war dein Wochenende?",
+  "ex_ru": "Как прошли твои выходные?",
+  "note": "«На выходных» — am Wochenende. Пожелание: Schönes Wochenende!"
+ },
+ {
+  "lemma": "Roman", "gender": "der", "ipa": "ʁoˈmaːn",
+  "forms": "мн. die Romane",
+  "ru": "роман",
+  "ex": "Ich lese einen Roman über Berlin.",
+  "ex_ru": "Я читаю роман о Берлине.",
+  "note": "О чём книга — über + Akkusativ."
+ },
+ {
+  "lemma": "Gedicht", "gender": "das", "ipa": "ɡəˈdɪçt",
+  "forms": "мн. die Gedichte",
+  "ru": "стихотворение",
+  "ex": "Ich lese sehr gern, besonders Romane und Gedichte.",
+  "ex_ru": "Я очень люблю читать, особенно романы и стихи."
+ },
+ {
+  "lemma": "Tagebuch", "gender": "das", "ipa": "ˈtaːɡəˌbuːx",
+  "forms": "мн. die Tagebücher",
+  "ru": "дневник",
+  "ex": "Ich schreibe gern in mein Tagebuch.",
+  "ex_ru": "Я люблю писать в свой дневник.",
+  "note": "Дословно «книга дня»: der Tag + das Buch."
+ },
+ {
+  "lemma": "entspannend", "ipa": "ɛntˈʃpanənt",
+  "ru": "расслабляющий",
+  "ex": "Das Schreiben ist entspannend für mich.",
+  "ex_ru": "Письмо меня расслабляет.",
+  "note": "Отсюда же die Entspannung — «расслабление, отдых»."
+ },
+ {
+  "lemma": "besonders", "rank": 196, "ipa": "bəˈzɔndɐs",
+  "ru": "особенно",
+  "ex": "Besonders Romane und Gedichte.",
+  "ex_ru": "Особенно романы и стихи."
+ },
+ {
+  "lemma": "gerade", "rank": 95, "ipa": "ɡəˈʁaːdə",
+  "ru": "как раз, прямо сейчас",
+  "ex": "Ich höre gerade Musik.",
+  "ex_ru": "Я как раз слушаю музыку.",
+  "note": "Показывает, что действие идёт прямо в этот момент — немецкий аналог английского Continuous."
+ },
+ {
+  "lemma": "einfach", "rank": 67, "ipa": "ˈaɪ̯nfax",
+  "forms": "einfacher, am einfachsten",
+  "ru": "простой; просто",
+  "ex": "Ich koche auch gern, aber nur einfache Sachen.",
+  "ex_ru": "Я тоже люблю готовить, но только простые вещи."
+ },
+ {
+  "lemma": "deutsch", "rank": 56, "ipa": "dɔɪ̯t͡ʃ",
+  "ru": "немецкий",
+  "ex": "Deutsche Musik ist gut!",
+  "ex_ru": "Немецкая музыка хороша!",
+  "note": "Прилагательное с маленькой буквы, а язык — с большой: Ich lerne Deutsch."
+ },
+ {
+  "lemma": "eher", "rank": 243, "ipa": "ˈeːɐ",
+  "ru": "скорее, скорее уж",
+  "ex": "Ich höre auch gern Musik, aber eher Rock.",
+  "ex_ru": "Я тоже люблю музыку, но скорее рок.",
+  "note": "Мягко уточняет предпочтение, не отрицая сказанное собеседником."
+ },
+ {
+  "lemma": "sonst", "rank": 256, "ipa": "zɔnst",
+  "ru": "ещё, кроме этого; иначе",
+  "ex": "Und was machst du sonst gern?",
+  "ex_ru": "А что ещё ты любишь делать?",
+  "note": "Sonst noch etwas? — «Что-нибудь ещё?», частый вопрос в магазине."
+ },
+ {
+  "lemma": "meiste", "rank": 293, "ipa": "ˈmaɪ̯stə",
+  "ru": "большинство; больше всего",
+  "ex": "Meistens gehe ich alleine spazieren.",
+  "ex_ru": "Чаще всего я гуляю один.",
+  "note": "Форма meistens значит «чаще всего, обычно»."
+ },
+ {
+  "lemma": "Mensch", "gender": "der", "rank": 42, "ipa": "mɛnʃ",
+  "forms": "den / dem Menschen · мн. die Menschen",
+  "ru": "человек",
+  "ex": "Viele Menschen lesen gern Bücher oder hören Musik.",
+  "ex_ru": "Многие люди любят читать книги или слушать музыку.",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Menschen."
+ }
+]

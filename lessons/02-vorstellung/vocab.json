@@ -1,0 +1,165 @@
+[
+ {
+  "lemma": "sein", "rank": 1, "ipa": "zaɪ̯n",
+  "forms": "war · ist gewesen",
+  "ru": "быть",
+  "ex": "Ich bin Lena. Und Sie?",
+  "ex_ru": "Я Лена. А Вы?",
+  "note": "Формы наизусть: ich bin, du bist, er/sie/es ist, wir/sie sind, ihr seid."
+ },
+ {
+  "lemma": "heißen", "rank": 65, "ipa": "ˈhaɪ̯sn̩",
+  "forms": "hieß · hat geheißen",
+  "ru": "зваться, называться",
+  "ex": "Wie heißt du? Ich heiße Max.",
+  "ex_ru": "Как тебя зовут? Меня зовут Макс.",
+  "note": "У du нет обычной -s в окончании: корень уже кончается на ß — du heißt."
+ },
+ {
+  "lemma": "Name", "gender": "der", "rank": 183, "ipa": "ˈnaːmə",
+  "forms": "den / dem Namen · мн. die Namen",
+  "ru": "имя",
+  "ex": "Mein Name ist Clara Schmidt.",
+  "ex_ru": "Моё имя Клара Шмидт.",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Namen."
+ },
+ {
+  "lemma": "wohnen", "ipa": "ˈvoːnən",
+  "forms": "wohnte · hat gewohnt",
+  "ru": "жить, проживать",
+  "ex": "Ich wohne in einer WG in der Bergstraße.",
+  "ex_ru": "Я живу в коммунальной квартире на Бергштрассе."
+ },
+ {
+  "lemma": "studieren", "ipa": "ʃtuˈdiːʁən",
+  "forms": "studierte · hat studiert",
+  "ru": "учиться (в вузе), изучать",
+  "ex": "Ich studiere Medien und Soziologie.",
+  "ex_ru": "Я изучаю медиа и социологию."
+ },
+ {
+  "lemma": "Frau", "gender": "die", "rank": 49, "ipa": "fʁaʊ̯",
+  "forms": "мн. die Frauen",
+  "ru": "женщина; госпожа",
+  "ex": "Was machen Sie, Frau Weber?",
+  "ex_ru": "Чем Вы занимаетесь, госпожа Вебер?",
+  "note": "При обращении на Sie идёт Frau + фамилия."
+ },
+ {
+  "lemma": "Herr", "gender": "der", "rank": 89, "ipa": "hɛʁ",
+  "forms": "den / dem Herrn · мн. die Herren",
+  "ru": "господин; мужчина",
+  "ex": "Freut mich, Herr Müller!",
+  "ex_ru": "Приятно познакомиться, господин Мюллер!",
+  "note": "Тоже слабое склонение, но в единственном числе только -n: Herrn."
+ },
+ {
+  "lemma": "sich freuen", "ipa": "ˈfʁɔɪ̯ən",
+  "forms": "freute sich · hat sich gefreut",
+  "ru": "радоваться",
+  "ex": "Das freut mich zu hören!",
+  "ex_ru": "Рад это слышать!",
+  "note": "Freut mich! — «очень приятно» при знакомстве."
+ },
+ {
+  "lemma": "kennen", "rank": 147, "ipa": "ˈkɛnən",
+  "forms": "kannte · hat gekannt",
+  "ru": "знать, быть знакомым",
+  "ex": "Freut mich, Sie kennenzulernen.",
+  "ex_ru": "Приятно с Вами познакомиться.",
+  "note": "kennenlernen — познакомиться; в этой формуле стоит с zu: Sie kennenzulernen."
+ },
+ {
+  "lemma": "auch", "rank": 7, "ipa": "aʊ̯x",
+  "ru": "тоже, также",
+  "ex": "Freut mich auch, Herr Fischer!",
+  "ex_ru": "Мне тоже приятно, господин Фишер!"
+ },
+ {
+  "lemma": "hier", "rank": 27, "ipa": "hiːɐ̯",
+  "ru": "здесь",
+  "ex": "Arbeiten Sie hier in der Nähe?",
+  "ex_ru": "Вы работаете здесь поблизости?"
+ },
+ {
+  "lemma": "schon", "rank": 22, "ipa": "ʃoːn",
+  "ru": "уже",
+  "ex": "Sind Sie schon in Rente?",
+  "ex_ru": "Вы уже на пенсии?"
+ },
+ {
+  "lemma": "können", "rank": 8, "ipa": "ˈkœnən",
+  "forms": "konnte · hat gekonnt",
+  "ru": "мочь, уметь",
+  "ex": "Vielleicht können wir uns mal auf einen Kaffee treffen?",
+  "ex_ru": "Может, как-нибудь встретимся за кофе?"
+ },
+ {
+  "lemma": "hören", "rank": 83, "ipa": "ˈhøːʁən",
+  "forms": "hörte · hat gehört",
+  "ru": "слышать, слушать",
+  "ex": "Ich höre gerne Musik, aber spiele kein Instrument.",
+  "ex_ru": "Я люблю слушать музыку, но не играю ни на одном инструменте."
+ },
+ {
+  "lemma": "spielen", "rank": 137, "ipa": "ˈʃpiːlən",
+  "forms": "spielte · hat gespielt",
+  "ru": "играть",
+  "ex": "Ich spiele ein bisschen Gitarre.",
+  "ex_ru": "Я немного играю на гитаре.",
+  "note": "На инструменте — spielen + существительное без предлога: Gitarre spielen."
+ },
+ {
+  "lemma": "Freizeit", "gender": "die", "ipa": "ˈfʁaɪ̯t͡saɪ̯t",
+  "forms": "мн. die Freizeiten (редко)",
+  "ru": "свободное время",
+  "ex": "In meiner Freizeit spiele ich Gitarre.",
+  "ex_ru": "В свободное время я играю на гитаре."
+ },
+ {
+  "lemma": "Buchhandlung", "gender": "die", "ipa": "ˈbuːxˌhandlʊŋ",
+  "forms": "мн. die Buchhandlungen",
+  "ru": "книжный магазин",
+  "ex": "Ich arbeite in der Buchhandlung am Marktplatz.",
+  "ex_ru": "Я работаю в книжном магазине на рыночной площади.",
+  "note": "die Buchhandlung = der Buchladen."
+ },
+ {
+  "lemma": "Rentner", "gender": "der", "ipa": "ˈʁɛntnɐ",
+  "forms": "мн. die Rentner",
+  "ru": "пенсионер",
+  "ex": "Ich bin Rentner. Früher war ich Lehrer.",
+  "ex_ru": "Я пенсионер. Раньше я был учителем.",
+  "note": "Профессия и статус идут без артикля: Ich bin Rentner."
+ },
+ {
+  "lemma": "Lesung", "gender": "die", "ipa": "ˈleːzʊŋ",
+  "forms": "мн. die Lesungen",
+  "ru": "чтения, литературный вечер",
+  "ex": "Ich organisiere manchmal historische Lesungen.",
+  "ex_ru": "Я иногда организую исторические чтения.",
+  "note": "В этом значении слово обычно стоит во множественном числе."
+ },
+ {
+  "lemma": "Zufall", "gender": "der", "ipa": "ˈt͡suːfal",
+  "forms": "мн. die Zufälle",
+  "ru": "случайность, совпадение",
+  "ex": "Das ist ja ein Zufall! Ich bin Ihr Nachbar.",
+  "ex_ru": "Какое совпадение! Я ваш сосед."
+ },
+ {
+  "lemma": "Leidenschaft", "gender": "die", "ipa": "ˈlaɪ̯dn̩ʃaft",
+  "forms": "мн. die Leidenschaften",
+  "ru": "увлечение, страсть",
+  "ex": "Das ist meine besondere Leidenschaft.",
+  "ex_ru": "Это моё особое увлечение."
+ },
+ {
+  "lemma": "Nachbar", "gender": "der", "ipa": "ˈnaxbaːɐ̯",
+  "forms": "den / dem Nachbarn · мн. die Nachbarn",
+  "ru": "сосед",
+  "ex": "Ich wohne in der Eichenstraße 44. Ich bin Ihr Nachbar.",
+  "ex_ru": "Я живу на Айхенштрассе 44. Я ваш сосед.",
+  "note": "Слабое склонение: einen neuen Nachbarn, meinem Nachbarn."
+ }
+]

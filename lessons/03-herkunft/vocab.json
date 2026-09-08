@@ -1,0 +1,163 @@
+[
+ {
+  "lemma": "woher", "ipa": "voˈheːɐ̯",
+  "ru": "откуда",
+  "ex": "Woher kommst du? – Ich komme aus Hamburg.",
+  "ex_ru": "Откуда ты? – Я из Гамбурга.",
+  "note": "Всегда стоит в начале вопроса, сразу за ним — глагол: Woher kommen Sie?"
+ },
+ {
+  "lemma": "aus", "service": true, "ipa": "aʊ̯s",
+  "ru": "из",
+  "ex": "Ich komme aus Berlin.",
+  "ex_ru": "Я из Берлина.",
+  "note": "Ответ на Woher? Всегда ставит слово в Dativ: aus der Schweiz, aus dem Iran."
+ },
+ {
+  "lemma": "Stadt", "gender": "die", "rank": 136, "ipa": "ʃtat",
+  "forms": "мн. die Städte",
+  "ru": "город",
+  "ex": "Berlin ist eine tolle Stadt.",
+  "ex_ru": "Берлин — отличный город."
+ },
+ {
+  "lemma": "Land", "gender": "das", "rank": 70, "ipa": "lant",
+  "forms": "мн. die Länder",
+  "ru": "страна; земля; сельская местность",
+  "ex": "Aus welchem Land kommst du?",
+  "ex_ru": "Из какой ты страны?",
+  "note": "У большинства стран артикля нет, но есть исключения: die Schweiz, die Türkei, der Iran, die USA."
+ },
+ {
+  "lemma": "leben", "rank": 48, "ipa": "ˈleːbn̩",
+  "forms": "lebte · hat gelebt",
+  "ru": "жить",
+  "ex": "Ich komme aus München, aber ich lebe schon seit 30 Jahren hier.",
+  "ex_ru": "Я из Мюнхена, но живу здесь уже 30 лет.",
+  "note": "leben — жить вообще, wohnen — жить по адресу."
+ },
+ {
+  "lemma": "umziehen", "ipa": "ˈʊmt͡siːən",
+  "forms": "zog um · ist umgezogen",
+  "ru": "переезжать",
+  "ex": "Ich bin wegen der Arbeit umgezogen.",
+  "ex_ru": "Я переехал из-за работы.",
+  "note": "Приставка отделяемая: Max zieht oft um. В Perfekt идёт с sein — это движение."
+ },
+ {
+  "lemma": "aufwachsen", "ipa": "ˈaʊ̯fvaksn̩",
+  "forms": "wuchs auf · ist aufgewachsen",
+  "ru": "расти, вырасти",
+  "ex": "Ich bin in Berlin geboren und aufgewachsen.",
+  "ex_ru": "Я родилась и выросла в Берлине.",
+  "note": "Тоже с sein: это смена состояния — из ребёнка во взрослого."
+ },
+ {
+  "lemma": "sich anmelden", "ipa": "ˈanmɛldn̩",
+  "forms": "meldete sich an · hat sich angemeldet",
+  "ru": "записаться, зарегистрироваться",
+  "ex": "Ich habe mich für einen Fotokurs angemeldet.",
+  "ex_ru": "Я записался на курс фотографии.",
+  "note": "В настоящем времени приставка уходит в конец: Ich melde mich für einen Kurs an."
+ },
+ {
+  "lemma": "vermissen", "ipa": "fɛɐ̯ˈmɪsn̩",
+  "forms": "vermisste · hat vermisst",
+  "ru": "скучать по кому-либо, чему-либо",
+  "ex": "Ich vermisse manchmal den Kölner Dom.",
+  "ex_ru": "Иногда я скучаю по Кёльнскому собору.",
+  "note": "После него идёт Akkusativ — скучают «кого/что», а не «по кому»."
+ },
+ {
+  "lemma": "besuchen", "ipa": "bəˈzuːxn̩",
+  "forms": "besuchte · hat besucht",
+  "ru": "навещать, посещать",
+  "ex": "Ich besuche dort manchmal meinen Bruder.",
+  "ex_ru": "Я иногда навещаю там своего брата."
+ },
+ {
+  "lemma": "See", "gender": "der", "ipa": "zeː",
+  "forms": "мн. die Seen",
+  "ru": "озеро",
+  "ex": "Im Sommer gehe ich oft zum Müggelsee.",
+  "ex_ru": "Летом я часто хожу на озеро Мюггельзее.",
+  "note": "der See — озеро, но die See — море. Род меняет значение."
+ },
+ {
+  "lemma": "Umgebung", "gender": "die", "ipa": "ʊmˈɡeːbʊŋ",
+  "forms": "мн. die Umgebungen",
+  "ru": "окрестности, округа",
+  "ex": "Ich mag besonders die Seen hier in der Umgebung.",
+  "ex_ru": "Мне особенно нравятся озёра здесь в окрестностях."
+ },
+ {
+  "lemma": "Jahr", "gender": "das", "rank": 18, "ipa": "jaːɐ̯",
+  "forms": "мн. die Jahre",
+  "ru": "год",
+  "ex": "Ich bin vor zwei Jahren hierhergezogen.",
+  "ex_ru": "Я переехала сюда два года назад.",
+  "note": "vor zwei Jahren — два года назад; seit 30 Jahren — уже 30 лет."
+ },
+ {
+  "lemma": "geben", "rank": 16, "ipa": "ˈɡeːbn̩",
+  "forms": "gab · hat gegeben",
+  "ru": "давать",
+  "ex": "Vielleicht können Sie mir Tipps geben?",
+  "ex_ru": "Может быть, Вы дадите мне пару советов?",
+  "note": "es gibt — «есть, имеется»: In München gibt es ein Teegeschäft."
+ },
+ {
+  "lemma": "fragen", "rank": 88, "ipa": "ˈfʁaːɡn̩",
+  "forms": "fragte · hat gefragt",
+  "ru": "спрашивать",
+  "ex": "Darf ich fragen, woher Sie kommen?",
+  "ex_ru": "Могу я спросить, откуда Вы?",
+  "note": "Darf ich fragen…? — вежливый заход перед личным вопросом."
+ },
+ {
+  "lemma": "zeigen", "rank": 72, "ipa": "ˈt͡saɪ̯ɡn̩",
+  "forms": "zeigte · hat gezeigt",
+  "ru": "показывать",
+  "ex": "Ich zeige dir viele interessante Orte in Berlin.",
+  "ex_ru": "Я покажу тебе много интересных мест в Берлине.",
+  "note": "Кому показывают — в Dativ: zeige dir, zeige Ihnen."
+ },
+ {
+  "lemma": "immer", "rank": 24, "ipa": "ˈɪmɐ",
+  "ru": "всегда",
+  "ex": "Waren Sie schon immer in Bayern?",
+  "ex_ru": "Вы всегда жили в Баварии?"
+ },
+ {
+  "lemma": "neu", "rank": 40, "ipa": "nɔɪ̯",
+  "forms": "neuer, am neuesten",
+  "ru": "новый",
+  "ex": "Bist du neu hier?",
+  "ex_ru": "Ты здесь недавно?"
+ },
+ {
+  "lemma": "dort", "rank": 76, "ipa": "dɔʁt",
+  "ru": "там",
+  "ex": "Ich besuche dort manchmal meinen Bruder.",
+  "ex_ru": "Я иногда навещаю там своего брата."
+ },
+ {
+  "lemma": "vielleicht", "rank": 82, "ipa": "fiˈlaɪ̯çt",
+  "ru": "может быть, возможно",
+  "ex": "Vielleicht können Sie mir mehr darüber erzählen?",
+  "ex_ru": "Может быть, Вы расскажете мне об этом больше?"
+ },
+ {
+  "lemma": "eigentlich", "rank": 86, "ipa": "ˈaɪ̯ɡn̩tlɪç",
+  "ru": "вообще-то, на самом деле",
+  "ex": "Woher kommst du eigentlich?",
+  "ex_ru": "А откуда ты вообще родом?",
+  "note": "В вопросе смягчает его и звучит как «а вот скажи…»."
+ },
+ {
+  "lemma": "natürlich", "rank": 74, "ipa": "naˈtyːɐ̯lɪç",
+  "ru": "конечно",
+  "ex": "Natürlich! In München gibt es ein wunderbares Teegeschäft.",
+  "ex_ru": "Конечно! В Мюнхене есть чудесный чайный магазин."
+ }
+]

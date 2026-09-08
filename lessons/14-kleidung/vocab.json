@@ -1,0 +1,171 @@
+[
+ {
+  "lemma": "T-Shirt", "gender": "das", "ipa": "ˈtiːˌʃœːɐ̯t",
+  "forms": "мн. die T-Shirts",
+  "ru": "футболка",
+  "ex": "Ich brauche ein neues T-Shirt für die Party am Samstag.",
+  "ex_ru": "Мне нужна новая футболка для вечеринки в субботу."
+ },
+ {
+  "lemma": "Hose", "gender": "die", "ipa": "ˈhoːzə",
+  "forms": "мн. die Hosen",
+  "ru": "брюки, штаны",
+  "ex": "Clara möchte eine neue Hose kaufen.",
+  "ex_ru": "Клара хочет купить новые брюки.",
+  "note": "По-немецки в единственном числе: eine Hose — одни брюки."
+ },
+ {
+  "lemma": "Bluse", "gender": "die", "ipa": "ˈbluːzə",
+  "forms": "мн. die Blusen",
+  "ru": "блузка",
+  "ex": "Ja, ich suche eine neue Bluse.",
+  "ex_ru": "Да, я ищу новую блузку."
+ },
+ {
+  "lemma": "Schuh", "gender": "der", "ipa": "ʃuː",
+  "forms": "мн. die Schuhe",
+  "ru": "ботинок, туфля",
+  "ex": "Ich brauche neue Schuhe für die Party.",
+  "ex_ru": "Мне нужны новые туфли для вечеринки.",
+  "note": "Обувь обычно во множественном числе: die Schuhe. Размер — die Schuhgröße."
+ },
+ {
+  "lemma": "Farbe", "gender": "die", "ipa": "ˈfaʁbə",
+  "forms": "мн. die Farben",
+  "ru": "цвет",
+  "ex": "Welche Farbe möchtest du?",
+  "ex_ru": "Какой цвет ты хочешь?"
+ },
+ {
+  "lemma": "rot", "ipa": "ʁoːt",
+  "forms": "roter, am rotesten",
+  "ru": "красный",
+  "ex": "Das rote T-Shirt passt dir sehr gut.",
+  "ex_ru": "Красная футболка тебе очень идёт.",
+  "note": "Перед существительным получает окончание: ein rotes T-Shirt, das rote T-Shirt."
+ },
+ {
+  "lemma": "blau", "ipa": "blaʊ̯",
+  "forms": "blauer, am blausten",
+  "ru": "синий, голубой",
+  "ex": "Das blaue passt besser zu deinen Jeans.",
+  "ex_ru": "Синяя лучше подходит к твоим джинсам."
+ },
+ {
+  "lemma": "schwarz", "ipa": "ʃvaʁt͡s",
+  "forms": "schwärzer, am schwärzesten",
+  "ru": "чёрный",
+  "ex": "Ich habe schon viele schwarze T-Shirts.",
+  "ex_ru": "У меня уже много чёрных футболок.",
+  "note": "Другие цвета урока: weiß (белый), grün (зелёный), bunt (яркий, разноцветный)."
+ },
+ {
+  "lemma": "Größe", "gender": "die", "ipa": "ˈɡʁøːsə",
+  "forms": "мн. die Größen",
+  "ru": "размер",
+  "ex": "Normalerweise trage ich Größe M.",
+  "ex_ru": "Обычно я ношу размер M.",
+  "note": "Размер одежды называют буквой (S, M, L), обуви — числом: Größe 38."
+ },
+ {
+  "lemma": "anprobieren", "ipa": "ˈanpʁoˌbiːʁən",
+  "forms": "probierte an · hat anprobiert",
+  "ru": "примерять",
+  "ex": "Kann ich das anprobieren?",
+  "ex_ru": "Могу я это примерить?",
+  "note": "Приставка отделяемая: Ich probiere beide an."
+ },
+ {
+  "lemma": "Umkleidekabine", "gender": "die", "ipa": "ˈʊmklaɪ̯dəkaˌbiːnə",
+  "forms": "мн. die Umkleidekabinen",
+  "ru": "примерочная",
+  "ex": "Die Umkleidekabinen sind hinten links.",
+  "ex_ru": "Примерочные сзади слева."
+ },
+ {
+  "lemma": "passen", "ipa": "ˈpasn̩",
+  "forms": "passte · hat gepasst",
+  "ru": "подходить, быть впору",
+  "ex": "Das rote passt dir sehr gut.",
+  "ex_ru": "Красная тебе очень идёт.",
+  "note": "Кому подходит — в Dativ: passt mir, passt dir. О сочетании вещей — passen zu: passt zu deinen Jeans."
+ },
+ {
+  "lemma": "gefallen", "ipa": "ɡəˈfalən",
+  "forms": "gefiel · hat gefallen",
+  "ru": "нравиться",
+  "ex": "Es gefällt mir auch besser.",
+  "ex_ru": "Мне оно тоже больше нравится.",
+  "note": "Кому нравится — в Dativ, как в русском: Das gefällt mir."
+ },
+ {
+  "lemma": "Wahl", "gender": "die", "ipa": "vaːl",
+  "forms": "мн. die Wahlen",
+  "ru": "выбор",
+  "ex": "Eine gute Wahl! Das steht Ihnen ausgezeichnet.",
+  "ex_ru": "Хороший выбор! Вам это отлично идёт.",
+  "note": "Во множественном числе die Wahlen — ещё и «выборы»."
+ },
+ {
+  "lemma": "bequem", "ipa": "bəˈkveːm",
+  "forms": "bequemer, am bequemsten",
+  "ru": "удобный",
+  "ex": "Diese hier sind sehr bequem.",
+  "ex_ru": "Вот эти очень удобные.",
+  "note": "Об одежде, обуви и мебели: ein bequemer Stuhl."
+ },
+ {
+  "lemma": "denken", "rank": 66, "ipa": "ˈdɛŋkn̩",
+  "forms": "dachte · hat gedacht",
+  "ru": "думать",
+  "ex": "Was denkst du, Clara? Das rote oder das blaue?",
+  "ex_ru": "Что думаешь, Клара? Красную или синюю?",
+  "note": "О чём думают — an + Akkusativ: Ich denke an dich."
+ },
+ {
+  "lemma": "lassen", "rank": 39, "ipa": "ˈlasn̩",
+  "forms": "ließ · hat gelassen",
+  "ru": "оставлять; позволять; давай(те)",
+  "ex": "Lass uns hineingehen.",
+  "ex_ru": "Давай зайдём.",
+  "note": "Lass uns … — «давай мы …», обычное предложение что-то сделать вместе."
+ },
+ {
+  "lemma": "Ende", "gender": "das", "rank": 117, "ipa": "ˈɛndə",
+  "forms": "мн. die Enden",
+  "ru": "конец",
+  "ex": "Am Ende kauft Lena das blaue T-Shirt.",
+  "ex_ru": "В конце концов Лена покупает синюю футболку.",
+  "note": "am Ende — в конце, в итоге."
+ },
+ {
+  "lemma": "deshalb", "rank": 159, "ipa": "ˈdɛsˈhalp",
+  "ru": "поэтому",
+  "ex": "Lena möchte beide anprobieren, deshalb geht sie zur Umkleidekabine.",
+  "ex_ru": "Лена хочет примерить обе, поэтому идёт в примерочную.",
+  "note": "После deshalb глагол сразу же: deshalb geht sie…"
+ },
+ {
+  "lemma": "bestimmt", "rank": 206, "ipa": "bəˈʃtɪmt",
+  "ru": "определённый; наверняка",
+  "ex": "Suchen Sie etwas Bestimmtes?",
+  "ex_ru": "Вы ищете что-то определённое?",
+  "note": "Как наречие значит «точно, наверняка»: Ich komme bestimmt."
+ },
+ {
+  "lemma": "Platz", "gender": "der", "rank": 248, "ipa": "plat͡s",
+  "forms": "мн. die Plätze",
+  "ru": "место; площадь",
+  "ex": "Natürlich! Nehmen Sie Platz.",
+  "ex_ru": "Конечно! Присаживайтесь.",
+  "note": "Platz nehmen — «присесть», вежливое приглашение сесть."
+ },
+ {
+  "lemma": "Mal", "gender": "das", "rank": 38, "ipa": "maːl",
+  "forms": "мн. die Male",
+  "ru": "раз",
+  "ex": "Dreh dich mal!",
+  "ex_ru": "Повернись-ка!",
+  "note": "Безударное mal в просьбе смягчает её: Komm mal her, sag mal."
+ }
+]

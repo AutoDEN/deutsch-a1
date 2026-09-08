@@ -1,0 +1,169 @@
+[
+ {
+  "lemma": "Markt", "gender": "der", "ipa": "maʁkt",
+  "forms": "мн. die Märkte",
+  "ru": "рынок",
+  "ex": "Der Markt ist immer sehr bunt und lebendig.",
+  "ex_ru": "Рынок всегда очень яркий и оживлённый.",
+  "note": "Отсюда der Marktplatz — рыночная площадь."
+ },
+ {
+  "lemma": "Wochenmarkt", "gender": "der", "ipa": "ˈvɔxn̩ˌmaʁkt",
+  "forms": "мн. die Wochenmärkte",
+  "ru": "еженедельный рынок",
+  "ex": "Jeden Samstag besuche ich den Wochenmarkt.",
+  "ex_ru": "Каждую субботу я хожу на рынок.",
+  "note": "Работает один-два дня в неделю на городской площади — традиция почти в каждом городе."
+ },
+ {
+  "lemma": "Stand", "gender": "der", "ipa": "ʃtant",
+  "forms": "мн. die Stände",
+  "ru": "прилавок, палатка",
+  "ex": "Überall stehen Stände mit frischem Obst und Gemüse.",
+  "ex_ru": "Повсюду стоят прилавки со свежими фруктами и овощами.",
+  "note": "От stehen: то, что стоит."
+ },
+ {
+  "lemma": "Obst", "gender": "das", "ipa": "oːpst",
+  "forms": "без мн. ч.",
+  "ru": "фрукты",
+  "ex": "Das Obst auf dem Markt ist immer frisch.",
+  "ex_ru": "Фрукты на рынке всегда свежие.",
+  "note": "Собирательное и всегда в единственном числе, как das Gemüse."
+ },
+ {
+  "lemma": "Erdbeere", "gender": "die", "ipa": "ˈeːɐ̯tˌbeːʁə",
+  "forms": "мн. die Erdbeeren",
+  "ru": "клубника",
+  "ex": "Die Kunden probieren frische Erdbeeren.",
+  "ex_ru": "Покупатели пробуют свежую клубнику.",
+  "note": "die Erde (земля) + die Beere (ягода)."
+ },
+ {
+  "lemma": "Kraut", "gender": "das", "ipa": "kʁaʊ̯t",
+  "forms": "мн. die Kräuter",
+  "ru": "трава, зелень, пряность",
+  "ex": "Letzte Woche habe ich einen neuen Käse mit Kräutern probiert.",
+  "ex_ru": "На прошлой неделе я попробовала новый сыр с травами.",
+  "note": "Во множественном числе die Kräuter — пряные травы. Отсюда das Unkraut (сорняк)."
+ },
+ {
+  "lemma": "Verkäufer", "gender": "der", "ipa": "fɛɐ̯ˈkɔɪ̯fɐ",
+  "forms": "мн. die Verkäufer · ж. die Verkäuferin",
+  "ru": "продавец",
+  "ex": "Die Verkäufer sind sehr freundlich.",
+  "ex_ru": "Продавцы очень приветливые."
+ },
+ {
+  "lemma": "verkaufen", "ipa": "fɛɐ̯ˈkaʊ̯fn̩",
+  "forms": "verkaufte · hat verkauft",
+  "ru": "продавать",
+  "ex": "Manchmal verkaufe ich auf dem Markt auch Bücher.",
+  "ex_ru": "Иногда я продаю на рынке и книги.",
+  "note": "Пара к kaufen: kaufen — покупать, verkaufen — продавать."
+ },
+ {
+  "lemma": "Produkt", "gender": "das", "ipa": "pʁoˈdʊkt",
+  "forms": "мн. die Produkte",
+  "ru": "продукт, товар",
+  "ex": "Sie erklären gerne, woher die Produkte kommen.",
+  "ex_ru": "Они охотно объясняют, откуда привезены продукты."
+ },
+ {
+  "lemma": "Einkauf", "gender": "der", "ipa": "ˈaɪ̯nˌkaʊ̯f",
+  "forms": "мн. die Einkäufe",
+  "ru": "покупка, поход за покупками",
+  "ex": "Die Menschen genießen den Einkauf.",
+  "ex_ru": "Люди получают удовольствие от покупок.",
+  "note": "От einkaufen из шестого урока."
+ },
+ {
+  "lemma": "zubereiten", "ipa": "ˈt͡suːbəˌʁaɪ̯tn̩",
+  "forms": "bereitete zu · hat zubereitet",
+  "ru": "готовить, приготавливать",
+  "ex": "Sie erklären, wie man sie zubereitet.",
+  "ex_ru": "Они объясняют, как это готовить.",
+  "note": "Приставка zu- отделяемая: Ich bereite das Gemüse zu."
+ },
+ {
+  "lemma": "sich unterhalten", "ipa": "ʊntɐˈhaltn̩",
+  "forms": "unterhielt sich · hat sich unterhalten",
+  "ru": "беседовать, разговаривать",
+  "ex": "Die Menschen unterhalten sich, lachen und genießen den Einkauf.",
+  "ex_ru": "Люди беседуют, смеются и наслаждаются покупками.",
+  "note": "Более непринуждённо, чем sprechen: болтать, общаться."
+ },
+ {
+  "lemma": "lachen", "ipa": "ˈlaxn̩",
+  "forms": "lachte · hat gelacht",
+  "ru": "смеяться",
+  "ex": "Die Menschen unterhalten sich und lachen.",
+  "ex_ru": "Люди беседуют и смеются."
+ },
+ {
+  "lemma": "Treffpunkt", "gender": "der", "ipa": "ˈtʁɛfˌpʊŋkt",
+  "forms": "мн. die Treffpunkte",
+  "ru": "место встречи",
+  "ex": "Der Wochenmarkt ist auch ein sozialer Treffpunkt.",
+  "ex_ru": "Рынок — это ещё и место встреч.",
+  "note": "treffen (встречать) + Punkt (точка)."
+ },
+ {
+  "lemma": "Atmosphäre", "gender": "die", "ipa": "atmoˈsfɛːʁə",
+  "forms": "мн. die Atmosphären",
+  "ru": "атмосфера",
+  "ex": "Was ich besonders am Wochenmarkt liebe, ist die Atmosphäre.",
+  "ex_ru": "Что я особенно люблю на рынке — это атмосфера."
+ },
+ {
+  "lemma": "bunt", "ipa": "bʊnt",
+  "forms": "bunter, am buntesten",
+  "ru": "яркий, разноцветный",
+  "ex": "Der Markt ist immer sehr bunt und lebendig.",
+  "ex_ru": "Рынок всегда очень яркий и оживлённый."
+ },
+ {
+  "lemma": "lebendig", "ipa": "leˈbɛndɪç",
+  "forms": "lebendiger, am lebendigsten",
+  "ru": "живой, оживлённый",
+  "ex": "Der Markt ist bunt und lebendig.",
+  "ex_ru": "Рынок яркий и оживлённый.",
+  "note": "От leben (жить) из третьего урока."
+ },
+ {
+  "lemma": "köstlich", "ipa": "ˈkœstlɪç",
+  "forms": "köstlicher, am köstlichsten",
+  "ru": "восхитительный (о вкусе)",
+  "ex": "Der Käse mit Kräutern war köstlich.",
+  "ex_ru": "Сыр с травами был восхитительным.",
+  "note": "Сильнее, чем lecker: не просто вкусно, а изысканно вкусно."
+ },
+ {
+  "lemma": "appetitlich", "ipa": "apeˈtiːtlɪç",
+  "ru": "аппетитный",
+  "ex": "Alles sieht so frisch und appetitlich aus!",
+  "ex_ru": "Всё выглядит таким свежим и аппетитным!"
+ },
+ {
+  "lemma": "freundlich", "ipa": "ˈfʁɔɪ̯ntlɪç",
+  "forms": "freundlicher, am freundlichsten",
+  "ru": "приветливый, дружелюбный",
+  "ex": "Die Verkäufer sind sehr freundlich.",
+  "ex_ru": "Продавцы очень приветливые.",
+  "note": "От der Freund. Отсюда же mit freundlichen Grüßen в конце письма."
+ },
+ {
+  "lemma": "voll", "ipa": "fɔl",
+  "forms": "voller, am vollsten",
+  "ru": "полный",
+  "ex": "Ich gehe immer mit vollen Taschen nach Hause.",
+  "ex_ru": "Я всегда возвращаюсь домой с полными сумками."
+ },
+ {
+  "lemma": "anders", "rank": 224, "ipa": "ˈandɐs",
+  "ru": "иначе, по-другому",
+  "ex": "Es ist ganz anders als im Supermarkt.",
+  "ex_ru": "Это совсем не то же самое, что в супермаркете.",
+  "note": "anders als — «иначе, чем»."
+ }
+]

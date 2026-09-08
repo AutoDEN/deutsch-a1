@@ -1,0 +1,176 @@
+[
+ {
+  "lemma": "Plan", "gender": "der", "ipa": "plaːn",
+  "forms": "мн. die Pläne",
+  "ru": "план",
+  "ex": "Clara hat viele Pläne für die Zukunft.",
+  "ex_ru": "У Клары много планов на будущее.",
+  "note": "Глагол planen был в 26-м уроке. Ещё: der Fahrplan (расписание) из 23-го."
+ },
+ {
+  "lemma": "Zukunft", "gender": "die", "ipa": "ˈt͡suːkʊnft",
+  "forms": "без мн. ч.",
+  "ru": "будущее",
+  "ex": "In der Zukunft möchte ich im Ausland leben.",
+  "ex_ru": "В будущем я хочу жить за границей.",
+  "note": "in der Zukunft или коротко in Zukunft — «в будущем»."
+ },
+ {
+  "lemma": "Studium", "gender": "das", "ipa": "ˈʃtuːdi̯ʊm",
+  "forms": "мн. die Studien",
+  "ru": "учёба в вузе",
+  "ex": "Was möchtest du nach dem Studium machen?",
+  "ex_ru": "Что ты хочешь делать после учёбы?",
+  "note": "Именно высшее образование. Школьный урок — der Unterricht, курс — der Kurs."
+ },
+ {
+  "lemma": "Praktikum", "gender": "das", "ipa": "ˈpʁaktikʊm",
+  "forms": "мн. die Praktika",
+  "ru": "практика, стажировка",
+  "ex": "Nach meinem Praktikum im Sommer möchte ich mein Zimmer renovieren.",
+  "ex_ru": "После летней практики я хочу сделать ремонт в комнате.",
+  "note": "Множественное по-латыни: die Praktika. Стажёр — der Praktikant."
+ },
+ {
+  "lemma": "Erfahrung", "gender": "die", "ipa": "ɛɐ̯ˈfaːʁʊŋ",
+  "forms": "мн. die Erfahrungen",
+  "ru": "опыт",
+  "ex": "Ich will mehr praktische Erfahrung sammeln.",
+  "ex_ru": "Я хочу набраться больше практического опыта.",
+  "note": "Erfahrung sammeln — «набираться опыта». В резюме: Berufserfahrung."
+ },
+ {
+  "lemma": "Prüfung", "gender": "die", "ipa": "ˈpʁyːfʊŋ",
+  "forms": "мн. die Prüfungen",
+  "ru": "экзамен, проверка",
+  "ex": "Nach meiner Prüfung am Freitag will ich meine Bücher sortieren.",
+  "ex_ru": "После экзамена в пятницу я хочу разобрать книги.",
+  "note": "eine Prüfung machen / bestehen — сдавать / сдать экзамен. Ваш будущий экзамен — die A1-Prüfung."
+ },
+ {
+  "lemma": "Workshop", "gender": "der", "ipa": "ˈvœːɐ̯kʃɔp",
+  "forms": "мн. die Workshops",
+  "ru": "мастер-класс, семинар",
+  "ex": "Ich werde im Winter einen Schreibworkshop organisieren.",
+  "ex_ru": "Зимой я организую писательский мастер-класс.",
+  "note": "Заимствование из английского, произносится близко к оригиналу. Немецкий синоним — die Werkstatt (в переносном смысле)."
+ },
+ {
+  "lemma": "Unterricht", "gender": "der", "ipa": "ˈʊntɐˌʁɪçt",
+  "forms": "без мн. ч.",
+  "ru": "занятие, урок (как процесс)",
+  "ex": "Nach dem Unterricht möchte Herr Müller einen kleinen Workshop organisieren.",
+  "ex_ru": "После занятия господин Мюллер хочет провести небольшой семинар.",
+  "note": "Только в единственном числе: Der Unterricht beginnt um neun."
+ },
+ {
+  "lemma": "Ausland", "gender": "das", "ipa": "ˈaʊ̯slant",
+  "forms": "без мн. ч.",
+  "ru": "заграница, зарубежье",
+  "ex": "Lena will eine Weile im Ausland leben.",
+  "ex_ru": "Лена хочет пожить какое-то время за границей.",
+  "note": "im Ausland — за границей, ins Ausland — за границу. Противоположность — das Inland."
+ },
+ {
+  "lemma": "Weile", "gender": "die", "ipa": "ˈvaɪ̯lə",
+  "forms": "без мн. ч.",
+  "ru": "некоторое время",
+  "ex": "Ich will eine Weile im Ausland leben.",
+  "ex_ru": "Я хочу пожить какое-то время за границей.",
+  "note": "eine Weile — «какое-то время», без точного срока."
+ },
+ {
+  "lemma": "Idee", "gender": "die", "ipa": "iˈdeː",
+  "forms": "мн. die Ideen",
+  "ru": "идея, мысль",
+  "ex": "Wow, das ist eine tolle Idee!",
+  "ex_ru": "Ух ты, отличная идея!",
+  "note": "Ударение на конец. Множественное — die Ideen [iˈdeːən], в два слога."
+ },
+ {
+  "lemma": "Firma", "gender": "die", "ipa": "ˈfɪʁma",
+  "forms": "мн. die Firmen",
+  "ru": "фирма, компания",
+  "ex": "In der Zukunft möchten sie eine eigene Firma gründen.",
+  "ex_ru": "В будущем они хотят основать собственную фирму.",
+  "note": "Множественное — die Firmen, без -a."
+ },
+ {
+  "lemma": "Regal", "gender": "das", "ipa": "ʁeˈɡaːl",
+  "forms": "мн. die Regale",
+  "ru": "полка, стеллаж",
+  "ex": "Ich will neue Regale für meine wachsende Büchersammlung bauen.",
+  "ex_ru": "Я хочу сделать новые полки для растущей коллекции книг.",
+  "note": "das Bücherregal — книжный стеллаж."
+ },
+ {
+  "lemma": "Urlaub", "gender": "der", "ipa": "ˈuːɐ̯laʊ̯p",
+  "forms": "мн. die Urlaube",
+  "ru": "отпуск",
+  "ex": "Nach seinem Urlaub plant er, sein Arbeitszimmer zu erweitern.",
+  "ex_ru": "После отпуска он планирует расширить свой кабинет.",
+  "note": "Отпуск с работы. Каникулы у школьников — die Ferien."
+ },
+ {
+  "lemma": "Geschichte", "gender": "die", "rank": 190, "ipa": "ɡəˈʃɪçtə",
+  "forms": "мн. die Geschichten",
+  "ru": "история; рассказ",
+  "ex": "Nach dem Film möchte ich über die Geschichte sprechen.",
+  "ex_ru": "После фильма я хотел бы поговорить о сюжете.",
+  "note": "И наука история, и рассказ, и сюжет фильма."
+ },
+ {
+  "lemma": "renovieren", "ipa": "ʁenoˈviːʁən",
+  "forms": "renovierte · hat renoviert",
+  "ru": "ремонтировать, обновлять",
+  "ex": "Möchtest du deine Wohnung renovieren?",
+  "ex_ru": "Ты хочешь отремонтировать квартиру?",
+  "note": "Глагол на -ieren: в Partizip II без ge- — hat renoviert."
+ },
+ {
+  "lemma": "erweitern", "ipa": "ɛɐ̯ˈvaɪ̯tɐn",
+  "forms": "erweiterte · hat erweitert",
+  "ru": "расширять",
+  "ex": "Clara möchte ihre Leseecke erweitern.",
+  "ex_ru": "Клара хочет расширить свой уголок для чтения.",
+  "note": "От weit (широкий). Родственное weiter из 28-го урока."
+ },
+ {
+  "lemma": "reisen", "ipa": "ˈʁaɪ̯zn̩",
+  "forms": "reiste · ist gereist",
+  "ru": "путешествовать",
+  "ex": "Ich möchte auch irgendwann reisen, besonders nach Schweden.",
+  "ex_ru": "Я тоже хочу когда-нибудь попутешествовать, особенно в Швецию.",
+  "note": "В Perfekt со вспомогательным sein: Ich bin nach Schweden gereist. Существительное — die Reise."
+ },
+ {
+  "lemma": "gründen", "ipa": "ˈɡʁʏndn̩",
+  "forms": "gründete · hat gegründet",
+  "ru": "основывать, учреждать",
+  "ex": "Sie möchten eine eigene Firma gründen.",
+  "ex_ru": "Они хотят основать собственную фирму.",
+  "note": "От der Grund (основание). Eine Firma gründen — открыть своё дело."
+ },
+ {
+  "lemma": "verbessern", "ipa": "fɛɐ̯ˈbɛsɐn",
+  "forms": "verbesserte · hat verbessert",
+  "ru": "улучшать",
+  "ex": "Er wird seine Sprachkenntnisse verbessern.",
+  "ex_ru": "Он улучшит свои знания языка.",
+  "note": "От besser (лучше) из 20-го урока."
+ },
+ {
+  "lemma": "irgendwann", "ipa": "ˈɪʁɡn̩tˌvan",
+  "ru": "когда-нибудь, когда-то",
+  "ex": "Ich möchte auch irgendwann reisen.",
+  "ex_ru": "Я тоже хочу когда-нибудь попутешествовать.",
+  "note": "Семейство irgend-: irgendwo (где-нибудь), irgendwer (кто-нибудь), irgendetwas (что-нибудь)."
+ },
+ {
+  "lemma": "sowieso", "ipa": "zoviˈzoː",
+  "ru": "всё равно, и так",
+  "ex": "Ich will sowieso mehr praktische Erfahrung sammeln.",
+  "ex_ru": "Я и так хочу набраться больше практического опыта.",
+  "note": "Очень разговорное: «в любом случае», «так или иначе»."
+ }
+]

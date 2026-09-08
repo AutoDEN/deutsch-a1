@@ -1,0 +1,170 @@
+[
+ {
+  "lemma": "Termin", "gender": "der", "ipa": "tɛʁˈmiːn",
+  "forms": "мн. die Termine",
+  "ru": "приём, назначенная встреча",
+  "ex": "Ich möchte einen Termin vereinbaren.",
+  "ex_ru": "Я хотел бы записаться на приём.",
+  "note": "В Германии без Termin не попасть ни к врачу, ни в ведомство. Слово встретится вам ежедневно."
+ },
+ {
+  "lemma": "vereinbaren", "ipa": "fɛɐ̯ˈʔaɪ̯nbaːʁən",
+  "forms": "vereinbarte · hat vereinbart",
+  "ru": "договариваться, назначать",
+  "ex": "Können wir einen neuen Termin vereinbaren?",
+  "ex_ru": "Можем мы договориться о новой встрече?",
+  "note": "einen Termin vereinbaren — устойчивая пара, так и говорят по телефону."
+ },
+ {
+  "lemma": "Praxis", "gender": "die", "ipa": "ˈpʁaksɪs",
+  "forms": "мн. die Praxen",
+  "ru": "врачебный кабинет, практика",
+  "ex": "Praxis Dr. Bauer, guten Tag.",
+  "ex_ru": "Кабинет доктора Бауэра, добрый день.",
+  "note": "Так представляются, снимая трубку в немецкой поликлинике."
+ },
+ {
+  "lemma": "Arzt", "gender": "der", "ipa": "aːɐ̯t͡st",
+  "forms": "мн. die Ärzte · ж. die Ärztin",
+  "ru": "врач",
+  "ex": "Wenn man in Deutschland zum Arzt gehen möchte, muss man einen Termin vereinbaren.",
+  "ex_ru": "Если в Германии хочешь к врачу, нужно записаться на приём.",
+  "note": "zum Arzt gehen — идти к врачу, beim Arzt sein — быть у врача."
+ },
+ {
+  "lemma": "Patient", "gender": "der", "ipa": "paˈt͡si̯ɛnt",
+  "forms": "den / dem Patienten · мн. die Patienten · ж. die Patientin",
+  "ru": "пациент",
+  "ex": "Sind Sie Patient bei uns, Herr Müller?",
+  "ex_ru": "Вы наш пациент, господин Мюллер?",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Patienten."
+ },
+ {
+  "lemma": "Versichertenkarte", "gender": "die", "ipa": "fɛɐ̯ˈzɪçɐtn̩ˌkaʁtə",
+  "forms": "мн. die Versichertenkarten",
+  "ru": "карта медицинского страхования",
+  "ex": "Vergessen Sie Ihre Versichertenkarte nicht!",
+  "ex_ru": "Не забудьте свою страховую карту!",
+  "note": "Без неё приём не примут — её просят при каждом визите."
+ },
+ {
+  "lemma": "Blutdruck", "gender": "der", "ipa": "ˈbluːtˌdʁʊk",
+  "forms": "без мн. ч.",
+  "ru": "кровяное давление",
+  "ex": "Ich brauche einen Termin wegen meines Blutdrucks.",
+  "ex_ru": "Мне нужна запись из-за давления.",
+  "note": "das Blut (кровь) + der Druck (давление)."
+ },
+ {
+  "lemma": "Kontrolle", "gender": "die", "ipa": "kɔnˈtʁɔlə",
+  "forms": "мн. die Kontrollen",
+  "ru": "проверка, контрольный осмотр",
+  "ex": "Ich soll regelmäßig zur Kontrolle kommen.",
+  "ex_ru": "Мне нужно регулярно приходить на контроль."
+ },
+ {
+  "lemma": "Medikamentenplan", "gender": "der", "ipa": "medikaˈmɛntn̩ˌplaːn",
+  "forms": "мн. die Medikamentenpläne",
+  "ru": "план приёма лекарств",
+  "ex": "Bringen Sie Ihren Medikamentenplan mit.",
+  "ex_ru": "Возьмите с собой план приёма лекарств.",
+  "note": "Список препаратов, который выдаёт врач; на приёме его просят показать."
+ },
+ {
+  "lemma": "eintragen", "ipa": "ˈaɪ̯nˌtʁaːɡn̩",
+  "forms": "trug ein · hat eingetragen",
+  "ru": "вносить, записывать",
+  "ex": "Dann habe ich Sie eingetragen.",
+  "ex_ru": "Тогда я вас записал.",
+  "note": "Приставка отделяемая: Ich trage Sie ein."
+ },
+ {
+  "lemma": "Kalender", "gender": "der", "ipa": "kaˈlɛndɐ",
+  "forms": "мн. die Kalender",
+  "ru": "календарь, ежедневник",
+  "ex": "Er notiert sich den Termin in seinem Kalender.",
+  "ex_ru": "Он записывает приём в свой ежедневник."
+ },
+ {
+  "lemma": "Montag", "gender": "der", "ipa": "ˈmoːnˌtaːk",
+  "forms": "мн. die Montage",
+  "ru": "понедельник",
+  "ex": "Am liebsten am Montag oder Dienstag, vormittags.",
+  "ex_ru": "Лучше всего в понедельник или вторник, до обеда.",
+  "note": "Дни недели идут с предлогом am: am Montag."
+ },
+ {
+  "lemma": "Dienstag", "gender": "der", "ipa": "ˈdiːnsˌtaːk",
+  "forms": "мн. die Dienstage",
+  "ru": "вторник",
+  "ex": "Dienstag um 9 Uhr passt gut.",
+  "ex_ru": "Вторник в 9 часов подходит.",
+  "note": "Все дни недели мужского рода: der Montag, der Dienstag, der Mittwoch…"
+ },
+ {
+  "lemma": "vormittags", "ipa": "ˈfoːɐ̯mɪtaːks",
+  "ru": "в первой половине дня, до обеда",
+  "ex": "Ich habe vormittags mehr Energie.",
+  "ex_ru": "У меня больше энергии в первой половине дня.",
+  "note": "Пара к нему — nachmittags (после обеда), abends (по вечерам)."
+ },
+ {
+  "lemma": "regelmäßig", "ipa": "ˈʁeːɡl̩ˌmɛːsɪç",
+  "ru": "регулярно",
+  "ex": "Ich soll regelmäßig zur Kontrolle kommen.",
+  "ex_ru": "Мне нужно регулярно приходить на контроль."
+ },
+ {
+  "lemma": "leider", "ipa": "ˈlaɪ̯dɐ",
+  "ru": "к сожалению",
+  "ex": "Nein, da kann ich leider nicht.",
+  "ex_ru": "Нет, в это время я, к сожалению, не могу.",
+  "note": "Смягчает отказ — без него «нет» звучит резко."
+ },
+ {
+  "lemma": "verstehen", "rank": 143, "ipa": "fɛɐ̯ˈʃteːən",
+  "forms": "verstand · hat verstanden",
+  "ru": "понимать",
+  "ex": "Verstehe. Wann hätten Sie denn Zeit?",
+  "ex_ru": "Понимаю. Когда бы вам было удобно?",
+  "note": "Одно слово Verstehe — «понял, ясно», обычная реакция в разговоре."
+ },
+ {
+  "lemma": "tun", "rank": 63, "ipa": "tuːn",
+  "forms": "tat · hat getan",
+  "ru": "делать",
+  "ex": "Was kann ich für Sie tun?",
+  "ex_ru": "Чем я могу вам помочь?",
+  "note": "Was kann ich für Sie tun? — дежурная фраза при обслуживании."
+ },
+ {
+  "lemma": "warum", "rank": 125, "ipa": "vaˈʁʊm",
+  "ru": "почему",
+  "ex": "Man erklärt, warum man zum Arzt möchte.",
+  "ex_ru": "Объясняют, почему хотят к врачу.",
+  "note": "После warum в придаточном глагол уходит в конец."
+ },
+ {
+  "lemma": "schnell", "rank": 135, "ipa": "ʃnɛl",
+  "forms": "schneller, am schnellsten",
+  "ru": "быстрый; быстро",
+  "ex": "Sie ist froh, dass es so schnell geht.",
+  "ex_ru": "Она рада, что всё так быстро."
+ },
+ {
+  "lemma": "hoch", "rank": 61, "ipa": "hoːx",
+  "forms": "höher, am höchsten",
+  "ru": "высокий",
+  "ex": "Mein Blutdruck ist zu hoch.",
+  "ex_ru": "Моё давление слишком высокое.",
+  "note": "Перед существительным теряет -c-: ein hoher Blutdruck."
+ },
+ {
+  "lemma": "Person", "gender": "die", "rank": 276, "ipa": "pɛʁˈzoːn",
+  "forms": "мн. die Personen",
+  "ru": "человек, лицо",
+  "ex": "Man kann persönlich vorbeikommen.",
+  "ex_ru": "Можно зайти лично.",
+  "note": "persönlich — «лично», отсюда же."
+ }
+]

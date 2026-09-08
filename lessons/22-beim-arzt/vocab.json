@@ -1,0 +1,173 @@
+[
+ {
+  "lemma": "Doktor", "gender": "der", "rank": 169, "ipa": "ˈdɔktoːɐ̯",
+  "forms": "мн. die Doktoren · ж. die Doktorin",
+  "ru": "доктор",
+  "ex": "Guten Tag, Frau Doktor.",
+  "ex_ru": "Здравствуйте, доктор.",
+  "note": "Обращение к врачу: Frau Doktor / Herr Doktor — без фамилии."
+ },
+ {
+  "lemma": "krank", "ipa": "kʁaŋk",
+  "forms": "kränker, am kränksten",
+  "ru": "больной",
+  "ex": "Meine Frau ist krank.",
+  "ex_ru": "Моя жена больна.",
+  "note": "krank werden — заболеть, krank sein — болеть."
+ },
+ {
+  "lemma": "Erkältung", "gender": "die", "ipa": "ɛɐ̯ˈkɛltʊŋ",
+  "forms": "мн. die Erkältungen",
+  "ru": "простуда",
+  "ex": "Sie haben eine Erkältung.",
+  "ex_ru": "У вас простуда.",
+  "note": "kalt (холодный) внутри слова: простуда от холода."
+ },
+ {
+  "lemma": "Fieber", "gender": "das", "ipa": "ˈfiːbɐ",
+  "forms": "без мн. ч.",
+  "ru": "жар, повышенная температура",
+  "ex": "Haben Sie auch Fieber?",
+  "ex_ru": "У вас есть температура?",
+  "note": "Fieber haben — «быть с температурой». Просто температуру измеряют как Temperatur."
+ },
+ {
+  "lemma": "Hals", "gender": "der", "ipa": "hals",
+  "forms": "мн. die Hälse",
+  "ru": "горло; шея",
+  "ex": "Mein Hals tut weh beim Schlucken.",
+  "ex_ru": "У меня болит горло при глотании.",
+  "note": "Отсюда die Halsschmerzen — боль в горле."
+ },
+ {
+  "lemma": "Husten", "gender": "der", "ipa": "ˈhuːstn̩",
+  "forms": "без мн. ч.",
+  "ru": "кашель",
+  "ex": "Seit gestern habe ich auch Husten.",
+  "ex_ru": "Со вчерашнего дня у меня ещё и кашель.",
+  "note": "Husten haben — кашлять. Глагол — husten."
+ },
+ {
+  "lemma": "weh tun", "ipa": "ˈveː ˌtuːn",
+  "forms": "tat weh · hat weh getan",
+  "ru": "болеть, причинять боль",
+  "ex": "Mein Kopf tut weh.",
+  "ex_ru": "У меня болит голова.",
+  "note": "Часть тела — подлежащее, человек — в Dativ: Mir tut der Kopf weh."
+ },
+ {
+  "lemma": "sich fühlen", "ipa": "ˈfyːlən",
+  "forms": "fühlte sich · hat sich gefühlt",
+  "ru": "чувствовать себя",
+  "ex": "Ich fühle mich nicht gut.",
+  "ex_ru": "Я чувствую себя нехорошо.",
+  "note": "Возвратное местоимение в Akkusativ: fühle mich, fühlst dich."
+ },
+ {
+  "lemma": "untersuchen", "ipa": "ʊntɐˈzuːxn̩",
+  "forms": "untersuchte · hat untersucht",
+  "ru": "осматривать, обследовать",
+  "ex": "Ich untersuche Sie jetzt.",
+  "ex_ru": "Сейчас я вас осмотрю.",
+  "note": "Приставка неотделяемая, в Partizip II нет ge-: hat untersucht."
+ },
+ {
+  "lemma": "schlucken", "ipa": "ˈʃlʊkn̩",
+  "forms": "schluckte · hat geschluckt",
+  "ru": "глотать",
+  "ex": "Tut der Hals sehr weh beim Schlucken?",
+  "ex_ru": "Горло сильно болит при глотании?",
+  "note": "beim Schlucken — «при глотании»: глагол становится существительным."
+ },
+ {
+  "lemma": "Krankschreibung", "gender": "die", "ipa": "ˈkʁaŋkˌʃʁaɪ̯bʊŋ",
+  "forms": "мн. die Krankschreibungen",
+  "ru": "больничный лист",
+  "ex": "Ich schreibe Ihnen eine Krankschreibung für diese Woche.",
+  "ex_ru": "Я выпишу вам больничный на эту неделю.",
+  "note": "В Германии её отправляют работодателю; без неё пропуск работы не оправдан."
+ },
+ {
+  "lemma": "Medikament", "gender": "das", "ipa": "medikaˈmɛnt",
+  "forms": "мн. die Medikamente",
+  "ru": "лекарство",
+  "ex": "Nehmen Sie dieses Medikament dreimal täglich.",
+  "ex_ru": "Принимайте это лекарство три раза в день.",
+  "note": "Лекарство «принимают» — nehmen, как и в русском."
+ },
+ {
+  "lemma": "Honig", "gender": "der", "ipa": "ˈhoːnɪç",
+  "forms": "без мн. ч.",
+  "ru": "мёд",
+  "ex": "Trinken Sie viel Tee mit Honig, das hilft dem Hals.",
+  "ex_ru": "Пейте много чая с мёдом, это помогает горлу."
+ },
+ {
+  "lemma": "Gesundheit", "gender": "die", "ipa": "ɡəˈzʊnthaɪ̯t",
+  "forms": "без мн. ч.",
+  "ru": "здоровье",
+  "ex": "Ihre Gesundheit ist wichtiger.",
+  "ex_ru": "Ваше здоровье важнее.",
+  "note": "Gesundheit! говорят тому, кто чихнул — как русское «будь здоров»."
+ },
+ {
+  "lemma": "Rat", "gender": "der", "ipa": "ʁaːt",
+  "forms": "мн. die Ratschläge",
+  "ru": "совет",
+  "ex": "Ich werde Ihren Rat befolgen.",
+  "ex_ru": "Я последую вашему совету.",
+  "note": "Множественное число берётся от другого слова: der Ratschlag → die Ratschläge."
+ },
+ {
+  "lemma": "Symptom", "gender": "das", "ipa": "zʏmpˈtoːm",
+  "forms": "мн. die Symptome",
+  "ru": "симптом",
+  "ex": "Haben Sie auch andere Symptome?",
+  "ex_ru": "У вас есть другие симптомы?"
+ },
+ {
+  "lemma": "Schule", "gender": "die", "rank": 278, "ipa": "ˈʃuːlə",
+  "forms": "мн. die Schulen",
+  "ru": "школа",
+  "ex": "Warum warst du gestern nicht in der Schule?",
+  "ex_ru": "Почему тебя вчера не было в школе?",
+  "note": "in die Schule gehen — ходить в школу (учиться там)."
+ },
+ {
+  "lemma": "glauben", "rank": 91, "ipa": "ˈɡlaʊ̯bn̩",
+  "forms": "glaubte · hat geglaubt",
+  "ru": "думать, полагать; верить",
+  "ex": "Ja, ich glaube schon.",
+  "ex_ru": "Да, кажется, есть.",
+  "note": "Ich glaube schon — «думаю, да», мягкое подтверждение."
+ },
+ {
+  "lemma": "klar", "rank": 168, "ipa": "klaːɐ̯",
+  "forms": "klarer, am klarsten",
+  "ru": "ясный, понятный",
+  "ex": "Alles klar. Und wann soll ich wiederkommen?",
+  "ex_ru": "Всё понятно. А когда мне прийти снова?",
+  "note": "Alles klar! — «всё понял», самая частая реакция в разговоре."
+ },
+ {
+  "lemma": "steigen", "rank": 242, "ipa": "ˈʃtaɪ̯ɡn̩",
+  "forms": "stieg · ist gestiegen",
+  "ru": "подниматься, расти",
+  "ex": "Wenn das Fieber steigt, kommen Sie bitte sofort wieder.",
+  "ex_ru": "Если температура поднимется, приходите сразу же.",
+  "note": "В Perfekt с sein — это движение вверх."
+ },
+ {
+  "lemma": "unbedingt", "ipa": "ˈʊnbəˌdɪŋt",
+  "ru": "обязательно, непременно",
+  "ex": "Sie müssen unbedingt im Bett bleiben.",
+  "ex_ru": "Вам обязательно нужно оставаться в постели."
+ },
+ {
+  "lemma": "mindestens", "ipa": "ˈmɪndəstn̩s",
+  "ru": "как минимум, по меньшей мере",
+  "ex": "Sie müssen im Bett bleiben, mindestens drei Tage.",
+  "ex_ru": "Вам нужно оставаться в постели минимум три дня.",
+  "note": "Пара к нему — höchstens («максимум»), из восемнадцатого урока."
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "lemma": "Buchladen", "gender": "der", "ipa": "ˈbuːxˌlaːdn̩",
+  "forms": "мн. die Buchläden",
+  "ru": "книжный магазин",
+  "ex": "Mein Buchladen ist nicht sehr groß, aber er ist gemütlich.",
+  "ex_ru": "Мой книжный магазин не очень большой, но уютный.",
+  "note": "То же самое, что die Buchhandlung из первых уроков."
+ },
+ {
+  "lemma": "Laden", "gender": "der", "ipa": "ˈlaːdn̩",
+  "forms": "мн. die Läden",
+  "ru": "магазин, лавка",
+  "ex": "Der Laden heißt „Bücherecke“.",
+  "ex_ru": "Магазин называется «Книжный уголок».",
+  "note": "der Laden — небольшой магазинчик, das Geschäft — магазин вообще."
+ },
+ {
+  "lemma": "Geschäft", "gender": "das", "ipa": "ɡəˈʃɛft",
+  "forms": "мн. die Geschäfte",
+  "ru": "магазин; дело, бизнес",
+  "ex": "Der Buchladen ist nicht nur ein Geschäft.",
+  "ex_ru": "Книжный магазин — это не только бизнес."
+ },
+ {
+  "lemma": "Krimi", "gender": "der", "ipa": "ˈkʁiːmi",
+  "forms": "мн. die Krimis",
+  "ru": "детектив (книга, фильм)",
+  "ex": "Hier gibt es Romane, Krimis und Sachbücher.",
+  "ex_ru": "Здесь есть романы, детективы и научно-популярные книги.",
+  "note": "Сокращение от der Kriminalroman."
+ },
+ {
+  "lemma": "Sachbuch", "gender": "das", "ipa": "ˈzaxˌbuːx",
+  "forms": "мн. die Sachbücher",
+  "ru": "научно-популярная книга",
+  "ex": "Verschiedene Sachbücher stehen dort rechts.",
+  "ex_ru": "Разные научно-популярные книги стоят там справа.",
+  "note": "die Sache (вещь, дело) + das Buch: книга «по делу», не художественная."
+ },
+ {
+  "lemma": "Autor", "gender": "der", "ipa": "ˈaʊ̯toːɐ̯",
+  "forms": "мн. die Autoren · ж. die Autorin",
+  "ru": "автор",
+  "ex": "Dann kommt ein Autor und liest aus seinem neuen Buch.",
+  "ex_ru": "Тогда приходит автор и читает из своей новой книги.",
+  "note": "Во множественном числе ударение переезжает: Au-TO-ren."
+ },
+ {
+  "lemma": "Kunde", "gender": "der", "ipa": "ˈkʊndə",
+  "forms": "den / dem Kunden · мн. die Kunden · ж. die Kundin",
+  "ru": "покупатель, клиент",
+  "ex": "Dort können die Kunden einen Kaffee trinken.",
+  "ex_ru": "Там покупатели могут выпить кофе.",
+  "note": "Слабое склонение: во всех падежах, кроме именительного, — Kunden."
+ },
+ {
+  "lemma": "Besucher", "gender": "der", "ipa": "bəˈzuːxɐ",
+  "forms": "мн. die Besucher · ж. die Besucherin",
+  "ru": "посетитель",
+  "ex": "Das mögen viele Besucher sehr.",
+  "ex_ru": "Многим посетителям это очень нравится."
+ },
+ {
+  "lemma": "Leute", "gender": "die", "ipa": "ˈlɔɪ̯tə",
+  "forms": "только мн. ч.",
+  "ru": "люди",
+  "ex": "Die Leute kommen, um in Ruhe zu lesen.",
+  "ex_ru": "Люди приходят, чтобы спокойно почитать.",
+  "note": "Единственного числа нет; про одного — der Mensch или die Person."
+ },
+ {
+  "lemma": "Zentrum", "gender": "das", "ipa": "ˈt͡sɛntʁʊm",
+  "forms": "мн. die Zentren",
+  "ru": "центр",
+  "ex": "Er liegt im Zentrum am Marktplatz.",
+  "ex_ru": "Он находится в центре, на рыночной площади."
+ },
+ {
+  "lemma": "Marktplatz", "gender": "der", "ipa": "ˈmaʁktˌplat͡s",
+  "forms": "мн. die Marktplätze",
+  "ru": "рыночная площадь",
+  "ex": "Der Laden liegt im Zentrum am Marktplatz.",
+  "ex_ru": "Магазин находится в центре, на рыночной площади.",
+  "note": "Главная площадь старого города почти в каждом немецком городке."
+ },
+ {
+  "lemma": "Ort", "gender": "der", "rank": 261, "ipa": "ɔʁt",
+  "forms": "мн. die Orte",
+  "ru": "место; населённый пункт",
+  "ex": "Der Buchladen ist auch ein Ort, wo Menschen sich wohlfühlen.",
+  "ex_ru": "Книжный магазин — это ещё и место, где людям хорошо."
+ },
+ {
+  "lemma": "Ruhe", "gender": "die", "ipa": "ˈʁuːə",
+  "forms": "без мн. ч.",
+  "ru": "тишина, покой",
+  "ex": "Die Leute kommen, um in Ruhe zu lesen.",
+  "ex_ru": "Люди приходят, чтобы почитать в тишине.",
+  "note": "in Ruhe — «спокойно, не торопясь». Ruhe, bitte! — «тишина, пожалуйста!»"
+ },
+ {
+  "lemma": "Kaffee-Ecke", "gender": "die", "ipa": "ˈkafeˌʔɛkə",
+  "forms": "мн. die Kaffee-Ecken",
+  "ru": "кофейный уголок",
+  "ex": "Es gibt auch eine kleine Kaffee-Ecke.",
+  "ex_ru": "Есть также небольшой кофейный уголок.",
+  "note": "die Ecke — угол; in der Ecke — в углу."
+ },
+ {
+  "lemma": "blättern", "ipa": "ˈblɛtɐn",
+  "forms": "blätterte · hat geblättert",
+  "ru": "листать",
+  "ex": "Die Kunden können in Büchern blättern.",
+  "ex_ru": "Покупатели могут листать книги.",
+  "note": "Идёт с предлогом in + Dativ: in einem Buch blättern."
+ },
+ {
+  "lemma": "trinken", "ipa": "ˈtʁɪŋkn̩",
+  "forms": "trank · hat getrunken",
+  "ru": "пить",
+  "ex": "Dort können die Kunden einen Kaffee trinken.",
+  "ex_ru": "Там покупатели могут выпить кофе.",
+  "note": "Что пьют — в Akkusativ: einen Kaffee trinken."
+ },
+ {
+  "lemma": "organisieren", "ipa": "ɔʁɡaniˈziːʁən",
+  "forms": "organisierte · hat organisiert",
+  "ru": "организовывать",
+  "ex": "Manchmal organisiere ich kleine Lesungen am Abend.",
+  "ex_ru": "Иногда я организую небольшие литературные вечера.",
+  "note": "В Partizip II нет ge-: у глаголов на -ieren его никогда не бывает."
+ },
+ {
+  "lemma": "reden", "rank": 285, "ipa": "ˈʁeːdn̩",
+  "forms": "redete · hat geredet",
+  "ru": "говорить, разговаривать",
+  "ex": "Wir reden oft über Bücher und Autoren.",
+  "ex_ru": "Мы часто говорим о книгах и авторах.",
+  "note": "О чём говорят — über + Akkusativ. Разговорнее, чем sprechen."
+ },
+ {
+  "lemma": "sitzen", "rank": 161, "ipa": "ˈzɪt͡sn̩",
+  "forms": "saß · hat gesessen",
+  "ru": "сидеть",
+  "ex": "Sie können dort sitzen und in Ruhe lesen.",
+  "ex_ru": "Вы можете там посидеть и спокойно почитать."
+ },
+ {
+  "lemma": "wohl", "rank": 189, "ipa": "voːl",
+  "ru": "хорошо (о самочувствии); пожалуй",
+  "ex": "…ein Ort, wo Menschen sich wohlfühlen.",
+  "ex_ru": "…место, где людям хорошо.",
+  "note": "sich wohlfühlen — «чувствовать себя хорошо, комфортно»."
+ },
+ {
+  "lemma": "meinen", "rank": 145, "ipa": "ˈmaɪ̯nən",
+  "forms": "meinte · hat gemeint",
+  "ru": "считать, иметь в виду",
+  "ex": "Was meinst du, Lena?",
+  "ex_ru": "Как ты считаешь, Лена?",
+  "note": "Ich meine … — «я имею в виду», Wie meinen Sie das? — «что вы имеете в виду?»"
+ },
+ {
+  "lemma": "Wort", "gender": "das", "rank": 127, "ipa": "vɔʁt",
+  "forms": "мн. die Wörter (отдельные) · die Worte (связная речь)",
+  "ru": "слово",
+  "ex": "Wir reden über Bücher — und über jedes Wort darin.",
+  "ex_ru": "Мы говорим о книгах — и о каждом слове в них.",
+  "note": "Два множественных числа: die Wörter — слова списком, die Worte — слова как речь."
+ }
+]

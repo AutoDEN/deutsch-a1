@@ -1,0 +1,169 @@
+[
+ {
+  "lemma": "aufstehen", "ipa": "ˈaʊ̯fˌʃteːən",
+  "forms": "stand auf · ist aufgestanden",
+  "ru": "вставать, подниматься",
+  "ex": "Max steht jeden Morgen um 6:00 Uhr auf.",
+  "ex_ru": "Макс встаёт каждое утро в 6:00.",
+  "note": "Приставка отделяемая: Ich stehe um sechs auf. В Perfekt идёт с sein."
+ },
+ {
+  "lemma": "frühstücken", "ipa": "ˈfʁyːˌʃtʏkn̩",
+  "forms": "frühstückte · hat gefrühstückt",
+  "ru": "завтракать",
+  "ex": "Er frühstückt um 6:30 Uhr.",
+  "ex_ru": "Он завтракает в 6:30.",
+  "note": "Существительное das Frühstück — завтрак."
+ },
+ {
+  "lemma": "Brötchen", "gender": "das", "ipa": "ˈbʁøːtçən",
+  "forms": "мн. die Brötchen",
+  "ru": "булочка",
+  "ex": "Meistens isst er Brötchen mit Käse.",
+  "ex_ru": "Обычно он ест булочки с сыром.",
+  "note": "Уменьшительное от das Brot; все слова на -chen среднего рода."
+ },
+ {
+  "lemma": "Bus", "gender": "der", "ipa": "bʊs",
+  "forms": "мн. die Busse",
+  "ru": "автобус",
+  "ex": "Um 7:15 Uhr fährt er mit dem Bus zur Arbeit.",
+  "ex_ru": "В 7:15 он едет на автобусе на работу.",
+  "note": "На транспорте — mit dem Bus, mit der Bahn, mit dem Auto."
+ },
+ {
+  "lemma": "fahren", "rank": 146, "ipa": "ˈfaːʁən",
+  "forms": "fuhr · ist gefahren",
+  "ru": "ехать, ездить; вести машину",
+  "ex": "Er fährt mit dem Bus zur Arbeit.",
+  "ex_ru": "Он едет на автобусе на работу.",
+  "note": "Неправильный: du fährst, er fährt. gehen — идти пешком, fahren — на транспорте."
+ },
+ {
+  "lemma": "Fahrt", "gender": "die", "ipa": "faːɐ̯t",
+  "forms": "мн. die Fahrten",
+  "ru": "поездка",
+  "ex": "Die Fahrt dauert ungefähr 25 Minuten.",
+  "ex_ru": "Поездка длится примерно 25 минут.",
+  "note": "Gute Fahrt! — «счастливого пути» тому, кто едет."
+ },
+ {
+  "lemma": "dauern", "ipa": "ˈdaʊ̯ɐn",
+  "forms": "dauerte · hat gedauert",
+  "ru": "длиться, продолжаться",
+  "ex": "Die Mittagspause dauert eine Stunde.",
+  "ex_ru": "Обеденный перерыв длится час.",
+  "note": "Wie lange dauert das? — «Сколько это займёт?»"
+ },
+ {
+  "lemma": "Stunde", "gender": "die", "rank": 202, "ipa": "ˈʃtʊndə",
+  "forms": "мн. die Stunden",
+  "ru": "час (продолжительность)",
+  "ex": "Die Mittagspause dauert eine Stunde.",
+  "ex_ru": "Обеденный перерыв длится час.",
+  "note": "die Stunde — час как отрезок, die Uhr — час на циферблате: um acht Uhr."
+ },
+ {
+  "lemma": "Arbeitstag", "gender": "der", "ipa": "ˈaʁbaɪ̯t͡sˌtaːk",
+  "forms": "мн. die Arbeitstage",
+  "ru": "рабочий день",
+  "ex": "Ein typischer Arbeitstag beginnt um 8:00 Uhr.",
+  "ex_ru": "Типичный рабочий день начинается в 8:00."
+ },
+ {
+  "lemma": "beginnen", "rank": 179, "ipa": "bəˈɡɪnən",
+  "forms": "begann · hat begonnen",
+  "ru": "начинать, начинаться",
+  "ex": "Jeder Morgen beginnt für Max um 6:00 Uhr.",
+  "ex_ru": "Каждое утро для Макса начинается в 6:00.",
+  "note": "Синоним anfangen, но beginnen звучит чуть официальнее."
+ },
+ {
+  "lemma": "Werkstatt", "gender": "die", "ipa": "ˈvɛʁkˌʃtat",
+  "forms": "мн. die Werkstätten",
+  "ru": "мастерская",
+  "ex": "Von 8:00 bis 12:00 Uhr arbeitet Max in der Werkstatt.",
+  "ex_ru": "С 8:00 до 12:00 Макс работает в мастерской."
+ },
+ {
+  "lemma": "Mittagspause", "gender": "die", "ipa": "ˈmɪtaːksˌpaʊ̯zə",
+  "forms": "мн. die Mittagspausen",
+  "ru": "обеденный перерыв",
+  "ex": "Um 12:00 Uhr hat er Mittagspause.",
+  "ex_ru": "В 12:00 у него обеденный перерыв."
+ },
+ {
+  "lemma": "Kantine", "gender": "die", "ipa": "kanˈtiːnə",
+  "forms": "мн. die Kantinen",
+  "ru": "столовая (на работе)",
+  "ex": "Er isst oft sein Essen in der Kantine mit seinen Kollegen.",
+  "ex_ru": "Он часто ест в столовой со своими коллегами."
+ },
+ {
+  "lemma": "Feierabend", "gender": "der", "ipa": "ˈfaɪ̯ɐˌʔaːbn̩t",
+  "forms": "мн. die Feierabende",
+  "ru": "конец рабочего дня",
+  "ex": "Er macht um 17:00 Uhr Feierabend.",
+  "ex_ru": "Он заканчивает работу в 17:00.",
+  "note": "Слова с таким значением в русском нет: это и момент окончания работы, и свободный вечер после неё."
+ },
+ {
+  "lemma": "zurückkommen", "ipa": "t͡suˈʁʏkˌkɔmən",
+  "forms": "kam zurück · ist zurückgekommen",
+  "ru": "возвращаться",
+  "ex": "Er kommt gegen 17:45 Uhr nach Hause zurück.",
+  "ex_ru": "Он возвращается домой около 17:45."
+ },
+ {
+  "lemma": "fernsehen", "ipa": "ˈfɛʁnˌzeːən",
+  "forms": "sah fern · hat ferngesehen",
+  "ru": "смотреть телевизор",
+  "ex": "Am Abend sieht er fern oder hört Musik.",
+  "ex_ru": "Вечером он смотрит телевизор или слушает музыку.",
+  "note": "fern (далеко) + sehen (видеть). Приставка уходит в конец: Ich sehe fern."
+ },
+ {
+  "lemma": "anrufen", "ipa": "ˈanˌʁuːfn̩",
+  "forms": "rief an · hat angerufen",
+  "ru": "звонить кому-либо",
+  "ex": "Manchmal ruft er auch seine Brüder an.",
+  "ex_ru": "Иногда он ещё звонит своим братьям.",
+  "note": "Кому звонят — в Akkusativ: Ich rufe dich an."
+ },
+ {
+  "lemma": "stark", "rank": 112, "ipa": "ʃtaʁk",
+  "forms": "stärker, am stärksten",
+  "ru": "сильный; крепкий",
+  "ex": "Er trinkt einen starken Kaffee.",
+  "ex_ru": "Он пьёт крепкий кофе."
+ },
+ {
+  "lemma": "Moment", "gender": "der", "rank": 277, "ipa": "moˈmɛnt",
+  "forms": "мн. die Momente",
+  "ru": "момент, мгновение",
+  "ex": "Max liebt diesen Moment — Feierabend bedeutet Freizeit!",
+  "ex_ru": "Макс любит этот момент — конец работы означает свободное время!",
+  "note": "Moment mal! — «минуточку!»"
+ },
+ {
+  "lemma": "bestehen", "rank": 174, "ipa": "bəˈʃteːən",
+  "forms": "bestand · hat bestanden",
+  "ru": "состоять; выдержать (экзамен)",
+  "ex": "Sein Frühstück besteht aus Brötchen mit Käse.",
+  "ex_ru": "Его завтрак состоит из булочек с сыром.",
+  "note": "bestehen aus + Dativ — состоять из чего-то."
+ },
+ {
+  "lemma": "wieder", "rank": 33, "ipa": "ˈviːdɐ",
+  "ru": "снова, опять",
+  "ex": "Am nächsten Tag muss er wieder früh aufstehen.",
+  "ex_ru": "На следующий день ему снова нужно рано вставать."
+ },
+ {
+  "lemma": "etwa", "rank": 115, "ipa": "ˈɛtva",
+  "ru": "примерно, около",
+  "ex": "Die Fahrt dauert etwa 25 Minuten.",
+  "ex_ru": "Поездка длится примерно 25 минут.",
+  "note": "Синонимы — ungefähr и gegen (последнее только о времени: gegen 18 Uhr)."
+ }
+]

@@ -1,0 +1,165 @@
+[
+ {
+  "lemma": "Nahverkehr", "gender": "der", "ipa": "ˈnaːfɛɐ̯ˌkeːɐ̯",
+  "forms": "без мн. ч.",
+  "ru": "местный транспорт",
+  "ex": "Der öffentliche Nahverkehr in Berlin ist sehr gut.",
+  "ex_ru": "Общественный транспорт в Берлине очень хороший.",
+  "note": "Полное название — der öffentliche Nahverkehr, сокращённо ÖPNV."
+ },
+ {
+  "lemma": "öffentlich", "ipa": "ˈœfn̩tlɪç",
+  "ru": "общественный, публичный",
+  "ex": "Mit dem öffentlichen Nahverkehr kann man überall hinkommen.",
+  "ex_ru": "На общественном транспорте можно добраться куда угодно."
+ },
+ {
+  "lemma": "Verkehrsmittel", "gender": "das", "ipa": "fɛɐ̯ˈkeːɐ̯sˌmɪtl̩",
+  "forms": "мн. die Verkehrsmittel",
+  "ru": "транспортное средство",
+  "ex": "Man kann verschiedene Verkehrsmittel benutzen.",
+  "ex_ru": "Можно пользоваться разными видами транспорта."
+ },
+ {
+  "lemma": "U-Bahn", "gender": "die", "ipa": "ˈuːˌbaːn",
+  "forms": "мн. die U-Bahnen",
+  "ru": "метро",
+  "ex": "Mit der U-Bahn fährt sie zur Universität.",
+  "ex_ru": "На метро она едет в университет.",
+  "note": "Untergrundbahn — «подземная дорога». На транспорте едут с mit + Dativ."
+ },
+ {
+  "lemma": "S-Bahn", "gender": "die", "ipa": "ˈɛsˌbaːn",
+  "forms": "мн. die S-Bahnen",
+  "ru": "городская электричка",
+  "ex": "Sie benutzt die U-Bahn, die S-Bahn und manchmal den Bus.",
+  "ex_ru": "Она пользуется метро, электричкой и иногда автобусом.",
+  "note": "Schnellbahn — идёт по земле и связывает город с пригородами."
+ },
+ {
+  "lemma": "Straßenbahn", "gender": "die", "ipa": "ˈʃtʁaːsn̩ˌbaːn",
+  "forms": "мн. die Straßenbahnen",
+  "ru": "трамвай",
+  "ex": "Sie kann mit der Straßenbahn oder dem Bus fahren.",
+  "ex_ru": "Она может поехать на трамвае или автобусе.",
+  "note": "В разговоре часто просто die Tram."
+ },
+ {
+  "lemma": "Station", "gender": "die", "ipa": "ʃtaˈt͡si̯oːn",
+  "forms": "мн. die Stationen",
+  "ru": "станция; остановка",
+  "ex": "Von dort fährt sie drei Stationen bis zur Universität.",
+  "ex_ru": "Оттуда она едет три остановки до университета."
+ },
+ {
+  "lemma": "Ticket", "gender": "das", "ipa": "ˈtɪkɛt",
+  "forms": "мн. die Tickets",
+  "ru": "билет",
+  "ex": "Wo kann ich ein Ticket kaufen?",
+  "ex_ru": "Где я могу купить билет?",
+  "note": "Синоним — die Fahrkarte, в автоматах чаще пишут Ticket."
+ },
+ {
+  "lemma": "Automat", "gender": "der", "ipa": "aʊ̯toˈmaːt",
+  "forms": "den / dem Automaten · мн. die Automaten",
+  "ru": "автомат",
+  "ex": "Ich kaufe ein Ticket am Automaten.",
+  "ex_ru": "Я покупаю билет в автомате.",
+  "note": "Слабое склонение: am Automaten, den Automaten."
+ },
+ {
+  "lemma": "Monatskarte", "gender": "die", "ipa": "ˈmoːnat͡sˌkaʁtə",
+  "forms": "мн. die Monatskarten",
+  "ru": "проездной на месяц",
+  "ex": "Sie hat eine Monatskarte, die billiger ist.",
+  "ex_ru": "У неё есть проездной на месяц, он дешевле."
+ },
+ {
+  "lemma": "entwerten", "ipa": "ɛntˈveːɐ̯tn̩",
+  "forms": "entwertete · hat entwertet",
+  "ru": "компостировать (билет)",
+  "ex": "Vergiss nicht, das Ticket zu entwerten!",
+  "ex_ru": "Не забудь прокомпостировать билет!",
+  "note": "Непрокомпостированный билет считается недействительным — штраф 60 евро."
+ },
+ {
+  "lemma": "stempeln", "ipa": "ˈʃtɛmpl̩n",
+  "forms": "stempelte · hat gestempelt",
+  "ru": "штамповать, ставить отметку",
+  "ex": "Man stempelt das Ticket im Entwerter.",
+  "ex_ru": "Билет отмечают в компостере."
+ },
+ {
+  "lemma": "einsteigen", "ipa": "ˈaɪ̯nˌʃtaɪ̯ɡn̩",
+  "forms": "stieg ein · ist eingestiegen",
+  "ru": "садиться (в транспорт)",
+  "ex": "Man stempelt das Ticket, bevor man einsteigt.",
+  "ex_ru": "Билет отмечают перед тем, как войти."
+ },
+ {
+  "lemma": "aussteigen", "ipa": "ˈaʊ̯sˌʃtaɪ̯ɡn̩",
+  "forms": "stieg aus · ist ausgestiegen",
+  "ru": "выходить (из транспорта)",
+  "ex": "An welcher Haltestelle muss ich aussteigen?",
+  "ex_ru": "На какой остановке мне выходить?"
+ },
+ {
+  "lemma": "umsteigen", "ipa": "ˈʊmˌʃtaɪ̯ɡn̩",
+  "forms": "stieg um · ist umgestiegen",
+  "ru": "пересаживаться",
+  "ex": "Ich muss in den Bus umsteigen.",
+  "ex_ru": "Мне нужно пересесть на автобус.",
+  "note": "Три брата с одним корнем: einsteigen — aussteigen — umsteigen."
+ },
+ {
+  "lemma": "benutzen", "ipa": "bəˈnʊt͡sn̩",
+  "forms": "benutzte · hat benutzt",
+  "ru": "пользоваться, использовать",
+  "ex": "Sie benutzt die U-Bahn und manchmal den Bus.",
+  "ex_ru": "Она пользуется метро и иногда автобусом.",
+  "note": "Идёт с Akkusativ, в отличие от русского «пользоваться чем-то»."
+ },
+ {
+  "lemma": "Fahrplan", "gender": "der", "ipa": "ˈfaːɐ̯ˌplaːn",
+  "forms": "мн. die Fahrpläne",
+  "ru": "расписание транспорта",
+  "ex": "An jeder Haltestelle gibt es einen Fahrplan.",
+  "ex_ru": "На каждой остановке есть расписание."
+ },
+ {
+  "lemma": "Route", "gender": "die", "ipa": "ˈʁuːtə",
+  "forms": "мн. die Routen",
+  "ru": "маршрут",
+  "ex": "Wenn die U-Bahn nicht fährt, muss Lena eine andere Route nehmen.",
+  "ex_ru": "Если метро не ходит, Лене приходится выбирать другой маршрут."
+ },
+ {
+  "lemma": "Netz", "gender": "das", "ipa": "nɛt͡s",
+  "forms": "мн. die Netze",
+  "ru": "сеть",
+  "ex": "Man kann einfach umsteigen, weil das Netz sehr gut ist.",
+  "ex_ru": "Пересаживаться легко, потому что сеть очень хорошая.",
+  "note": "Так же называют интернет-сеть и рыболовную сеть."
+ },
+ {
+  "lemma": "billig", "ipa": "ˈbɪlɪç",
+  "forms": "billiger, am billigsten",
+  "ru": "дешёвый",
+  "ex": "Eine Monatskarte ist billiger, wenn man oft fährt.",
+  "ex_ru": "Проездной дешевле, если ездишь часто.",
+  "note": "Может звучать как «дешёвка»; нейтральнее — günstig из одиннадцатого урока."
+ },
+ {
+  "lemma": "entfernt", "ipa": "ɛntˈfɛʁnt",
+  "ru": "удалённый, на расстоянии",
+  "ex": "Die Haltestelle ist nur fünf Minuten entfernt.",
+  "ex_ru": "Остановка всего в пяти минутах.",
+  "note": "От глагола entfernen (удалять) из семнадцатого урока."
+ },
+ {
+  "lemma": "überall", "ipa": "yːbɐˈʔal",
+  "ru": "везде, повсюду",
+  "ex": "Mit dem Nahverkehr kann man in Berlin überall hinkommen!",
+  "ex_ru": "На общественном транспорте в Берлине можно добраться куда угодно!"
+ }
+]

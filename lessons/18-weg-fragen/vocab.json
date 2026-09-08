@@ -1,0 +1,167 @@
+[
+ {
+  "lemma": "Weg", "gender": "der", "rank": 150, "ipa": "veːk",
+  "forms": "мн. die Wege",
+  "ru": "путь, дорога",
+  "ex": "In einer fremden Stadt muss man oft nach dem Weg fragen.",
+  "ex_ru": "В чужом городе часто приходится спрашивать дорогу.",
+  "note": "nach dem Weg fragen — спросить дорогу. Guten Weg! — «доброго пути» пешеходу."
+ },
+ {
+  "lemma": "Post", "gender": "die", "ipa": "pɔst",
+  "forms": "мн. die Posten (редко)",
+  "ru": "почта",
+  "ex": "Wie komme ich zur Post?",
+  "ex_ru": "Как мне пройти к почте?",
+  "note": "Женского рода, поэтому zur Post (zu der Post)."
+ },
+ {
+  "lemma": "Bahnhof", "gender": "der", "ipa": "ˈbaːnˌhoːf",
+  "forms": "мн. die Bahnhöfe",
+  "ru": "вокзал",
+  "ex": "Wie komme ich zum Bahnhof?",
+  "ex_ru": "Как мне добраться до вокзала?",
+  "note": "Мужского рода, поэтому zum Bahnhof (zu dem Bahnhof)."
+ },
+ {
+  "lemma": "Apotheke", "gender": "die", "ipa": "apoˈteːkə",
+  "forms": "мн. die Apotheken",
+  "ru": "аптека",
+  "ex": "Der Supermarkt ist direkt neben der Apotheke.",
+  "ex_ru": "Супермаркет прямо рядом с аптекой.",
+  "note": "В Германии лекарства продают только в аптеке, не в супермаркете."
+ },
+ {
+  "lemma": "Bäckerei", "gender": "die", "ipa": "bɛkəˈʁaɪ̯",
+  "forms": "мн. die Bäckereien",
+  "ru": "булочная, пекарня",
+  "ex": "Gehen Sie an der Bäckerei vorbei.",
+  "ex_ru": "Пройдите мимо булочной.",
+  "note": "Слова на -ei всегда женского рода и с ударением на конце."
+ },
+ {
+  "lemma": "Ampel", "gender": "die", "ipa": "ˈampl̩",
+  "forms": "мн. die Ampeln",
+  "ru": "светофор",
+  "ex": "Gehen Sie hier geradeaus bis zur Ampel.",
+  "ex_ru": "Идите здесь прямо до светофора."
+ },
+ {
+  "lemma": "Kreuzung", "gender": "die", "ipa": "ˈkʁɔɪ̯t͡sʊŋ",
+  "forms": "мн. die Kreuzungen",
+  "ru": "перекрёсток",
+  "ex": "Gehen Sie diese Straße entlang bis zur Kreuzung.",
+  "ex_ru": "Идите по этой улице до перекрёстка."
+ },
+ {
+  "lemma": "Haltestelle", "gender": "die", "ipa": "ˈhaltəˌʃtɛlə",
+  "forms": "мн. die Haltestellen",
+  "ru": "остановка",
+  "ex": "Die Haltestelle ist dort drüben.",
+  "ex_ru": "Остановка вон там.",
+  "note": "halten (останавливаться) + Stelle (место)."
+ },
+ {
+  "lemma": "halten", "rank": 90, "ipa": "ˈhaltn̩",
+  "forms": "hielt · hat gehalten",
+  "ru": "держать; останавливаться",
+  "ex": "Der Bus hält an der Haltestelle.",
+  "ex_ru": "Автобус останавливается на остановке.",
+  "note": "Неправильный: du hältst, er hält."
+ },
+ {
+  "lemma": "geradeaus", "ipa": "ɡəˌʁaːdəˈʔaʊ̯s",
+  "ru": "прямо (о направлении)",
+  "ex": "Gehen Sie geradeaus bis zur Ampel.",
+  "ex_ru": "Идите прямо до светофора."
+ },
+ {
+  "lemma": "links", "ipa": "lɪŋks",
+  "ru": "слева, налево",
+  "ex": "Dann die dritte Straße links.",
+  "ex_ru": "Затем третья улица налево.",
+  "note": "nach links — «налево» (движение), links — «слева» (положение)."
+ },
+ {
+  "lemma": "entlang", "ipa": "ɛntˈlaŋ",
+  "ru": "вдоль, по (улице)",
+  "ex": "Gehen Sie diese Straße entlang.",
+  "ex_ru": "Идите по этой улице.",
+  "note": "Стоит после существительного, а не перед ним: die Straße entlang."
+ },
+ {
+  "lemma": "vorbei", "ipa": "foːɐ̯ˈbaɪ̯",
+  "ru": "мимо; позади",
+  "ex": "Gehen Sie an der Bäckerei vorbei.",
+  "ex_ru": "Пройдите мимо булочной.",
+  "note": "vorbeigehen an + Dativ — проходить мимо чего-то."
+ },
+ {
+  "lemma": "Seite", "gender": "die", "rank": 129, "ipa": "ˈzaɪ̯tə",
+  "forms": "мн. die Seiten",
+  "ru": "сторона; страница",
+  "ex": "Die Post ist gleich auf der linken Seite.",
+  "ex_ru": "Почта сразу с левой стороны."
+ },
+ {
+  "lemma": "Nähe", "gender": "die", "ipa": "ˈnɛːə",
+  "forms": "без мн. ч.",
+  "ru": "близость",
+  "ex": "Das ist ganz in der Nähe.",
+  "ex_ru": "Это совсем рядом.",
+  "note": "in der Nähe — «поблизости», самый частый ответ на вопрос «далеко ли?»."
+ },
+ {
+  "lemma": "laufen", "rank": 180, "ipa": "ˈlaʊ̯fn̩",
+  "forms": "lief · ist gelaufen",
+  "ru": "идти пешком, бежать; работать (о механизме)",
+  "ex": "Wenn man nicht weit laufen möchte, kann man den Bus nehmen.",
+  "ex_ru": "Если не хочется далеко идти, можно сесть на автобус.",
+  "note": "Неправильный: du läufst, er läuft."
+ },
+ {
+  "lemma": "Ziel", "gender": "das", "rank": 241, "ipa": "t͡siːl",
+  "forms": "мн. die Ziele",
+  "ru": "цель, пункт назначения",
+  "ex": "Man kann fragen, ob das Ziel weit ist.",
+  "ex_ru": "Можно спросить, далеко ли пункт назначения."
+ },
+ {
+  "lemma": "Paket", "gender": "das", "ipa": "paˈkeːt",
+  "forms": "мн. die Pakete",
+  "ru": "посылка",
+  "ex": "Ich muss ein Paket für meine Mutter abholen.",
+  "ex_ru": "Мне нужно забрать посылку для мамы."
+ },
+ {
+  "lemma": "abholen", "ipa": "ˈapˌhoːlən",
+  "forms": "holte ab · hat abgeholt",
+  "ru": "забирать, встречать",
+  "ex": "Ich muss ein Paket abholen.",
+  "ex_ru": "Мне нужно забрать посылку.",
+  "note": "Приставка отделяемая: Ich hole das Paket ab."
+ },
+ {
+  "lemma": "richtig", "rank": 111, "ipa": "ˈʁɪçtɪç",
+  "forms": "richtiger, am richtigsten",
+  "ru": "правильный",
+  "ex": "Es ist wichtig, die richtigen Ausdrücke zu kennen.",
+  "ex_ru": "Важно знать правильные выражения.",
+  "note": "Richtig! — «верно!», согласие с собеседником."
+ },
+ {
+  "lemma": "ganz", "rank": 28, "ipa": "ɡant͡s",
+  "ru": "весь, целый; совсем",
+  "ex": "Das ist ganz in der Nähe.",
+  "ex_ru": "Это совсем рядом.",
+  "note": "Перед прилагательным значит «совсем, вполне»: ganz gut — «вполне неплохо»."
+ },
+ {
+  "lemma": "Monat", "gender": "der", "rank": 237, "ipa": "ˈmoːnat",
+  "forms": "мн. die Monate",
+  "ru": "месяц",
+  "ex": "Ich organisiere jeden Monat einen Nachbarschaftstreff.",
+  "ex_ru": "Каждый месяц я устраиваю встречу соседей.",
+  "note": "jeden Monat — каждый месяц (Akkusativ без предлога)."
+ }
+]

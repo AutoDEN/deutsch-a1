@@ -1,0 +1,547 @@
+/* =====================================================================
+   Оформление лид-магнита «Урок 1 бесплатно» — единственный HTML-файл.
+   Вклеивается в <style> сборщиком render-magnet.mjs вместе с
+   exercise-styles.css урока. Внешних шрифтов и картинок нет.
+   ===================================================================== */
+
+:root{
+  --ink:#1b1f27;
+  --muted:#6b7280;
+  --line:#e3e6ec;
+  --soft:#f6f7f9;
+  --accent:#b4232a;
+  --link:#0b5394;
+}
+
+*{box-sizing:border-box}
+
+html{-webkit-text-size-adjust:100%}
+
+body{
+  margin:0;
+  background:#fff;
+  color:var(--ink);
+  font:17px/1.68 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+.lesson{max-width:760px; margin:0 auto; padding:0 20px 80px}
+
+a{color:var(--link)}
+
+h1,h2,h3,h4{line-height:1.28; margin:0}
+h1{font-size:clamp(28px,5.2vw,40px); letter-spacing:-.02em}
+h2{font-size:clamp(22px,3.6vw,28px); letter-spacing:-.015em; margin:52px 0 14px; padding-bottom:9px; border-bottom:1px solid var(--line)}
+h3{font-size:20px; margin:34px 0 10px}
+h4{font-size:16.5px; margin:22px 0 8px}
+
+p{margin:14px 0}
+ul,ol{margin:14px 0; padding-left:24px}
+li{margin:6px 0}
+hr{border:0; border-top:1px solid var(--line); margin:34px 0}
+em{font-style:italic}
+code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.92em; background:var(--soft); padding:.12em .38em; border-radius:4px;
+}
+
+table{border-collapse:collapse; width:100%; margin:16px 0; font-size:15.5px}
+th,td{border:1px solid var(--line); padding:7px 10px; text-align:left; vertical-align:top}
+th{background:var(--soft); font-weight:600; font-size:13.5px; color:var(--muted)}
+
+audio{display:block; width:100%; margin:18px 0}
+
+/* прокрутка широкого содержимого не должна ломать страницу */
+.lesson>*{min-width:0}
+
+/* ---------------- шапка ---------------- */
+.magnet-hero{padding:44px 0 4px}
+.magnet-lede{font-size:19px; color:#3b4048; margin:16px 0 0}
+
+/* автор: портрет в треть ширины слева от текста, на телефоне — над текстом */
+.magnet-author{display:flex; align-items:center; gap:24px; margin:26px 0 0}
+.magnet-avatar{
+  flex:0 0 33%; width:33%; max-width:250px; height:auto; aspect-ratio:1;
+  border-radius:14px; object-fit:cover; display:block;
+}
+.magnet-byline{font-size:16px; color:var(--muted); margin:0}
+.magnet-rule{border-top:2px solid var(--ink); margin:48px 0 0}
+.magnet-start{font-size:16px; color:var(--muted)}
+
+/* ---------------- мини-карта грамматики ---------------- */
+.minimap{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:16px;
+  margin:22px 0 8px;
+}
+.mm-card{
+  border:1px solid var(--line); border-radius:12px; padding:16px 18px 18px;
+  position:relative;
+}
+.mm-card h4{margin:0 0 6px; padding-right:34px}
+.mm-card p{margin:8px 0 0; font-size:15.5px}
+.mm-card table{margin:12px 0 0; font-size:15px}
+.mm-card td{padding:5px 9px}
+.mm-n{
+  position:absolute; top:14px; right:14px;
+  width:24px; height:24px; border-radius:50%; background:var(--soft);
+  color:var(--muted); font-size:13px; font-weight:700;
+  display:flex; align-items:center; justify-content:center;
+}
+.mm-hint{color:var(--muted); font-size:14.5px !important}
+
+/* ---------------- колода ---------------- */
+/* кнопки стоят по центру: и скачивание колоды, и финальные CTA */
+.dl,.outro-cta{margin:26px 0; text-align:center}
+.dl-btn{
+  display:inline-block; padding:14px 26px; border-radius:10px;
+  background:var(--ink); color:#fff !important; text-decoration:none;
+  font-weight:600; font-size:16.5px;
+}
+.dl-btn:hover{background:#000}
+
+/* главная кнопка покупки — единственный акцентный цвет на странице */
+.buy-btn{background:var(--accent)}
+.buy-btn:hover{background:#8e1b21}
+
+/* вторая кнопка в паре — та же форма, но тихая */
+.ghost-btn{
+  background:transparent; color:var(--ink) !important;
+  border:1px solid var(--line);
+}
+.ghost-btn:hover{background:var(--soft)}
+
+/* пара кнопок в финале: рядом на десктопе, друг под другом на телефоне */
+.outro-cta{display:flex; flex-wrap:wrap; gap:12px; justify-content:center}
+.cta-note{text-align:center; font-size:15px; color:var(--muted); margin:14px 0 0}
+
+.howto{
+  border:1px solid var(--line); border-radius:12px; padding:6px 22px 18px;
+  margin:26px 0; background:var(--soft);
+}
+.howto-title{
+  font-size:12px; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--muted); margin:16px 0 0;
+}
+.howto ol{margin:12px 0 0; font-size:16px}
+.howto-tempo{
+  margin:16px 0 0; padding:14px 16px; background:#fff;
+  border:1px solid var(--line); border-radius:9px; font-size:15.5px;
+}
+.howto-tempo p{margin:0}
+
+/* ---------------- финал ---------------- */
+.magnet-outro{margin-top:8px}
+.magnet-outro h2{border-bottom:0; margin-bottom:6px}
+
+@media (max-width:560px){
+  body{font-size:16px}
+  .lesson{padding:0 16px 60px}
+  .dl-btn{display:block; text-align:center}
+  .magnet-author{display:block}
+  .magnet-avatar{width:52%; max-width:none; margin-bottom:14px}
+  .outro-cta{display:block}
+  .outro-cta .dl-btn+.dl-btn{margin-top:10px}
+  h2{margin-top:40px}
+}
+
+
+/* --- упражнения: exercise-styles.css урока, как есть --- */
+
+/* =====================================================================
+   Стиль упражнений «подстановка слов» — «тетрадный лист» (2026-07-24)
+   ---------------------------------------------------------------------
+   Это ИСХОДНИК стиля, не скоупленный по блоку. Платформа xl.ru скоупит
+   CSS сама (`#e-<id>-<n> .fill-blank`), поэтому в редактор блока урока
+   вставляется этот файл как есть.
+
+   В локальное превью он попадает так:
+       python3 course-rebuild-work/preview/apply-exercise-css.py
+   — скрипт прописывает scope и вклеивает результат в
+   `course-rebuild-work/preview/platform.css` между маркерами.
+
+   Принципы (правки пользователя 2026-07-24):
+   - Никакой карточки: ни фона, ни тени. Блок держат тихая линия слева
+     и отступ.
+   - Обратная связь = цвет слова + цвет линии под ним. Никаких цветных
+     плашек-фонов; толщина линии всегда 2px.
+   - Ничто не должно двигать текст: поле фиксированной ширины, значок
+     подсказки приподнят через position:relative, поп-ап абсолютный,
+     строка результата стоит справа от кнопок и не добавляет высоты,
+     у кнопок нет transform/тени при наведении.
+   - Курсор над знаком подсказки не меняется.
+   Цвета фидбэка (зелёный/красный/синий) задаются в fill-in-the-gaps.js
+   — константа LINE.
+   ===================================================================== */
+
+/* блок упражнения: тихая линия слева + отступ */
+.fill-blanks-quiz {
+  margin: 1.1em 0 1.9em;
+  padding: 2px 0 0 22px;
+  background: none;
+  border: 0;
+  border-left: 3px solid #dfe3e9;
+  border-radius: 0;
+  box-shadow: none;
+  color: inherit;
+  line-height: inherit;
+  /* кнопки и результат в одной строке — линия слева кончается на кнопке */
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  row-gap: 16px;
+}
+
+.fill-blanks-content {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.fill-blanks-content p {
+  margin: 0 0 1.05em;
+}
+
+.fill-blanks-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* пропуск */
+.fill-blank {
+  position: relative;
+}
+
+.fill-blank input {
+  font: inherit;
+  font-size: 1em;
+  color: #111;
+  width: 120px;
+  background: transparent;
+  line-height: 1.15;
+  border: 0;
+  border-bottom: 2px solid #c7cbd2;
+  border-radius: 0;
+  padding: 0 3px 1px;
+  margin: 0 1px;
+  outline: none;
+  vertical-align: baseline;
+  transition: border-bottom-color .15s ease, color .15s ease;
+}
+
+.fill-blank input:hover {
+  border-bottom-color: #9aa0a8;
+}
+
+.fill-blank input:focus {
+  border-bottom-color: #111;
+}
+
+/* пропуск-выбор: тот же тетрадный вид, но кликается и раскрывает список.
+   Ширину не задаём — браузер сам подгоняет её под самый длинный вариант. */
+.fill-blank select.fill-choice {
+  font: inherit;
+  font-size: 1em;
+  color: #111;
+  background: transparent;
+  line-height: 1.15;
+  border: 0;
+  border-bottom: 2px solid #c7cbd2;
+  border-radius: 0;
+  padding: 0 18px 1px 3px;
+  margin: 0 1px;
+  outline: none;
+  cursor: pointer;
+  vertical-align: baseline;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* галочка «раскрыть» — inline-svg, чтобы не тянуть картинку с сервера */
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%238a9099' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 3px center;
+  transition: border-bottom-color .15s ease, color .15s ease;
+}
+
+.fill-blank select.fill-choice:hover {
+  border-bottom-color: #9aa0a8;
+}
+
+.fill-blank select.fill-choice:focus {
+  border-bottom-color: #111;
+}
+
+/* пока ничего не выбрано — «выберите» стоит бледно, чтобы не читалось как ответ.
+   Держится на required + :invalid; после проверки цвет ставится инлайном и перебивает. */
+.fill-blank select.fill-choice:invalid {
+  color: #b0b5bd;
+}
+
+/* сам выпадающий список рисует система — возвращаем ему обычный цвет текста */
+.fill-blank select.fill-choice option {
+  color: #111;
+}
+
+.fill-blank select.fill-choice option[value=""] {
+  color: #b0b5bd;
+}
+
+/* обёртка «знак вопроса + поп-ап» */
+.hint-wrap {
+  display: inline-block;
+  position: relative;
+  vertical-align: baseline;
+  top: -.42em;
+  margin-left: 2px;
+}
+
+.hint-icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+  line-height: 15px;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #a3a8b0;
+  background: transparent;
+  border: 1px solid #d3d6dc;
+  border-radius: 50%;
+  cursor: default;
+  user-select: none;
+  transition: color .15s ease, border-color .15s ease, background-color .15s ease;
+}
+
+.hint-icon:hover,
+.hint-icon:focus {
+  color: #fff;
+  background: #3a4150;
+  border-color: #3a4150;
+  outline: none;
+}
+
+/* всплывающая подсказка */
+.hint-text {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 9px);
+  transform: translateX(-50%);
+  display: block;
+  visibility: hidden;
+  opacity: 0;
+  background: #2b313c;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.45;
+  font-weight: 400;
+  padding: 9px 13px;
+  border-radius: 8px;
+  width: max-content;
+  max-width: 260px;
+  text-align: left;
+  box-shadow: 0 6px 20px rgba(20, 24, 32, .22);
+  z-index: 60;
+  pointer-events: none;
+  transition: opacity .16s ease, visibility .16s ease;
+}
+
+.hint-text.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+.hint-text::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border: 6px solid transparent;
+  border-top-color: #2b313c;
+}
+
+/* кнопки: одна основная + две ссылки */
+.fill-blanks-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 0;
+  flex-wrap: wrap;
+}
+
+.fill-blanks-actions button {
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color .15s ease, color .15s ease;
+}
+
+button.check-answers-btn {
+  background: #1f2430;
+  color: #fff;
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 22px;
+  font-weight: 500;
+}
+
+button.check-answers-btn:hover {
+  background: #3a4150;
+}
+
+button.reset-btn,
+button.show-answers-btn {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: #8a9099;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+button.reset-btn:hover,
+button.show-answers-btn:hover {
+  color: #111;
+}
+
+/* результат — справа от кнопок, высоты блоку не добавляет */
+.fill-blanks-result {
+  grid-column: 2;
+  align-self: center;
+  margin-top: 0;
+  padding-left: 22px;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 500;
+  opacity: 0;
+  transition: opacity .2s ease;
+  background: none;
+  border: 0;
+}
+
+.fill-blanks-result.visible {
+  opacity: 1;
+}
+
+.fill-blanks-result.correct {
+  color: #3f7d46;
+}
+
+.fill-blanks-result.incorrect {
+  color: #b4232a;
+}
+
+@media only screen and (max-width: 768px) {
+  .fill-blanks-quiz {
+    padding-left: 16px;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .fill-blanks-result {
+    grid-column: 1;
+    padding-left: 0;
+  }
+}
+
+/* =====================================================================
+   Дополнение к стилям урока: блоки, которые на платформе xl.ru были
+   набраны инлайновыми стилями. Здесь они вынесены в классы — вёрстка
+   урока остаётся чистой, а правка цвета делается в одном месте.
+   ===================================================================== */
+
+/* ---------------- медиа ---------------- */
+video{display:block; width:100%; margin:18px 0; background:#000; border-radius:10px}
+
+/* Заглушка вместо видео или колоды, которых нет в онлайн-версии сайта
+   (см. shared/offline-assets.js). Локально не появляется. */
+.asset-missing{
+  margin:18px 0; padding:14px 18px; border:1px dashed var(--line);
+  border-radius:10px; background:var(--soft);
+  color:var(--muted); font-size:15px; font-style:italic;
+}
+.toc li.asset-missing{
+  display:block; margin:0; border:0; border-bottom:1px solid var(--line);
+  border-radius:0; background:none; padding:11px 0;
+}
+
+/* ---------------- врезки ---------------- */
+/* жёлтая: ловушка, разбор, «как учить» */
+.note{
+  background:linear-gradient(180deg,#fffaf3 0%,#fff5e9 100%);
+  border:1px solid #f6d9b0; border-left:5px solid #f59e0b;
+  border-radius:8px; padding:16px 20px; margin:24px 0;
+}
+.note-title{
+  font-size:12px; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+  color:#b45309; margin-bottom:8px;
+}
+.note-body{color:#4a3b2a; line-height:1.65}
+.note-body p{margin:0 0 .9em}
+.note-body p:last-child{margin-bottom:0}
+
+/* зелёная: образец для самопроверки */
+.sample{
+  background:#f4f9f4; border:1px solid #cfe3cf; border-radius:8px;
+  padding:16px 20px; margin:24px 0;
+}
+.sample-title{
+  font-size:12px; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+  color:#3f7d46; margin-bottom:8px;
+}
+.sample-body{color:#2f4a33; line-height:1.7; font-style:italic}
+
+/* подсветка слова внутри абзаца */
+.hl{background:#fff3e6; color:#c2410c; padding:.05em .32em; border-radius:4px; font-weight:600}
+
+/* ---------------- словарь ---------------- */
+.voc{display:flex; flex-wrap:wrap; gap:6px 24px; padding:14px 0; border-bottom:1px solid #eef0f3}
+.voc-l{flex:0 0 210px; max-width:210px}
+.voc-r{flex:1 1 320px; min-width:0}
+.voc-word{font-weight:700; line-height:1.45}
+.voc-ipa{
+  font-family:'Charis SIL','Gentium Plus','Doulos SIL','Lucida Sans Unicode','Lucida Grande',
+             'Segoe UI','Noto Sans','DejaVu Sans','Arial Unicode MS',sans-serif;
+  color:#8a9099; font-weight:400; font-size:.92em; margin-left:6px; white-space:nowrap;
+}
+.voc-forms{font-size:12.5px; color:#8a9099; margin-top:2px; line-height:1.4}
+/* строка частотности: место слова в частотном списке курса */
+.voc-freq{font-size:11px; letter-spacing:.06em; margin-top:3px; color:#9aa3ad}
+.dot-on{color:#e0a11a; letter-spacing:2px}
+.dot-off{color:#dfe3e9; letter-spacing:2px}
+.voc-rank{margin-left:5px}
+/* слово за пределами первых 300: точного номера у нас нет */
+.voc-freq-out{font-size:11px; color:#b9bfc7; letter-spacing:.02em}
+.voc-ru{font-weight:500}
+.voc-ex{margin-top:3px}
+.voc-ex-ru{color:#949aa4; font-size:.94em; line-height:1.5}
+.voc-note{
+  font-size:13px; line-height:1.55; color:#9a7b45; margin-top:8px;
+  border-left:2px solid #f2dfb8; padding-left:10px;
+}
+/* род существительного цветом — те же три цвета, что в колоде Anki */
+.m{color:#2f6fb0; font-weight:700}
+.f{color:#c0392b; font-weight:700}
+.n{color:#3f7d46; font-weight:700}
+
+/* ---------------- навигация между уроками ---------------- */
+.lesson-nav{
+  display:flex; align-items:center; gap:16px;
+  margin:52px 0 0; padding-top:22px; border-top:2px solid var(--ink);
+  font-size:15.5px;
+}
+.lesson-nav a{text-decoration:none}
+.lesson-nav a:hover{text-decoration:underline}
+/* боковые подписи ужимаются многоточием, середина не переносится */
+.lesson-nav .nav-prev,
+.lesson-nav .nav-next{
+  flex:1 1 0; min-width:0;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.lesson-nav .nav-next{text-align:right}
+.lesson-nav .nav-mid{flex:0 0 auto; white-space:nowrap; color:var(--muted)}
+.lesson-nav .nav-off{color:#c3c7cd}
+
+@media (max-width:560px){
+  .lesson-nav{flex-direction:column; align-items:stretch; text-align:center; gap:10px}
+  .voc-l{flex:1 1 100%; max-width:none}
+}

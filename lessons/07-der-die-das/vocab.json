@@ -1,0 +1,169 @@
+[
+ {
+  "lemma": "Sache", "gender": "die", "rank": 239, "ipa": "ˈzaxə",
+  "forms": "мн. die Sachen",
+  "ru": "вещь; дело",
+  "ex": "In meinem Zimmer gibt es viele Sachen.",
+  "ex_ru": "В моей комнате много вещей.",
+  "note": "Во множественном числе Sachen — «вещи» вообще: одежда, барахло, дела."
+ },
+ {
+  "lemma": "Buch", "gender": "das", "rank": 222, "ipa": "buːx",
+  "forms": "мн. die Bücher",
+  "ru": "книга",
+  "ex": "Das ist ein Buch. Das Buch ist sehr interessant.",
+  "ex_ru": "Это книга. Книга очень интересная."
+ },
+ {
+  "lemma": "Bild", "gender": "das", "rank": 181, "ipa": "bɪlt",
+  "forms": "мн. die Bilder",
+  "ru": "картина; изображение, фото",
+  "ex": "Das Bild zeigt Hamburg.",
+  "ex_ru": "На картине изображён Гамбург."
+ },
+ {
+  "lemma": "Auto", "gender": "das", "rank": 279, "ipa": "ˈaʊ̯to",
+  "forms": "мн. die Autos",
+  "ru": "машина, автомобиль",
+  "ex": "Das Auto ist sehr alt, aber es funktioniert noch gut.",
+  "ex_ru": "Машина очень старая, но всё ещё хорошо работает.",
+  "note": "mit dem Auto fahren — ездить на машине."
+ },
+ {
+  "lemma": "Tisch", "gender": "der", "ipa": "tɪʃ",
+  "forms": "мн. die Tische",
+  "ru": "стол",
+  "ex": "Der Tisch ist sehr praktisch für die Küche.",
+  "ex_ru": "Стол очень практичен для кухни.",
+  "note": "auf dem Tisch — на столе (где?), auf den Tisch — на стол (куда?)."
+ },
+ {
+  "lemma": "Stuhl", "gender": "der", "ipa": "ʃtuːl",
+  "forms": "мн. die Stühle",
+  "ru": "стул",
+  "ex": "Das ist ein Stuhl. Der Stuhl ist aus Holz.",
+  "ex_ru": "Это стул. Стул из дерева."
+ },
+ {
+  "lemma": "Lampe", "gender": "die", "ipa": "ˈlampə",
+  "forms": "мн. die Lampen",
+  "ru": "лампа",
+  "ex": "Das ist eine Lampe. Die Lampe ist neu.",
+  "ex_ru": "Это лампа. Лампа новая.",
+  "note": "Классическая пара для тренировки артиклей: eine Lampe → die Lampe."
+ },
+ {
+  "lemma": "Handy", "gender": "das", "ipa": "ˈhɛndi",
+  "forms": "мн. die Handys",
+  "ru": "мобильный телефон",
+  "ex": "Das ist ein Handy. Das Handy ist neu.",
+  "ex_ru": "Это мобильный телефон. Телефон новый.",
+  "note": "Слово выглядит английским, но в английском так телефон не называют — это чисто немецкое."
+ },
+ {
+  "lemma": "Werkzeug", "gender": "das", "ipa": "ˈvɛʁkˌt͡sɔɪ̯k",
+  "forms": "мн. die Werkzeuge",
+  "ru": "инструмент",
+  "ex": "Das ist ein Werkzeug für die Reparatur.",
+  "ex_ru": "Это инструмент для ремонта."
+ },
+ {
+  "lemma": "Schraubenzieher", "gender": "der", "ipa": "ˈʃʁaʊ̯bn̩ˌt͡siːɐ",
+  "forms": "мн. die Schraubenzieher",
+  "ru": "отвёртка",
+  "ex": "Der Schraubenzieher liegt auf dem Tisch.",
+  "ex_ru": "Отвёртка лежит на столе.",
+  "note": "Дословно «крутильщик винтов»: Schrauben + ziehen."
+ },
+ {
+  "lemma": "Zange", "gender": "die", "ipa": "ˈt͡saŋə",
+  "forms": "мн. die Zangen",
+  "ru": "плоскогубцы, клещи",
+  "ex": "Die Zange ist sehr nützlich.",
+  "ex_ru": "Плоскогубцы очень полезны.",
+  "note": "По-немецки в единственном числе: eine Zange, а не «одни плоскогубцы»."
+ },
+ {
+  "lemma": "Holz", "gender": "das", "ipa": "hɔlt͡s",
+  "forms": "мн. die Hölzer",
+  "ru": "дерево (материал)",
+  "ex": "Der Stuhl ist aus Holz.",
+  "ex_ru": "Стул из дерева.",
+  "note": "Материал идёт с предлогом aus: aus Holz, aus Glas."
+ },
+ {
+  "lemma": "Zimmer", "gender": "das", "ipa": "ˈt͡sɪmɐ",
+  "forms": "мн. die Zimmer",
+  "ru": "комната",
+  "ex": "Die Lampe passt gut zu deinem Zimmer.",
+  "ex_ru": "Лампа хорошо подходит к твоей комнате.",
+  "note": "Во множественном числе не меняется: ein Zimmer — zwei Zimmer."
+ },
+ {
+  "lemma": "stehen", "rank": 41, "ipa": "ˈʃteːən",
+  "forms": "stand · hat gestanden",
+  "ru": "стоять",
+  "ex": "Auf dem Tisch steht eine Lampe.",
+  "ex_ru": "На столе стоит лампа.",
+  "note": "Немцы всегда уточняют положение вещи: стоит, лежит или висит."
+ },
+ {
+  "lemma": "liegen", "rank": 53, "ipa": "ˈliːɡn̩",
+  "forms": "lag · hat gelegen",
+  "ru": "лежать",
+  "ex": "Neben der Lampe liegt ein Buch.",
+  "ex_ru": "Рядом с лампой лежит книга."
+ },
+ {
+  "lemma": "sehen", "rank": 36, "ipa": "ˈzeːən",
+  "forms": "sah · hat gesehen",
+  "ru": "видеть",
+  "ex": "Das Handy sieht teuer aus.",
+  "ex_ru": "Телефон выглядит дорого.",
+  "note": "aussehen — «выглядеть»: sieht gut aus, sieht teuer aus. Приставка уходит в конец."
+ },
+ {
+  "lemma": "finden", "rank": 51, "ipa": "ˈfɪndn̩",
+  "forms": "fand · hat gefunden",
+  "ru": "находить; считать (о мнении)",
+  "ex": "Herr Müller findet das Auto sehr interessant.",
+  "ex_ru": "Господин Мюллер считает машину очень интересной.",
+  "note": "Ich finde das gut — «по-моему, это хорошо», самый частый способ сказать своё мнение."
+ },
+ {
+  "lemma": "alt", "rank": 75, "ipa": "alt",
+  "forms": "älter, am ältesten",
+  "ru": "старый",
+  "ex": "Die Tasche ist schon alt, aber ich mag sie sehr.",
+  "ex_ru": "Сумка уже старая, но она мне очень нравится.",
+  "note": "Про возраст человека тоже alt: Wie alt bist du?"
+ },
+ {
+  "lemma": "teuer", "ipa": "ˈtɔɪ̯ɐ",
+  "forms": "teurer, am teuersten",
+  "ru": "дорогой (по цене)",
+  "ex": "Oh, das Handy sieht teuer aus.",
+  "ex_ru": "О, телефон выглядит дорого.",
+  "note": "Противоположность — billig или günstig («недорогой»)."
+ },
+ {
+  "lemma": "verschieden", "rank": 182, "ipa": "fɛɐ̯ˈʃiːdn̩",
+  "ru": "разный, различный",
+  "ex": "In der Werkstatt gibt es verschiedene Werkzeuge.",
+  "ex_ru": "В мастерской есть разные инструменты."
+ },
+ {
+  "lemma": "genau", "rank": 103, "ipa": "ɡəˈnaʊ̯",
+  "ru": "точно, именно так",
+  "ex": "Der Tisch ist sehr praktisch für die Küche. – Genau.",
+  "ex_ru": "Стол очень практичен для кухни. – Именно.",
+  "note": "Одно слово Genau! — самый частый способ согласиться с собеседником."
+ },
+ {
+  "lemma": "da", "rank": 15, "ipa": "daː",
+  "ru": "там, тут",
+  "ex": "Und was ist das da drüben?",
+  "ex_ru": "А что это вон там?",
+  "note": "da drüben — «вон там», указание на дальний предмет."
+ }
+]

@@ -1,0 +1,205 @@
+[
+ {
+  "lemma": "übrigens",
+  "ipa": "ˈyːbʁɪɡn̩s",
+  "ru": "кстати, между прочим",
+  "ex": "Ich sammle übrigens verschiedene Teesorten aus aller Welt.",
+  "ex_ru": "Я, кстати, собираю разные сорта чая со всего мира.",
+  "note": "Вставляется в середину фразы и добавляет попутное замечание."
+ },
+ {
+  "lemma": "Samstag",
+  "gender": "der",
+  "ipa": "ˈzamsˌtaːk",
+  "forms": "мн. die Samstage",
+  "ru": "суббота",
+  "ex": "Hast du am Samstag Zeit?",
+  "ex_ru": "У тебя есть время в субботу?",
+  "note": "На юге Германии говорят Samstag, на севере — Sonnabend."
+ },
+ {
+  "lemma": "Kuchen",
+  "gender": "der",
+  "ipa": "ˈkuːxn̩",
+  "forms": "мн. die Kuchen",
+  "ru": "пирог, торт",
+  "ex": "Sie machen fantastischen Kuchen dort.",
+  "ex_ru": "Там делают фантастические пироги.",
+  "note": "Kaffee und Kuchen — немецкая традиция послеобеденного кофе с пирогом."
+ },
+ {
+  "lemma": "backen",
+  "ipa": "ˈbakn̩",
+  "forms": "backte · hat gebacken",
+  "ru": "печь, выпекать",
+  "ex": "Ich backe auch manchmal selbst.",
+  "ex_ru": "Я тоже иногда пеку сама.",
+  "note": "die Bäckerei (булочная) — от этого же корня."
+ },
+ {
+  "lemma": "Spezialität",
+  "gender": "die",
+  "ipa": "ʃpet͡si̯aliˈtɛːt",
+  "forms": "мн. die Spezialitäten",
+  "ru": "фирменное блюдо; особенность",
+  "ex": "Meine Spezialität ist Zitronenkuchen mit Lavendel.",
+  "ex_ru": "Моё фирменное блюдо — лимонный пирог с лавандой."
+ },
+ {
+  "lemma": "Tee",
+  "gender": "der",
+  "ipa": "teː",
+  "forms": "мн. die Tees",
+  "ru": "чай",
+  "ex": "Ich trinke auch gerne Tee, besonders im Winter.",
+  "ex_ru": "Я тоже люблю чай, особенно зимой."
+ },
+ {
+  "lemma": "sammeln",
+  "ipa": "ˈzaml̩n",
+  "forms": "sammelte · hat gesammelt",
+  "ru": "собирать, коллекционировать",
+  "ex": "Ich sammle verschiedene Teesorten aus aller Welt.",
+  "ex_ru": "Я собираю разные сорта чая со всего мира.",
+  "note": "В формах теряет -e-: ich sammle, du sammelst."
+ },
+ {
+  "lemma": "Welt",
+  "gender": "die",
+  "rank": 100,
+  "ipa": "vɛlt",
+  "forms": "мн. die Welten",
+  "ru": "мир, свет",
+  "ex": "Teesorten aus aller Welt.",
+  "ex_ru": "Сорта чая со всего мира.",
+  "note": "aus aller Welt — «со всего света», устойчивое выражение."
+ },
+ {
+  "lemma": "Gedichtband",
+  "gender": "der",
+  "ipa": "ɡəˈdɪçtˌbant",
+  "forms": "мн. die Gedichtbände",
+  "ru": "сборник стихов",
+  "ex": "Wir können über die neuen Gedichtbände sprechen.",
+  "ex_ru": "Мы можем поговорить о новых сборниках стихов.",
+  "note": "das Gedicht + der Band (том)."
+ },
+ {
+  "lemma": "Poesie",
+  "gender": "die",
+  "ipa": "poeˈziː",
+  "forms": "мн. die Poesien",
+  "ru": "поэзия",
+  "ex": "Ich habe frische Bücher für die Poesie-Ecke bekommen.",
+  "ex_ru": "Я получила новые книги для уголка поэзии."
+ },
+ {
+  "lemma": "Ausstellung",
+  "gender": "die",
+  "ipa": "ˈaʊ̯sˌʃtɛlʊŋ",
+  "forms": "мн. die Ausstellungen",
+  "ru": "выставка",
+  "ex": "Danach besuchen wir eine Ausstellung.",
+  "ex_ru": "После этого мы идём на выставку."
+ },
+ {
+  "lemma": "Seminar",
+  "gender": "das",
+  "ipa": "zemiˈnaːɐ̯",
+  "forms": "мн. die Seminare",
+  "ru": "семинар (в вузе)",
+  "ex": "Nach meinem Seminar bin ich frei.",
+  "ex_ru": "После семинара я свободна."
+ },
+ {
+  "lemma": "Interesse",
+  "gender": "das",
+  "ipa": "ɪntəˈʁɛsə",
+  "forms": "мн. die Interessen",
+  "ru": "интерес",
+  "ex": "Sie haben beide Interesse an Gedichten.",
+  "ex_ru": "У обеих есть интерес к стихам.",
+  "note": "Interesse an + Dativ — интерес к чему-то."
+ },
+ {
+  "lemma": "Lieblingscafé",
+  "gender": "das",
+  "ipa": "ˈliːplɪŋskaˌfeː",
+  "forms": "мн. die Lieblingscafés",
+  "ru": "любимое кафе",
+  "ex": "In meinem Lieblingscafé am Marktplatz.",
+  "ex_ru": "В моём любимом кафе на рыночной площади.",
+  "note": "Lieblings- приставляется к чему угодно: Lieblingsbuch, Lieblingsjahreszeit."
+ },
+ {
+  "lemma": "Teeauswahl",
+  "gender": "die",
+  "ipa": "ˈteːˌʔaʊ̯svaːl",
+  "forms": "мн. die Teeauswahlen",
+  "ru": "выбор чая",
+  "ex": "Sie haben dort eine wunderbare Teeauswahl.",
+  "ex_ru": "У них там замечательный выбор чая.",
+  "note": "die Auswahl — выбор, ассортимент."
+ },
+ {
+  "lemma": "vorschlagen",
+  "ipa": "ˈfoːɐ̯ˌʃlaːɡn̩",
+  "forms": "schlug vor · hat vorgeschlagen",
+  "ru": "предлагать",
+  "ex": "Clara schlägt einen anderen Termin vor.",
+  "ex_ru": "Клара предлагает другое время.",
+  "note": "Приставка отделяемая, корень меняется: du schlägst vor."
+ },
+ {
+  "lemma": "stattfinden",
+  "ipa": "ˈʃtatˌfɪndn̩",
+  "forms": "fand statt · hat stattgefunden",
+  "ru": "состояться, проходить",
+  "ex": "Das Treffen findet am Dienstag statt.",
+  "ex_ru": "Встреча состоится во вторник.",
+  "note": "О событиях: Der Kurs findet im Kulturzentrum statt."
+ },
+ {
+  "lemma": "probieren",
+  "ipa": "pʁoˈbiːʁən",
+  "forms": "probierte · hat probiert",
+  "ru": "пробовать",
+  "ex": "Möchtest du einen Schokoladenkuchen probieren?",
+  "ex_ru": "Хочешь попробовать шоколадный торт?",
+  "note": "У глаголов на -ieren в Partizip II нет ge-: hat probiert."
+ },
+ {
+  "lemma": "entspannen",
+  "ipa": "ɛntˈʃpanən",
+  "forms": "entspannte · hat entspannt",
+  "ru": "расслаблять(ся)",
+  "ex": "Manchmal lese ich Gedichte zum Entspannen.",
+  "ex_ru": "Иногда я читаю стихи, чтобы расслабиться.",
+  "note": "zum Entspannen — «для расслабления»: глагол превращается в существительное с большой буквы."
+ },
+ {
+  "lemma": "fantastisch",
+  "ipa": "fanˈtastɪʃ",
+  "ru": "фантастический, потрясающий",
+  "ex": "Sie machen fantastischen Kuchen dort.",
+  "ex_ru": "Там делают потрясающие пироги."
+ },
+ {
+  "lemma": "doch",
+  "rank": 32,
+  "ipa": "dɔx",
+  "ru": "же, ведь; всё же",
+  "ex": "Du magst doch Gedichte, oder?",
+  "ex_ru": "Ты ведь любишь стихи, правда?",
+  "note": "В вопросе смягчает и подразумевает согласие — как русское «ведь»."
+ },
+ {
+  "lemma": "mehr",
+  "rank": 17,
+  "ipa": "meːɐ̯",
+  "ru": "больше",
+  "ex": "Ich möchte mehr über deine Teesammlung erfahren.",
+  "ex_ru": "Я хочу больше узнать о твоей коллекции чая.",
+  "note": "nicht mehr — «больше не»: Ich kann nicht mehr."
+ }
+]

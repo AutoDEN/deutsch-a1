@@ -1,0 +1,159 @@
+[
+ {
+  "lemma": "zahlen", "ipa": "ˈt͡saːlən",
+  "forms": "zahlte · hat gezahlt",
+  "ru": "платить",
+  "ex": "Clara zahlt heute für den Kaffee.",
+  "ex_ru": "Клара сегодня платит за кофе.",
+  "note": "Zahlen, bitte! — так просят счёт в кафе."
+ },
+ {
+  "lemma": "kosten", "ipa": "ˈkɔstn̩",
+  "forms": "kostete · hat gekostet",
+  "ru": "стоить",
+  "ex": "Was kostet das? – Es kostet zwei Euro.",
+  "ex_ru": "Сколько это стоит? – Это стоит два евро.",
+  "note": "Идёт без предлога и почти всегда в 3-м лице: Der Kaffee kostet zwei Euro."
+ },
+ {
+  "lemma": "Preis", "gender": "der", "rank": 254, "ipa": "pʁaɪ̯s",
+  "forms": "мн. die Preise",
+  "ru": "цена; приз",
+  "ex": "Die Zahlen von null bis zehn sind wichtig, um Preise zu verstehen.",
+  "ex_ru": "Числа от нуля до десяти важны, чтобы понимать цены."
+ },
+ {
+  "lemma": "Euro", "gender": "der", "rank": 139, "ipa": "ˈɔɪ̯ʁo",
+  "forms": "мн. die Euro (после числа не меняется)",
+  "ru": "евро",
+  "ex": "Das macht insgesamt neun Euro.",
+  "ex_ru": "Это составляет в общей сложности девять евро.",
+  "note": "После числа стоит в единственном числе: zwei Euro, nicht «Euros»."
+ },
+ {
+  "lemma": "Zahl", "gender": "die", "rank": 219, "ipa": "t͡saːl",
+  "forms": "мн. die Zahlen",
+  "ru": "число, цифра",
+  "ex": "Die Zahlen von null bis zehn sind wichtig.",
+  "ex_ru": "Числа от нуля до десяти важны.",
+  "note": "die Zahl — число как знак, die Nummer — номер (телефона, дома)."
+ },
+ {
+  "lemma": "zwei", "rank": 29, "ipa": "t͡svaɪ̯",
+  "ru": "два",
+  "ex": "Zwei Kaffee macht vier Euro.",
+  "ex_ru": "Два кофе стоят четыре евро.",
+  "note": "По телефону вместо zwei говорят zwo, чтобы не спутать с drei."
+ },
+ {
+  "lemma": "drei", "rank": 52, "ipa": "dʁaɪ̯",
+  "ru": "три",
+  "ex": "Ein Stück Kuchen kostet drei Euro.",
+  "ex_ru": "Кусок пирога стоит три евро."
+ },
+ {
+  "lemma": "vier", "rank": 132, "ipa": "fiːɐ̯",
+  "ru": "четыре",
+  "ex": "Zwei Kaffee macht vier Euro.",
+  "ex_ru": "Два кофе стоят четыре евро."
+ },
+ {
+  "lemma": "fünf", "rank": 200, "ipa": "fʏnf",
+  "ru": "пять",
+  "ex": "Das macht insgesamt fünf Euro.",
+  "ex_ru": "Это составляет в общей сложности пять евро."
+ },
+ {
+  "lemma": "zehn", "rank": 253, "ipa": "t͡seːn",
+  "ru": "десять",
+  "ex": "Hier sind zehn Euro.",
+  "ex_ru": "Вот десять евро."
+ },
+ {
+  "lemma": "insgesamt", "ipa": "ɪnsɡəˈzamt",
+  "ru": "в общей сложности, всего",
+  "ex": "Das macht insgesamt neun Euro.",
+  "ex_ru": "Это составляет в общей сложности девять евро."
+ },
+ {
+  "lemma": "zusammen", "ipa": "t͡suˈzamən",
+  "ru": "вместе",
+  "ex": "Wir bezahlen zusammen, nicht getrennt.",
+  "ex_ru": "Мы платим вместе, а не раздельно."
+ },
+ {
+  "lemma": "getrennt", "ipa": "ɡəˈtʁɛnt",
+  "ru": "раздельно",
+  "ex": "Möchten Sie zusammen oder getrennt zahlen?",
+  "ex_ru": "Вы хотите платить вместе или раздельно?",
+  "note": "Первый вопрос официанта в любом немецком кафе — будьте готовы ответить."
+ },
+ {
+  "lemma": "Kellner", "gender": "der", "ipa": "ˈkɛlnɐ",
+  "forms": "мн. die Kellner · ж. die Kellnerin",
+  "ru": "официант",
+  "ex": "Der Kellner bringt uns die Rechnung.",
+  "ex_ru": "Официант приносит нам счёт."
+ },
+ {
+  "lemma": "bringen", "rank": 99, "ipa": "ˈbʁɪŋən",
+  "forms": "brachte · hat gebracht",
+  "ru": "приносить",
+  "ex": "Der Kellner bringt uns die Rechnung.",
+  "ex_ru": "Официант приносит нам счёт.",
+  "note": "Кому приносят — в Dativ: bringt uns, bringt Ihnen."
+ },
+ {
+  "lemma": "bekommen", "rank": 144, "ipa": "bəˈkɔmən",
+  "forms": "bekam · hat bekommen",
+  "ru": "получать",
+  "ex": "Sie gibt dem Kellner zehn Euro und bekommt einen Euro zurück.",
+  "ex_ru": "Она даёт официанту десять евро и получает один евро сдачи.",
+  "note": "Не путайте с английским become: bekommen — «получать», а не «становиться»."
+ },
+ {
+  "lemma": "Stück", "gender": "das", "ipa": "ʃtʏk",
+  "forms": "мн. die Stücke",
+  "ru": "кусок, штука",
+  "ex": "Ein Stück Kuchen kostet drei Euro.",
+  "ex_ru": "Кусок пирога стоит три евро.",
+  "note": "После меры существительное идёт без артикля: ein Stück Kuchen."
+ },
+ {
+  "lemma": "Wasser", "gender": "das", "rank": 173, "ipa": "ˈvasɐ",
+  "forms": "без мн. ч.",
+  "ru": "вода",
+  "ex": "Ein Wasser kostet zwei Euro.",
+  "ex_ru": "Вода стоит два евро.",
+  "note": "В кафе ein Wasser значит «одну бутылку или стакан воды»."
+ },
+ {
+  "lemma": "Vorlesung", "gender": "die", "ipa": "ˈfoːɐ̯ˌleːzʊŋ",
+  "forms": "мн. die Vorlesungen",
+  "ru": "лекция",
+  "ex": "Lena hat gleich eine Vorlesung an der Universität.",
+  "ex_ru": "У Лены скоро лекция в университете."
+ },
+ {
+  "lemma": "müssen", "rank": 14, "ipa": "ˈmʏsn̩",
+  "forms": "musste · hat gemusst",
+  "ru": "быть должным, быть вынужденным",
+  "ex": "Komm, wir müssen los.",
+  "ex_ru": "Пойдём, нам пора.",
+  "note": "wir müssen los — «нам пора идти», глагол движения тут просто опускают."
+ },
+ {
+  "lemma": "gleich", "rank": 78, "ipa": "ɡlaɪ̯ç",
+  "ru": "сейчас, вот-вот; такой же",
+  "ex": "Ich habe gleich Vorlesung.",
+  "ex_ru": "У меня сейчас будет лекция.",
+  "note": "О времени gleich значит «через пару минут», а не «одинаковый»."
+ },
+ {
+  "lemma": "also", "rank": 30, "ipa": "ˈalzo",
+  "ru": "итак, значит",
+  "ex": "Also, zwei Kaffee macht vier Euro.",
+  "ex_ru": "Итак, два кофе — четыре евро.",
+  "note": "Слово-связка в начале подсчёта или вывода."
+ }
+]

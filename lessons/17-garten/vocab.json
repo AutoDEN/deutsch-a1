@@ -1,0 +1,168 @@
+[
+ {
+  "lemma": "Garten", "gender": "der", "ipa": "ˈɡaʁtn̩",
+  "forms": "мн. die Gärten",
+  "ru": "сад",
+  "ex": "Mein Garten ist mein kleines Paradies.",
+  "ex_ru": "Мой сад — мой маленький рай.",
+  "note": "В первом уроке слово встречалось для узнавания на слух; здесь разбираем его как активное."
+ },
+ {
+  "lemma": "Pflanze", "gender": "die", "ipa": "ˈp͡flant͡sə",
+  "forms": "мн. die Pflanzen",
+  "ru": "растение",
+  "ex": "Ich gieße die Pflanzen und entferne Unkraut.",
+  "ex_ru": "Я поливаю растения и удаляю сорняки."
+ },
+ {
+  "lemma": "pflanzen", "ipa": "ˈp͡flant͡sn̩",
+  "forms": "pflanzte · hat gepflanzt",
+  "ru": "сажать",
+  "ex": "Ich pflanze sie schon seit dreißig Jahren.",
+  "ex_ru": "Я сажаю их уже тридцать лет.",
+  "note": "Существительное die Pflanze и глагол pflanzen отличаются только окончанием."
+ },
+ {
+  "lemma": "gießen", "ipa": "ˈɡiːsn̩",
+  "forms": "goss · hat gegossen",
+  "ru": "поливать; лить",
+  "ex": "Jeden Morgen gieße ich die Pflanzen.",
+  "ex_ru": "Каждое утро я поливаю растения.",
+  "note": "Es gießt — «льёт как из ведра» о сильном дожде."
+ },
+ {
+  "lemma": "wachsen", "ipa": "ˈvaksn̩",
+  "forms": "wuchs · ist gewachsen",
+  "ru": "расти",
+  "ex": "In der Ecke wachsen Tomaten und Gurken.",
+  "ex_ru": "В углу растут помидоры и огурцы.",
+  "note": "Неправильный: du wächst, er wächst. Родственник aufwachsen из третьего урока."
+ },
+ {
+  "lemma": "entfernen", "ipa": "ɛntˈfɛʁnən",
+  "forms": "entfernte · hat entfernt",
+  "ru": "удалять, убирать",
+  "ex": "Ich entferne Unkraut.",
+  "ex_ru": "Я удаляю сорняки.",
+  "note": "Приставка ent- неотделяемая, в Partizip II нет ge-: hat entfernt."
+ },
+ {
+  "lemma": "Blume", "gender": "die", "ipa": "ˈbluːmə",
+  "forms": "мн. die Blumen",
+  "ru": "цветок",
+  "ex": "In meinem Garten habe ich viele schöne Blumen.",
+  "ex_ru": "В моём саду много красивых цветов.",
+  "note": "Букет — der Blumenstrauß; цветы дарят почти на любой визит в гости."
+ },
+ {
+  "lemma": "Rose", "gender": "die", "ipa": "ˈʁoːzə",
+  "forms": "мн. die Rosen",
+  "ru": "роза",
+  "ex": "Die Rosen sind mein besonderer Stolz.",
+  "ex_ru": "Розы — моя особая гордость."
+ },
+ {
+  "lemma": "Tulpe", "gender": "die", "ipa": "ˈtʊlpə",
+  "forms": "мн. die Tulpen",
+  "ru": "тюльпан",
+  "ex": "In meinem Garten habe ich gelbe Tulpen.",
+  "ex_ru": "В моём саду есть жёлтые тюльпаны."
+ },
+ {
+  "lemma": "Baum", "gender": "der", "ipa": "baʊ̯m",
+  "forms": "мн. die Bäume",
+  "ru": "дерево",
+  "ex": "In der Mitte des Gartens steht ein alter Apfelbaum.",
+  "ex_ru": "В центре сада стоит старая яблоня.",
+  "note": "der Apfelbaum — яблоня: Apfel + Baum."
+ },
+ {
+  "lemma": "Gemüse", "gender": "das", "ipa": "ɡəˈmyːzə",
+  "forms": "без мн. ч.",
+  "ru": "овощи",
+  "ex": "Frisches Gemüse aus dem eigenen Garten schmeckt am besten.",
+  "ex_ru": "Свежие овощи из собственного сада вкуснее всего.",
+  "note": "Собирательное и всегда в единственном числе, как das Obst (фрукты)."
+ },
+ {
+  "lemma": "Tomate", "gender": "die", "ipa": "toˈmaːtə",
+  "forms": "мн. die Tomaten",
+  "ru": "помидор",
+  "ex": "In der Ecke wachsen Tomaten und Gurken.",
+  "ex_ru": "В углу растут помидоры и огурцы."
+ },
+ {
+  "lemma": "Gurke", "gender": "die", "ipa": "ˈɡʊʁkə",
+  "forms": "мн. die Gurken",
+  "ru": "огурец",
+  "ex": "Meine Frau macht oft Salat mit den Gurken aus unserem Garten.",
+  "ex_ru": "Моя жена часто делает салат с огурцами из нашего сада."
+ },
+ {
+  "lemma": "Unkraut", "gender": "das", "ipa": "ˈʊnkʁaʊ̯t",
+  "forms": "мн. die Unkräuter (редко)",
+  "ru": "сорняк, сорняки",
+  "ex": "Jeden Morgen entferne ich Unkraut.",
+  "ex_ru": "Каждое утро я удаляю сорняки.",
+  "note": "un- здесь отрицание: das Kraut — трава, das Unkraut — «не та трава»."
+ },
+ {
+  "lemma": "Gartenarbeit", "gender": "die", "ipa": "ˈɡaʁtn̩ˌʔaʁbaɪ̯t",
+  "forms": "мн. die Gartenarbeiten",
+  "ru": "работа в саду",
+  "ex": "Die Gartenarbeit ist für mich entspannend.",
+  "ex_ru": "Работа в саду для меня расслабляющая."
+ },
+ {
+  "lemma": "Bank", "gender": "die", "ipa": "baŋk",
+  "forms": "мн. die Bänke (скамейки) · die Banken (банки)",
+  "ru": "скамейка; банк",
+  "ex": "Unter dem Baum steht eine Bank.",
+  "ex_ru": "Под деревом стоит скамейка.",
+  "note": "Два множественных числа для двух значений: die Bänke — скамейки, die Banken — банки."
+ },
+ {
+  "lemma": "Ecke", "gender": "die", "ipa": "ˈɛkə",
+  "forms": "мн. die Ecken",
+  "ru": "угол",
+  "ex": "In der Ecke wachsen Tomaten und Gurken.",
+  "ex_ru": "В углу растут помидоры и огурцы.",
+  "note": "an der Ecke — на углу улицы, in der Ecke — в углу комнаты."
+ },
+ {
+  "lemma": "Mitte", "gender": "die", "ipa": "ˈmɪtə",
+  "forms": "без мн. ч.",
+  "ru": "середина, центр",
+  "ex": "In der Mitte des Gartens steht ein alter Apfelbaum.",
+  "ex_ru": "В середине сада стоит старая яблоня."
+ },
+ {
+  "lemma": "aussehen", "rank": 203, "ipa": "ˈaʊ̯sˌz̥eːən",
+  "forms": "sah aus · hat ausgesehen",
+  "ru": "выглядеть",
+  "ex": "Ihr Garten sieht wunderschön aus.",
+  "ex_ru": "Ваш сад выглядит чудесно.",
+  "note": "Приставка отделяемая: Es sieht gut aus."
+ },
+ {
+  "lemma": "fallen", "rank": 252, "ipa": "ˈfalən",
+  "forms": "fiel · ist gefallen",
+  "ru": "падать",
+  "ex": "Im Herbst fallen viele Äpfel vom Baum.",
+  "ex_ru": "Осенью с дерева падает много яблок.",
+  "note": "Неправильный: du fällst, er fällt. В Perfekt с sein — это движение."
+ },
+ {
+  "lemma": "fast", "rank": 134, "ipa": "fast",
+  "ru": "почти",
+  "ex": "Der Baum ist fast so alt wie unser Haus.",
+  "ex_ru": "Дерево почти такое же старое, как наш дом.",
+  "note": "so … wie — «такой же …, как»: fast so alt wie."
+ },
+ {
+  "lemma": "direkt", "rank": 273, "ipa": "diˈʁɛkt",
+  "ru": "прямой; прямо, непосредственно",
+  "ex": "Das frische Gemüse kommt direkt aus seinem eigenen Garten.",
+  "ex_ru": "Свежие овощи идут прямо из его собственного сада."
+ }
+]

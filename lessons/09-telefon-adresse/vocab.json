@@ -1,0 +1,213 @@
+[
+ {
+  "lemma": "Nummer",
+  "gender": "die",
+  "ipa": "ˈnʊmɐ",
+  "forms": "мн. die Nummern",
+  "ru": "номер",
+  "ex": "Meine Nummer ist 0157 42 36 890.",
+  "ex_ru": "Мой номер 0157 42 36 890.",
+  "note": "die Nummer — номер телефона или дома, die Zahl — число как таковое."
+ },
+ {
+  "lemma": "Telefonnummer",
+  "gender": "die",
+  "ipa": "teleˈfoːnˌnʊmɐ",
+  "forms": "мн. die Telefonnummern",
+  "ru": "номер телефона",
+  "ex": "Wie ist deine Telefonnummer?",
+  "ex_ru": "Какой у тебя номер телефона?",
+  "note": "Спрашивают через wie («как»), а не was: Wie ist deine Nummer?"
+ },
+ {
+  "lemma": "Adresse",
+  "gender": "die",
+  "ipa": "aˈdʁɛsə",
+  "forms": "мн. die Adressen",
+  "ru": "адрес",
+  "ex": "Wie ist Ihre Adresse?",
+  "ex_ru": "Какой у Вас адрес?"
+ },
+ {
+  "lemma": "Straße",
+  "gender": "die",
+  "ipa": "ˈʃtʁaːsə",
+  "forms": "мн. die Straßen · сокр. Str.",
+  "ru": "улица",
+  "ex": "Ich wohne in der Lindenstraße 27.",
+  "ex_ru": "Я живу на Линденштрассе, 27.",
+  "note": "В адресе название улицы пишется слитно: Lindenstraße, Bergstraße."
+ },
+ {
+  "lemma": "Haus",
+  "gender": "das",
+  "rank": 84,
+  "ipa": "haʊ̯s",
+  "forms": "мн. die Häuser",
+  "ru": "дом",
+  "ex": "In welchem Haus wohnen Sie?",
+  "ex_ru": "В каком доме Вы живёте?",
+  "note": "nach Hause — домой (куда), zu Hause — дома (где)."
+ },
+ {
+  "lemma": "Wohnung",
+  "gender": "die",
+  "ipa": "ˈvoːnʊŋ",
+  "forms": "мн. die Wohnungen",
+  "ru": "квартира",
+  "ex": "Das ist nicht weit von meiner Wohnung!",
+  "ex_ru": "Это недалеко от моей квартиры!"
+ },
+ {
+  "lemma": "Stock",
+  "gender": "der",
+  "ipa": "ʃtɔk",
+  "forms": "мн. die Stockwerke",
+  "ru": "этаж",
+  "ex": "Ich wohne in der Eichenstraße 42, im dritten Stock.",
+  "ex_ru": "Я живу на Айхенштрассе 42, на третьем этаже.",
+  "note": "Счёт этажей сдвинут: первый этаж — das Erdgeschoss, а der erste Stock — это уже второй."
+ },
+ {
+  "lemma": "Minute",
+  "gender": "die",
+  "rank": 245,
+  "ipa": "miˈnuːtə",
+  "forms": "мн. die Minuten",
+  "ru": "минута",
+  "ex": "Mein Buchladen ist nur 15 Minuten zu Fuß von dort.",
+  "ex_ru": "Мой книжный всего в 15 минутах ходьбы оттуда."
+ },
+ {
+  "lemma": "zu Fuß",
+  "ipa": "t͡suː ˈfuːs",
+  "ru": "пешком",
+  "ex": "Nur 15 Minuten zu Fuß.",
+  "ex_ru": "Всего 15 минут пешком.",
+  "note": "Устойчивое выражение, Fuß здесь всегда в единственном числе."
+ },
+ {
+  "lemma": "wiederholen",
+  "ipa": "viːdɐˈhoːlən",
+  "forms": "wiederholte · hat wiederholt",
+  "ru": "повторять",
+  "ex": "Kannst du das bitte wiederholen?",
+  "ex_ru": "Можешь, пожалуйста, повторить?",
+  "note": "Ударение на holen, приставка неотделяемая: ich wiederhole."
+ },
+ {
+  "lemma": "schreiben",
+  "rank": 118,
+  "ipa": "ˈʃʁaɪ̯bn̩",
+  "forms": "schrieb · hat geschrieben",
+  "ru": "писать",
+  "ex": "Ich möchte dir später eine Nachricht schreiben.",
+  "ex_ru": "Я хочу позже написать тебе сообщение.",
+  "note": "mitschreiben — записывать за кем-то: Ich schreibe mit."
+ },
+ {
+  "lemma": "Nachricht",
+  "gender": "die",
+  "ipa": "ˈnaːxʁɪçt",
+  "forms": "мн. die Nachrichten",
+  "ru": "сообщение; известие",
+  "ex": "Ich möchte dir eine Nachricht schreiben.",
+  "ex_ru": "Я хочу написать тебе сообщение.",
+  "note": "Во множественном числе die Nachrichten — ещё и «новости» по телевизору."
+ },
+ {
+  "lemma": "speichern",
+  "ipa": "ˈʃpaɪ̯çɐn",
+  "forms": "speicherte · hat gespeichert",
+  "ru": "сохранять (в памяти устройства)",
+  "ex": "Ich werde die Nummer speichern.",
+  "ex_ru": "Я сохраню номер."
+ },
+ {
+  "lemma": "sich vorstellen",
+  "ipa": "ˈfoːɐ̯ˌʃtɛlən",
+  "forms": "stellte sich vor · hat sich vorgestellt",
+  "ru": "представляться; представлять себе",
+  "ex": "Darf ich mich vorstellen?",
+  "ex_ru": "Разрешите представиться?",
+  "note": "Приставка отделяемая: Ich stelle mich vor. С mir значит «представлять себе».",
+  "rank": 282
+ },
+ {
+  "lemma": "werden",
+  "rank": 5,
+  "ipa": "ˈveːɐ̯dn̩",
+  "forms": "wurde · ist geworden",
+  "ru": "становиться; вспомогательный глагол будущего времени",
+  "ex": "Ich werde die Nummer speichern.",
+  "ex_ru": "Я сохраню номер.",
+  "note": "werden + инфинитив — будущее время. Неправильный: du wirst, er wird."
+ },
+ {
+  "lemma": "wissen",
+  "rank": 35,
+  "ipa": "ˈvɪsn̩",
+  "forms": "wusste · hat gewusst",
+  "ru": "знать (факт)",
+  "ex": "Weißt du was? Ich sammle alte Kameras.",
+  "ex_ru": "Знаешь что? Я собираю старые фотоаппараты.",
+  "note": "wissen — знать факт, kennen — быть знакомым с человеком или местом."
+ },
+ {
+  "lemma": "Fall",
+  "gender": "der",
+  "rank": 120,
+  "ipa": "fal",
+  "forms": "мн. die Fälle",
+  "ru": "случай; падеж",
+  "ex": "Falls ich einmal Hilfe brauche.",
+  "ex_ru": "На случай, если мне понадобится помощь.",
+  "note": "falls — «если вдруг», auf jeden Fall — «в любом случае»."
+ },
+ {
+  "lemma": "einmal",
+  "rank": 64,
+  "ipa": "ˈaɪ̯nmaːl",
+  "ru": "однажды, как-нибудь; один раз",
+  "ex": "Falls ich einmal Hilfe brauche.",
+  "ex_ru": "Если мне как-нибудь понадобится помощь.",
+  "note": "noch mal — «ещё раз»: Was kostet das noch mal?"
+ },
+ {
+  "lemma": "erst",
+  "rank": 68,
+  "ipa": "eːɐ̯st",
+  "ru": "только, лишь (о времени); сначала",
+  "ex": "Ich bin oft erst nach 18 Uhr zu Hause.",
+  "ex_ru": "Я часто дома только после 18 часов.",
+  "note": "erst подчёркивает, что это поздно или мало; nur — просто «только»."
+ },
+ {
+  "lemma": "kurz",
+  "rank": 110,
+  "ipa": "kʊʁt͡s",
+  "forms": "kürzer, am kürzesten",
+  "ru": "короткий; недолго",
+  "ex": "Ich bin vor kurzem eingezogen.",
+  "ex_ru": "Я недавно въехал.",
+  "note": "vor kurzem — «недавно», устойчивое выражение."
+ },
+ {
+  "lemma": "wichtig",
+  "rank": 81,
+  "ipa": "ˈvɪçtɪç",
+  "forms": "wichtiger, am wichtigsten",
+  "ru": "важный",
+  "ex": "Die Zahlen sind sehr wichtig für den Alltag.",
+  "ex_ru": "Числа очень важны в повседневной жизни."
+ },
+ {
+  "lemma": "ruhig",
+  "ipa": "ˈʁuːɪç",
+  "forms": "ruhiger, am ruhigsten",
+  "ru": "тихий, спокойный",
+  "ex": "Die Straße ist sehr ruhig und hat viele alte Bäume.",
+  "ex_ru": "Улица очень тихая, и на ней много старых деревьев.",
+  "note": "При поиске жилья ruhige Lage — «тихое расположение», частая пометка в объявлениях."
+ }
+]

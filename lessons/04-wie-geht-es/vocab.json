@@ -1,0 +1,172 @@
+[
+ {
+  "lemma": "gern", "rank": 204, "ipa": "ɡɛʁn",
+  "forms": "lieber, am liebsten",
+  "ru": "охотно, с удовольствием; (с глаголом) любить что-то делать",
+  "ex": "Vielleicht nächstes Mal? – Ja, gerne!",
+  "ex_ru": "Может, в следующий раз? – Да, с удовольствием!",
+  "note": "Формы сравнения нестандартные: gern – lieber – am liebsten."
+ },
+ {
+  "lemma": "frei", "rank": 211, "ipa": "fʁaɪ̯",
+  "forms": "freier, am freisten",
+  "ru": "свободный",
+  "ex": "Ich habe heute frei.",
+  "ex_ru": "У меня сегодня выходной.",
+  "note": "frei haben — «иметь выходной»: Ich habe morgen frei."
+ },
+ {
+  "lemma": "schlecht", "rank": 249, "ipa": "ʃlɛçt",
+  "forms": "schlechter, am schlechtesten",
+  "ru": "плохой; плохо",
+  "ex": "Ich habe bis spät gearbeitet und schlecht geschlafen.",
+  "ex_ru": "Я работала до поздна и плохо спала.",
+  "note": "На вопрос о делах отвечают мягче: Nicht so gut, а не schlecht."
+ },
+ {
+  "lemma": "besser", "rank": 133, "ipa": "ˈbɛsɐ",
+  "ru": "лучше",
+  "ex": "Gute Besserung!",
+  "ex_ru": "Выздоравливай!",
+  "note": "Сравнительная форма от gut. Отсюда и die Besserung — выздоровление."
+ },
+ {
+  "lemma": "helfen", "rank": 258, "ipa": "ˈhɛlfn̩",
+  "forms": "half · hat geholfen",
+  "ru": "помогать",
+  "ex": "Kann ich Ihnen helfen?",
+  "ex_ru": "Могу я Вам помочь?",
+  "note": "Кому помогают — в Dativ: helfen dir, helfen Ihnen."
+ },
+ {
+  "lemma": "Kopf", "gender": "der", "rank": 178, "ipa": "kɔp͡f",
+  "forms": "мн. die Köpfe",
+  "ru": "голова",
+  "ex": "Ich bin müde und habe Kopfschmerzen.",
+  "ex_ru": "Я устала, и у меня болит голова.",
+  "note": "Боль складывается из части тела и Schmerzen: Kopf + Schmerzen, Rücken + Schmerzen."
+ },
+ {
+  "lemma": "Kopfschmerzen", "gender": "die", "ipa": "ˈkɔp͡fˌʃmɛʁt͡sn̩",
+  "forms": "только мн. ч.",
+  "ru": "головная боль",
+  "ex": "Ich habe Kopfschmerzen.",
+  "ex_ru": "У меня болит голова.",
+  "note": "По-немецки боли всегда во множественном числе: ich habe Kopfschmerzen."
+ },
+ {
+  "lemma": "Rückenschmerzen", "gender": "die", "ipa": "ˈʁʏkn̩ˌʃmɛʁt͡sn̩",
+  "forms": "только мн. ч.",
+  "ru": "боль в спине",
+  "ex": "Ich habe etwas Rückenschmerzen.",
+  "ex_ru": "У меня немного болит спина.",
+  "note": "etwas здесь смягчает: «немного, слегка»."
+ },
+ {
+  "lemma": "sich ausruhen", "ipa": "ˈaʊ̯sˌʁuːən",
+  "forms": "ruhte sich aus · hat sich ausgeruht",
+  "ru": "отдыхать",
+  "ex": "Ruhen Sie sich aus!",
+  "ex_ru": "Отдохните!",
+  "note": "Приставка отделяемая и уходит в конец: Ich ruhe mich aus."
+ },
+ {
+  "lemma": "mitkommen", "ipa": "ˈmɪtˌkɔmən",
+  "forms": "kam mit · ist mitgekommen",
+  "ru": "идти вместе, присоединяться",
+  "ex": "Ich gehe später ins Café. Kommst du mit?",
+  "ex_ru": "Я пойду позже в кафе. Пойдёшь со мной?",
+  "note": "Kommst du mit? — обычное приглашение куда-то вместе."
+ },
+ {
+  "lemma": "danken", "ipa": "ˈdaŋkn̩",
+  "forms": "dankte · hat gedankt",
+  "ru": "благодарить",
+  "ex": "Ich danke Ihnen für Ihre Hilfe.",
+  "ex_ru": "Я благодарю Вас за Вашу помощь.",
+  "note": "Кого благодарят — в Dativ: ich danke dir, ich danke Ihnen."
+ },
+ {
+  "lemma": "Café", "gender": "das", "ipa": "kaˈfeː",
+  "forms": "мн. die Cafés",
+  "ru": "кафе",
+  "ex": "Ich gehe später ins Café mit Freunden.",
+  "ex_ru": "Я пойду позже в кафе с друзьями.",
+  "note": "ins Café = in das Café — «куда?», поэтому Akkusativ."
+ },
+ {
+  "lemma": "Freund", "gender": "der", "rank": 199, "ipa": "fʁɔɪ̯nt",
+  "forms": "мн. die Freunde · ж. die Freundin",
+  "ru": "друг",
+  "ex": "Ich gehe später ins Café mit Freunden.",
+  "ex_ru": "Я пойду позже в кафе с друзьями.",
+  "note": "mein Freund может значить и «мой друг», и «мой парень» — по контексту."
+ },
+ {
+  "lemma": "Ruhestand", "gender": "der", "ipa": "ˈʁuːəˌʃtant",
+  "forms": "без мн. ч.",
+  "ru": "пенсия (по возрасту)",
+  "ex": "Ich genieße meinen Ruhestand.",
+  "ex_ru": "Я наслаждаюсь своей пенсией.",
+  "note": "Ruhestand — состояние «на пенсии», а Rentner — сам пенсионер."
+ },
+ {
+  "lemma": "lernen", "rank": 210, "ipa": "ˈlɛʁnən",
+  "forms": "lernte · hat gelernt",
+  "ru": "учить, учиться",
+  "ex": "Ich muss heute lernen und dann arbeite ich im Café.",
+  "ex_ru": "Мне нужно сегодня заниматься, а потом я работаю в кафе.",
+  "note": "lernen — учить что-то, studieren — учиться в вузе."
+ },
+ {
+  "lemma": "lesen", "rank": 226, "ipa": "ˈleːzn̩",
+  "forms": "las · hat gelesen",
+  "ru": "читать",
+  "ex": "Ich lese die Zeitung und später gehe ich in den Garten.",
+  "ex_ru": "Я читаю газету, а позже иду в сад.",
+  "note": "Неправильный: du liest, er liest — с изменением корня."
+ },
+ {
+  "lemma": "sollen", "rank": 21, "ipa": "ˈzɔlən",
+  "forms": "sollte · hat gesollt",
+  "ru": "быть должным, следует",
+  "ex": "Du solltest einen Tee trinken und dich ausruhen.",
+  "ex_ru": "Тебе стоит выпить чаю и отдохнуть.",
+  "note": "Форма solltest — мягкий совет: «тебе стоило бы»."
+ },
+ {
+  "lemma": "sehr", "rank": 37, "ipa": "zeːɐ̯",
+  "ru": "очень",
+  "ex": "Das ist sehr nett von Ihnen.",
+  "ex_ru": "Это очень мило с Вашей стороны."
+ },
+ {
+  "lemma": "lang", "rank": 47, "ipa": "laŋ",
+  "ru": "долго",
+  "ex": "Warst du gestern lange wach?",
+  "ex_ru": "Ты вчера долго не спала?",
+  "note": "О времени говорят формой lange: lange arbeiten, lange schlafen."
+ },
+ {
+  "lemma": "noch", "rank": 10, "ipa": "nɔx",
+  "ru": "ещё",
+  "ex": "Waren Sie schon beim Arzt? – Nein, noch nicht.",
+  "ex_ru": "Вы уже были у врача? – Нет, ещё нет.",
+  "note": "noch nicht — «ещё нет», пара к schon — «уже»."
+ },
+ {
+  "lemma": "dann", "rank": 13, "ipa": "dan",
+  "ru": "потом, тогда",
+  "ex": "Ich muss heute lernen und dann arbeite ich im Café.",
+  "ex_ru": "Мне нужно сегодня заниматься, а потом я работаю в кафе.",
+  "note": "Если dann стоит первым, глагол всё равно второй: Dann arbeite ich."
+ },
+ {
+  "lemma": "Problem", "gender": "das", "rank": 142, "ipa": "pʁoˈbleːm",
+  "forms": "мн. die Probleme",
+  "ru": "проблема",
+  "ex": "Kein Problem. Gute Besserung!",
+  "ex_ru": "Без проблем. Выздоравливайте!",
+  "note": "Kein Problem — «не за что, ничего страшного»."
+ }
+]

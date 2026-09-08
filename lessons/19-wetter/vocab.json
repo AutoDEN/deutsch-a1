@@ -1,0 +1,167 @@
+[
+ {
+  "lemma": "Wetter", "gender": "das", "ipa": "ˈvɛtɐ",
+  "forms": "без мн. ч.",
+  "ru": "погода",
+  "ex": "Wie ist das Wetter heute?",
+  "ex_ru": "Какая сегодня погода?",
+  "note": "В первом уроке слово встречалось для узнавания на слух; здесь разбираем его как активное."
+ },
+ {
+  "lemma": "Jahreszeit", "gender": "die", "ipa": "ˈjaːʁəsˌt͡saɪ̯t",
+  "forms": "мн. die Jahreszeiten",
+  "ru": "время года",
+  "ex": "Deutschland hat vier Jahreszeiten.",
+  "ex_ru": "В Германии четыре времени года.",
+  "note": "das Jahr + die Zeit — «время года» дословно."
+ },
+ {
+  "lemma": "Winter", "gender": "der", "ipa": "ˈvɪntɐ",
+  "forms": "мн. die Winter",
+  "ru": "зима",
+  "ex": "Im Winter ist es kalt und es schneit oft.",
+  "ex_ru": "Зимой холодно и часто идёт снег.",
+  "note": "Времена года идут с im: im Winter — зимой."
+ },
+ {
+  "lemma": "Frühling", "gender": "der", "ipa": "ˈfʁyːlɪŋ",
+  "forms": "мн. die Frühlinge",
+  "ru": "весна",
+  "ex": "Im Frühling blühen die Blumen.",
+  "ex_ru": "Весной цветут цветы."
+ },
+ {
+  "lemma": "Sommer", "gender": "der", "ipa": "ˈzɔmɐ",
+  "forms": "мн. die Sommer",
+  "ru": "лето",
+  "ex": "Der Sommer ist die wärmste Jahreszeit.",
+  "ex_ru": "Лето — самое тёплое время года."
+ },
+ {
+  "lemma": "Herbst", "gender": "der", "ipa": "hɛʁpst",
+  "forms": "мн. die Herbste",
+  "ru": "осень",
+  "ex": "Im Herbst fallen die Blätter von den Bäumen.",
+  "ex_ru": "Осенью листья падают с деревьев."
+ },
+ {
+  "lemma": "Sonne", "gender": "die", "ipa": "ˈzɔnə",
+  "forms": "мн. die Sonnen",
+  "ru": "солнце",
+  "ex": "Manchmal scheint die Sonne, aber meist ist der Himmel grau.",
+  "ex_ru": "Иногда светит солнце, но чаще небо серое."
+ },
+ {
+  "lemma": "scheinen", "rank": 201, "ipa": "ˈʃaɪ̯nən",
+  "forms": "schien · hat geschienen",
+  "ru": "светить; казаться",
+  "ex": "Die Sonne scheint heute sehr hell.",
+  "ex_ru": "Сегодня солнце светит очень ярко.",
+  "note": "Второе значение — «казаться»: Es scheint gut zu sein."
+ },
+ {
+  "lemma": "Himmel", "gender": "der", "ipa": "ˈhɪml̩",
+  "forms": "мн. die Himmel",
+  "ru": "небо",
+  "ex": "Der Himmel ist blau und nicht grau.",
+  "ex_ru": "Небо синее, а не серое."
+ },
+ {
+  "lemma": "regnen", "ipa": "ˈʁeːɡnən",
+  "forms": "regnete · hat geregnet",
+  "ru": "идти (о дожде)",
+  "ex": "Es regnet seit gestern.",
+  "ex_ru": "Дождь идёт со вчерашнего дня.",
+  "note": "Только с безличным es: Es regnet. Существительное — der Regen."
+ },
+ {
+  "lemma": "schneien", "ipa": "ˈʃnaɪ̯ən",
+  "forms": "schneite · hat geschneit",
+  "ru": "идти (о снеге)",
+  "ex": "Es schneit im Dezember oft.",
+  "ex_ru": "В декабре часто идёт снег.",
+  "note": "Тоже только с es. Существительное — der Schnee."
+ },
+ {
+  "lemma": "Temperatur", "gender": "die", "ipa": "tɛmpəʁaˈtuːɐ̯",
+  "forms": "мн. die Temperaturen",
+  "ru": "температура",
+  "ex": "Die Temperatur liegt oft unter null Grad.",
+  "ex_ru": "Температура часто ниже нуля градусов."
+ },
+ {
+  "lemma": "Grad", "gender": "das", "ipa": "ɡʁaːt",
+  "forms": "мн. die Grade (после числа не меняется)",
+  "ru": "градус",
+  "ex": "Die Temperatur liegt unter null Grad.",
+  "ex_ru": "Температура ниже нуля градусов.",
+  "note": "После числа в единственном числе: zwanzig Grad."
+ },
+ {
+  "lemma": "kalt", "ipa": "kalt",
+  "forms": "kälter, am kältesten",
+  "ru": "холодный",
+  "ex": "Im Winter ist es kalt.",
+  "ex_ru": "Зимой холодно.",
+  "note": "О погоде идёт с безличным es: Es ist kalt."
+ },
+ {
+  "lemma": "warm", "ipa": "vaʁm",
+  "forms": "wärmer, am wärmsten",
+  "ru": "тёплый",
+  "ex": "Im Frühling wird es wärmer.",
+  "ex_ru": "Весной становится теплее."
+ },
+ {
+  "lemma": "heiß", "ipa": "haɪ̯s",
+  "forms": "heißer, am heißesten",
+  "ru": "жаркий, горячий",
+  "ex": "Der Sommer ist warm, manchmal sogar heiß.",
+  "ex_ru": "Лето тёплое, иногда даже жаркое.",
+  "note": "Не путайте с heißen (зваться) — разные слова."
+ },
+ {
+  "lemma": "windig", "ipa": "ˈvɪndɪç",
+  "forms": "windiger, am windigsten",
+  "ru": "ветрено",
+  "ex": "Im Herbst wird es kühler und oft windig.",
+  "ex_ru": "Осенью становится прохладнее и часто ветрено.",
+  "note": "der Wind (ветер) + -ig, как sonnig, regnerisch."
+ },
+ {
+  "lemma": "Blatt", "gender": "das", "ipa": "blat",
+  "forms": "мн. die Blätter",
+  "ru": "лист (дерева); лист бумаги",
+  "ex": "Die Blätter werden bunt und fallen von den Bäumen.",
+  "ex_ru": "Листья становятся разноцветными и падают с деревьев."
+ },
+ {
+  "lemma": "blühen", "ipa": "ˈblyːən",
+  "forms": "blühte · hat geblüht",
+  "ru": "цвести",
+  "ex": "Die Blumen blühen und die Bäume werden grün.",
+  "ex_ru": "Цветы цветут, и деревья зеленеют."
+ },
+ {
+  "lemma": "genießen", "ipa": "ɡəˈniːsn̩",
+  "forms": "genoss · hat genossen",
+  "ru": "наслаждаться",
+  "ex": "Herr Müller sitzt auf seinem Balkon und genießt den Frühling.",
+  "ex_ru": "Господин Мюллер сидит на балконе и наслаждается весной.",
+  "note": "Идёт с Akkusativ: den Frühling genießen."
+ },
+ {
+  "lemma": "bleiben", "rank": 58, "ipa": "ˈblaɪ̯bn̩",
+  "forms": "blieb · ist geblieben",
+  "ru": "оставаться",
+  "ex": "Wenn es zu heiß ist, bleibt er lieber zu Hause.",
+  "ex_ru": "Когда слишком жарко, он предпочитает остаться дома.",
+  "note": "В Perfekt с sein, хотя движения нет — одно из исключений."
+ },
+ {
+  "lemma": "sogar", "rank": 156, "ipa": "zoˈɡaːɐ̯",
+  "ru": "даже",
+  "ex": "Der Sommer ist warm, manchmal sogar heiß.",
+  "ex_ru": "Лето тёплое, иногда даже жаркое."
+ }
+]

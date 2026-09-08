@@ -1,0 +1,168 @@
+[
+ {
+  "lemma": "brauchen", "rank": 113, "ipa": "ˈbʁaʊ̯xn̩",
+  "forms": "brauchte · hat gebraucht",
+  "ru": "нуждаться, быть нужным",
+  "ex": "Brauchen Sie eine Tüte?",
+  "ex_ru": "Вам нужен пакет?",
+  "note": "Что нужно — в Akkusativ: Ich brauche eine Tüte."
+ },
+ {
+  "lemma": "wollen", "rank": 19, "ipa": "ˈvɔlən",
+  "forms": "wollte · hat gewollt",
+  "ru": "хотеть, собираться",
+  "ex": "Wir wollen im Park grillen.",
+  "ex_ru": "Мы хотим пожарить шашлык в парке.",
+  "note": "Второй глагол уходит в конец: wollen … grillen."
+ },
+ {
+  "lemma": "nehmen", "rank": 79, "ipa": "ˈneːmən",
+  "forms": "nahm · hat genommen",
+  "ru": "брать",
+  "ex": "Lena nimmt zwei Taschen.",
+  "ex_ru": "Лена берёт две сумки.",
+  "note": "Неправильный: du nimmst, er nimmt. В магазине Ich nehme es — «беру»."
+ },
+ {
+  "lemma": "tragen", "rank": 197, "ipa": "ˈtʁaːɡn̩",
+  "forms": "trug · hat getragen",
+  "ru": "нести, носить; надевать",
+  "ex": "Sie tragen viele Taschen. Kann ich Ihnen helfen?",
+  "ex_ru": "Вы несёте много сумок. Могу я Вам помочь?",
+  "note": "Неправильный: du trägst, er trägt."
+ },
+ {
+  "lemma": "schwer", "rank": 185, "ipa": "ʃveːɐ̯",
+  "forms": "schwerer, am schwersten",
+  "ru": "тяжёлый; трудный",
+  "ex": "Geben Sie mir die schwere Tasche.",
+  "ex_ru": "Дайте мне тяжёлую сумку."
+ },
+ {
+  "lemma": "schaffen", "rank": 208, "ipa": "ˈʃafn̩",
+  "forms": "schaffte · hat geschafft",
+  "ru": "справляться, осилить",
+  "ex": "Nein, danke. Ich schaffe das alleine.",
+  "ex_ru": "Нет, спасибо. Я справлюсь сам.",
+  "note": "Ich schaffe das — «я справлюсь», обычный вежливый отказ от помощи."
+ },
+ {
+  "lemma": "allein", "rank": 194, "ipa": "aˈlaɪ̯n",
+  "ru": "один, сам, в одиночку",
+  "ex": "Ich schaffe das alleine.",
+  "ex_ru": "Я справлюсь сам.",
+  "note": "Разговорная форма alleine значит то же самое."
+ },
+ {
+  "lemma": "einkaufen", "ipa": "ˈaɪ̯nˌkaʊ̯fn̩",
+  "forms": "kaufte ein · hat eingekauft",
+  "ru": "делать покупки",
+  "ex": "Ich kaufe für unsere WG ein.",
+  "ex_ru": "Я делаю покупки для нашей квартиры.",
+  "note": "Приставка отделяемая и уходит в конец: Ich kaufe … ein."
+ },
+ {
+  "lemma": "mitbringen", "ipa": "ˈmɪtˌbʁɪŋən",
+  "forms": "brachte mit · hat mitgebracht",
+  "ru": "приносить с собой",
+  "ex": "Soll ich etwas mitbringen?",
+  "ex_ru": "Мне что-нибудь принести?",
+  "note": "Дежурный вопрос перед любой встречей или вечеринкой."
+ },
+ {
+  "lemma": "suchen", "rank": 214, "ipa": "ˈzuːxn̩",
+  "forms": "suchte · hat gesucht",
+  "ru": "искать",
+  "ex": "Ja, bitte. Ich suche ein Buch.",
+  "ex_ru": "Да, пожалуйста. Я ищу книгу."
+ },
+ {
+  "lemma": "treffen", "rank": 187, "ipa": "ˈtʁɛfn̩",
+  "forms": "traf · hat getroffen",
+  "ru": "встречать, встречаться",
+  "ex": "Wir treffen uns direkt vor dem Kino.",
+  "ex_ru": "Мы встречаемся прямо перед кинотеатром.",
+  "note": "sich treffen — встречаться друг с другом: wir treffen uns."
+ },
+ {
+  "lemma": "sagen", "rank": 12, "ipa": "ˈzaːɡn̩",
+  "forms": "sagte · hat gesagt",
+  "ru": "говорить, сказать",
+  "ex": "Lena sieht ihn und sagt: „Kann ich dir helfen?“",
+  "ex_ru": "Лена видит его и говорит: «Могу я тебе помочь?»"
+ },
+ {
+  "lemma": "Zeit", "gender": "die", "rank": 45, "ipa": "t͡saɪ̯t",
+  "forms": "мн. die Zeiten",
+  "ru": "время",
+  "ex": "Hast du Zeit am Samstag?",
+  "ex_ru": "У тебя есть время в субботу?",
+  "note": "Zeit haben — «быть свободным», обычное начало приглашения."
+ },
+ {
+  "lemma": "Woche", "gender": "die", "rank": 149, "ipa": "ˈvɔxə",
+  "forms": "мн. die Wochen",
+  "ru": "неделя",
+  "ex": "Jede Woche muss jemand für alle einkaufen.",
+  "ex_ru": "Каждую неделю кто-то должен закупаться на всех.",
+  "note": "am Wochenende — на выходных."
+ },
+ {
+  "lemma": "Uhr", "gender": "die", "rank": 269, "ipa": "uːɐ̯",
+  "forms": "мн. die Uhren",
+  "ru": "часы; час (при указании времени)",
+  "ex": "Um wie viel Uhr? – Um 18 Uhr.",
+  "ex_ru": "Во сколько? – В 18 часов.",
+  "note": "Время всегда с Uhr: um acht Uhr. Сам прибор — тоже die Uhr."
+ },
+ {
+  "lemma": "nur", "rank": 11, "ipa": "nuːɐ̯",
+  "ru": "только",
+  "ex": "Nein, danke. Nur den Kaffee.",
+  "ex_ru": "Нет, спасибо. Только кофе."
+ },
+ {
+  "lemma": "Tasche", "gender": "die", "ipa": "ˈtaʃə",
+  "forms": "мн. die Taschen",
+  "ru": "сумка; карман",
+  "ex": "Nein, danke. Ich habe eine Tasche dabei.",
+  "ex_ru": "Нет, спасибо. У меня есть с собой сумка.",
+  "note": "dabei haben — «иметь при себе»."
+ },
+ {
+  "lemma": "Tüte", "gender": "die", "ipa": "ˈtyːtə",
+  "forms": "мн. die Tüten",
+  "ru": "пакет",
+  "ex": "Brauchen Sie eine Tüte?",
+  "ex_ru": "Вам нужен пакет?",
+  "note": "В Германии пакет платный, поэтому вопрос задают всегда."
+ },
+ {
+  "lemma": "Vollkornbrot", "gender": "das", "ipa": "ˈfɔlkɔʁnˌbʁoːt",
+  "forms": "мн. die Vollkornbrote",
+  "ru": "цельнозерновой хлеб",
+  "ex": "Guten Morgen! Ein Vollkornbrot, bitte.",
+  "ex_ru": "Доброе утро! Один цельнозерновой хлеб, пожалуйста."
+ },
+ {
+  "lemma": "Hafermilch", "gender": "die", "ipa": "ˈhaːfɐˌmɪlç",
+  "forms": "без мн. ч.",
+  "ru": "овсяное молоко",
+  "ex": "Ja, bitte. Und haben Sie Hafermilch?",
+  "ex_ru": "Да, пожалуйста. А овсяное молоко у вас есть?"
+ },
+ {
+  "lemma": "WG", "gender": "die", "ipa": "veːˈɡeː",
+  "forms": "die Wohngemeinschaft · мн. die WGs",
+  "ru": "съёмная квартира на несколько человек",
+  "ex": "Ich kaufe für unsere WG ein.",
+  "ex_ru": "Я закупаюсь для нашей общей квартиры.",
+  "note": "Обычный для студентов способ снимать жильё: у каждого комната, кухня общая."
+ },
+ {
+  "lemma": "hilfsbereit", "ipa": "ˈhɪlfsbəˌʁaɪ̯t",
+  "ru": "готовый помочь, отзывчивый",
+  "ex": "Sie sind sehr hilfsbereit!",
+  "ex_ru": "Вы очень отзывчивы!"
+ }
+]

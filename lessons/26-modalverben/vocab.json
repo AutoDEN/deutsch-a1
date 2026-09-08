@@ -1,0 +1,176 @@
+[
+ {
+  "lemma": "Ausflug", "gender": "der", "ipa": "ˈaʊ̯sfluːk",
+  "forms": "мн. die Ausflüge",
+  "ru": "поездка, вылазка, экскурсия",
+  "ex": "Ein Ausflug zum See klingt super.",
+  "ex_ru": "Поездка на озеро звучит отлично.",
+  "note": "Короткая поездка на день, без ночёвки. Habt ihr Lust auf einen Ausflug? — типовое приглашение."
+ },
+ {
+  "lemma": "Lust", "gender": "die", "ipa": "lʊst",
+  "forms": "без мн. ч.",
+  "ru": "желание, охота",
+  "ex": "Habt ihr Lust auf einen Ausflug zum Schlachtensee?",
+  "ex_ru": "Есть желание поехать на Шлахтензее?",
+  "note": "Lust haben auf + Akkusativ (на что-то) или Lust haben zu + Infinitiv (что-то делать)."
+ },
+ {
+  "lemma": "Sonderauftrag", "gender": "der", "ipa": "ˈzɔndɐˌaʊ̯ftʁaːk",
+  "forms": "мн. die Sonderaufträge",
+  "ru": "специальный заказ",
+  "ex": "Wir haben einen Sonderauftrag in der Werkstatt.",
+  "ex_ru": "У нас специальный заказ в мастерской.",
+  "note": "sonder- (особый) + der Auftrag (заказ, поручение)."
+ },
+ {
+  "lemma": "Wettervorhersage", "gender": "die", "ipa": "ˈvɛtɐfoːɐ̯ˌheːɐ̯zaːɡə",
+  "forms": "мн. die Wettervorhersagen",
+  "ru": "прогноз погоды",
+  "ex": "Die Wettervorhersage für Sonntag sieht gut aus.",
+  "ex_ru": "Прогноз погоды на воскресенье выглядит хорошо.",
+  "note": "das Wetter + die Vorhersage (предсказание). Короче говорят der Wetterbericht."
+ },
+ {
+  "lemma": "Picknickkorb", "gender": "der", "ipa": "ˈpɪknɪkˌkɔʁp",
+  "forms": "мн. die Picknickkörbe",
+  "ru": "корзина для пикника",
+  "ex": "Ich kann einen Picknickkorb vorbereiten.",
+  "ex_ru": "Я могу подготовить корзину для пикника.",
+  "note": "Три k подряд — так и пишется: Picknick + Korb."
+ },
+ {
+  "lemma": "Lieferung", "gender": "die", "ipa": "ˈliːfəʁʊŋ",
+  "forms": "мн. die Lieferungen",
+  "ru": "поставка, доставка",
+  "ex": "Ich will meine neue Buchlieferung auspacken.",
+  "ex_ru": "Я хочу распаковать новую поставку книг.",
+  "note": "От liefern (поставлять). Отсюда die Buchlieferung — поставка книг."
+ },
+ {
+  "lemma": "Artikel", "gender": "der", "ipa": "aʁˈtiːkl̩",
+  "forms": "мн. die Artikel",
+  "ru": "статья; артикль; товар",
+  "ex": "Ich muss bis Mittag einen Artikel für die Uni fertigschreiben.",
+  "ex_ru": "Мне нужно до полудня дописать статью для университета.",
+  "note": "Три значения сразу: статья в журнале, грамматический артикль (der/die/das) и товар в магазине."
+ },
+ {
+  "lemma": "Kamera", "gender": "die", "ipa": "ˈkaməʁa",
+  "forms": "мн. die Kameras",
+  "ru": "камера, фотоаппарат",
+  "ex": "Ich will schon lange meine neue Kamera ausprobieren.",
+  "ex_ru": "Я уже давно хочу опробовать свою новую камеру.",
+  "note": "Ударение на первый слог, не как в русском."
+ },
+ {
+  "lemma": "Hauptsache", "gender": "die", "ipa": "ˈhaʊ̯ptˌzaxə",
+  "forms": "мн. die Hauptsachen",
+  "ru": "главное",
+  "ex": "Hauptsache, wir verbringen Zeit zusammen!",
+  "ex_ru": "Главное — что мы проводим время вместе!",
+  "note": "haupt- (главный) + die Sache (дело). В начале предложения без артикля: Hauptsache, …"
+ },
+ {
+  "lemma": "vorbereiten", "ipa": "ˈfoːɐ̯bəˌʁaɪ̯tn̩",
+  "forms": "bereitete vor · hat vorbereitet",
+  "ru": "подготавливать",
+  "ex": "Ich kann einen Picknickkorb vorbereiten.",
+  "ex_ru": "Я могу подготовить корзину для пикника.",
+  "note": "Приставка vor- отделяемая: Ich bereite alles vor. Сравните с zubereiten (готовить еду) из 25-го урока."
+ },
+ {
+  "lemma": "vorbeischauen", "ipa": "foːɐ̯ˈbaɪ̯ˌʃaʊ̯ən",
+  "forms": "schaute vorbei · hat vorbeigeschaut",
+  "ru": "заглянуть, заскочить",
+  "ex": "Ich will noch beim Bauernmarkt vorbeischauen.",
+  "ex_ru": "Я ещё хочу заглянуть на фермерский рынок.",
+  "note": "Куда заглянуть — с bei + Dativ: bei dir vorbeischauen."
+ },
+ {
+  "lemma": "fertigschreiben", "ipa": "ˈfɛʁtɪçˌʃʁaɪ̯bn̩",
+  "forms": "schrieb fertig · hat fertiggeschrieben",
+  "ru": "дописать",
+  "ex": "Ich muss bis Mittag einen Artikel fertigschreiben.",
+  "ex_ru": "Мне нужно до полудня дописать статью.",
+  "note": "fertig (готовый) присоединяется к любому глаголу: fertigmachen, fertiglesen, fertigessen."
+ },
+ {
+  "lemma": "kennenlernen", "ipa": "ˈkɛnənˌlɛʁnən",
+  "forms": "lernte kennen · hat kennengelernt",
+  "ru": "знакомиться, познакомиться",
+  "ex": "Er möchte neue Leute kennenlernen.",
+  "ex_ru": "Он хотел бы познакомиться с новыми людьми.",
+  "note": "Дословно «учиться знать». Кого — в Akkusativ, без предлога."
+ },
+ {
+  "lemma": "einpacken", "ipa": "ˈaɪ̯nˌpakn̩",
+  "forms": "packte ein · hat eingepackt",
+  "ru": "упаковать, взять с собой",
+  "ex": "Ich will auch meinen Lieblingsfrisbee einpacken.",
+  "ex_ru": "Я хочу взять с собой и свою любимую фрисби.",
+  "note": "Пара: einpacken — упаковать, auspacken — распаковать."
+ },
+ {
+  "lemma": "hoffen", "ipa": "ˈhɔfn̩",
+  "forms": "hoffte · hat gehofft",
+  "ru": "надеяться",
+  "ex": "Wir müssen nur hoffen, dass das Wetter mitspielt.",
+  "ex_ru": "Нам остаётся только надеяться, что погода не подведёт.",
+  "note": "Hoffentlich! — «надеюсь!», очень частое слово в разговоре."
+ },
+ {
+  "lemma": "verbringen", "ipa": "fɛɐ̯ˈbʁɪŋən",
+  "forms": "verbrachte · hat verbracht",
+  "ru": "проводить (время)",
+  "ex": "Hauptsache, wir verbringen Zeit zusammen!",
+  "ex_ru": "Главное — что мы проводим время вместе!",
+  "note": "Только о времени. Провести черту или урок — это другие глаголы."
+ },
+ {
+  "lemma": "klingen", "ipa": "ˈklɪŋən",
+  "forms": "klang · hat geklungen",
+  "ru": "звучать",
+  "ex": "Ein Ausflug zum See klingt super.",
+  "ex_ru": "Поездка на озеро звучит отлично.",
+  "note": "Разговорный вариант — sich anhören: Das hört sich toll an!"
+ },
+ {
+  "lemma": "planen", "ipa": "ˈplaːnən",
+  "forms": "plante · hat geplant",
+  "ru": "планировать",
+  "ex": "Wenn man einen Ausflug plant, muss man vieles beachten.",
+  "ex_ru": "Когда планируешь поездку, нужно многое учесть.",
+  "note": "Отсюда der Plan (план) и die Planung (планирование)."
+ },
+ {
+  "lemma": "spannend", "ipa": "ˈʃpanənt",
+  "forms": "spannender, am spannendsten",
+  "ru": "увлекательный, захватывающий",
+  "ex": "Es sind viele spannende Romane dabei!",
+  "ex_ru": "Там много захватывающих романов!",
+  "note": "О книге, фильме, поездке. Не путать с interessant: spannend — «не оторваться»."
+ },
+ {
+  "lemma": "sicher", "rank": 193, "ipa": "ˈzɪçɐ",
+  "forms": "sicherer, am sichersten",
+  "ru": "уверенный; надёжный; безопасный",
+  "ex": "In Berlin kann man nie sicher sein.",
+  "ex_ru": "В Берлине никогда нельзя быть уверенным.",
+  "note": "Ещё и как наречие «наверняка»: Sie kommen sicher mit."
+ },
+ {
+  "lemma": "nie", "rank": 119, "ipa": "niː",
+  "ru": "никогда",
+  "ex": "In Berlin kann man nie sicher sein.",
+  "ex_ru": "В Берлине никогда нельзя быть уверенным.",
+  "note": "Отрицание уже внутри слова, второго nicht не нужно."
+ },
+ {
+  "lemma": "los", "ipa": "loːs",
+  "ru": "прочь, в путь (в значении «пора идти»)",
+  "ex": "Ich muss jetzt los, sonst komme ich zu spät.",
+  "ex_ru": "Мне пора идти, иначе я опоздаю.",
+  "note": "Ich muss los — «мне пора». Los geht's! — «поехали!»"
+ }
+]

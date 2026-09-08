@@ -1,0 +1,198 @@
+[
+ {
+  "lemma": "Kino",
+  "gender": "das",
+  "ipa": "ˈkiːno",
+  "forms": "мн. die Kinos",
+  "ru": "кинотеатр",
+  "ex": "Wir sind zusammen ins Kino gegangen.",
+  "ex_ru": "Мы вместе пошли в кино.",
+  "note": "ins Kino gehen — «куда?», поэтому Akkusativ: in das Kino."
+ },
+ {
+  "lemma": "Film",
+  "gender": "der",
+  "ipa": "fɪlm",
+  "forms": "мн. die Filme",
+  "ru": "фильм",
+  "ex": "Wir haben einen interessanten Film gesehen.",
+  "ex_ru": "Мы посмотрели интересный фильм."
+ },
+ {
+  "lemma": "interessant",
+  "ipa": "ɪntəʁɛˈsant",
+  "forms": "interessanter, am interessantesten",
+  "ru": "интересный",
+  "ex": "Wir haben einen interessanten Film gesehen.",
+  "ex_ru": "Мы посмотрели интересный фильм.",
+  "note": "Das ist interessant! — реакция, которая звучит в каждом втором диалоге курса."
+ },
+ {
+  "lemma": "Kaffee",
+  "gender": "der",
+  "ipa": "ˈkafe",
+  "forms": "мн. die Kaffees",
+  "ru": "кофе",
+  "ex": "Wir haben zusammen Kaffee getrunken.",
+  "ex_ru": "Мы вместе выпили кофе.",
+  "note": "Ударение на первый слог: KA-ffee. Не путайте с das Café — заведение."
+ },
+ {
+  "lemma": "Bäcker",
+  "gender": "der",
+  "ipa": "ˈbɛkɐ",
+  "forms": "мн. die Bäcker · ж. die Bäckerin",
+  "ru": "пекарь",
+  "ex": "Wir haben frische Brötchen vom Bäcker geholt.",
+  "ex_ru": "Мы взяли свежие булочки у пекаря.",
+  "note": "vom Bäcker — «из булочной», хотя дословно «от пекаря»."
+ },
+ {
+  "lemma": "holen",
+  "ipa": "ˈhoːlən",
+  "forms": "holte · hat geholt",
+  "ru": "принести, забрать",
+  "ex": "Wir haben frische Brötchen vom Bäcker geholt.",
+  "ex_ru": "Мы взяли свежие булочки в булочной.",
+  "note": "Про поход за чем-то: Brötchen holen, Getränke holen."
+ },
+ {
+  "lemma": "schlafen",
+  "ipa": "ˈʃlaːfn̩",
+  "forms": "schlief · hat geschlafen",
+  "ru": "спать",
+  "ex": "Ich habe den ganzen Tag geschlafen.",
+  "ex_ru": "Я проспала весь день.",
+  "note": "Неправильный: du schläfst, er schläft."
+ },
+ {
+  "lemma": "Notiz",
+  "gender": "die",
+  "ipa": "noˈtiːt͡s",
+  "forms": "мн. die Notizen",
+  "ru": "заметка, запись",
+  "ex": "Ich habe viele Notizen gemacht.",
+  "ex_ru": "Я сделала много записей.",
+  "note": "Notizen machen — «делать записи, конспектировать»."
+ },
+ {
+  "lemma": "Text",
+  "gender": "der",
+  "ipa": "tɛkst",
+  "forms": "мн. die Texte",
+  "ru": "текст",
+  "ex": "Ich habe einen kurzen Text für mein Seminar geschrieben.",
+  "ex_ru": "Я написала короткий текст для своего семинара."
+ },
+ {
+  "lemma": "Schallplatte",
+  "gender": "die",
+  "ipa": "ˈʃalˌplatə",
+  "forms": "мн. die Schallplatten",
+  "ru": "виниловая пластинка",
+  "ex": "Er sammelt Schallplatten aus den 80er Jahren.",
+  "ex_ru": "Он собирает пластинки восьмидесятых.",
+  "note": "der Schall (звук) + die Platte (пластина). В речи часто просто die Platte."
+ },
+ {
+  "lemma": "ausprobieren",
+  "ipa": "ˈaʊ̯spʁoˌbiːʁən",
+  "forms": "probierte aus · hat ausprobiert",
+  "ru": "пробовать, испытывать",
+  "ex": "Ich habe ein neues Rezept ausprobiert.",
+  "ex_ru": "Я попробовала новый рецепт.",
+  "note": "Приставка отделяемая, но ge- нет — из-за -ieren: hat ausprobiert."
+ },
+ {
+  "lemma": "verwenden",
+  "ipa": "fɛɐ̯ˈvɛndn̩",
+  "forms": "verwendete · hat verwendet",
+  "ru": "использовать, применять",
+  "ex": "Ich habe viel Gemüse und Käse verwendet.",
+  "ex_ru": "Я использовала много овощей и сыра."
+ },
+ {
+  "lemma": "unternehmen",
+  "ipa": "ʊntɐˈneːmən",
+  "forms": "unternahm · hat unternommen",
+  "ru": "предпринимать, делать (что-то вместе)",
+  "ex": "Am Wochenende hat Lena verschiedene Aktivitäten unternommen.",
+  "ex_ru": "На выходных Лена занималась разными делами.",
+  "note": "Etwas unternehmen — «чем-то заняться». В колоде под номером 165 стоит существительное das Unternehmen (предприятие) — это другое слово.",
+  "homonym": true
+ },
+ {
+  "lemma": "Aktivität",
+  "gender": "die",
+  "ipa": "aktiviˈtɛːt",
+  "forms": "мн. die Aktivitäten",
+  "ru": "занятие, активность",
+  "ex": "Lena hat verschiedene Aktivitäten unternommen.",
+  "ex_ru": "Лена занималась разными делами."
+ },
+ {
+  "lemma": "aktiv",
+  "ipa": "akˈtiːf",
+  "forms": "aktiver, am aktivsten",
+  "ru": "активный",
+  "ex": "Mein Wochenende war sehr schön und aktiv.",
+  "ex_ru": "Мои выходные были очень хорошими и активными."
+ },
+ {
+  "lemma": "langweilig",
+  "ipa": "ˈlaŋvaɪ̯lɪç",
+  "forms": "langweiliger, am langweiligsten",
+  "ru": "скучный",
+  "ex": "Das war ein bisschen langweilig, aber notwendig.",
+  "ex_ru": "Это было немного скучно, но необходимо.",
+  "note": "lang + Weile («промежуток времени»): дословно «время тянется долго»."
+ },
+ {
+  "lemma": "notwendig",
+  "ipa": "ˈnoːtvɛndɪç",
+  "forms": "notwendiger, am notwendigsten",
+  "ru": "необходимый",
+  "ex": "Das war langweilig, aber notwendig.",
+  "ex_ru": "Это было скучно, но необходимо."
+ },
+ {
+  "lemma": "vegetarisch",
+  "ipa": "veɡeˈtaːʁɪʃ",
+  "ru": "вегетарианский",
+  "ex": "Ich habe ein neues vegetarisches Rezept ausprobiert.",
+  "ex_ru": "Я попробовала новый вегетарианский рецепт."
+ },
+ {
+  "lemma": "bisschen",
+  "ipa": "ˈbɪsçən",
+  "ru": "немного, чуть-чуть",
+  "ex": "Das war ein bisschen langweilig.",
+  "ex_ru": "Это было немного скучно.",
+  "note": "Всегда с ein: ein bisschen. Разговорнее, чем etwas."
+ },
+ {
+  "lemma": "danach",
+  "ipa": "daˈnaːx",
+  "ru": "после этого, потом",
+  "ex": "Danach bin ich in die Stadt gefahren.",
+  "ex_ru": "После этого я поехала в город.",
+  "note": "Если стоит первым, глагол всё равно вторым: Danach bin ich…"
+ },
+ {
+  "lemma": "obwohl",
+  "ipa": "ɔpˈvoːl",
+  "ru": "хотя, несмотря на то что",
+  "ex": "Obwohl es langweilig war, hat sie viele Notizen gemacht.",
+  "ex_ru": "Хотя это было скучно, она сделала много записей.",
+  "note": "Как weil, отправляет глагол в конец придаточного."
+ },
+ {
+  "lemma": "so",
+  "rank": 9,
+  "ipa": "zoː",
+  "ru": "так, такой",
+  "ex": "Es ist so schönes Wetter!",
+  "ex_ru": "Такая хорошая погода!",
+  "note": "so … wie — «такой же …, как»: so alt wie unser Haus."
+ }
+]

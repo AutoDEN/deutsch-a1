@@ -1,0 +1,174 @@
+[
+ {
+  "lemma": "Gespräch", "gender": "das", "ipa": "ɡəˈʃpʁɛːç",
+  "forms": "мн. die Gespräche",
+  "ru": "разговор, беседа",
+  "ex": "Herr Schmitt beginnt ein kleines Gespräch mit seinem Nachbarn.",
+  "ex_ru": "Господин Шмитт начинает небольшой разговор с соседом.",
+  "note": "От sprechen. Отсюда das Vorstellungsgespräch — собеседование."
+ },
+ {
+  "lemma": "Erleichterung", "gender": "die", "ipa": "ɛɐ̯ˈlaɪ̯çtəʁʊŋ",
+  "forms": "мн. die Erleichterungen",
+  "ru": "облегчение",
+  "ex": "Nach dem ganzen Regen ist das eine echte Erleichterung.",
+  "ex_ru": "После всего этого дождя это настоящее облегчение.",
+  "note": "От leicht (лёгкий) из 24-го урока: стало легче."
+ },
+ {
+  "lemma": "Balkon", "gender": "der", "ipa": "balˈkoːn",
+  "forms": "мн. die Balkone",
+  "ru": "балкон",
+  "ex": "Ich baue verschiedene Gemüsesorten auf dem Balkon an.",
+  "ex_ru": "Я выращиваю разные овощи на балконе.",
+  "note": "Ударение на второй слог. На юге Германии часто говорят [balˈkɔŋ], на французский манер."
+ },
+ {
+  "lemma": "Daumen", "gender": "der", "ipa": "ˈdaʊ̯mən",
+  "forms": "мн. die Daumen",
+  "ru": "большой палец",
+  "ex": "Ich habe leider keinen grünen Daumen.",
+  "ex_ru": "К сожалению, у меня нет садоводческого таланта.",
+  "note": "einen grünen Daumen haben — «уметь обращаться с растениями». Ещё одно выражение: Ich drücke dir die Daumen! — «держу за тебя кулаки»."
+ },
+ {
+  "lemma": "Topf", "gender": "der", "ipa": "tɔp͡f",
+  "forms": "мн. die Töpfe",
+  "ru": "горшок; кастрюля",
+  "ex": "Ich baue verschiedene Gemüsesorten in Töpfen an.",
+  "ex_ru": "Я выращиваю разные сорта овощей в горшках.",
+  "note": "И цветочный горшок, и кастрюля на плите."
+ },
+ {
+  "lemma": "Keller", "gender": "der", "ipa": "ˈkɛlɐ",
+  "forms": "мн. die Keller",
+  "ru": "подвал",
+  "ex": "Ich muss meine neue Werkstatt im Keller einrichten.",
+  "ex_ru": "Мне нужно обустроить новую мастерскую в подвале.",
+  "note": "В немецких домах у каждой квартиры свой отсек в подвале — der Kellerraum."
+ },
+ {
+  "lemma": "Rolladen", "gender": "der", "ipa": "ˈʁɔlˌlaːdn̩",
+  "forms": "мн. die Rolladen · совр. написание der Rollladen",
+  "ru": "рольставни",
+  "ex": "Könnten Sie mir mit meinem kaputten Rolladen helfen?",
+  "ex_ru": "Не могли бы вы помочь мне с моими сломанными рольставнями?",
+  "note": "Почти в каждой немецкой квартире: их опускают на ночь вместо штор."
+ },
+ {
+  "lemma": "Hilfe", "gender": "die", "ipa": "ˈhɪlfə",
+  "forms": "мн. die Hilfen",
+  "ru": "помощь",
+  "ex": "Rufen Sie mich einfach an, wenn Sie Hilfe brauchen.",
+  "ex_ru": "Просто позвоните мне, если понадобится помощь.",
+  "note": "От helfen. Hilfe! — крик о помощи."
+ },
+ {
+  "lemma": "Angebot", "gender": "das", "ipa": "ˈanɡəˌboːt",
+  "forms": "мн. die Angebote",
+  "ru": "предложение; акция, скидка",
+  "ex": "Danke für das Angebot!",
+  "ex_ru": "Спасибо за предложение!",
+  "note": "В магазине im Angebot — «по акции». От anbieten (предлагать)."
+ },
+ {
+  "lemma": "Nachname", "gender": "der", "ipa": "ˈnaːxˌnaːmə",
+  "forms": "мн. die Nachnamen",
+  "ru": "фамилия",
+  "ex": "Man spricht Nachbarn mit „Herr“ oder „Frau“ und dem Nachnamen an.",
+  "ex_ru": "К соседям обращаются «господин» или «госпожа» плюс фамилия.",
+  "note": "Пара: der Vorname (имя) — der Nachname (фамилия)."
+ },
+ {
+  "lemma": "Form", "gender": "die", "rank": 228, "ipa": "fɔʁm",
+  "forms": "мн. die Formen",
+  "ru": "форма",
+  "ex": "Man verwendet in der Regel die höfliche Sie-Form.",
+  "ex_ru": "Как правило, используют вежливую форму на «Вы».",
+  "note": "И грамматическая форма, и форма предмета: Der Kuchen hat die Form eines Herzens."
+ },
+ {
+  "lemma": "vorhaben", "ipa": "ˈfoːɐ̯ˌhaːbn̩",
+  "forms": "hatte vor · hat vorgehabt",
+  "ru": "планировать, намереваться",
+  "ex": "Haben Sie etwas Schönes am Wochenende vor?",
+  "ex_ru": "У Вас есть приятные планы на выходные?",
+  "note": "Приставка vor- отделяемая: Ich habe nichts vor — «у меня нет планов»."
+ },
+ {
+  "lemma": "anbauen", "ipa": "ˈanˌbaʊ̯ən",
+  "forms": "baute an · hat angebaut",
+  "ru": "выращивать (растения)",
+  "ex": "Ich baue verschiedene Gemüsesorten in Töpfen an.",
+  "ex_ru": "Я выращиваю разные сорта овощей в горшках.",
+  "note": "О сельском хозяйстве и огороде. Растение само по себе растёт — wachsen (17-й урок)."
+ },
+ {
+  "lemma": "einrichten", "ipa": "ˈaɪ̯nˌʁɪçtn̩",
+  "forms": "richtete ein · hat eingerichtet",
+  "ru": "обустраивать, обставлять",
+  "ex": "Ich muss meine neue Werkstatt im Keller einrichten.",
+  "ex_ru": "Мне нужно обустроить новую мастерскую в подвале.",
+  "note": "О квартире, комнате, мастерской. Существительное — die Einrichtung (обстановка)."
+ },
+ {
+  "lemma": "sich melden", "ipa": "ˈmɛldn̩",
+  "forms": "meldete sich · hat sich gemeldet",
+  "ru": "давать о себе знать, выходить на связь",
+  "ex": "Ich melde mich, wenn ich Hilfe brauche.",
+  "ex_ru": "Я дам знать, если понадобится помощь.",
+  "note": "Ich melde mich! — «я свяжусь с вами», очень частая фраза в конце разговора."
+ },
+ {
+  "lemma": "schließen", "rank": 270, "ipa": "ˈʃliːsn̩",
+  "forms": "schloss · hat geschlossen",
+  "ru": "закрывать",
+  "ex": "Ich muss jetzt weiter, der Supermarkt schließt bald.",
+  "ex_ru": "Мне пора, супермаркет скоро закрывается.",
+  "note": "На двери магазина пишут geschlossen (закрыто) и geöffnet (открыто)."
+ },
+ {
+  "lemma": "begabt", "ipa": "bəˈɡaːpt",
+  "forms": "begabter, am begabtesten",
+  "ru": "одарённый, способный",
+  "ex": "Ah, Sie sind handwerklich begabt!",
+  "ex_ru": "А, вы умеете работать руками!",
+  "note": "handwerklich begabt — «с руками», умеет чинить и мастерить."
+ },
+ {
+  "lemma": "kaputt", "ipa": "kaˈpʊt",
+  "ru": "сломанный, испорченный",
+  "ex": "Könnten Sie mir mit meinem kaputten Rolladen helfen?",
+  "ex_ru": "Не могли бы вы помочь мне со сломанными рольставнями?",
+  "note": "Разговорное и очень частое. О человеке — «вымотан»: Ich bin total kaputt."
+ },
+ {
+  "lemma": "endlich", "ipa": "ˈɛntlɪç",
+  "ru": "наконец, наконец-то",
+  "ex": "Ja, endlich Sonne!",
+  "ex_ru": "Да, наконец-то солнце!",
+  "note": "Всегда с оттенком «долго ждали»."
+ },
+ {
+  "lemma": "furchtbar", "ipa": "ˈfʊʁçtbaːɐ̯",
+  "forms": "furchtbarer, am furchtbarsten",
+  "ru": "ужасный, ужасно",
+  "ex": "Oh ja, furchtbar! Es regnet seit drei Tagen.",
+  "ex_ru": "О да, ужасно! Дождь идёт уже три дня.",
+  "note": "Синоним — schrecklich. Оба годятся для жалоб на погоду."
+ },
+ {
+  "lemma": "gar", "rank": 101, "ipa": "ɡaːɐ̯",
+  "ru": "вовсе, совсем (с отрицанием)",
+  "ex": "Das ist gar nicht so schwer.",
+  "ex_ru": "Это вовсе не так сложно.",
+  "note": "Усиливает отрицание: gar nicht — «совсем не», gar nichts — «совсем ничего»."
+ },
+ {
+  "lemma": "weiter", "rank": 151, "ipa": "ˈvaɪ̯tɐ",
+  "ru": "дальше, далее",
+  "ex": "So, ich muss jetzt weiter.",
+  "ex_ru": "Ну, мне пора дальше.",
+  "note": "Ich muss weiter — вежливый способ закончить разговор. Приставкой присоединяется к глаголам: weiterlesen, weitermachen."
+ }
+]

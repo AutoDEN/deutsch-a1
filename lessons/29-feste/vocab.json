@@ -1,0 +1,178 @@
+[
+ {
+  "lemma": "Weihnachten", "gender": "das", "ipa": "ˈvaɪ̯naxtn̩",
+  "forms": "обычно без артикля",
+  "ru": "Рождество",
+  "ex": "Weihnachten ist für Clara das schönste Fest im Jahr.",
+  "ex_ru": "Рождество для Клары — самый красивый праздник в году.",
+  "note": "Чаще всего употребляется без артикля: Frohe Weihnachten! — «счастливого Рождества!»"
+ },
+ {
+  "lemma": "Fest", "gender": "das", "ipa": "fɛst",
+  "forms": "мн. die Feste",
+  "ru": "праздник, торжество",
+  "ex": "Weihnachten ist das schönste Fest im Jahr.",
+  "ex_ru": "Рождество — самый красивый праздник в году.",
+  "note": "О большом празднике с гостями. Отсюда feiern (праздновать)."
+ },
+ {
+  "lemma": "Feiertag", "gender": "der", "ipa": "ˈfaɪ̯ɐˌtaːk",
+  "forms": "мн. die Feiertage",
+  "ru": "праздничный (нерабочий) день",
+  "ex": "Nach den Feiertagen fährt Clara zu ihrer Schwester nach München.",
+  "ex_ru": "После праздников Клара едет к сестре в Мюнхен.",
+  "note": "Официально выходной: магазины закрыты. 25 и 26 декабря — die Weihnachtsfeiertage."
+ },
+ {
+  "lemma": "Heiligabend", "gender": "der", "ipa": "ˈhaɪ̯lɪçˌaːbn̩t",
+  "forms": "мн. die Heiligabende",
+  "ru": "сочельник, канун Рождества",
+  "ex": "Am Heiligabend kocht Claras Mutter traditionell Gänsebraten.",
+  "ex_ru": "В сочельник мама Клары традиционно готовит жареного гуся.",
+  "note": "24 декабря — главный вечер немецкого Рождества, важнее самих 25-го и 26-го."
+ },
+ {
+  "lemma": "Tannenbaum", "gender": "der", "ipa": "ˈtanənˌbaʊ̯m",
+  "forms": "мн. die Tannenbäume",
+  "ru": "ёлка, рождественское дерево",
+  "ex": "Clara schmückt immer den Tannenbaum mit roten Kugeln.",
+  "ex_ru": "Клара всегда украшает ёлку красными шарами.",
+  "note": "die Tanne — пихта. Второе название — der Weihnachtsbaum."
+ },
+ {
+  "lemma": "Kugel", "gender": "die", "ipa": "ˈkuːɡl̩",
+  "forms": "мн. die Kugeln",
+  "ru": "шар",
+  "ex": "Wir schmücken ihn mit roten Kugeln und kleinen Figuren.",
+  "ex_ru": "Мы украшаем её красными шарами и маленькими фигурками.",
+  "note": "И ёлочный шар, и шарик мороженого: eine Kugel Eis."
+ },
+ {
+  "lemma": "Christkind", "gender": "das", "ipa": "ˈkʁɪstˌkɪnt",
+  "forms": "мн. die Christkinder",
+  "ru": "младенец Христос (приносит подарки)",
+  "ex": "Die Kinder warten gespannt auf das Christkind.",
+  "ex_ru": "Дети с нетерпением ждут младенца Христа.",
+  "note": "На юге Германии подарки приносит Christkind, на севере — Weihnachtsmann. В семье Клары — Christkind."
+ },
+ {
+  "lemma": "Weihnachtsmann", "gender": "der", "ipa": "ˈvaɪ̯naxt͡sˌman",
+  "forms": "мн. die Weihnachtsmänner",
+  "ru": "Дед Мороз, Санта-Клаус",
+  "ex": "In Claras Familie bringt nicht der Weihnachtsmann die Geschenke.",
+  "ex_ru": "В семье Клары подарки приносит не Дед Мороз.",
+  "note": "Не путать с der Nikolaus: тот приходит 6 декабря и кладёт сладости в ботинок."
+ },
+ {
+  "lemma": "Geschenk", "gender": "das", "ipa": "ɡəˈʃɛŋk",
+  "forms": "мн. die Geschenke",
+  "ru": "подарок",
+  "ex": "In Claras Familie bringt das Christkind die Geschenke.",
+  "ex_ru": "В семье Клары подарки приносит младенец Христос.",
+  "note": "От schenken (дарить)."
+ },
+ {
+  "lemma": "Plätzchen", "gender": "das", "ipa": "ˈplɛt͡sçən",
+  "forms": "мн. die Plätzchen",
+  "ru": "рождественское печенье",
+  "ex": "Clara freut sich besonders auf die selbstgebackenen Plätzchen ihrer Oma.",
+  "ex_ru": "Клара особенно радуется домашнему печенью своей бабушки.",
+  "note": "Маленькое печенье, которое пекут в декабре целыми противнями. Зимняя классика — Zimtsterne (коричные звёздочки)."
+ },
+ {
+  "lemma": "Lied", "gender": "das", "ipa": "liːt",
+  "forms": "мн. die Lieder",
+  "ru": "песня",
+  "ex": "Nach dem Essen singen sie gemeinsam Weihnachtslieder.",
+  "ex_ru": "После ужина они вместе поют рождественские песни.",
+  "note": "Во множественном числе d озвончается: das Lied [liːt] — die Lieder [ˈliːdɐ]."
+ },
+ {
+  "lemma": "Schnee", "gender": "der", "ipa": "ʃneː",
+  "forms": "без мн. ч.",
+  "ru": "снег",
+  "ex": "Dort spielen sie mit den Kindern im Schnee.",
+  "ex_ru": "Там они играют с детьми в снегу.",
+  "note": "Глагол из 19-го урока — schneien: Es schneit."
+ },
+ {
+  "lemma": "Oma", "gender": "die", "ipa": "ˈoːma",
+  "forms": "мн. die Omas",
+  "ru": "бабушка",
+  "ex": "Clara freut sich auf die Plätzchen ihrer Oma.",
+  "ex_ru": "Клара ждёт печенье своей бабушки.",
+  "note": "Домашнее слово; официально — die Großmutter. Дедушка — der Opa / der Großvater."
+ },
+ {
+  "lemma": "Tradition", "gender": "die", "ipa": "tʁadiˈt͡si̯oːn",
+  "forms": "мн. die Traditionen",
+  "ru": "традиция",
+  "ex": "Zu Weihnachten hat jede Familie ihre eigenen Traditionen.",
+  "ex_ru": "На Рождество у каждой семьи свои традиции.",
+  "note": "Ударение на последний слог. Прилагательное — traditionell."
+ },
+ {
+  "lemma": "Dezember", "gender": "der", "ipa": "deˈt͡sɛmbɐ",
+  "forms": "мн. die Dezember",
+  "ru": "декабрь",
+  "ex": "Es ist im Dezember, und die ganze Familie kommt zusammen.",
+  "ex_ru": "Это в декабре, и вся семья собирается вместе.",
+  "note": "«В декабре» — im Dezember. Дата: am 24. Dezember (читается am vierundzwanzigsten Dezember)."
+ },
+ {
+  "lemma": "feiern", "ipa": "ˈfaɪ̯ɐn",
+  "forms": "feierte · hat gefeiert",
+  "ru": "праздновать, отмечать",
+  "ex": "Wie feierst du Weihnachten mit deiner Familie?",
+  "ex_ru": "Как ты празднуешь Рождество с семьёй?",
+  "note": "Отсюда der Feierabend (конец рабочего дня) из 13-го урока."
+ },
+ {
+  "lemma": "schenken", "ipa": "ˈʃɛŋkn̩",
+  "forms": "schenkte · hat geschenkt",
+  "ru": "дарить",
+  "ex": "Clara schenkt ihren Nichten und Neffen immer besondere Bücher.",
+  "ex_ru": "Клара всегда дарит своим племянницам и племянникам особенные книги.",
+  "note": "Кому — в Dativ, что — в Akkusativ: Ich schenke dir ein Buch."
+ },
+ {
+  "lemma": "singen", "ipa": "ˈzɪŋən",
+  "forms": "sang · hat gesungen",
+  "ru": "петь",
+  "ex": "Nach dem Essen singen sie gemeinsam Weihnachtslieder.",
+  "ex_ru": "После ужина они вместе поют рождественские песни.",
+  "note": "Неправильный: singen — sang — gesungen."
+ },
+ {
+  "lemma": "schmücken", "ipa": "ˈʃmʏkn̩",
+  "forms": "schmückte · hat geschmückt",
+  "ru": "украшать",
+  "ex": "Sie schmückt den Tannenbaum mit kleinen Holzfiguren.",
+  "ex_ru": "Она украшает ёлку маленькими деревянными фигурками.",
+  "note": "Чем украшать — с mit + Dativ: mit roten Kugeln."
+ },
+ {
+  "lemma": "basteln", "ipa": "ˈbastl̩n",
+  "forms": "bastelte · hat gebastelt",
+  "ru": "мастерить (руками)",
+  "ex": "Holzfiguren, die sie als Kind selbst gebastelt hat.",
+  "ex_ru": "Деревянные фигурки, которые она сама смастерила в детстве.",
+  "note": "О поделках из бумаги, дерева, картона — то, чем занимаются с детьми."
+ },
+ {
+  "lemma": "gespannt", "ipa": "ɡəˈʃpant",
+  "forms": "gespannter, am gespanntesten",
+  "ru": "в нетерпении, с интересом",
+  "ex": "Die Kinder warten gespannt auf das Christkind.",
+  "ex_ru": "Дети с нетерпением ждут младенца Христа.",
+  "note": "Ich bin gespannt! — «интересно, что будет». Родственно spannend из 26-го урока."
+ },
+ {
+  "lemma": "warten", "rank": 281, "ipa": "ˈvaʁtn̩",
+  "forms": "wartete · hat gewartet",
+  "ru": "ждать",
+  "ex": "Die Kinder warten gespannt auf das Christkind.",
+  "ex_ru": "Дети с нетерпением ждут младенца Христа.",
+  "note": "Ждать кого-то или чего-то — warten auf + Akkusativ."
+ }
+]

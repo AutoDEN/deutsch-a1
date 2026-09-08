@@ -1,0 +1,177 @@
+[
+ {
+  "lemma": "Mülltrennung", "gender": "die", "ipa": "ˈmʏlˌtʁɛnʊŋ",
+  "forms": "мн. die Mülltrennungen",
+  "ru": "сортировка мусора",
+  "ex": "In Deutschland ist Mülltrennung sehr wichtig für die Umwelt.",
+  "ex_ru": "В Германии сортировка мусора очень важна для экологии.",
+  "note": "der Müll + die Trennung (разделение). Одно из первых слов, которые узнаёт приехавший в Германию."
+ },
+ {
+  "lemma": "Müll", "gender": "der", "ipa": "mʏl",
+  "forms": "без мн. ч.",
+  "ru": "мусор",
+  "ex": "Herr Müller trennt seinen Müll immer sorgfältig.",
+  "ex_ru": "Господин Мюллер всегда тщательно сортирует свой мусор.",
+  "note": "Всегда в единственном числе. Отсюда die Mülltonne, der Mülleimer (ведро)."
+ },
+ {
+  "lemma": "Biomüll", "gender": "der", "ipa": "ˈbiːoˌmʏl",
+  "forms": "без мн. ч.",
+  "ru": "органические отходы, биомусор",
+  "ex": "Biomüll gehört in die braune Tonne.",
+  "ex_ru": "Биомусор относится в коричневый контейнер.",
+  "note": "Очистки, остатки еды, кофейная гуща — всё, что перегнивает."
+ },
+ {
+  "lemma": "Restmüll", "gender": "der", "ipa": "ˈʁɛstˌmʏl",
+  "forms": "без мн. ч.",
+  "ru": "остаточный мусор",
+  "ex": "Was nicht recycelt werden kann, kommt in den Restmüll.",
+  "ex_ru": "То, что нельзя переработать, идёт в остаточный мусор.",
+  "note": "Последняя корзина: туда попадает только то, что не подошло ни в одну другую."
+ },
+ {
+  "lemma": "Tonne", "gender": "die", "ipa": "ˈtɔnə",
+  "forms": "мн. die Tonnen",
+  "ru": "бак, контейнер; тонна",
+  "ex": "Für Papier gibt es die blaue Tonne.",
+  "ex_ru": "Для бумаги есть синий контейнер.",
+  "note": "И мера веса, и мусорный бак — по контексту всегда понятно."
+ },
+ {
+  "lemma": "Sack", "gender": "der", "ipa": "zak",
+  "forms": "мн. die Säcke",
+  "ru": "мешок",
+  "ex": "Man wirft Plastik in den gelben Sack.",
+  "ex_ru": "Пластик выбрасывают в жёлтый мешок.",
+  "note": "der gelbe Sack — жёлтый мешок для упаковки, его выставляют к дому в день вывоза."
+ },
+ {
+  "lemma": "Aufkleber", "gender": "der", "ipa": "ˈaʊ̯fˌkleːbɐ",
+  "forms": "мн. die Aufkleber",
+  "ru": "наклейка",
+  "ex": "Er hat kleine bunte Aufkleber auf seine Tonnen geklebt.",
+  "ex_ru": "Он наклеил маленькие цветные наклейки на свои баки.",
+  "note": "От aufkleben (наклеивать). Во множественном числе форма не меняется."
+ },
+ {
+  "lemma": "Joghurtbecher", "gender": "der", "ipa": "ˈjoːɡʊʁtˌbɛçɐ",
+  "forms": "мн. die Joghurtbecher",
+  "ru": "стаканчик от йогурта",
+  "ex": "Herr Müller achtet darauf, dass Joghurtbecher sauber sind.",
+  "ex_ru": "Господин Мюллер следит за тем, чтобы стаканчики от йогурта были чистыми.",
+  "note": "der Becher — стаканчик. Крышку и стаканчик разделяют: они из разного пластика."
+ },
+ {
+  "lemma": "Verpackung", "gender": "die", "ipa": "fɛɐ̯ˈpakʊŋ",
+  "forms": "мн. die Verpackungen",
+  "ru": "упаковка",
+  "ex": "In die gelbe Tonne wirft man Plastik und andere Verpackungen.",
+  "ex_ru": "В жёлтый бак выбрасывают пластик и другую упаковку.",
+  "note": "От verpacken (упаковывать); родственное einpacken из 26-го урока."
+ },
+ {
+  "lemma": "Papier", "gender": "das", "ipa": "paˈpiːɐ̯",
+  "forms": "мн. die Papiere",
+  "ru": "бумага",
+  "ex": "Für Papier gibt es die blaue Tonne.",
+  "ex_ru": "Для бумаги есть синий контейнер.",
+  "note": "Во множественном числе die Papiere — ещё и документы: Ihre Papiere, bitte!"
+ },
+ {
+  "lemma": "Zeitung", "gender": "die", "ipa": "ˈt͡saɪ̯tʊŋ",
+  "forms": "мн. die Zeitungen",
+  "ru": "газета",
+  "ex": "Dort kommen Zeitungen, Kartons und Papierverpackungen hinein.",
+  "ex_ru": "Туда идут газеты, картон и бумажная упаковка."
+ },
+ {
+  "lemma": "Umwelt", "gender": "die", "ipa": "ˈʊmvɛlt",
+  "forms": "без мн. ч.",
+  "ru": "окружающая среда, экология",
+  "ex": "Mülltrennung ist wichtig für die Umwelt.",
+  "ex_ru": "Сортировка мусора важна для экологии.",
+  "note": "um (вокруг) + die Welt (мир) — то, что вокруг нас."
+ },
+ {
+  "lemma": "Rest", "gender": "der", "ipa": "ʁɛst",
+  "forms": "мн. die Reste",
+  "ru": "остаток, остатки",
+  "ex": "Hier entsorgt Herr Müller Obst- und Gemüsereste.",
+  "ex_ru": "Здесь господин Мюллер выбрасывает остатки фруктов и овощей.",
+  "note": "Чаще во множественном: Essensreste — остатки еды."
+ },
+ {
+  "lemma": "trennen", "ipa": "ˈtʁɛnən",
+  "forms": "trennte · hat getrennt",
+  "ru": "разделять, сортировать",
+  "ex": "Man muss den Müll sorgfältig trennen.",
+  "ex_ru": "Мусор нужно тщательно сортировать.",
+  "note": "Отсюда getrennt (раздельно) из 24-го урока: getrennt zahlen — платить по отдельности."
+ },
+ {
+  "lemma": "sortieren", "ipa": "zɔʁˈtiːʁən",
+  "forms": "sortierte · hat sortiert",
+  "ru": "сортировать, раскладывать",
+  "ex": "Das Glas muss nach Farben sortiert werden.",
+  "ex_ru": "Стекло нужно рассортировать по цветам.",
+  "note": "Глаголы на -ieren в Partizip II идут без ge-: hat sortiert, hat probiert, hat telefoniert."
+ },
+ {
+  "lemma": "entsorgen", "ipa": "ɛntˈzɔʁɡn̩",
+  "forms": "entsorgte · hat entsorgt",
+  "ru": "утилизировать, выбрасывать",
+  "ex": "Hier entsorgt Herr Müller Obst- und Gemüsereste.",
+  "ex_ru": "Здесь господин Мюллер утилизирует остатки фруктов и овощей.",
+  "note": "Официальное слово: в объявлениях и на баках пишут именно так, а не wegwerfen."
+ },
+ {
+  "lemma": "werfen", "ipa": "ˈvɛʁfn̩",
+  "forms": "warf · hat geworfen",
+  "ru": "бросать, кидать",
+  "ex": "In die gelbe Tonne wirft man Plastik.",
+  "ex_ru": "В жёлтый бак бросают пластик.",
+  "note": "Неправильный, с меняющейся гласной: du wirfst, er wirft. С приставкой: wegwerfen — выбрасывать."
+ },
+ {
+  "lemma": "gehören", "ipa": "ɡəˈhøːʁən",
+  "forms": "gehörte · hat gehört",
+  "ru": "принадлежать; относиться (куда-то)",
+  "ex": "Biomüll gehört in die braune Tonne.",
+  "ex_ru": "Биомусор относится в коричневый контейнер.",
+  "note": "Два употребления: gehören + Dativ (принадлежать кому-то) и gehören in + Akkusativ (быть на месте где-то)."
+ },
+ {
+  "lemma": "recyceln", "ipa": "ʁiˈsaɪ̯kl̩n",
+  "forms": "recycelte · hat recycelt",
+  "ru": "перерабатывать",
+  "ex": "Was nicht recycelt werden kann, kommt in den Restmüll.",
+  "ex_ru": "То, что нельзя переработать, идёт в остаточный мусор.",
+  "note": "Английское слово, но читается по-немецки. Существительное — das Recycling."
+ },
+ {
+  "lemma": "sauber", "ipa": "ˈzaʊ̯bɐ",
+  "forms": "sauberer, am saubersten",
+  "ru": "чистый",
+  "ex": "Herr Müller achtet darauf, dass Joghurtbecher sauber sind.",
+  "ex_ru": "Господин Мюллер следит за тем, чтобы стаканчики от йогурта были чистыми.",
+  "note": "sauber machen — убирать, мыть. Противоположность — schmutzig."
+ },
+ {
+  "lemma": "sorgfältig", "ipa": "ˈzɔʁkfɛltɪç",
+  "forms": "sorgfältiger, am sorgfältigsten",
+  "ru": "тщательный, аккуратный",
+  "ex": "Herr Müller trennt seinen Müll immer sorgfältig.",
+  "ex_ru": "Господин Мюллер всегда тщательно сортирует свой мусор.",
+  "note": "От die Sorgfalt (тщательность). Частая похвала в отзыве о работе."
+ },
+ {
+  "lemma": "Beispiel", "gender": "das", "rank": 43, "ipa": "ˈbaɪ̯ˌʃpiːl",
+  "forms": "мн. die Beispiele",
+  "ru": "пример",
+  "ex": "In die braune Tonne gehört der Biomüll, zum Beispiel Apfelschalen und Kaffeesatz.",
+  "ex_ru": "В коричневый бак идёт биомусор, например яблочные очистки и кофейная гуща.",
+  "note": "zum Beispiel (сокращённо z. B.) — «например»."
+ }
+]
