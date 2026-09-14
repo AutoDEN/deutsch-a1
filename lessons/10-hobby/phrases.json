@@ -1,0 +1,256 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was machst du gern?",
+              "ipa": "vas maxst duː ɡɛʁn",
+              "ru": "Что ты любишь делать?"
+            }
+          ],
+          "tip": "<em>gern</em> — не глагол, а наречие «охотно»: дословно «что ты делаешь охотно». На этом слове держатся все фразы урока. В <em>machst</em> сходятся «хст» — три звука подряд."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was sind deine Hobbys?",
+              "ipa": "vas zɪnt ˈdaɪ̯nə ˈhɔbis",
+              "ru": "Какие у тебя хобби?"
+            }
+          ],
+          "tip": "Множественное число с <em>-s</em>, как в английском, но читается по-немецки: «хо́бис», с глухим <em>s</em> на конце. Ударение на первый слог."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wofür interessierst du dich?",
+              "ipa": "voˈfyːɐ̯ ɪntəʁɛˈsiːɐ̯st duː dɪç",
+              "ru": "Чем ты увлекаешься?"
+            }
+          ],
+          "tip": "<em>wofür</em> — слитный вопрос «чем, ради чего»: <em>wo</em> + <em>für</em>, ударение на второй части. Глагол <em>sich interessieren</em> возвратный, поэтому <em>dich</em> в конце обязательно."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Was machst du in deiner Freizeit?",
+              "ipa": "vas maxst duː ɪn ˈdaɪ̯nɐ ˈfʁaɪ̯t͡saɪ̯t",
+              "ru": "Как ты проводишь свободное время?"
+            }
+          ],
+          "tip": "<em>Freizeit</em> — «свободное время», два дифтонга «ай» подряд: «фрай-цайт». После <em>in</em> здесь Dativ, отсюда <em>deiner</em>."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich lese gern.",
+              "ipa": "ɪç ˈleːzə ɡɛʁn",
+              "ru": "Я люблю читать."
+            }
+          ],
+          "tip": "В <em>lesen</em> <em>s</em> стоит между гласными и потому звонкое: «ле́:зэ». <em>gern</em> встаёт сразу после глагола, а не в конце фразы."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich mache gern Sport.",
+              "ipa": "ɪç ˈmaxə ɡɛʁn ʃpɔʁt",
+              "ru": "Я люблю спорт."
+            }
+          ],
+          "tip": "<em>Sport</em> начинается со «шп»: <em>sp-</em> в начале слова всегда читается так. Спортом по-немецки «занимаются» через <em>machen</em> или <em>treiben</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich höre gern Musik.",
+              "ipa": "ɪç ˈhøːʁə ɡɛʁn muˈziːk",
+              "ru": "Я люблю музыку."
+            }
+          ],
+          "tip": "В <em>Musik</em> ударение на второй слог: «музи́:к», а не «му́зик». В <em>höre</em> губы складываются для «о», а звук идёт как «э», <em>r</em> картавое."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich interessiere mich für Fotografie.",
+              "ipa": "ɪç ɪntəʁɛˈsiːʁə mɪç fyːɐ̯ fotoɡʁaˈfiː",
+              "ru": "Я увлекаюсь фотографией."
+            }
+          ],
+          "tip": "Полная конструкция: <em>sich interessieren für</em> плюс Akkusativ. В <em>Fotografie</em> ударение на последний слог, и «и:» там долгое — «фотографи́:»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In meiner Freizeit gehe ich spazieren.",
+              "ipa": "ɪn ˈmaɪ̯nɐ ˈfʁaɪ̯t͡saɪ̯t ˈɡeːə ɪç ʃpaˈt͡siːʁən",
+              "ru": "В свободное время я гуляю."
+            }
+          ],
+          "tip": "Обстоятельство встало первым — и глагол сразу за ним, а <em>ich</em> ушло назад. <em>spazieren gehen</em>: второй глагол в конце, ударение в <em>spazieren</em> на <em>-zie-</em>."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie oft machst du das?",
+              "ipa": "viː ɔft maxst duː das",
+              "ru": "Как часто ты это делаешь?"
+            }
+          ],
+          "tip": "<em>wie oft</em> — «как часто», два слова. В <em>oft</em> гласная краткая и открытая, а <em>ft</em> на конце произносится раздельно и чётко."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wo machst du das normalerweise?",
+              "ipa": "voː maxst duː das noʁˈmaːlɐˌvaɪ̯zə",
+              "ru": "Где ты обычно этим занимаешься?"
+            }
+          ],
+          "tip": "<em>normalerweise</em> — длинное наречие «обычно», собранное из <em>normale</em> и <em>Weise</em> «манера». Ударение на <em>-ma-</em>, а <em>-weise</em> с «ай» и звонким «з»."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Mit wem treibst du Sport?",
+              "ipa": "mɪt veːm tʁaɪ̯pst duː ʃpɔʁt",
+              "ru": "С кем ты занимаешься спортом?"
+            }
+          ],
+          "tip": "<em>wem</em> — Dativ от <em>wer</em>: предлог <em>mit</em> другого падежа не допускает. В <em>treibst</em> буква <em>b</em> оглушается перед <em>st</em>: «трайпст»."
+        },
+        {
+          "id": "13",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Was machst du am liebsten?",
+              "ipa": "vas maxst duː am ˈliːpstn̩",
+              "ru": "Что тебе больше всего нравится делать?"
+            }
+          ],
+          "tip": "<em>am liebsten</em> — превосходная степень от <em>gern</em>: <em>gern — lieber — am liebsten</em>. Здесь <em>b</em> тоже оглушается перед <em>st</em>."
+        },
+        {
+          "id": "14",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Das ist interessant!",
+              "ipa": "das ɪst ɪntəʁɛˈsant",
+              "ru": "Это интересно!"
+            }
+          ],
+          "tip": "Ударение на последний слог: «интэрэса́нт». Короткая реплика, которая выручает в любом разговоре, когда сказать пока нечего."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Чем занимаетесь в свободное время.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was machst du gern in deiner Freizeit?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ich lese sehr gern, besonders Romane. Und ich schreibe gern in mein Tagebuch. Und was machst du sonst gern?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich bin oft im Internet und treffe gern Freunde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Разговор о музыке с соседом.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Sie hören gern Musik?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, sehr gern. Ich höre klassische Musik, Mozart und Beethoven."
+            },
+            {
+              "voice": "lena",
+              "de": "Interessant! Ich höre auch gern Musik, aber eher Rock."
+            },
+            {
+              "voice": "mueller",
+              "de": "Und welche Bands hören Sie gern?"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Готовка как хобби.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Kochen Sie gern?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, ich koche sehr gern. Das ist mein Hobby."
+            },
+            {
+              "voice": "lena",
+              "de": "Was kochen Sie am liebsten?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Traditionelle deutsche Gerichte. Kochen Sie oft?"
+            },
+            {
+              "voice": "lena",
+              "de": "Nicht so oft, aber am Wochenende gern."
+            },
+            {
+              "voice": "mueller",
+              "de": "Vielleicht tauschen wir mal Rezepte aus?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

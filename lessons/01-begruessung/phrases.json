@@ -1,0 +1,280 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hallo Clara! Wie geht's?",
+              "ipa": "haˈloː ˈklaːʁa · viː ɡeːt͡s",
+              "ru": "Привет, Клара! Как дела?"
+            },
+            {
+              "voice": "clara",
+              "de": "Hallo Lena! Danke, gut. Und dir?",
+              "ipa": "haˈloː ˈleːna · ˈdaŋkə ɡuːt · ʊnt diːɐ̯",
+              "ru": "Привет, Лена! Спасибо, хорошо. А у тебя?"
+            },
+            {
+              "voice": "lena",
+              "de": "Auch gut, danke!",
+              "ipa": "aʊ̯x ɡuːt ˈdaŋkə",
+              "ru": "Тоже хорошо, спасибо!"
+            }
+          ],
+          "tip": "В <em>Hallo</em> ударение на втором слоге, а не на первом: «хало́:». <em>Wie geht's</em> — стянутое <em>wie geht es</em>, и <em>t</em> с <em>s</em> слились в один звук [t͡s]: «ге:ц», а не «гетс». В <em>danke</em> [ˈdaŋkə] «н» носовое, как в английском <em>sing</em>, а на конце невнятное «э». В <em>dir</em> конечное <em>r</em> не звучит совсем — «ди:а»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Guten Morgen, Herr Müller!",
+              "ipa": "ˈɡuːtn̩ ˈmɔʁɡn̩ · hɛʁ ˈmʏlɐ",
+              "ru": "Доброе утро, господин Мюллер!"
+            },
+            {
+              "voice": "mueller",
+              "de": "Guten Morgen, Max! Wie geht es Ihnen?",
+              "ipa": "ˈɡuːtn̩ ˈmɔʁɡn̩ maks · viː ɡeːt ɛs ˈiːnən",
+              "ru": "Доброе утро, Макс! Как Вы поживаете?"
+            },
+            {
+              "voice": "max",
+              "de": "Danke, gut. Und Ihnen?",
+              "ipa": "ˈdaŋkə ɡuːt · ʊnt ˈiːnən",
+              "ru": "Спасибо, хорошо. А Вы?"
+            }
+          ],
+          "tip": "Окончание <em>-en</em> теряет гласную, и «н» становится слогом само: «гу́:тн мо́ргн», а не «гутэн моргэн». Буквы <em>r</em> в этих словах ведут себя по-разному: в <em>Morgen</em> оно стоит в начале слога и звучит картаво, горлом, а конечное <em>-er</em> в <em>Müller</em> — это просто короткое «а». Формальное <em>Wie geht es Ihnen</em> не стягивают до <em>geht's</em>: на «Вы» фразу проговаривают целиком."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Mir geht es gut. Danke der Nachfrage.",
+              "ipa": "miːɐ̯ ɡeːt ɛs ɡuːt · ˈdaŋkə deːɐ̯ ˈnaːxˌfʁaːɡə",
+              "ru": "У меня всё хорошо. Спасибо, что спросили."
+            }
+          ],
+          "tip": "Два <em>r</em> подряд, и оба не «р»: в <em>mir</em> и <em>der</em> после долгой гласной остаётся призвук «а» — «ми:а», «де:а». Зато в <em>Nachfrage</em> буква <em>r</em> стоит в начале слога <em>fra-</em> и звучит картаво. <em>ch</em> после <em>a</em> — твёрдое «х», как в «хорошо»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Guten Tag!",
+              "ipa": "ˈɡuːtn̩ ˈtaːk",
+              "ru": "Добрый день! (с позднего утра и до вечера)"
+            }
+          ],
+          "tip": "Конечное <em>g</em> оглушается: «та:к», а не «та:г». Гласная при этом долгая, и её слышно — долгота здесь единственное, что отличает <em>Tag</em> от короткого «так»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Guten Abend!",
+              "ipa": "ˈɡuːtn̩ ˈaːbn̩t",
+              "ru": "Добрый вечер!"
+            }
+          ],
+          "tip": "<em>Abend</em> звучит в два слога, а не в три: гласная в <em>-end</em> проглочена, «н» образует слог сам, а <em>d</em> на конце оглушается — «а́:бнт»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Gute Nacht!",
+              "ipa": "ˈɡuːtə ˈnaxt",
+              "ru": "Спокойной ночи! (только на прощание перед сном)"
+            }
+          ],
+          "tip": "Здесь <em>Gute</em> без <em>-n</em>, потому что <em>Nacht</em> женского рода — сравните с <em>Guten Tag</em>. На слух разница как раз в окончании: «гу́:тэ» против «гу́:тн». В <em>Nacht</em> гласная краткая, <em>ch</em> твёрдое."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Das Wetter ist heute schön, oder?",
+              "ipa": "das ˈvɛtɐ ɪst ˈhɔɪ̯tə ʃøːn · ˈoːdɐ",
+              "ru": "Погода сегодня прекрасная, правда?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, wunderbar! Ideal für einen Spaziergang.",
+              "ipa": "jaː ˈvʊndɐbaːɐ̯ · ideˈaːl fyːɐ̯ ˈaɪ̯nən ʃpaˈt͡siːɐ̯ɡaŋ",
+              "ru": "Да, чудесная! Идеально для прогулки."
+            }
+          ],
+          "tip": "Четыре <em>r</em> в двух строках, и ни одного «р»: <em>Wetter</em> — «вэ́та», <em>oder</em> — «о́:да», <em>für</em> — «фю:а», <em>Spazier-</em> — «шпаци́:а». <em>eu</em> в <em>heute</em> читается «ой», <em>sp-</em> в начале слова — «шп», а <em>-ng</em> на конце даёт одно носовое «н», без «г»: не «ганг», а «ган» в нос."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Einen schönen Tag noch!",
+              "ipa": "ˈaɪ̯nən ˈʃøːnən ˈtaːk nɔx",
+              "ru": "Хорошего дня ещё!"
+            },
+            {
+              "voice": "mueller",
+              "de": "Danke, gleichfalls! Auf Wiedersehen!",
+              "ipa": "ˈdaŋkə ˈɡlaɪ̯çfals · aʊ̯f ˈviːdɐˌzeːən",
+              "ru": "Спасибо, и Вам того же! До свидания!"
+            }
+          ],
+          "tip": "<em>ei</em> всегда читается «ай», а не «эй»: <em>einen</em> — «а́йнэн», <em>gleichfalls</em> — «гла́йхь...». В <em>schön</em> губы складываются для «о», а говорится «э». <em>ch</em> после «ай» мягкое, шипящее «хь» — это тот самый ich-Laut. В <em>Wiedersehen</em> буква <em>s</em> стоит перед гласной и потому звонкая: «зе́:эн»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Schönes Wochenende!",
+              "ipa": "ˈʃøːnəs ˈvɔxn̩ˌʔɛndə",
+              "ru": "Хороших выходных!"
+            },
+            {
+              "voice": "clara",
+              "de": "Danke, dir auch!",
+              "ipa": "ˈdaŋkə diːɐ̯ aʊ̯x",
+              "ru": "Спасибо, и тебе тоже!"
+            }
+          ],
+          "tip": "<em>Wochenende</em> — сложное слово из <em>Wochen</em> и <em>Ende</em>, и перед второй частью слышна микропауза, твёрдый приступ [ʔ]: «во́хн-эндэ», а не «вохнэндэ». Ударение стоит на первой части. Окончание <em>-es</em> в <em>Schönes</em> — потому что <em>Wochenende</em> среднего рода."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Tschüss, Clara! Bis bald!",
+              "ipa": "t͡ʃʏs ˈklaːʁa · bɪs balt",
+              "ru": "Пока, Клара! До скорого!"
+            },
+            {
+              "voice": "clara",
+              "de": "Tschüss, Lena! Bis morgen!",
+              "ipa": "t͡ʃʏs ˈleːna · bɪs ˈmɔʁɡn̩",
+              "ru": "Пока, Лена! До завтра!"
+            }
+          ],
+          "tip": "<em>tschüss</em> — «ч» одним звуком плюс краткое «ю» с ненапряжёнными губами, и всё это коротко: «чюс». В <em>bald</em> конечное <em>d</em> оглушается в «т». <em>Morgen</em> «утро» и <em>morgen</em> «завтра» звучат одинаково — разводит их только <em>bis</em> и заглавная буква на письме."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Bis später!",
+              "ipa": "bɪs ˈʃpɛːtɐ",
+              "ru": "До встречи! (сегодня же, чуть позже)"
+            }
+          ],
+          "tip": "<em>sp-</em> в начале слова читается «шп», а конечное <em>-er</em> — короткое «а»: «шпэ́:та», не «шпэтэр». Гласная в первом слоге долгая и открытая."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Auf Wiederhören!",
+              "ipa": "aʊ̯f ˈviːdɐˌhøːʁən",
+              "ru": "До свидания! (по телефону — дословно «до услышания»)"
+            }
+          ],
+          "tip": "Говорят только по телефону: собеседника не видно, поэтому <em>-sehen</em> меняется на <em>-hören</em>. В <em>hören</em> губы складываются для «о», а звук идёт как «э»; <em>r</em> здесь картавое, оно стоит в начале слога."
+        },
+        {
+          "id": "13",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Servus!",
+              "ipa": "ˈzɛʁvʊs",
+              "ru": "Привет! / Пока! (по-свойски, Бавария и Австрия)"
+            }
+          ],
+          "tip": "Начальное <em>s</em> перед гласной звонкое: «зэ́рвус», а не «сэрвус». Буква <em>v</em> здесь звучит как «в» — так в словах нелатинского происхождения; в исконно немецких <em>v</em> даёт «ф» (<em>Vater</em> — «фа́:та»)."
+        },
+        {
+          "id": "14",
+          "lines": [
+            {
+              "voice": "erzaehler",
+              "de": "Mit freundlichen Grüßen",
+              "ipa": "mɪt ˈfʁɔɪ̯ntlɪçn̩ ˈɡʁyːsn̩",
+              "ru": "С уважением (конец письма)"
+            }
+          ],
+          "tip": "<em>eu</em> читается «ой», а <em>d</em> перед <em>l</em> оглушается: «фро́йнтлихьн». Буква <em>ß</em> всегда даёт глухое «с», и гласная перед ней долгая: «грю́:сн». В письме эта строка стоит последней перед подписью, и запятая после неё не ставится."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Утро, сосед господин Мюллер.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Guten Morgen, Herr Müller! Wie geht es Ihnen?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Danke der Nachfrage, mir geht es gut. Und Ihnen?"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Вечер, подруга Клара в книжном магазине.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hallo Clara! Wie geht's?"
+            },
+            {
+              "voice": "clara",
+              "de": "Hi! Danke, gut. Und dir?"
+            },
+            {
+              "voice": "lena",
+              "de": "Auch gut, ich bin nur etwas müde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Шесть вечера, прощание с коллегой, с которой на «Вы».",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich gehe jetzt nach Hause. Einen schönen Abend noch, Frau Schmidt!"
+            },
+            {
+              "voice": "clara",
+              "de": "Danke, gleichfalls! Auf Wiedersehen!"
+            }
+          ]
+        }
+      ],
+      "join": true
+    }
+  ]
+}

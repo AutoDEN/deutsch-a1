@@ -1,0 +1,226 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Was fehlt Ihnen? / Was haben Sie?",
+              "speak": "Was fehlt Ihnen? Was haben Sie?",
+              "ipa": "vas feːlt ˈiːnən · vas ˈhaːbn̩ ziː",
+              "ru": "Что вас беспокоит?"
+            }
+          ],
+          "tip": "Два стандартных вопроса врача. <em>fehlen</em> — «недоставать»: дословно «чего вам не хватает». Второй вариант проще и в кабинете звучит не реже."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe Kopfschmerzen.",
+              "ipa": "ɪç ˈhaːbə ˈkɔp͡fˌʃmɛʁt͡sn̩",
+              "ru": "У меня головная боль."
+            }
+          ],
+          "tip": "<em>Kopfschmerzen</em> — <em>Kopf</em> плюс <em>Schmerzen</em>, и слово всегда во множественном числе. В <em>Kopf</em> сочетание <em>pf</em> слитное, дальше «ш» и «ц»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe Halsschmerzen.",
+              "ipa": "ɪç ˈhaːbə ˈhalsˌʃmɛʁt͡sn̩",
+              "ru": "У меня болит горло."
+            }
+          ],
+          "tip": "Собрано так же: <em>Hals</em> плюс <em>Schmerzen</em>. На стыке сходятся две <em>s</em>, и звучат они как одна долгая."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe Husten.",
+              "ipa": "ɪç ˈhaːbə ˈhuːstn̩",
+              "ru": "У меня кашель."
+            }
+          ],
+          "tip": "В <em>Husten</em> гласная долгая, а окончание <em>-en</em> проглочено: «ху́:стн». Одно и то же слово работает и существительным «кашель», и глаголом «кашлять»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe Fieber.",
+              "ipa": "ɪç ˈhaːbə ˈfiːbɐ",
+              "ru": "У меня температура."
+            }
+          ],
+          "tip": "<em>Fieber</em> — это жар, а не показания градусника: те были бы <em>Temperatur</em>. Гласная долгая, конечное <em>-er</em> звучит как «а»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich fühle mich nicht gut.",
+              "ipa": "ɪç ˈfyːlə mɪç nɪçt ɡuːt",
+              "ru": "Я плохо себя чувствую."
+            }
+          ],
+          "tip": "<em>sich fühlen</em> возвратный: чувствуют «себя», поэтому <em>mich</em> обязательно. <em>ü</em> долгое — губы для «у», а звук «и»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Mein Kopf tut weh.",
+              "ipa": "maɪ̯n kɔp͡f tuːt veː",
+              "ru": "У меня болит голова."
+            }
+          ],
+          "tip": "У <em>wehtun</em> подлежащее — сама голова: дословно «моя голова делает больно». Отсюда <em>tut</em>, а не <em>tue</em>."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Mein Hals tut weh beim Schlucken.",
+              "ipa": "maɪ̯n hals tuːt veː baɪ̯m ˈʃlʊkn̩",
+              "ru": "Горло болит при глотании."
+            }
+          ],
+          "tip": "<em>beim</em> — стянутое <em>bei dem</em>, и после него глагол превращается в существительное с заглавной буквы: <em>beim Schlucken</em> «при глотании»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Sie müssen im Bett bleiben.",
+              "ipa": "ziː ˈmʏsn̩ ɪm bɛt ˈblaɪ̯bn̩",
+              "ru": "Вам нужно оставаться в постели."
+            }
+          ],
+          "tip": "После модального <em>müssen</em> смысловой глагол уходит в конец и идёт без <em>zu</em>. <em>im Bett</em> — Dativ: отвечает на вопрос «где?»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Trinken Sie viel Tee mit Honig.",
+              "ipa": "ˈtʁɪŋkn̩ ziː fiːl teː mɪt ˈhoːnɪç",
+              "ru": "Пейте много чая с мёдом."
+            }
+          ],
+          "tip": "Повелительное на «Вы»: глагол первым, <em>Sie</em> сразу за ним. <em>Honig</em> кончается на <em>-ig</em>, а это всегда мягкое «хь»: «хо́:нихь»."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wann soll ich wiederkommen?",
+              "ipa": "van zɔl ɪç ˈviːdɐˌkɔmən",
+              "ru": "Когда мне прийти снова?"
+            }
+          ],
+          "tip": "<em>soll</em> спрашивает о чужой воле: «как скажете — когда прийти?». У <em>wiederkommen</em> приставка отделяемая, но в инфинитиве она остаётся на месте."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Sie haben eine Erkältung.",
+              "ipa": "ziː ˈhaːbn̩ ˈaɪ̯nə ɛɐ̯ˈkɛltʊŋ",
+              "ru": "У вас простуда."
+            }
+          ],
+          "tip": "<em>Erkältung</em> — от <em>kalt</em>, дословно «простужение». Приставка <em>er-</em> безударная, а <em>-ung</em> на конце даёт носовое «н»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Врач спрашивает о жалобах.",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Was fehlt Ihnen heute?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Halsschmerzen, und seit gestern habe ich auch Husten."
+            },
+            {
+              "voice": "mueller",
+              "de": "Haben Sie auch Fieber?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, ich glaube schon. Es war gestern Abend 38,2 Grad.",
+              "speak": "Ja, ich glaube schon. Es war gestern Abend achtunddreißig Komma zwei Grad."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Диагноз и назначения.",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Sie haben eine Erkältung. Sie müssen unbedingt im Bett bleiben, mindestens drei Tage. Trinken Sie viel Tee mit Honig. Ich schreibe Ihnen eine Krankschreibung."
+            },
+            {
+              "voice": "lena",
+              "de": "Wann soll ich wiederkommen?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Wenn es nach drei Tagen nicht besser wird oder das Fieber steigt, kommen Sie sofort wieder."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Объясняете другу, почему вас не было.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Warum warst du gestern nicht da?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ich war krank und musste zum Arzt gehen. Mein Hals tat sehr weh und ich hatte Fieber."
+            },
+            {
+              "voice": "max",
+              "de": "Geht es dir jetzt besser?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ein bisschen. Ich fühle mich noch schwach, aber das Fieber ist weg."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

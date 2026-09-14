@@ -1,0 +1,164 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Jeden Samstag gehe ich auf den Wochenmarkt.",
+              "ipa": "ˈjeːdn̩ ˈzamsˌtaːk ˈɡeːə ɪç aʊ̯f deːn ˈvɔxn̩ˌmaʁkt",
+              "ru": "Каждую субботу я хожу на рынок."
+            }
+          ],
+          "tip": "<em>jeden Samstag</em> — Akkusativ без предлога, как <em>jeden Morgen</em> в уроке 17. <em>auf den Markt</em> тоже Akkusativ: есть движение, идут туда."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Auf dem Wochenmarkt kann man frisches Obst und Gemüse kaufen.",
+              "ipa": "aʊ̯f deːm ˈvɔxn̩ˌmaʁkt kan man ˈfʁɪʃəs oːpst ʊnt ɡəˈmyːzə ˈkaʊ̯fn̩",
+              "ru": "На рынке можно купить свежие фрукты и овощи."
+            }
+          ],
+          "tip": "Здесь уже <em>auf dem</em> — Dativ, потому что действие идёт на месте. В <em>Obst</em> <em>b</em> оглушается: «о:пст», а гласная долгая."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Verkäufer sind sehr freundlich.",
+              "ipa": "diː fɛɐ̯ˈkɔɪ̯fɐ zɪnt zeːɐ̯ ˈfʁɔɪ̯ntlɪç",
+              "ru": "Продавцы очень приветливые."
+            }
+          ],
+          "tip": "<em>Verkäufer</em> — от <em>verkaufen</em>, с умлаутом «ой» и безударной приставкой <em>ver-</em>. Форма одинакова и в единственном, и во множественном числе."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Alles sieht frisch und appetitlich aus!",
+              "ipa": "ˈaləs ziːt fʁɪʃ ʊnt apeˈtiːtlɪç aʊ̯s",
+              "ru": "Всё выглядит свежим и аппетитным!"
+            }
+          ],
+          "tip": "У <em>aussehen</em> приставка <em>aus</em> улетела в самый конец. <em>alles</em> «всё» требует глагола в единственном числе: <em>sieht</em>."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Man kann einen köstlichen Käse mit Kräutern probieren.",
+              "ipa": "man kan ˈaɪ̯nən ˈkœstlɪçn̩ ˈkɛːzə mɪt ˈkʁɔɪ̯tɐn pʁoˈbiːʁən",
+              "ru": "Можно попробовать восхитительный сыр с травами."
+            }
+          ],
+          "tip": "<em>köstlichen</em> с окончанием <em>-en</em> после <em>einen</em>. <em>Kräutern</em> — Dativ множественного от <em>Kraut</em>: умлаут даёт «ой», а <em>-n</em> добавляется падежом."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Leute unterhalten sich, lachen und genießen den Einkauf.",
+              "ipa": "diː ˈlɔɪ̯tə ʊntɐˈhaltn̩ zɪç · ˈlaxn̩ ʊnt ɡəˈniːsn̩ deːn ˈaɪ̯nˌkaʊ̯f",
+              "ru": "Люди разговаривают, смеются и наслаждаются покупками."
+            }
+          ],
+          "tip": "<em>sich unterhalten</em> — «беседовать», возвратный, с ударением на <em>-hal-</em>. В <em>genießen</em> долгое «и:» и глухое «с» от <em>ß</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Der Markt ist bunt und lebendig.",
+              "ipa": "deːɐ̯ maʁkt ɪst bʊnt ʊnt leˈbɛndɪç",
+              "ru": "Рынок яркий и оживлённый."
+            }
+          ],
+          "tip": "<em>bunt</em> — «пёстрый, разноцветный», и <em>t</em> на конце слышно чётко. <em>lebendig</em> с ударением на <em>-ben-</em> и мягким «хь» в конце."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich gehe immer mit vollen Taschen nach Hause.",
+              "ipa": "ɪç ˈɡeːə ˈɪmɐ mɪt ˈfɔlən ˈtaʃn̩ naːx ˈhaʊ̯zə",
+              "ru": "Я всегда возвращаюсь домой с полными сумками."
+            }
+          ],
+          "tip": "<em>mit</em> требует Dativ, отсюда <em>vollen Taschen</em> — два окончания подряд. <em>nach Hause</em> значит «домой», в движении."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Что покупают на рынке.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was kaufst du normalerweise auf dem Markt?"
+            },
+            {
+              "voice": "clara",
+              "de": "Meistens frisches Obst und Gemüse. Es gibt auch Käse, Brot und sogar Blumen. Alles sieht frisch und appetitlich aus."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. У прилавка: пробуете и покупаете.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was darf es heute sein?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ich brauche frisches Gemüse für eine Suppe. Kann ich die Tomaten probieren?"
+            },
+            {
+              "voice": "max",
+              "de": "Natürlich, hier bitte."
+            },
+            {
+              "voice": "clara",
+              "de": "Mmm, köstlich! Ich nehme ein Kilo davon."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Почему рынок лучше супермаркета.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Warum gehst du lieber auf den Markt?"
+            },
+            {
+              "voice": "clara",
+              "de": "Die Atmosphäre ist ganz anders als im Supermarkt. Die Verkäufer sind freundlich, man unterhält sich und nimmt sich Zeit. Für mich ist der Markt nicht nur ein Ort zum Einkaufen, sondern auch ein Treffpunkt."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

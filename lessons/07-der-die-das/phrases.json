@@ -1,0 +1,244 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was ist das?",
+              "ipa": "vas ɪst das",
+              "ru": "Что это?"
+            }
+          ],
+          "tip": "Три коротких слова, интонация идёт вверх на <em>das</em>. Вопрос годится для любого предмета: род знать заранее не нужно, его подскажут в ответе."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das ist ein Buch. Das Buch ist sehr interessant.",
+              "ipa": "das ɪst aɪ̯n buːx · das buːx ɪst zeːɐ̯ ɪntəʁɛˈsant",
+              "ru": "Это книга. Книга очень интересная."
+            }
+          ],
+          "tip": "Первый раз предмет называют с <em>ein</em>, второй — с <em>das</em>: неизвестное стало известным. В <em>Buch</em> <em>ch</em> после <em>u</em> твёрдое «х», гласная долгая. В <em>interessant</em> ударение на последний слог."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das ist eine Lampe. Die Lampe ist neu.",
+              "ipa": "das ɪst ˈaɪ̯nə ˈlampə · diː ˈlampə ɪst nɔɪ̯",
+              "ru": "Это лампа. Лампа новая."
+            }
+          ],
+          "tip": "<em>die Lampe</em> женского рода, поэтому <em>eine</em> и <em>die</em>. В <em>neu</em> <em>eu</em> читается «ой»: «ной», а не «нёй»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Das ist ein Werkzeug. Das ist der Schraubenzieher.",
+              "ipa": "das ɪst aɪ̯n ˈvɛʁkˌt͡sɔɪ̯k · das ɪst deːɐ̯ ˈʃʁaʊ̯bn̩ˌt͡siːɐ",
+              "ru": "Это инструмент. Это отвёртка."
+            }
+          ],
+          "tip": "<em>Werkzeug</em> — сложное слово из <em>Werk</em> и <em>Zeug</em>: отсюда побочное ударение на второй части и «ц» в середине. В <em>Schraubenzieher</em> <em>sch</em> — «ш», <em>au</em> — «ау», конечное <em>-er</em> — «а»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Das ist eine Zange. Die Zange ist sehr nützlich.",
+              "ipa": "das ɪst ˈaɪ̯nə ˈt͡saŋə · diː ˈt͡saŋə ɪst zeːɐ̯ ˈnʏt͡slɪç",
+              "ru": "Это плоскогубцы. Плоскогубцы очень полезны."
+            }
+          ],
+          "tip": "<em>Zange</em> начинается с «ц», а <em>-ng-</em> внутри — одно носовое «н» без «г». В <em>nützlich</em> <em>tz</em> тоже даёт «ц», <em>ü</em> краткое, а <em>-lich</em> кончается мягким «хь». По-немецки слово в единственном числе, по-русски во множественном."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Das ist ein Auto. Das Auto ist sehr alt.",
+              "ipa": "das ɪst aɪ̯n ˈaʊ̯to · das ˈaʊ̯to ɪst zeːɐ̯ alt",
+              "ru": "Это машина. Машина очень старая."
+            }
+          ],
+          "tip": "В <em>Auto</em> <em>au</em> под ударением — «ау» одним слогом, а конечное <em>-o</em> короткое. В <em>alt</em> гласная краткая: после неё две согласные."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Das ist ein Handy. Das Handy ist neu.",
+              "ipa": "das ɪst aɪ̯n ˈhɛndi · das ˈhɛndi ɪst nɔɪ̯",
+              "ru": "Это телефон. Телефон новый."
+            }
+          ],
+          "tip": "<em>Handy</em> — немецкое слово для мобильного, в английском телефон так не называют. И читается оно по-немецки, через «э»: «хэ́нди»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das ist eine Tasche. Die Tasche ist aus Berlin.",
+              "ipa": "das ɪst ˈaɪ̯nə ˈtaʃə · diː ˈtaʃə ɪst aʊ̯s bɛʁˈliːn",
+              "ru": "Это сумка. Сумка из Берлина."
+            }
+          ],
+          "tip": "В <em>Tasche</em> <em>sch</em> даёт «ш», конечное <em>-e</em> — невнятное «э». В <em>Berlin</em> ударение на второй слог: «бэрли́:н», а не «бэ́рлин»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Das ist ein Stuhl. Der Stuhl ist aus Holz.",
+              "ipa": "das ɪst aɪ̯n ʃtuːl · deːɐ̯ ʃtuːl ɪst aʊ̯s hɔlt͡s",
+              "ru": "Это стул. Стул из дерева."
+            }
+          ],
+          "tip": "<em>St-</em> в начале слова читается «шт»: «шту:ль». В <em>Holz</em> буква <em>z</em> — «ц», а гласная перед двумя согласными краткая."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Das ist ein Tisch. Der Tisch ist auch aus Holz.",
+              "ipa": "das ɪst aɪ̯n tɪʃ · deːɐ̯ tɪʃ ɪst aʊ̯x aʊ̯s hɔlt͡s",
+              "ru": "Это стол. Стол тоже из дерева."
+            }
+          ],
+          "tip": "<em>Tisch</em> — три звука и один слог: «тиш». Здесь <em>der</em>, потому что <em>Tisch</em> мужского рода: род запоминают вместе со словом, вывести его из вида слова нельзя."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das ist ein Bild. Das Bild zeigt Hamburg.",
+              "ipa": "das ɪst aɪ̯n bɪlt · das bɪlt t͡saɪ̯kt ˈhambʊʁk",
+              "ru": "Это картина. На картине изображён Гамбург."
+            }
+          ],
+          "tip": "В <em>Bild</em> конечное <em>d</em> оглушается: «бильт». В <em>zeigt</em> оглушается уже <em>g</em> перед <em>t</em>: «цайкт». <em>Hamburg</em> тоже кончается глухо — «-бурк»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Спрашиваете подругу про новую лампу.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was ist das?"
+            },
+            {
+              "voice": "clara",
+              "de": "Das ist eine Lampe."
+            },
+            {
+              "voice": "lena",
+              "de": "Ist die Lampe neu?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, die Lampe ist neu. Ich habe sie gestern gekauft."
+            },
+            {
+              "voice": "lena",
+              "de": "Die Lampe ist schön und passt gut zu deinem Zimmer."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Господин Мюллер показывает инструменты.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Herr Müller, was ist das?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist ein Werkzeug. Das ist der Schraubenzieher."
+            },
+            {
+              "voice": "max",
+              "de": "Und was ist das dort?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist eine Zange. Die Zange ist sehr nützlich."
+            },
+            {
+              "voice": "max",
+              "de": "Und was ist das da drüben?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist ein Auto."
+            },
+            {
+              "voice": "max",
+              "de": "Ist das Ihr Auto?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, das ist mein Auto."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Телефон на столе.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was ist das auf dem Tisch?"
+            },
+            {
+              "voice": "max",
+              "de": "Das ist ein Handy. Das Handy ist neu."
+            },
+            {
+              "voice": "lena",
+              "de": "Ist das dein Handy?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, das ist mein Handy."
+            },
+            {
+              "voice": "lena",
+              "de": "Es sieht teuer aus."
+            },
+            {
+              "voice": "max",
+              "de": "Ja, aber es ist sehr praktisch."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

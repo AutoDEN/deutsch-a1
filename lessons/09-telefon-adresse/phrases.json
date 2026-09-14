@@ -1,0 +1,238 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "intro_add": [
+        "Три фразы здесь — заготовки с пропуском: номер, улица, этаж. Многоточие вслух не произнесёшь, поэтому в записи они договорены до конца, с примером. Подставляйте своё."
+      ],
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie ist deine Telefonnummer?",
+              "ipa": "viː ɪst ˈdaɪ̯nə teleˈfoːnˌnʊmɐ",
+              "ru": "Какой у тебя номер телефона?"
+            }
+          ],
+          "tip": "<em>Telefonnummer</em> — сложное слово, и на стыке частей сходятся две <em>n</em>: слышны обе. Ударение на <em>-fon</em>, конечное <em>-er</em> звучит как «а»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Meine Nummer ist…",
+              "speak": "Meine Nummer ist null eins fünf sieben, vier zwei, drei sechs, acht neun null.",
+              "ipa": "ˈmaɪ̯nə ˈnʊmɐ ɪst …",
+              "ru": "Мой номер…"
+            }
+          ],
+          "tip": "Номер диктуют парами цифр, а не по одной: так принято и так его легче записать. В записи фраза договорена до конца, с номером для примера."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Kannst du das bitte wiederholen?",
+              "ipa": "kanst duː das ˈbɪtə viːdɐˈhoːlən",
+              "ru": "Можешь, пожалуйста, повторить?"
+            }
+          ],
+          "tip": "В <em>wiederholen</em> ударение на <em>-ho-</em>: приставка <em>wieder-</em> здесь неотделяемая и безударная. У <em>wieder sehen</em> «снова увидеть» ударение, наоборот, на <em>wieder</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich schreibe mit.",
+              "ipa": "ɪç ˈʃʁaɪ̯bə mɪt",
+              "ru": "Я записываю."
+            }
+          ],
+          "tip": "<em>mit</em> здесь не предлог, а отделяемая приставка от <em>mitschreiben</em>, и потому стоит в конце. Дословно «я пишу вместе», то есть записываю за вами."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie ist Ihre Adresse?",
+              "ipa": "viː ɪst ˈiːʁə aˈdʁɛsə",
+              "ru": "Какой у Вас адрес?"
+            }
+          ],
+          "tip": "<em>Adresse</em> пишется с одним <em>d</em> и двойным <em>s</em>: ударение на второй слог, гласная в нём краткая, конечное <em>-e</em> — невнятное «э»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Wo genau wohnen Sie?",
+              "ipa": "voː ɡəˈnaʊ̯ ˈvoːnən ziː",
+              "ru": "Где именно Вы живёте?"
+            }
+          ],
+          "tip": "<em>genau</em> — «точно»: <em>ge-</em> безударное, ударение на <em>-nau</em>, где <em>au</em> читается «ау» одним слогом. Вопрос уточняет уже сказанное «я живу здесь»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich wohne in der … Straße Nummer …",
+              "speak": "Ich wohne in der Eichenstraße Nummer 42.",
+              "ipa": "ɪç ˈvoːnə ɪn deːɐ̯ … ˈʃtʁaːsə ˈnʊmɐ …",
+              "ru": "Я живу на улице… номер…"
+            }
+          ],
+          "tip": "Название улицы приклеивается к слову <em>Straße</em> и пишется слитно: <em>Eichenstraße</em>. <em>St-</em> в начале части слова — «шт», <em>ß</em> даёт глухое «с»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich wohne im … Stock.",
+              "speak": "Ich wohne im dritten Stock.",
+              "ipa": "ɪç ˈvoːnə ɪm … ʃtɔk",
+              "ru": "Я живу на … этаже."
+            }
+          ],
+          "tip": "<em>im</em> — это стянутое <em>in dem</em>, и дальше идёт порядковое числительное: <em>im dritten</em>, <em>im zweiten</em>. Первый этаж по-немецки — уже второй по-нашему."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Wir sind Nachbarn!",
+              "ipa": "viːɐ̯ zɪnt ˈnaxbaːɐ̯n",
+              "ru": "Мы соседи!"
+            }
+          ],
+          "tip": "<em>Nachbarn</em> с <em>-n</em> на конце — слабое склонение, как в уроке 2. В <em>wir</em> и в <em>-bar</em> буква <em>r</em> не звучит: остаётся призвук «а»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich bin vor kurzem eingezogen.",
+              "ipa": "ɪç bɪn foːɐ̯ ˈkʊʁt͡səm ˈaɪ̯nɡəˌt͡soːɡn̩",
+              "ru": "Я недавно въехал."
+            }
+          ],
+          "tip": "<em>vor kurzem</em> — застывшая формула «недавно» в Dativ. В <em>eingezogen</em> приставка <em>ein-</em> под ударением, а <em>ge-</em> спряталось внутрь слова, как у всех отделяемых глаголов."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich bin oft erst nach 18 Uhr zu Hause.",
+              "ipa": "ɪç bɪn ɔft eːɐ̯st naːx ˈaxt͡seːn uːɐ̯ t͡suː ˈhaʊ̯zə",
+              "ru": "Я часто дома только после 18 часов."
+            }
+          ],
+          "tip": "<em>erst</em> значит «только, не раньше», а не «сначала». <em>18 Uhr</em> читается <em>achtzehn Uhr</em>: время в Германии называют по двадцатичетырёхчасовым часам."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das ist nicht weit von meiner Wohnung!",
+              "ipa": "das ɪst nɪçt vaɪ̯t fɔn ˈmaɪ̯nɐ ˈvoːnʊŋ",
+              "ru": "Это недалеко от моей квартиры!"
+            }
+          ],
+          "tip": "После <em>von</em> всегда Dativ, отсюда <em>meiner Wohnung</em>. В <em>Wohnung</em> <em>h</em> не звучит, она лишь тянет гласную, а <em>-ng</em> на конце — носовое «н»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Записываете телефон друга.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie ist deine Telefonnummer?"
+            },
+            {
+              "voice": "max",
+              "de": "Meine Nummer ist 0157 42 36 890.",
+              "speak": "Meine Nummer ist null eins fünf sieben, vier zwei, drei sechs, acht neun null."
+            },
+            {
+              "voice": "lena",
+              "de": "Kannst du das bitte wiederholen? Ich schreibe mit."
+            },
+            {
+              "voice": "max",
+              "de": "Natürlich. 0157 42 36 890.",
+              "speak": "Natürlich. null eins fünf sieben, vier zwei, drei sechs, acht neun null."
+            },
+            {
+              "voice": "lena",
+              "de": "Danke!"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Знакомство с соседом после переезда.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Guten Tag! Ich bin vor kurzem eingezogen und wollte mich vorstellen."
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist sehr nett. Wo genau wohnen Sie?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich wohne in der Eichenstraße 42, im dritten Stock.",
+              "speak": "Ich wohne in der Eichenstraße zweiundvierzig, im dritten Stock."
+            },
+            {
+              "voice": "mueller",
+              "de": "Oh, wir sind ja Nachbarn!"
+            },
+            {
+              "voice": "max",
+              "de": "Darf ich fragen, wie Ihre Telefonnummer ist? Falls ich einmal Hilfe brauche."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Рассказываете, где живёте.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wo wohnst du eigentlich?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ich wohne in der Lindenstraße 27, im zweiten Stock. Die Straße ist sehr ruhig. Bis zum Zentrum braucht man nur zwanzig Minuten zu Fuß.",
+              "speak": "Ich wohne in der Lindenstraße siebenundzwanzig, im zweiten Stock. Die Straße ist sehr ruhig. Bis zum Zentrum braucht man nur zwanzig Minuten zu Fuß."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

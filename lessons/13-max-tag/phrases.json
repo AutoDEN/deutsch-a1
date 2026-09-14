@@ -1,0 +1,219 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich stehe um 6:00 Uhr auf.",
+              "speak": "Ich stehe um sechs Uhr auf.",
+              "ipa": "ɪç ˈʃteːə ʊm zɛks uːɐ̯ aʊ̯f",
+              "ru": "Я встаю в 6 часов утра."
+            }
+          ],
+          "tip": "<em>aufstehen</em> — глагол с отделяемой приставкой: <em>auf</em> уходит в самый конец предложения. Время ставится через <em>um</em>: <em>um sechs Uhr</em>."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wann frühstückst du?",
+              "ipa": "van ˈfʁyːʃtʏkst duː",
+              "ru": "Когда ты завтракаешь?"
+            }
+          ],
+          "tip": "<em>frühstücken</em> — «завтракать» одним глаголом. В нём два разных <em>ü</em>: долгое в <em>früh</em> и краткое в <em>-stück</em>. Окончание даёт «кст» подряд."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Er fährt mit dem Bus zur Arbeit.",
+              "ipa": "eːɐ̯ fɛːɐ̯t mɪt deːm bʊs t͡suːɐ̯ ˈaʁbaɪ̯t",
+              "ru": "Он едет на работу на автобусе."
+            }
+          ],
+          "tip": "На транспорте ездят через <em>mit dem</em> — дословно «с автобусом». В <em>fährt</em> умлаут и вокализованное <em>r</em>: «фэ:ат». <em>zur</em> — стянутое <em>zu der</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich arbeite von 9:00 Uhr bis 17:00 Uhr.",
+              "speak": "Ich arbeite von neun Uhr bis siebzehn Uhr.",
+              "ipa": "ɪç ˈaʁbaɪ̯tə fɔn nɔɪ̯n uːɐ̯ bɪs ˈziːpt͡seːn uːɐ̯",
+              "ru": "Я работаю с 9 до 17 часов."
+            }
+          ],
+          "tip": "Рамка <em>von … bis …</em> — «с … до …». 17:00 читается <em>siebzehn Uhr</em>: время в Германии называют по двадцатичетырёхчасовым часам, без «пяти вечера»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich habe um 12:00 Uhr Mittagspause.",
+              "speak": "Ich habe um zwölf Uhr Mittagspause.",
+              "ipa": "ɪç ˈhaːbə ʊm t͡svœlf uːɐ̯ ˈmɪtaːksˌpaʊ̯zə",
+              "ru": "У меня обеденный перерыв в полдень."
+            }
+          ],
+          "tip": "<em>Mittagspause</em> — <em>Mittag</em> плюс <em>Pause</em>, между ними соединительная <em>s</em>: вместе с <em>g</em> она звучит как «кс». Ударение на первую часть."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wann machst du Feierabend?",
+              "ipa": "van maxst duː ˈfaɪ̯ɐˌʔaːbn̩t",
+              "ru": "Когда ты заканчиваешь работу?"
+            }
+          ],
+          "tip": "<em>Feierabend</em> — не «праздничный вечер», а конец рабочего дня. Внутри слова перед <em>Abend</em> слышен твёрдый приступ, микропауза: «файа-‿а:бнт»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich komme um 18:00 Uhr nach Hause zurück.",
+              "speak": "Ich komme um achtzehn Uhr nach Hause zurück.",
+              "ipa": "ɪç ˈkɔmə ʊm ˈaxt͡seːn uːɐ̯ naːx ˈhaʊ̯zə t͡suˈʁʏk",
+              "ru": "Я возвращаюсь домой в 18 часов."
+            }
+          ],
+          "tip": "<em>zurück</em> в конце — отделяемая приставка от <em>zurückkommen</em>. <em>nach Hause</em> значит «домой», в движении; «дома» было бы <em>zu Hause</em>."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Am Abend sieht er fern.",
+              "ipa": "am ˈaːbn̩t ziːt eːɐ̯ fɛʁn",
+              "ru": "Вечером он смотрит телевизор."
+            }
+          ],
+          "tip": "Снова отделяемая приставка: <em>fern</em> улетело в конец от <em>fernsehen</em>. <em>sieht</em> — от <em>sehen</em>, гласная долгая: «зи:т»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Arbeitsbeginn und Feierabend.",
+              "ipa": "ˈaʁbaɪ̯t͡sbəˌɡɪn ʊnt ˈfaɪ̯ɐˌʔaːbn̩t",
+              "ru": "Начало и конец рабочего дня."
+            }
+          ],
+          "tip": "Два столба немецкого рабочего дня. В <em>Arbeitsbeginn</em> соединительная <em>s</em> сливается с <em>t</em> в «ц», а приставка <em>be-</em> безударная."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Утро: подъём, завтрак, дорога.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wann stehst du morgens auf?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich stehe jeden Tag um 6:00 Uhr auf.",
+              "speak": "Ich stehe jeden Tag um sechs Uhr auf."
+            },
+            {
+              "voice": "lena",
+              "de": "Das ist früh! Was machst du zum Frühstück?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich esse Brötchen mit Käse und trinke einen starken Kaffee."
+            },
+            {
+              "voice": "lena",
+              "de": "Wie kommst du zur Arbeit?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten.",
+              "speak": "Ich fahre mit dem Bus, die Fahrt dauert etwa fünfundzwanzig Minuten."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Рабочие часы и перерыв.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wann arbeitest du?"
+            },
+            {
+              "voice": "max",
+              "de": "Von 8:00 Uhr bis 12:00 Uhr und nach der Pause von 13:00 bis 17:00 Uhr.",
+              "speak": "Von acht Uhr bis zwölf Uhr und nach der Pause von dreizehn bis siebzehn Uhr."
+            },
+            {
+              "voice": "lena",
+              "de": "Und wann hast du Mittagspause?"
+            },
+            {
+              "voice": "max",
+              "de": "Um 12:00 Uhr, sie dauert eine Stunde.",
+              "speak": "Um zwölf Uhr, sie dauert eine Stunde."
+            },
+            {
+              "voice": "lena",
+              "de": "Wann machst du Feierabend?"
+            },
+            {
+              "voice": "max",
+              "de": "Um 17:00 Uhr.",
+              "speak": "Um siebzehn Uhr."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Вечер после работы.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wann kommst du nach Hause zurück?"
+            },
+            {
+              "voice": "max",
+              "de": "Gegen 17:45 Uhr. Manchmal kaufe ich auf dem Heimweg noch ein.",
+              "speak": "Gegen siebzehn Uhr fünfundvierzig. Manchmal kaufe ich auf dem Heimweg noch ein."
+            },
+            {
+              "voice": "lena",
+              "de": "Und am Abend?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich koche etwas Einfaches, danach sehe ich fern oder rufe meine Brüder an. Um 22:30 Uhr gehe ich ins Bett.",
+              "speak": "Ich koche etwas Einfaches, danach sehe ich fern oder rufe meine Brüder an. Um zweiundzwanzig Uhr dreißig gehe ich ins Bett."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

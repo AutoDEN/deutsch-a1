@@ -1,0 +1,204 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Freut mich!",
+              "ipa": "fʁɔɪ̯t mɪç",
+              "ru": "Очень приятно!"
+            }
+          ],
+          "tip": "Обрубок полного <em>Es freut mich</em> — в разговоре начало отбрасывают. <em>eu</em> читается «ой», а <em>ch</em> в <em>mich</em> — мягкое шипящее «хь» (ich-Laut): после <em>i</em> оно всегда такое."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Freut mich auch!",
+              "ipa": "fʁɔɪ̯t mɪç aʊ̯x",
+              "ru": "Мне тоже приятно!"
+            }
+          ],
+          "tip": "Два разных <em>ch</em> в одной короткой фразе: в <em>mich</em> мягкое «хь», в <em>auch</em> твёрдое «х». Выбор зависит только от предыдущего звука: после <em>i</em> мягкое, после <em>au</em> твёрдое."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Entschuldigung, wie heißen Sie?",
+              "ipa": "ɛntˈʃʊldɪɡʊŋ · viː ˈhaɪ̯sn̩ ziː",
+              "ru": "Извините, как Вас зовут?"
+            }
+          ],
+          "tip": "В <em>Entschuldigung</em> буквы <em>t</em> и <em>sch</em> стоят на стыке частей слова (<em>ent</em> + <em>Schuld</em>), поэтому это «т» и «ш» по отдельности, а не «ч»; ударение на второй слог. В <em>heißen</em> <em>ß</em> даёт глухое «с», <em>ei</em> — «ай», а окончание <em>-en</em> проглочено."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Danke der Nachfrage!",
+              "ipa": "ˈdaŋkə deːɐ̯ ˈnaːxˌfʁaːɡə",
+              "ru": "Спасибо, что поинтересовались!"
+            }
+          ],
+          "tip": "<em>der</em> здесь не артикль мужского рода, а дательный падеж женского: <em>danken</em> управляет Dativ. Конечное <em>-er</em> звучит как «а», а <em>ch</em> после <em>a</em> в <em>Nachfrage</em> — твёрдое «х»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie schreibt man deinen Namen?",
+              "ipa": "viː ʃʁaɪ̯pt man ˈdaɪ̯nən ˈnaːmən",
+              "ru": "Как пишется твоё имя?"
+            }
+          ],
+          "tip": "В <em>schreibt</em> буква <em>b</em> оглушается перед <em>t</em>: «шрайпт». <em>man</em> («пишут вообще») и <em>Mann</em> («мужчина») звучат совершенно одинаково — различает только написание и смысл."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wir haben einen neuen Nachbarn.",
+              "ipa": "viːɐ̯ ˈhaːbn̩ ˈaɪ̯nən ˈnɔɪ̯ən ˈnaxbaːɐ̯n",
+              "ru": "У нас новый сосед."
+            }
+          ],
+          "tip": "<em>Nachbarn</em> с <em>-n</em> на конце — это слабое склонение (N-Deklination) из грамматики урока. Внутри слова <em>ch</em> твёрдое, а <em>-bar</em> звучит как «ба:а»: <em>r</em> после долгой гласной не «р». В <em>neuen</em> <em>eu</em> — «ой»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Freut mich, Sie kennenzulernen.",
+              "ipa": "fʁɔɪ̯t mɪç · ziː ˈkɛnənt͡suˌlɛʁnən",
+              "ru": "Приятно (досл. рад) познакомиться."
+            }
+          ],
+          "tip": "Глагол <em>kennenlernen</em> пишется слитно, и частица <em>zu</em> встаёт внутрь него: <em>kennen-zu-lernen</em>. Буква <em>z</em> всегда «ц», поэтому в середине слышно «цу». Ударение остаётся на первой части."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das klingt toll!",
+              "ipa": "das klɪŋt tɔl",
+              "ru": "Звучит классно!"
+            }
+          ],
+          "tip": "В <em>klingt</em> сочетание <em>-ng</em> даёт одно носовое «н» без «г», а <em>t</em> после него слышно отдельно. В <em>toll</em> гласная краткая — после неё две согласные. В том же значении говорят <em>cool</em> [kuːl]: в материалах курса даны оба варианта."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das ist sehr nett von Ihnen.",
+              "ipa": "das ɪst zeːɐ̯ nɛt fɔn ˈiːnən",
+              "ru": "Очень мило с Вашей стороны."
+            }
+          ],
+          "tip": "<em>sehr</em> — «зэ:а»: начальное <em>s</em> перед гласной звонкое, <em>h</em> не звучит, а конечное <em>r</em> после долгой гласной превращается в «а». <em>von</em> читается через «ф»: буква <em>v</em> в немецких словах даёт «ф», а не «в»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich komme ursprünglich aus Hamburg.",
+              "ipa": "ɪç ˈkɔmə ˈuːɐ̯ʃpʁʏŋlɪç aʊ̯s ˈhambʊʁk",
+              "ru": "Я (досл.) изначально родом из Гамбурга."
+            }
+          ],
+          "tip": "<em>ursprünglich</em> — от <em>Ursprung</em> «происхождение», ударение на первый слог. Внутри: <em>sp</em> после приставки читается «шп», <em>ü</em> — губы для «у», звук «и», <em>-ng</em> носовое, <em>-lich</em> с мягким «хь». В <em>Hamburg</em> конечное <em>g</em> оглушается: «-бурк»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Знакомство с ровесником в университете.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hallo! Ich bin Lena. Und wie heißt du?"
+            },
+            {
+              "voice": "max",
+              "de": "Hallo Lena! Ich heiße Max. Max Fischer."
+            },
+            {
+              "voice": "lena",
+              "de": "Freut mich, Max! Ich studiere Medien und Soziologie hier in Berlin. Und wo wohnst du in Berlin?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich wohne in einer WG in der Bergstraße."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Сосед на лестнице, которого видите впервые.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Entschuldigung, wie heißen Sie?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ich heiße Thomas Müller. Und wie heißen Sie?"
+            },
+            {
+              "voice": "max",
+              "de": "Mein Name ist Max Fischer. Freut mich, Herr Müller!"
+            },
+            {
+              "voice": "mueller",
+              "de": "Freut mich auch, Herr Fischer! Wohnen Sie auch in der Eichenstraße?"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Знакомство с продавщицей книжного магазина.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Guten Tag! Wie heißen Sie?"
+            },
+            {
+              "voice": "clara",
+              "de": "Guten Tag! Mein Name ist Clara Schmidt."
+            },
+            {
+              "voice": "max",
+              "de": "Freut mich, Frau Schmidt! Arbeiten Sie hier in der Nähe?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, ich arbeite in der Buchhandlung am Marktplatz."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hallo! Wie geht's?",
+              "ipa": "haˈloː · viː ɡeːt͡s",
+              "ru": "Привет! Как дела?"
+            }
+          ],
+          "tip": "<em>Wie geht’s</em> — стянутое <em>wie geht es</em>: <em>t</em> и <em>s</em> слились в один звук [t͡s], поэтому на конце слышно «ц», а не «тс». Самая ходовая форма вопроса между своими."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie geht es dir?",
+              "ipa": "viː ɡeːt ɛs diːɐ̯",
+              "ru": "Как у тебя дела?"
+            }
+          ],
+          "tip": "Полный вариант той же фразы. Дословно «как оно идёт тебе»: <em>dir</em> — Dativ, поэтому не «ты», а «тебе». Конечное <em>r</em> не звучит совсем: «ди:а»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie geht es Ihnen?",
+              "ipa": "viː ɡeːt ɛs ˈiːnən",
+              "ru": "Как у Вас дела? (вежливая форма)"
+            }
+          ],
+          "tip": "То же самое на «Вы». <em>Ihnen</em> с заглавной и <em>ihnen</em> «им» звучат одинаково — на слух их разводит только смысл. Ударение на первый слог, «и» долгое."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Danke, gut. Und dir?",
+              "ipa": "ˈdaŋkə ɡuːt · ʊnt diːɐ̯",
+              "ru": "Спасибо, хорошо. А у тебя?"
+            }
+          ],
+          "tip": "В <em>danke</em> «н» носовое, как в английском <em>sing</em>. <em>Und dir?</em> спрашивает о самочувствии и потому стоит в Dativ; <em>Und du?</em> было бы «а ты?» обо всём остальном."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Danke, gut. Und Ihnen?",
+              "ipa": "ˈdaŋkə ɡuːt · ʊnt ˈiːnən",
+              "ru": "Спасибо, хорошо. А у Вас? (вежливая форма)"
+            }
+          ],
+          "tip": "От «ты»-варианта отличается одним словом. В <em>und</em> конечное <em>d</em> оглушается: «унт», а не «унд»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Danke der Nachfrage, es geht mir gut.",
+              "ipa": "ˈdaŋkə deːɐ̯ ˈnaːxˌfʁaːɡə · ɛs ɡeːt miːɐ̯ ɡuːt",
+              "ru": "Спасибо за вопрос, у меня всё хорошо."
+            }
+          ],
+          "tip": "<em>der</em> здесь не артикль мужского рода, а Dativ женского (<em>die Nachfrage</em>): <em>danken</em> требует дательного. Дальше безличное <em>es geht mir</em> — «мне идётся», без всякого «я»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Es geht.",
+              "ipa": "ɛs ɡeːt",
+              "ru": "Нормально."
+            }
+          ],
+          "tip": "Два слова, а смысл — «так себе, терпимо». Интонация в конце падает, иначе прозвучит как вопрос. Самый частый уклончивый ответ в языке."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Nicht so gut.",
+              "ipa": "nɪçt zoː ɡuːt",
+              "ru": "Не очень хорошо."
+            }
+          ],
+          "tip": "В <em>nicht</em> <em>ch</em> после <em>i</em> мягкое, «хь». В <em>so</em> начальное <em>s</em> звонкое, а «о» долгое: «зо:». Отрицание <em>nicht</em> ставится перед тем словом, которое отрицает."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Mir geht's super!",
+              "ipa": "miːɐ̯ ɡeːt͡s ˈzuːpɐ",
+              "ru": "У меня всё отлично!"
+            }
+          ],
+          "tip": "Та же стяжка <em>geht’s</em>, что в первой фразе. <em>super</em> хоть и заимствовано, читается по немецким правилам: <em>s</em> перед гласной звонкое, конечное <em>-er</em> — короткое «а»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das tut mir leid. Was ist los?",
+              "ipa": "das tuːt miːɐ̯ laɪ̯t · vas ɪst loːs",
+              "ru": "Мне очень жаль. Что случилось?"
+            }
+          ],
+          "tip": "Дословно «это делает мне больно». В <em>leid</em> <em>ei</em> читается «ай», а <em>d</em> оглушается в «т». <em>Was ist los?</em> — готовая формула «что стряслось?», <em>los</em> здесь не «свободный»."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Gute Besserung!",
+              "ipa": "ˈɡuːtə ˈbɛsəʁʊŋ",
+              "ru": "Выздоравливай!"
+            }
+          ],
+          "tip": "Пожелание в Akkusativ, как <em>Guten Tag</em>, но <em>Besserung</em> женского рода — поэтому <em>Gute</em> без <em>-n</em>. Две <em>s</em> подряд означают, что гласная перед ними краткая."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Встреча с другом: зовёте его в кафе.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hallo Max! Wie geht's?"
+            },
+            {
+              "voice": "max",
+              "de": "Danke, gut. Und dir?"
+            },
+            {
+              "voice": "lena",
+              "de": "Mir geht's super! Ich habe heute frei. Ich gehe später ins Café mit Freunden. Kommst du mit?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, gerne!"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Пожилой сосед жалуется на спину.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Morgen, Herr Müller. Wie geht's?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ach, es geht. Ich habe etwas Rückenschmerzen."
+            },
+            {
+              "voice": "max",
+              "de": "Oh, das tut mir leid. Waren Sie schon beim Arzt?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Nein, noch nicht."
+            },
+            {
+              "voice": "max",
+              "de": "Ruhen Sie sich aus. Kann ich Ihnen helfen?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Nein, danke."
+            },
+            {
+              "voice": "max",
+              "de": "Kein Problem. Gute Besserung!"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Подруге сегодня нездоровится.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hey Clara! Wie geht's dir?"
+            },
+            {
+              "voice": "clara",
+              "de": "Nicht so gut heute. Ich bin müde und habe Kopfschmerzen."
+            },
+            {
+              "voice": "lena",
+              "de": "Das tut mir leid. Was ist los?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ich habe bis spät gearbeitet und schlecht geschlafen."
+            },
+            {
+              "voice": "lena",
+              "de": "Trink einen Tee und ruh dich aus."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

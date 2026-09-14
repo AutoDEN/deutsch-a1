@@ -545,3 +545,73 @@ video{display:block; width:100%; margin:18px 0; background:#000; border-radius:1
   .lesson-nav{flex-direction:column; align-items:stretch; text-align:center; gap:10px}
   .voc-l{flex:1 1 100%; max-width:none}
 }
+
+/* =====================================================================
+   Фразы наизусть: таблица «русский — немецкий», как в материалах курса,
+   плюс кнопка звука, транскрипция и разбор произношения.
+   Разметку собирает tools/render_phrases.py из phrases.json урока,
+   звук включает shared/phrase-audio.js.
+   ===================================================================== */
+
+.ph-table{margin:18px 0}
+.ph-table td{vertical-align:top}
+/* русская колонка уже немецкой: там перевод, а в немецкой ещё звук и транскрипция */
+.ph-table td.ph-ru{width:40%; color:#4b5159}
+/* реплики одной фразы идут подряд, линия потолще открывает следующую фразу */
+.ph-table tbody tr.ph-first>td{border-top:2px solid #d7dbe2}
+
+/* строка = одна реплика: кнопка слева, текст с транскрипцией справа */
+.ph-line{display:flex; gap:12px; align-items:flex-start}
+.ph-body{flex:1 1 auto; min-width:0}
+.ph-de{font-weight:600; line-height:1.45}
+.ph-ipa{
+  font-family:'Charis SIL','Gentium Plus','Doulos SIL','Lucida Sans Unicode','Lucida Grande',
+             'Segoe UI','Noto Sans','DejaVu Sans','Arial Unicode MS',sans-serif;
+  color:#8a9099; font-weight:400; font-size:.92em; margin-top:3px; line-height:1.45;
+}
+
+/* разбор произношения — отдельной строкой во всю ширину: это проза на
+   две-три фразы, в колонку такое не влезает */
+.ph-tip-row>td{background:#fffdf7; padding-top:9px; padding-bottom:9px}
+.ph-tip{
+  font-size:13px; line-height:1.55; color:#9a7b45;
+  border-left:2px solid #f2dfb8; padding-left:10px;
+}
+.ph-tip em{font-style:normal; font-weight:600; color:#8a6a34}
+
+/* круглая кнопка воспроизведения */
+.ph-play{
+  flex:0 0 auto; width:28px; height:28px; margin-top:1px; padding:0;
+  border:1px solid #d9dee6; border-radius:50%; background:#fff;
+  color:var(--link); cursor:pointer; line-height:1;
+  display:flex; align-items:center; justify-content:center;
+  transition:background .15s, border-color .15s, color .15s;
+}
+.ph-play:hover{background:var(--soft); border-color:#b9c2cf}
+.ph-play::before{
+  content:''; width:0; height:0; margin-left:3px;
+  border-left:8px solid currentColor;
+  border-top:5.5px solid transparent; border-bottom:5.5px solid transparent;
+}
+.ph-play.ph-playing{color:var(--accent); border-color:#e8b9bb; background:#fdf5f5}
+/* играет — на кнопке две палочки паузы: повторное нажатие останавливает */
+.ph-play.ph-playing::before{
+  width:9px; height:10px; margin-left:0;
+  border-left:3px solid currentColor; border-right:3px solid currentColor;
+  border-top:0; border-bottom:0;
+}
+/* файла нет — в онлайн-версии или пока не записана озвучка */
+.ph-play.ph-play-off{color:#c3c7cd; border-color:#e8ebef; cursor:default}
+
+/* образец к устному заданию: сценка озвучена целиком, кнопка одна на обе роли */
+.ph-sit+.ph-sit{margin-top:14px; padding-top:14px; border-top:1px solid #dceadc}
+.ph-sit-label{font-style:normal; font-weight:600; font-size:13.5px; color:#3f7d46}
+.sample-body .ph-de{font-weight:500; margin-top:3px}
+.sample-body .ph-play{border-color:#cfe3cf; color:#3f7d46; background:#fff}
+.sample-body .ph-play:hover{background:#eef6ee}
+
+@media (max-width:560px){
+  .ph-table{font-size:14.5px}
+  .ph-table td.ph-ru{width:38%}
+  .ph-line{gap:9px}
+}

@@ -1,0 +1,184 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Mein Buchladen ist gemütlich und schön.",
+              "ipa": "maɪ̯n ˈbuːxˌlaːdn̩ ɪst ɡəˈmyːtlɪç ʊnt ʃøːn",
+              "ru": "Мой книжный магазин уютный и красивый."
+            }
+          ],
+          "tip": "<em>Buchladen</em> — <em>Buch</em> плюс <em>Laden</em>, ударение на первую часть, <em>ch</em> после <em>u</em> твёрдое. <em>gemütlich</em> — то самое «уютно и по-домашнему» из урока 11."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Hier gibt es viele verschiedene Bücher.",
+              "ipa": "hiːɐ̯ ɡɪpt ɛs ˈfiːlə fɛɐ̯ˈʃiːdənə ˈbyːçɐ",
+              "ru": "Здесь есть много разных книг."
+            }
+          ],
+          "tip": "<em>es gibt</em> — безличное «имеется», и после него Akkusativ. В <em>gibt</em> буква <em>b</em> оглушается перед <em>t</em>: «гипт». <em>Bücher</em> — множественное с умлаутом и мягким «хь»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Leute kommen, um zu lesen oder Bücher zu kaufen.",
+              "ipa": "diː ˈlɔɪ̯tə ˈkɔmən · ʊm t͡suː ˈleːzn̩ ˈoːdɐ ˈbyːçɐ t͡suː ˈkaʊ̯fn̩",
+              "ru": "Люди приходят, чтобы читать или покупать книги."
+            }
+          ],
+          "tip": "Оборот <em>um … zu</em> значит «чтобы», и частица <em>zu</em> повторяется перед каждым инфинитивом, а сами глаголы уходят в конец. <em>Leute</em> бывает только во множественном числе."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "In meinem Buchladen ist es immer ruhig.",
+              "ipa": "ɪn ˈmaɪ̯nəm ˈbuːxˌlaːdn̩ ɪst ɛs ˈɪmɐ ˈʁuːɪç",
+              "ru": "В моём книжном всегда тихо."
+            }
+          ],
+          "tip": "Окончание <em>-ig</em> читается как мягкое «хь»: «ру́:ихь», а не «ру:иг». Правило общее для всех слов на <em>-ig</em>, и на нём спотыкаются постоянно."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Es gibt auch eine kleine Kaffee-Ecke.",
+              "ipa": "ɛs ɡɪpt aʊ̯x ˈaɪ̯nə ˈklaɪ̯nə ˈkafeˌʔɛkə",
+              "ru": "Есть также небольшой кофейный уголок."
+            }
+          ],
+          "tip": "<em>Kaffee-Ecke</em> пишется через дефис, чтобы не сошлись три гласные подряд. Перед <em>Ecke</em> слышен твёрдый приступ — короткая пауза, а не слитное «фе-экэ»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Kunden können einen Kaffee trinken und in Büchern blättern.",
+              "ipa": "diː ˈkʊndn̩ ˈkœnən ˈaɪ̯nən ˈkafe ˈtʁɪŋkn̩ ʊnt ɪn ˈbyːçɐn ˈblɛtɐn",
+              "ru": "Покупатели могут пить кофе и листать книги."
+            }
+          ],
+          "tip": "После модального <em>können</em> смысловые глаголы уходят в конец и идут без <em>zu</em>. <em>in Büchern</em> — Dativ множественного числа, отсюда лишнее <em>-n</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wir reden oft über Bücher und Autoren.",
+              "ipa": "viːɐ̯ ˈʁeːdn̩ ɔft ˈyːbɐ ˈbyːçɐ ʊnt aʊ̯ˈtoːʁən",
+              "ru": "Мы часто говорим о книгах и авторах."
+            }
+          ],
+          "tip": "<em>über</em> здесь «о, про», и после него Akkusativ. Во множественном <em>Autoren</em> ударение переезжает на второй слог: «ауто́:рэн» против «а́уто:а»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Manchmal organisiere ich auch kleine Lesungen am Abend.",
+              "ipa": "ˈmançmaːl ɔʁɡaniˈziːʁə ɪç aʊ̯x ˈklaɪ̯nə ˈleːzʊŋən am ˈaːbn̩t",
+              "ru": "Иногда я организую небольшие литературные вечера."
+            }
+          ],
+          "tip": "В <em>organisieren</em> ударение на <em>-sie-</em>, и <em>s</em> там звонкое. <em>Lesung</em> — не просто «чтение», а вечер, на котором автор читает вслух."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Гость хвалит ваш книжный.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ist das Ihr Buchladen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, er heißt „Bücherecke“."
+            },
+            {
+              "voice": "lena",
+              "de": "Er ist sehr schön und gemütlich!"
+            },
+            {
+              "voice": "clara",
+              "de": "Danke! Hier gibt es viele verschiedene Bücher."
+            },
+            {
+              "voice": "lena",
+              "de": "Haben Sie auch Krimis?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja natürlich, wir haben viele interessante Krimis."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Покупатель ищет тихое место для чтения.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Entschuldigung, gibt es hier auch Sachbücher?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, sie stehen dort rechts."
+            },
+            {
+              "voice": "max",
+              "de": "Und haben Sie einen ruhigen Platz zum Lesen?"
+            },
+            {
+              "voice": "clara",
+              "de": "In der Kaffee-Ecke ist es sehr ruhig. Sie können dort sitzen und in Ruhe lesen."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Рассказываете, что есть в магазине.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Hier gibt es Romane, Krimis, Gedichte und Sachbücher. Es gibt auch eine kleine Kaffee-Ecke."
+            },
+            {
+              "voice": "max",
+              "de": "Das ist schön!"
+            },
+            {
+              "voice": "clara",
+              "de": "Manchmal organisiere ich kleine Lesungen am Abend. Dann kommt ein Autor und liest aus seinem neuen Buch."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

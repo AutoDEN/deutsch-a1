@@ -1,0 +1,218 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Entschuldigung, wie komme ich zur Post?",
+              "ipa": "ɛntˈʃʊldɪɡʊŋ · viː ˈkɔmə ɪç t͡suːɐ̯ pɔst",
+              "ru": "Извините, как мне пройти к почте?"
+            }
+          ],
+          "tip": "<em>zur</em> — стянутое <em>zu der</em>, и нужно оно потому, что <em>die Post</em> женского рода. <em>Entschuldigung</em> в начале обязательно: без него вопрос к незнакомцу звучит резко."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie komme ich zum Bahnhof?",
+              "ipa": "viː ˈkɔmə ɪç t͡sʊm ˈbaːnˌhoːf",
+              "ru": "Как мне добраться до вокзала?"
+            }
+          ],
+          "tip": "<em>zum</em> — то же стяжение, но с <em>dem</em>: <em>der Bahnhof</em> мужского рода. В самом слове <em>h</em> после <em>a</em> не звучит, она лишь тянет гласную."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wissen Sie, wie ich zum Supermarkt komme?",
+              "ipa": "ˈvɪsn̩ ziː · viː ɪç t͡sʊm ˈzuːpɐˌmaʁkt ˈkɔmə",
+              "ru": "Вы не подскажете, как пройти к супермаркету?"
+            }
+          ],
+          "tip": "Вежливый обход: «вы не знаете, как…». После запятой глагол <em>komme</em> уходит в самый конец — придаточное, как в уроке 3."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Gehen Sie geradeaus bis zur Ampel.",
+              "ipa": "ˈɡeːən ziː ɡəˌʁaːdəˈʔaʊ̯s bɪs t͡suːɐ̯ ˈampl̩",
+              "ru": "Идите прямо до светофора."
+            }
+          ],
+          "tip": "<em>geradeaus</em> — одно слово с ударением на последнюю часть и твёрдым приступом перед <em>aus</em>. В <em>Ampel</em> окончание <em>-el</em> даёт слоговое «л», без гласной."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Dann die erste Straße rechts.",
+              "ipa": "dan diː ˈeːɐ̯stə ˈʃtʁaːsə ʁɛçt͡s",
+              "ru": "Затем первая улица направо."
+            }
+          ],
+          "tip": "<em>die erste Straße</em> стоит в Akkusativ — это направление. <em>rechts</em> и <em>links</em> всегда с <em>-s</em> на конце: без него получились бы прилагательные."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links.",
+              "ipa": "ˈɡeːən ziː ˈdiːzə ˈʃtʁaːsə ɛntˈlaŋ bɪs t͡suːɐ̯ ˈkʁɔɪ̯t͡sʊŋ · dan naːx lɪŋks",
+              "ru": "Идите по этой улице до перекрёстка, потом налево."
+            }
+          ],
+          "tip": "<em>entlang</em> ставится после существительного, а не перед ним. <em>Kreuzung</em> — от <em>Kreuz</em> «крест»: отсюда и «ой», и «ц» в середине."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Der Supermarkt ist direkt neben der Apotheke.",
+              "ipa": "deːɐ̯ ˈzuːpɐˌmaʁkt ɪst diˈʁɛkt ˈneːbn̩ deːɐ̯ apoˈteːkə",
+              "ru": "Супермаркет прямо рядом с аптекой."
+            }
+          ],
+          "tip": "<em>neben</em> с Dativ отвечает на вопрос «где?». <em>direkt</em> здесь усиливает — «прямо, вплотную». В <em>Apotheke</em> <em>th</em> читается просто как «т»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ist das weit?",
+              "ipa": "ɪst das vaɪ̯t",
+              "ru": "Это далеко?"
+            }
+          ],
+          "tip": "Три слова и интонация вверх. <em>weit</em> — «далеко» по расстоянию; про время сказали бы <em>lange</em>. <em>ei</em> читается «ай»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Nein, ganz in der Nähe. Höchstens fünf Minuten zu Fuß.",
+              "ipa": "naɪ̯n · ɡant͡s ɪn deːɐ̯ ˈnɛːə · ˈhøːçstn̩s fʏnf miˈnuːtn̩ t͡suː fuːs",
+              "ru": "Нет, совсем рядом. Максимум пять минут пешком."
+            }
+          ],
+          "tip": "<em>höchstens</em> — «самое большее», от <em>hoch</em>; <em>ch</em> здесь мягкое. <em>zu Fuß</em> «пешком» — застывший оборот, и <em>ß</em> в нём даёт глухое «с»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Vielen Dank für die Hilfe!",
+              "ipa": "ˈfiːlən daŋk fyːɐ̯ diː ˈhɪlfə",
+              "ru": "Большое спасибо за помощь!"
+            }
+          ],
+          "tip": "Здесь <em>die Hilfe</em> с артиклем — помощь конкретная, та самая, что вам оказали. В уроке 16 было <em>Ihre Hilfe</em>, и смысл тот же."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Gern geschehen!",
+              "ipa": "ɡɛʁn ɡəˈʃeːən",
+              "ru": "Пожалуйста!"
+            }
+          ],
+          "tip": "Дословно «охотно случилось». Самый тёплый ответ на спасибо — заметно приветливее, чем короткое <em>bitte</em>."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Спрашиваете дорогу к почте.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Entschuldigung, wie komme ich zur Post?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Gehen Sie hier geradeaus bis zur Ampel, dann die erste Straße rechts. Die Post ist gleich auf der linken Seite."
+            },
+            {
+              "voice": "lena",
+              "de": "Ist das weit?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Nein, ganz in der Nähe. Höchstens fünf Minuten zu Fuß."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Дорога до вокзала в незнакомом городе.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich bin neu hier. Wie komme ich zum Bahnhof?"
+            },
+            {
+              "voice": "clara",
+              "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links. Gehen Sie an der Bäckerei vorbei und nehmen Sie die zweite Straße rechts."
+            },
+            {
+              "voice": "max",
+              "de": "Ist das weit?"
+            },
+            {
+              "voice": "clara",
+              "de": "Etwa 10 Minuten zu Fuß. Sie können auch den Bus Nummer 16 nehmen.",
+              "speak": "Etwa zehn Minuten zu Fuß. Sie können auch den Bus Nummer sechzehn nehmen."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Супермаркет и часы его работы.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wissen Sie, wie ich zum Supermarkt komme?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Gehen Sie hier nach rechts, dann die dritte Straße links. Der Supermarkt ist direkt neben der Apotheke."
+            },
+            {
+              "voice": "lena",
+              "de": "Bis wann hat er geöffnet?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Bis 22 Uhr.",
+              "speak": "Bis zweiundzwanzig Uhr."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

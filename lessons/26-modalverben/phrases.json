@@ -1,0 +1,219 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was macht ihr am Wochenende?",
+              "ipa": "vas maxt iːɐ̯ am ˈvɔxn̩ˌʔɛndə",
+              "ru": "Что вы делаете в выходные?"
+            }
+          ],
+          "tip": "<em>ihr</em> — «вы» к нескольким своим, и глагол при нём кончается на <em>-t</em>. Не путать с <em>Sie</em>: то вежливое, а это дружеское множественное."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich muss leider am Samstag arbeiten.",
+              "ipa": "ɪç mʊs ˈlaɪ̯dɐ am ˈzamsˌtaːk ˈaʁbaɪ̯tn̩",
+              "ru": "К сожалению, в субботу я должен работать."
+            }
+          ],
+          "tip": "<em>müssen</em> — долженствование по необходимости, а не по чужой воле. <em>leider</em> встало сразу за глаголом: это его обычное место."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich will unbedingt meine neue Buchlieferung auspacken.",
+              "ipa": "ɪç vɪl ˈʊnbəˌdɪŋt ˈmaɪ̯nə ˈnɔɪ̯ə ˈbuːxˌliːfəʁʊŋ ˈaʊ̯sˌpakn̩",
+              "ru": "Я хочу обязательно распаковать новые книги."
+            }
+          ],
+          "tip": "<em>wollen</em> — «хотеть» твёрдо, с намерением; <em>möchte</em> прозвучало бы мягче. У <em>auspacken</em> отделяемая приставка, и в конце она при инфинитиве."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich möchte gerne etwas mit euch unternehmen.",
+              "ipa": "ɪç ˈmœçtə ˈɡɛʁnə ˈɛtvas mɪt ɔɪ̯ç ʊntɐˈneːmən",
+              "ru": "Я бы хотел(а) что-то сделать вместе с вами."
+            }
+          ],
+          "tip": "<em>möchte gerne</em> — мягкое «мне бы хотелось». <em>euch</em> — Dativ от <em>ihr</em>, потому что стоит после <em>mit</em>. В <em>unternehmen</em> ударение на <em>-neh-</em>."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Habt ihr Lust auf einen Ausflug zum See?",
+              "ipa": "hapt iːɐ̯ lʊst aʊ̯f ˈaɪ̯nən ˈaʊ̯sfluːk t͡sʊm zeː",
+              "ru": "Есть желание поехать на озеро?"
+            }
+          ],
+          "tip": "<em>Lust auf</em> — «желание чего-то», и после <em>auf</em> идёт Akkusativ. В <em>habt</em> буква <em>b</em> оглушается перед <em>t</em>: «хапт»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Am Sonntag kann ich!",
+              "ipa": "am ˈzɔnˌtaːk kan ɪç",
+              "ru": "В воскресенье я свободен!"
+            }
+          ],
+          "tip": "Обстоятельство впереди, глагол сразу за ним, <em>ich</em> в конце. Смысловой глагол вообще опущен — и так понятно, о чём речь."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das hört sich toll an!",
+              "ipa": "das høːɐ̯t zɪç tɔl an",
+              "ru": "Это звучит здорово!"
+            }
+          ],
+          "tip": "<em>sich anhören</em> — «звучать»: возвратное <em>sich</em> в середине, приставка <em>an</em> в конце. Ближайший синоним — <em>klingen</em> из урока 2."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich kann einen Picknickkorb vorbereiten.",
+              "ipa": "ɪç kan ˈaɪ̯nən ˈpɪknɪkˌkɔʁp ˈfoːɐ̯bəˌʁaɪ̯tn̩",
+              "ru": "Я могу приготовить корзину для пикника."
+            }
+          ],
+          "tip": "В <em>Picknickkorb</em> на стыке частей сходятся три <em>k</em>, и они не сливаются в одну. Конечное <em>b</em> оглушается: «-корп»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wann und wo sollen wir uns treffen?",
+              "ipa": "van ʊnt voː ˈzɔlən viːɐ̯ ʊns ˈtʁɛfn̩",
+              "ru": "Когда и где нам встретиться?"
+            }
+          ],
+          "tip": "<em>sollen</em> спрашивает о договорённости: «как решим?». <em>uns</em> здесь «друг друга»: <em>treffen</em> в этой фразе взаимное."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich kann auch meine Bluetooth-Box mitbringen.",
+              "ipa": "ɪç kan aʊ̯x ˈmaɪ̯nə ˈbluːtuːsˌbɔks ˈmɪtˌbʁɪŋən",
+              "ru": "Я могу также принести свою колонку."
+            }
+          ],
+          "tip": "Заимствование читается почти по-английски, только вместо звонкого <em>th</em> немцы говорят обычное «с». У <em>mitbringen</em> приставка <em>mit</em> уходит в конец."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wir können uns um 14 Uhr treffen.",
+              "speak": "Wir können uns um vierzehn Uhr treffen.",
+              "ipa": "viːɐ̯ ˈkœnən ʊns ʊm ˈfɪʁt͡seːn uːɐ̯ ˈtʁɛfn̩",
+              "ru": "Мы можем встретиться в 14 часов."
+            }
+          ],
+          "tip": "Возвратное <em>uns</em> стоит рядом с подлежащим, а инфинитив — в самом конце. <em>14 Uhr</em> читается <em>vierzehn Uhr</em>, с кратким «и»."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Von dort müssen wir nur 10 Minuten zum See laufen.",
+              "speak": "Von dort müssen wir nur zehn Minuten zum See laufen.",
+              "ipa": "fɔn dɔʁt ˈmʏsn̩ viːɐ̯ nuːɐ̯ t͡seːn miˈnuːtn̩ t͡sʊm zeː ˈlaʊ̯fn̩",
+              "ru": "Оттуда нам нужно идти только 10 минут до озера."
+            }
+          ],
+          "tip": "<em>laufen</em> здесь «идти пешком», а не «бежать» — в разговоре это обычное значение. <em>10 Minuten</em> — Akkusativ длительности, без предлога."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Планы на выходные.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was machst du am Wochenende?"
+            },
+            {
+              "voice": "clara",
+              "de": "Am Samstag muss ich leider arbeiten. Aber am Sonntag will ich einen Ausflug machen."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Договариваетесь о поездке на озеро.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Hast du Lust auf einen Ausflug zum See?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, gerne! Wann und wo sollen wir uns treffen?"
+            },
+            {
+              "voice": "max",
+              "de": "Wir können uns um 14 Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten laufen.",
+              "speak": "Wir können uns um vierzehn Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten laufen."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Кто что берёт с собой.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich kann einen Picknickkorb vorbereiten."
+            },
+            {
+              "voice": "max",
+              "de": "Super, dann bringe ich die Getränke mit."
+            },
+            {
+              "voice": "clara",
+              "de": "Und ich will meine Bluetooth-Box einpacken."
+            },
+            {
+              "voice": "max",
+              "de": "Perfekt, Hauptsache, wir verbringen Zeit zusammen!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

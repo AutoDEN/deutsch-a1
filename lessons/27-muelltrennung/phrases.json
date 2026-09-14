@@ -1,0 +1,164 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In Deutschland ist Mülltrennung sehr wichtig für die Umwelt.",
+              "ipa": "ɪn ˈdɔɪ̯t͡ʃlant ɪst ˈmʏlˌtʁɛnʊŋ zeːɐ̯ ˈvɪçtɪç fyːɐ̯ diː ˈʊmvɛlt",
+              "ru": "В Германии сортировка мусора очень важна для экологии."
+            }
+          ],
+          "tip": "<em>Mülltrennung</em> — <em>Müll</em> плюс <em>Trennung</em> «разделение»: <em>ü</em> краткое, а <em>-ung</em> даёт носовое «н». <em>wichtig</em> кончается мягким «хь», как все слова на <em>-ig</em>."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Man muss den Müll richtig sortieren.",
+              "ipa": "man mʊs deːn mʏl ˈʁɪçtɪç zɔʁˈtiːʁən",
+              "ru": "Нужно правильно сортировать мусор."
+            }
+          ],
+          "tip": "<em>man</em> — безличное «всем нужно», и глагол при нём в третьем лице. <em>sortieren</em> с ударением на <em>-tie-</em>, начальное <em>s</em> звонкое."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Für Papier gibt es die blaue Tonne.",
+              "ipa": "fyːɐ̯ paˈpiːɐ̯ ɡɪpt ɛs diː ˈblaʊ̯ə ˈtɔnə",
+              "ru": "Для бумаги — синий контейнер."
+            }
+          ],
+          "tip": "<em>Papier</em> — ударение на последний слог, а конечное <em>r</em> превращается в «а»: «папи́:а». В <em>gibt</em> буква <em>b</em> оглушается перед <em>t</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In die gelbe Tonne oder den gelben Sack wirft man Plastik.",
+              "ipa": "ɪn diː ˈɡɛlbə ˈtɔnə ˈoːdɐ deːn ˈɡɛlbn̩ zak vɪʁft man ˈplastɪk",
+              "ru": "В жёлтый контейнер или мешок выбрасывают пластик."
+            }
+          ],
+          "tip": "Направление — значит Akkusativ: <em>in die Tonne</em>, <em>in den Sack</em>. <em>wirft</em> — от <em>werfen</em>, с изменённой гласной в третьем лице."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Biomüll gehört in die braune Tonne.",
+              "ipa": "ˈbiːoˌmʏl ɡəˈhøːɐ̯t ɪn diː ˈbʁaʊ̯nə ˈtɔnə",
+              "ru": "Биомусор относится к коричневому контейнеру."
+            }
+          ],
+          "tip": "<em>gehören</em> — «относиться, принадлежать»: приставка <em>ge-</em> безударная, <em>ö</em> долгое, а <em>r</em> перед <em>t</em> даёт призвук «а»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Für Glas gibt es die grüne oder weiße Tonne.",
+              "ipa": "fyːɐ̯ ɡlaːs ɡɪpt ɛs diː ˈɡʁyːnə ˈoːdɐ ˈvaɪ̯sə ˈtɔnə",
+              "ru": "Для стекла есть зелёный или белый контейнер."
+            }
+          ],
+          "tip": "В <em>Glas</em> гласная долгая, а <em>s</em> на конце глухое. В <em>weiße</em> <em>ß</em> тоже даёт глухое «с», и перед ним дифтонг «ай»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Was nicht recycelt werden kann, kommt in den Restmüll.",
+              "ipa": "vas nɪçt ʁiˈsaɪ̯kl̩t ˈveːɐ̯dn̩ kan · kɔmt ɪn deːn ˈʁɛstˌmʏl",
+              "ru": "Что нельзя переработать, идёт в остаточный мусор."
+            }
+          ],
+          "tip": "<em>recyceln</em> — английское заимствование, и <em>y</em> читается «ай»: «рисайкльт». Дальше пассив: <em>werden</em> плюс причастие, и всё это в конце придаточного."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wohin gehört dieser Joghurtbecher?",
+              "ipa": "voˈhɪn ɡəˈhøːɐ̯t ˈdiːzɐ ˈjoːɡʊʁtˌbɛçɐ",
+              "ru": "Куда относится этот стаканчик от йогурта?"
+            }
+          ],
+          "tip": "<em>wohin</em> — «куда», слитно и с ударением на вторую часть. В <em>Joghurtbecher</em> <em>j</em> читается «й», а <em>-cher</em> даёт мягкое «хь» и «а»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Сосед объясняет систему контейнеров.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Können Sie mir erklären, wie die Mülltrennung funktioniert?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Natürlich. Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack, für Biomüll die braune Tonne. Der Rest kommt in den Restmüll."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Куда девать бутылку и стаканчик.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wohin gehört diese Flasche?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Flaschen bringt man zum Container für Glas, sortiert nach Farben."
+            },
+            {
+              "voice": "lena",
+              "de": "Und dieser Joghurtbecher?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Der kommt in die gelbe Tonne, aber er muss sauber sein."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Зачем вообще сортировать.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Warum muss man den Müll trennen?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Weil das wichtig für die Umwelt ist. Was man trennt, kann man recyceln. Man muss die Verpackung nur vorher sauber machen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

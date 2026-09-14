@@ -1,0 +1,233 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich suche ein T-Shirt.",
+              "ipa": "ɪç ˈzuːxə aɪ̯n ˈtiːʃœɐ̯t",
+              "ru": "Я ищу футболку."
+            }
+          ],
+          "tip": "<em>T-Shirt</em> взято из английского, но читается на немецкий лад: «ти:-шёат», с «а»-призвуком вместо <em>r</em>. В <em>suchen</em> <em>ch</em> после <em>u</em> твёрдое."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Welche Farbe möchtest du?",
+              "ipa": "ˈvɛlçə ˈfaʁbə ˈmœçtəst duː",
+              "ru": "Какой цвет ты хочешь?"
+            }
+          ],
+          "tip": "<em>welche</em> — «какой», и окончание оно берёт по роду: <em>die Farbe</em> женского, отсюда <em>-e</em>. В <em>möchtest</em> <em>ch</em> мягкое, «хь»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Welche Größe brauchen Sie?",
+              "ipa": "ˈvɛlçə ˈɡʁøːsə ˈbʁaʊ̯xn̩ ziː",
+              "ru": "Какой размер вам нужен?"
+            }
+          ],
+          "tip": "<em>Größe</em> — от <em>groß</em>, с умлаутом: губы для «о», звук «э», а <em>ß</em> даёт глухое «с». Размер по-немецки «нужен» через <em>brauchen</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Normalerweise trage ich Größe M.",
+              "ipa": "noʁˈmaːlɐˌvaɪ̯zə ˈtʁaːɡə ɪç ˈɡʁøːsə ɛm",
+              "ru": "Обычно я ношу размер M."
+            }
+          ],
+          "tip": "Наречие встало первым — глагол сразу за ним, <em>ich</em> ушло назад. Буква <em>M</em> называется «эм»: размеры произносят по буквам."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Kann ich das anprobieren?",
+              "ipa": "kan ɪç das ˈanpʁoˌbiːʁən",
+              "ru": "Могу я это примерить?"
+            }
+          ],
+          "tip": "<em>anprobieren</em> — отделяемая приставка <em>an-</em> под ударением. Здесь глагол стоит в инфинитиве после <em>kann</em>, поэтому остаётся целым."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wo sind die Umkleidekabinen?",
+              "ipa": "voː zɪnt diː ˈʊmklaɪ̯dəkaˌbiːnən",
+              "ru": "Где примерочные?"
+            }
+          ],
+          "tip": "<em>Umkleidekabine</em> собрано из трёх частей: <em>um</em> + <em>kleiden</em> + <em>Kabine</em>, «кабина для переодевания». Главное ударение на первой, побочное на <em>-bi-</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Umkleidekabinen sind hinten links.",
+              "ipa": "diː ˈʊmklaɪ̯dəkaˌbiːnən zɪnt ˈhɪntn̩ lɪŋks",
+              "ru": "Примерочные сзади слева."
+            }
+          ],
+          "tip": "<em>hinten links</em> — «сзади слева», без всяких предлогов. В <em>links</em> сочетание <em>-nks</em> произносится слитно, с носовым «н»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das rote passt dir sehr gut.",
+              "ipa": "das ˈʁoːtə past diːɐ̯ zeːɐ̯ ɡuːt",
+              "ru": "Красная тебе очень идёт."
+            }
+          ],
+          "tip": "<em>passen</em> — «подходить по размеру и виду», и кому подходит стоит в Dativ: <em>dir</em>. <em>Das rote</em> идёт без существительного: прилагательное работает за него."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Es gefällt mir auch besser.",
+              "ipa": "ɛs ɡəˈfɛlt miːɐ̯ aʊ̯x ˈbɛsɐ",
+              "ru": "Мне это тоже больше нравится."
+            }
+          ],
+          "tip": "У <em>gefallen</em> подлежащее — вещь, а человек стоит в Dativ: дословно «оно нравится мне». Русское «мне нравится» устроено так же, а английское — нет."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was denkst du, das rote oder das blaue?",
+              "ipa": "vas dɛŋkst duː · das ˈʁoːtə ˈoːdɐ das ˈblaʊ̯ə",
+              "ru": "Что думаешь, красную или синюю?"
+            }
+          ],
+          "tip": "Оба прилагательных с артиклем <em>das</em>, потому что <em>T-Shirt</em> среднего рода. В <em>denkst</em> сходятся «нкст», и носовое «н» слышно перед «к»."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Eine gute Wahl! Das steht Ihnen ausgezeichnet.",
+              "ipa": "ˈaɪ̯nə ˈɡuːtə vaːl · das ʃteːt ˈiːnən ˈaʊ̯sɡəˌt͡saɪ̯çnət",
+              "ru": "Хороший выбор! Вам это отлично идёт."
+            }
+          ],
+          "tip": "<em>stehen</em> здесь не «стоять», а «быть к лицу»: <em>Das steht Ihnen</em>. <em>ausgezeichnet</em> — причастие от <em>auszeichnen</em>, ударение на <em>aus-</em>, а <em>ch</em> после «ай» мягкое."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Ищете футболку своего размера.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Kann ich Ihnen helfen?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, ich suche ein T-Shirt, am liebsten in Rot oder Blau."
+            },
+            {
+              "voice": "clara",
+              "de": "Welche Größe brauchen Sie?"
+            },
+            {
+              "voice": "lena",
+              "de": "Normalerweise trage ich Größe M."
+            },
+            {
+              "voice": "lena",
+              "de": "Kann ich das anprobieren?"
+            },
+            {
+              "voice": "clara",
+              "de": "Natürlich, die Umkleidekabinen sind hinten links."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Советуетесь с подругой о цвете.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was denkst du, das rote oder das blaue?"
+            },
+            {
+              "voice": "clara",
+              "de": "Dreh dich mal. Das rote passt dir sehr gut, aber das blaue passt besser zu deinen Jeans."
+            },
+            {
+              "voice": "lena",
+              "de": "Du hast Recht! Dann nehme ich das blaue. Es gefällt mir auch besser."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Покупка обуви.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Suchen Sie etwas Bestimmtes?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, ich suche schwarze Schuhe."
+            },
+            {
+              "voice": "clara",
+              "de": "Welche Schuhgröße haben Sie?"
+            },
+            {
+              "voice": "max",
+              "de": "Größe 38.",
+              "speak": "Größe achtunddreißig."
+            },
+            {
+              "voice": "clara",
+              "de": "Diese hier sind sehr bequem."
+            },
+            {
+              "voice": "max",
+              "de": "Darf ich sie anprobieren?"
+            },
+            {
+              "voice": "max",
+              "de": "Sie passen perfekt, mir gefallen diese Schuhe sehr!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

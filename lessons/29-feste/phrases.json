@@ -1,0 +1,181 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Weihnachten ist das schönste Fest im Jahr.",
+              "ipa": "ˈvaɪ̯naxtn̩ ɪst das ˈʃøːnstə fɛst ɪm jaːɐ̯",
+              "ru": "Рождество — самый красивый праздник в году."
+            }
+          ],
+          "tip": "<em>Weihnachten</em> по форме множественное, но глагол при нём в единственном числе. <em>schönste</em> — превосходная степень: <em>schön — schöner — am schönsten</em>."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die ganze Familie kommt zusammen.",
+              "ipa": "diː ˈɡant͡sə faˈmiːli̯ə kɔmt t͡suˈzamən",
+              "ru": "Вся семья собирается вместе."
+            }
+          ],
+          "tip": "<em>ganze</em> — «весь, целый», начинается с «ц». В <em>Familie</em> ударение на <em>-mi-</em>, а конечное <em>-ie</em> звучит как неслоговое «ие»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich schmücke den Tannenbaum mit roten Kugeln.",
+              "ipa": "ɪç ˈʃmʏkə deːn ˈtanənˌbaʊ̯m mɪt ˈʁoːtn̩ ˈkuːɡl̩n",
+              "ru": "Я украшаю ёлку красными шарами."
+            }
+          ],
+          "tip": "<em>schmücken</em> — «украшать», <em>ü</em> краткое. После <em>mit</em> идёт Dativ множественного: <em>roten Kugeln</em>, два окончания подряд."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Am Heiligabend essen wir leckere Gerichte.",
+              "ipa": "am ˈhaɪ̯lɪçˌʔaːbn̩t ˈɛsn̩ viːɐ̯ ˈlɛkəʁə ɡəˈʁɪçtə",
+              "ru": "В сочельник мы едим вкусные блюда."
+            }
+          ],
+          "tip": "<em>Heiligabend</em> — сочельник, 24 декабря. Первая часть кончается на <em>-ig</em> и даёт мягкое «хь», а перед <em>Abend</em> слышен твёрдый приступ."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Nach dem Essen singen wir Weihnachtslieder.",
+              "ipa": "naːx deːm ˈɛsn̩ ˈzɪŋən viːɐ̯ ˈvaɪ̯naxt͡sˌliːdɐ",
+              "ru": "После ужина мы поём рождественские песни."
+            }
+          ],
+          "tip": "<em>Essen</em> с заглавной — это существительное «еда, трапеза». В <em>Weihnachtslieder</em> соединительная <em>s</em> сливается с <em>t</em> в «ц»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Bei uns ist es sehr gemütlich.",
+              "ipa": "baɪ̯ ʊns ɪst ɛs zeːɐ̯ ɡəˈmyːtlɪç",
+              "ru": "У нас очень уютно."
+            }
+          ],
+          "tip": "<em>bei uns</em> — «у нас», и после <em>bei</em> всегда Dativ. <em>gemütlich</em> — то самое непереводимое «уютно», что встречалось в уроках 11 и 15."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Kinder warten auf das Christkind / den Weihnachtsmann.",
+              "speak": "Die Kinder warten auf das Christkind, den Weihnachtsmann.",
+              "ipa": "diː ˈkɪndɐ ˈvaʁtn̩ aʊ̯f das ˈkʁɪstkɪnt · deːn ˈvaɪ̯naxt͡sˌman",
+              "ru": "Дети ждут младенца Христа / Деда Мороза."
+            }
+          ],
+          "tip": "<em>warten auf</em> — «ждать кого-то», и после <em>auf</em> идёт Akkusativ. Подарки приносит <em>Christkind</em> на юге и западе, <em>Weihnachtsmann</em> — на севере."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das Christkind bringt die Geschenke.",
+              "ipa": "das ˈkʁɪstkɪnt bʁɪŋt diː ɡəˈʃɛŋkə",
+              "ru": "Младенец Христос приносит подарки."
+            }
+          ],
+          "tip": "<em>Christkind</em> — дословно «младенец Христос». Начальное <em>Ch</em> читается как «к»: имя пришло из греческого, и немецкое правило про <em>ch</em> к нему не применяется."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich backe Plätzchen jedes Jahr.",
+              "ipa": "ɪç ˈbakə ˈplɛt͡sçən ˈjeːdəs jaːɐ̯",
+              "ru": "Я пеку рождественское печенье каждый год."
+            }
+          ],
+          "tip": "<em>Plätzchen</em> — уменьшительное на <em>-chen</em>, а такие слова всегда среднего рода. <em>tz</em> даёт «ц», <em>-chen</em> — мягкое «хь»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wir schenken besondere Geschenke zu Weihnachten.",
+              "ipa": "viːɐ̯ ˈʃɛŋkn̩ bəˈzɔndəʁə ɡəˈʃɛŋkə t͡suː ˈvaɪ̯naxtn̩",
+              "ru": "Мы дарим особенные подарки на Рождество."
+            }
+          ],
+          "tip": "<em>schenken</em> «дарить» и <em>Geschenke</em> «подарки» — один корень, и оба с носовым «н» перед <em>k</em>. <em>zu Weihnachten</em> идёт без артикля, как и все названия праздников."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Как празднуют Рождество.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie feierst du Weihnachten?"
+            },
+            {
+              "voice": "clara",
+              "de": "Am Heiligabend kommt die ganze Familie zusammen. Wir schmücken den Tannenbaum und essen Gänsebraten. Nach dem Essen singen wir Weihnachtslieder."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Кто приносит подарки.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wer bringt bei euch die Geschenke?"
+            },
+            {
+              "voice": "clara",
+              "de": "Bei uns bringt das Christkind die Geschenke, nicht der Weihnachtsmann. Und bei euch?"
+            },
+            {
+              "voice": "lena",
+              "de": "Bei uns kommt der Weihnachtsmann."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Семейные традиции.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Meine Oma backt jedes Jahr Plätzchen, besonders Zimtsterne. Ich schenke meinen Nichten und Neffen immer Bücher zu Weihnachten — das ist meine Tradition."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

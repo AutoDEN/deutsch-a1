@@ -1,0 +1,180 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Mein Garten ist mein kleines Paradies.",
+              "ipa": "maɪ̯n ˈɡaʁtn̩ ɪst maɪ̯n ˈklaɪ̯nəs paʁaˈdiːs",
+              "ru": "Мой сад — мой маленький рай."
+            }
+          ],
+          "tip": "<em>Paradies</em> — ударение на последний слог, и <em>s</em> там глухое: «паради́:с». Окончание <em>-es</em> у <em>kleines</em> — потому что слово среднего рода."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In meinem Garten habe ich viele schöne Blumen.",
+              "ipa": "ɪn ˈmaɪ̯nəm ˈɡaʁtn̩ ˈhaːbə ɪç ˈfiːlə ˈʃøːnə ˈbluːmən",
+              "ru": "У меня в саду много красивых цветов."
+            }
+          ],
+          "tip": "Обстоятельство встало первым — и глагол сразу за ним, а <em>ich</em> ушло назад. В <em>Blumen</em> гласная долгая: «блу́:мэн»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Die Rosen sind mein besonderer Stolz.",
+              "ipa": "diː ˈʁoːzn̩ zɪnt maɪ̯n bəˈzɔndəʁɐ ʃtɔlt͡s",
+              "ru": "Розы — моя особая гордость."
+            }
+          ],
+          "tip": "В <em>besonderer</em> после ударения идут три слабых слога, и в беглой речи середина почти проглатывается. <em>Stolz</em> начинается со «шт», а <em>z</em> даёт «ц»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In der Ecke wachsen Tomaten und Gurken.",
+              "ipa": "ɪn deːɐ̯ ˈɛkə ˈvaksn̩ toˈmaːtn̩ ʊnt ˈɡʊʁkn̩",
+              "ru": "В углу растут помидоры и огурцы."
+            }
+          ],
+          "tip": "В <em>wachsen</em> сочетание <em>chs</em> даёт «кс»: «ваксн», а не «вахсн». В <em>Tomaten</em> ударение на <em>-ma-</em>, а окончания <em>-en</em> в обоих словах проглочены."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Frisches Gemüse aus dem eigenen Garten schmeckt am besten.",
+              "ipa": "ˈfʁɪʃəs ɡəˈmyːzə aʊ̯s deːm ˈaɪ̯ɡənən ˈɡaʁtn̩ ʃmɛkt am ˈbɛstn̩",
+              "ru": "Свежие овощи из собственного сада вкуснее всего."
+            }
+          ],
+          "tip": "<em>am besten</em> — превосходная степень от <em>gut</em>: <em>gut — besser — am besten</em>. <em>Gemüse</em> в немецком единственного числа, хотя по-русски «овощи» во множественном."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "In der Mitte des Gartens steht ein alter Apfelbaum.",
+              "ipa": "ɪn deːɐ̯ ˈmɪtə dɛs ˈɡaʁtn̩s ʃteːt aɪ̯n ˈaltɐ ˈap͡fl̩ˌbaʊ̯m",
+              "ru": "В центре сада стоит старая яблоня."
+            }
+          ],
+          "tip": "<em>des Gartens</em> — Genitiv, «сада». В разговоре этот падеж почти не встречается, но в оборотах вроде <em>in der Mitte</em> живёт. В <em>Apfelbaum</em> снова слитное <em>pf</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Jeden Morgen arbeite ich eine Stunde im Garten.",
+              "ipa": "ˈjeːdn̩ ˈmɔʁɡn̩ ˈaʁbaɪ̯tə ɪç ˈaɪ̯nə ˈʃtʊndə ɪm ˈɡaʁtn̩",
+              "ru": "Каждое утро я работаю час в саду."
+            }
+          ],
+          "tip": "<em>jeden Morgen</em> — Akkusativ без всякого предлога: так по-немецки выражают регулярность. <em>eine Stunde</em> — тоже Akkusativ, но уже про длительность."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Ich gieße die Pflanzen und entferne Unkraut.",
+              "ipa": "ɪç ˈɡiːsə diː ˈp͡flant͡sn̩ ʊnt ɛntˈfɛʁnə ˈʊnkʁaʊ̯t",
+              "ru": "Я поливаю растения и удаляю сорняки."
+            }
+          ],
+          "tip": "В <em>gießen</em> <em>ß</em> даёт глухое «с», а гласная перед ним долгая. В <em>Pflanzen</em> сразу два трудных места: слитное <em>pf</em> в начале и «ц» в середине."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Die Gartenarbeit ist für mich entspannend.",
+              "ipa": "diː ˈɡaʁtn̩ˌʔaʁbaɪ̯t ɪst fyːɐ̯ mɪç ɛntˈʃpanənt",
+              "ru": "Работа в саду для меня расслабляющая."
+            }
+          ],
+          "tip": "В сложном слове перед второй частью слышен твёрдый приступ: «га́ртн-‿арбайт». В <em>entspannend</em> приставка <em>ent-</em> безударная, а <em>sp</em> после неё читается «шп»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Unter dem Baum steht eine Bank.",
+              "ipa": "ˈʊntɐ deːm baʊ̯m ʃteːt ˈaɪ̯nə baŋk",
+              "ru": "Под деревом стоит скамейка."
+            }
+          ],
+          "tip": "<em>unter</em> с Dativ отвечает на вопрос «где?». <em>Bank</em> — и «скамейка», и «банк»: различает только смысл фразы, звучат они одинаково."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Сосед хвалит ваш сад.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ihr Garten sieht wunderschön aus!"
+            },
+            {
+              "voice": "mueller",
+              "de": "Vielen Dank! Mein Garten ist mein kleines Paradies. Ich habe rote Rosen, gelbe Tulpen und weiße Lilien. Die Rosen sind mein besonderer Stolz — ich pflanze sie schon seit dreißig Jahren."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Разговор про овощи с грядки.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Und was ist mit Gemüse?"
+            },
+            {
+              "voice": "mueller",
+              "de": "In der Ecke wachsen Tomaten und Gurken, daneben habe ich Salat und Karotten. Frisches Gemüse aus dem eigenen Garten schmeckt am besten."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Тяжело ли возиться в саду.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ist das nicht anstrengend?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Nein, die Gartenarbeit ist für mich nicht anstrengend, sondern entspannend. Jeden Morgen arbeite ich eine Stunde im Garten: ich gieße die Pflanzen und entferne Unkraut. Unter dem Apfelbaum steht eine Bank, dort sitze ich gerne und lese."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

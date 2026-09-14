@@ -1,0 +1,164 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie ist das Wetter heute?",
+              "ipa": "viː ɪst das ˈvɛtɐ ˈhɔɪ̯tə",
+              "ru": "Какая сегодня погода?"
+            }
+          ],
+          "tip": "Вопрос о погоде строится через <em>wie</em> «как», а не через «какая». В <em>Wetter</em> гласная краткая, а конечное <em>-er</em> звучит как «а»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Im Winter ist es kalt und es schneit oft.",
+              "ipa": "ɪm ˈvɪntɐ ɪst ɛs kalt ʊnt ɛs ʃnaɪ̯t ɔft",
+              "ru": "Зимой холодно и часто идёт снег."
+            }
+          ],
+          "tip": "Времена года идут с <em>im</em>: <em>im Winter</em>. <em>schneien</em> — безличный глагол, он всегда при <em>es</em>: дословно «оно снежит»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Im Frühling wird es wärmer.",
+              "ipa": "ɪm ˈfʁyːlɪŋ vɪʁt ɛs ˈvɛʁmɐ",
+              "ru": "Весной становится теплее."
+            }
+          ],
+          "tip": "<em>werden</em> — «становиться», а не «быть»: речь именно об изменении. <em>wärmer</em> — сравнительная степень от <em>warm</em>, с умлаутом."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Der Sommer in Deutschland ist warm, manchmal heiß.",
+              "ipa": "deːɐ̯ ˈzɔmɐ ɪn ˈdɔɪ̯t͡ʃlant ɪst vaʁm · ˈmançmaːl haɪ̯s",
+              "ru": "Лето в Германии тёплое, иногда жаркое."
+            }
+          ],
+          "tip": "В <em>Deutschland</em> три трудных места сразу: <em>eu</em> — «ой», <em>tsch</em> — «ч» одним звуком, конечное <em>d</em> оглушается. В <em>heiß</em> «ай» и глухое «с»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Im Herbst wird es kühler und oft windig.",
+              "ipa": "ɪm hɛʁpst vɪʁt ɛs ˈkyːlɐ ʊnt ɔft ˈvɪndɪç",
+              "ru": "Осенью становится прохладнее и ветрено."
+            }
+          ],
+          "tip": "В <em>Herbst</em> буква <em>b</em> оглушается перед <em>st</em>: «хэрпст». <em>windig</em> кончается на <em>-ig</em>, а это всегда мягкое «хь»: «ви́ндихь»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Es regnet.",
+              "ipa": "ɛs ˈʁeːɡnət",
+              "ru": "Идёт дождь."
+            }
+          ],
+          "tip": "Два слова — и целое предложение. Подлежащее <em>es</em> здесь пустое: без него нельзя, немецкому глаголу нужен хозяин, даже выдуманный."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Die Sonne scheint.",
+              "ipa": "diː ˈzɔnə ʃaɪ̯nt",
+              "ru": "Светит солнце."
+            }
+          ],
+          "tip": "<em>scheinen</em> значит и «светить», и «казаться» — здесь первое. В <em>Sonne</em> начальное <em>s</em> звонкое, а гласная краткая: две <em>n</em> подряд."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Die Temperatur liegt unter null Grad.",
+              "ipa": "diː tɛmpəʁaˈtuːɐ̯ liːkt ˈʊntɐ nʊl ɡʁaːt",
+              "ru": "Температура ниже нуля градусов."
+            }
+          ],
+          "tip": "<em>liegen</em> о температуре — «составляет». В <em>liegt</em> <em>g</em> оглушается перед <em>t</em>. <em>null Grad</em> без окончания: после числительных единица измерения остаётся в единственном числе."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Какая погода в Германии по сезонам.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie ist das Wetter normalerweise in Deutschland?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist sehr verschieden je nach Jahreszeit. Im Winter ist es kalt und es schneit oft."
+            },
+            {
+              "voice": "lena",
+              "de": "Und im Frühling?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Im Frühling wird es wärmer. Es regnet manchmal, aber die Sonne scheint auch oft."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Погода сегодня.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie ist das Wetter heute?"
+            },
+            {
+              "voice": "clara",
+              "de": "Es ist nicht zu kalt und nicht zu warm. Die Sonne scheint und es regnet nicht. Der Himmel ist blau."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Любимое время года.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was ist Ihre Lieblingsjahreszeit?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ich genieße den Frühling am meisten, weil ich dann wieder meine Pflanzen auf dem Balkon haben kann. Im Sommer ist es manchmal zu heiß — dann bleibe ich lieber zu Hause."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

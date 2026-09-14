@@ -1,0 +1,229 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Praxis Dr. Bauer, guten Tag.",
+              "speak": "Praxis Doktor Bauer, guten Tag.",
+              "ipa": "ˈpʁaksɪs ˈdɔktoːɐ̯ ˈbaʊ̯ɐ · ˈɡuːtn̩ ˈtaːk",
+              "ru": "Кабинет доктора Бауэра, добрый день."
+            }
+          ],
+          "tip": "<em>Praxis</em> — так называется врачебный кабинет, а не «практика». Сокращение <em>Dr.</em> читают полностью: <em>Doktor</em>, с ударением на первый слог и «о:а» на конце."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich möchte einen Termin vereinbaren.",
+              "ipa": "ɪç ˈmœçtə ˈaɪ̯nən tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən",
+              "ru": "Я хотел бы записаться на приём."
+            }
+          ],
+          "tip": "<em>Termin vereinbaren</em> — «договориться о приёме», устойчивая пара. Приставка <em>ver-</em> безударная, а перед <em>ein</em> слышен твёрдый приступ: «фэа-‿а́йнба:рэн»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wann hätten Sie denn Zeit?",
+              "ipa": "van ˈhɛtn̩ ziː dɛn t͡saɪ̯t",
+              "ru": "Когда вам было бы удобно?"
+            }
+          ],
+          "tip": "<em>hätten</em> — сослагательное от <em>haben</em>: «когда бы у Вас нашлось время». <em>denn</em> внутри вопроса ничего не значит, оно только смягчает тон."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Am liebsten am Montag oder Dienstag.",
+              "ipa": "am ˈliːpstn̩ am ˈmoːnˌtaːk ˈoːdɐ ˈdiːnsˌtaːk",
+              "ru": "Лучше всего в понедельник или вторник."
+            }
+          ],
+          "tip": "<em>am liebsten</em> — «охотнее всего», уже знакомое из урока 10. Дни недели идут с <em>am</em>, а конечное <em>-tag</em> в обоих словах оглушается до «та:к»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Am Montag um 10 Uhr? Passt das?",
+              "speak": "Am Montag um zehn Uhr? Passt das?",
+              "ipa": "am ˈmoːnˌtaːk ʊm t͡seːn uːɐ̯ · past das",
+              "ru": "В понедельник в 10 часов? Подходит?"
+            }
+          ],
+          "tip": "<em>Passt das?</em> — «подходит?», глагол на первом месте. Двойная <em>s</em> означает краткую гласную, а <em>-sst</em> даёт длинное «ст»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Nein, da kann ich leider nicht.",
+              "ipa": "naɪ̯n · daː kan ɪç ˈlaɪ̯dɐ nɪçt",
+              "ru": "Нет, в это время я, к сожалению, не могу."
+            }
+          ],
+          "tip": "<em>da</em> здесь не «там», а «в это время». Отрицание <em>nicht</em> стоит в конце: оно отрицает всё предложение целиком, а не одно слово."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Dann vielleicht Dienstag um 9 Uhr?",
+              "speak": "Dann vielleicht Dienstag um neun Uhr?",
+              "ipa": "dan fiˈlaɪ̯çt ˈdiːnsˌtaːk ʊm nɔɪ̯n uːɐ̯",
+              "ru": "Тогда, может быть, вторник в 9 часов?"
+            }
+          ],
+          "tip": "<em>vielleicht</em> — ударение на второй слог, <em>ei</em> читается «ай», а <em>ch</em> на конце мягкое: «филя́йхьт»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ja, das geht. Das passt gut.",
+              "ipa": "jaː das ɡeːt · das past ɡuːt",
+              "ru": "Да, это подходит."
+            }
+          ],
+          "tip": "Две формулы согласия подряд: <em>das geht</em> «это возможно» и <em>das passt</em> «это подходит». Обе короткие и обе слышны по десять раз на дню."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Soll ich meine Versichertenkarte mitbringen?",
+              "ipa": "zɔl ɪç ˈmaɪ̯nə fɛɐ̯ˈzɪçɐtn̩ˌkaʁtə ˈmɪtˌbʁɪŋən",
+              "ru": "Мне взять с собой страховую карту?"
+            }
+          ],
+          "tip": "<em>Versichertenkarte</em> — карточка страхования, три куска в одном слове. У <em>mitbringen</em> отделяемая приставка <em>mit</em>, и в вопросе она уходит в самый конец."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Vielen Dank für Ihre Hilfe.",
+              "ipa": "ˈfiːlən daŋk fyːɐ̯ ˈiːʁə ˈhɪlfə",
+              "ru": "Спасибо за вашу помощь."
+            }
+          ],
+          "tip": "Предлог <em>für</em> требует Akkusativ, отсюда <em>Ihre</em>. В <em>vielen</em> буква <em>v</em> даёт «ф», а <em>Dank</em> кончается носовым «н» перед <em>k</em>."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Auf Wiederhören!",
+              "ipa": "aʊ̯f ˈviːdɐˌhøːʁən",
+              "ru": "До свидания! (по телефону)"
+            }
+          ],
+          "tip": "Прощание только для телефона — оно уже было в уроке 1. Собеседника не видно, поэтому <em>-sehen</em> заменено на <em>-hören</em>."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Звоните в кабинет и просите приём.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Praxis Dr. Bauer, guten Tag. Was kann ich für Sie tun?",
+              "speak": "Praxis Doktor Bauer, guten Tag. Was kann ich für Sie tun?"
+            },
+            {
+              "voice": "max",
+              "de": "Mein Name ist Thomas Müller. Ich möchte einen Termin vereinbaren."
+            },
+            {
+              "voice": "clara",
+              "de": "Wann hätten Sie denn Zeit?"
+            },
+            {
+              "voice": "max",
+              "de": "Am liebsten am Montag oder Dienstag, vormittags."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Подбираете день и час.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Am Montag um 10 Uhr hätten wir einen Termin frei. Passt das?",
+              "speak": "Am Montag um zehn Uhr hätten wir einen Termin frei. Passt das?"
+            },
+            {
+              "voice": "max",
+              "de": "Nein, da kann ich leider nicht. Da habe ich schon einen Termin."
+            },
+            {
+              "voice": "clara",
+              "de": "Dann vielleicht Dienstag um 9 Uhr?",
+              "speak": "Dann vielleicht Dienstag um neun Uhr?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, das geht. Dienstag um 9 Uhr passt gut.",
+              "speak": "Ja, das geht. Dienstag um neun Uhr passt gut."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Приём из-за давления, что взять с собой.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Was kann ich für Sie tun?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich brauche einen Termin wegen meines Blutdrucks."
+            },
+            {
+              "voice": "clara",
+              "de": "Am Mittwoch um 16 Uhr oder um 17:30 Uhr?",
+              "speak": "Am Mittwoch um sechzehn Uhr oder um siebzehn Uhr dreißig?"
+            },
+            {
+              "voice": "max",
+              "de": "Um 17:30 Uhr, bitte.",
+              "speak": "Um siebzehn Uhr dreißig, bitte."
+            },
+            {
+              "voice": "clara",
+              "de": "Bitte bringen Sie Ihre Versichertenkarte mit. Auf Wiederhören!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

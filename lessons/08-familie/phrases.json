@@ -1,0 +1,204 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Hast du Geschwister?",
+              "ipa": "hast duː ɡəˈʃvɪstɐ",
+              "ru": "У тебя есть братья и сёстры?"
+            }
+          ],
+          "tip": "<em>Geschwister</em> — одно слово на братьев и сестёр сразу, и оно всегда во множественном числе. Приставка <em>ge-</em> безударная, ударение на <em>-schwi-</em>, где <em>sch</em> — «ш», а <em>w</em> — «в»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Haben Sie Geschwister?",
+              "ipa": "ˈhaːbn̩ ziː ɡəˈʃvɪstɐ",
+              "ru": "У Вас есть братья и сёстры?"
+            }
+          ],
+          "tip": "То же на «Вы». В вопросе без вопросительного слова глагол встаёт первым, а местоимение сразу за ним. Окончание <em>-en</em> в <em>haben</em> проглочено: «ха:бн»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich habe einen Bruder.",
+              "ipa": "ɪç ˈhaːbə ˈaɪ̯nən ˈbʁuːdɐ",
+              "ru": "У меня есть брат."
+            }
+          ],
+          "tip": "<em>einen</em> — Akkusativ мужского рода: <em>der Bruder</em> в винительном меняет артикль. Гласная в <em>Bruder</em> долгая, а конечное <em>-er</em> звучит как «а»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich habe eine Schwester.",
+              "ipa": "ɪç ˈhaːbə ˈaɪ̯nə ˈʃvɛstɐ",
+              "ru": "У меня есть сестра."
+            }
+          ],
+          "tip": "<em>Schwester</em> женского рода, и в Akkusativ <em>eine</em> не меняется — в отличие от мужского. <em>Sch</em> даёт «ш», а <em>w</em> сразу за ним — «в»: «швэ́ста»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe keine Geschwister.",
+              "ipa": "ɪç ˈhaːbə ˈkaɪ̯nə ɡəˈʃvɪstɐ",
+              "ru": "У меня нет братьев и сестёр."
+            }
+          ],
+          "tip": "Существительное отрицают через <em>kein-</em>, а не через <em>nicht</em>: дословно «у меня никаких». Окончание берётся то же, что было бы у <em>eine</em>."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich habe zwei Brüder.",
+              "ipa": "ɪç ˈhaːbə t͡svaɪ̯ ˈbʁyːdɐ",
+              "ru": "У меня два брата."
+            }
+          ],
+          "tip": "Множественное от <em>Bruder</em> — <em>Brüder</em>, с умлаутом: губы для «у», а звук «и». На слух единственное и множественное различаются только этой гласной."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Mein Vater arbeitet als Ingenieur.",
+              "ipa": "maɪ̯n ˈfaːtɐ ˈaʁbaɪ̯tət als ɪnʒeˈni̯øːɐ̯",
+              "ru": "Мой отец работает инженером."
+            }
+          ],
+          "tip": "<em>als</em> здесь «в качестве», и артикль при профессии не ставится. <em>Ingenieur</em> — французское заимствование: <em>g</em> читается как мягкое «ж», а <em>-eur</em> даёт «ё:а»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Meine Mutter ist Grundschullehrerin.",
+              "ipa": "ˈmaɪ̯nə ˈmʊtɐ ɪst ˈɡʁʊntʃuːlˌleːʁəʁɪn",
+              "ru": "Моя мама — учительница начальной школы."
+            }
+          ],
+          "tip": "Профессия называется без артикля: <em>ist Grundschullehrerin</em>, а не <em>ist eine…</em>. Слово составное — <em>Grundschule</em> плюс <em>Lehrerin</em>, и женский род даёт окончание <em>-in</em>."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wohnen deine Eltern auch hier in Berlin?",
+              "ipa": "ˈvoːnən ˈdaɪ̯nə ˈɛltɐn aʊ̯x hiːɐ̯ ɪn bɛʁˈliːn",
+              "ru": "Твои родители тоже живут в Берлине?"
+            }
+          ],
+          "tip": "<em>Eltern</em> существует только во множественном числе — «родитель» отдельным словом не назовёшь. В <em>deine</em> <em>ei</em> — «ай», в <em>hier</em> конечное <em>r</em> превращается в «а»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ist Ihre Tochter Ärztin?",
+              "ipa": "ɪst ˈiːʁə ˈtɔxtɐ ˈɛːɐ̯t͡stɪn",
+              "ru": "Ваша дочь — врач?"
+            }
+          ],
+          "tip": "<em>Ihre</em> с заглавной — «Ваша». <em>Ärztin</em> — женская форма от <em>Arzt</em>: <em>ä</em> долгое, дальше <em>r</em> превращается в «а», и всё кончается сочетанием «цтин»."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Meine Eltern wohnen nicht weit von mir.",
+              "ipa": "ˈmaɪ̯nə ˈɛltɐn ˈvoːnən nɪçt vaɪ̯t fɔn miːɐ̯",
+              "ru": "Мои родители живут недалеко от меня."
+            }
+          ],
+          "tip": "<em>nicht weit von</em> — «недалеко от». После <em>von</em> всегда Dativ, поэтому <em>ich</em> превращается в <em>mir</em>. Буква <em>v</em> читается как «ф»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Разговор с другом о братьях и сёстрах.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Sag mal, hast du Geschwister?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, ich habe zwei Brüder. Mein älterer Bruder ist Lehrer, und mein jüngerer Bruder studiert noch. Und du?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich habe auch einen Bruder. Leben deine Eltern auch hier in Berlin?"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Расспрашиваете соседа о детях и внуках.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Herr Müller, haben Sie Kinder?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, ich habe zwei Kinder. Meine Tochter ist Ärztin und wohnt hier in der Nähe. Mein Sohn arbeitet bei einer Bank in Hamburg."
+            },
+            {
+              "voice": "max",
+              "de": "Und haben Sie viele Enkelkinder?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, ich habe vier. Das jüngste ist sechs Jahre alt."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Где живут родители подруги.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wohnen deine Eltern auch hier?"
+            },
+            {
+              "voice": "clara",
+              "de": "Nein, meine Eltern leben in München. Ich besuche sie oft. Mein Vater arbeitet in einer Bibliothek und meine Mutter ist Krankenschwester."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

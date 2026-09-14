@@ -1,0 +1,160 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was möchtest du nach dem Studium machen?",
+              "ipa": "vas ˈmœçtəst duː naːx deːm ˈʃtuːdi̯ʊm ˈmaxn̩",
+              "ru": "Что ты хочешь делать после учёбы?"
+            }
+          ],
+          "tip": "<em>nach dem</em> с Dativ — «после». В <em>Studium</em> ударение на первый слог, <em>St-</em> даёт «шт», а <em>-ium</em> звучит слитно: «шту́:дьюм»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Nach dem Kurs möchte ich meine Leseecke erweitern.",
+              "ipa": "naːx deːm kʊʁs ˈmœçtə ɪç ˈmaɪ̯nə ˈleːzəˌʔɛkə ɛɐ̯ˈvaɪ̯tɐn",
+              "ru": "После курса я хочу расширить свой уголок чтения."
+            }
+          ],
+          "tip": "В <em>Leseecke</em> на стыке частей твёрдый приступ, иначе сошлись бы три гласные подряд. У <em>erweitern</em> приставка <em>er-</em> безударная."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich möchte eine gute Arbeit finden.",
+              "ipa": "ɪç ˈmœçtə ˈaɪ̯nə ˈɡuːtə ˈaʁbaɪ̯t ˈfɪndn̩",
+              "ru": "Я хочу найти хорошую работу."
+            }
+          ],
+          "tip": "Артикль <em>eine</em>, а не <em>die</em>: работа пока любая, неизвестно какая. В <em>finden</em> окончание <em>-en</em> проглочено: «фи́нднь»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich will eine Weile im Ausland leben.",
+              "ipa": "ɪç vɪl ˈaɪ̯nə ˈvaɪ̯lə ɪm ˈaʊ̯slant ˈleːbn̩",
+              "ru": "Я хочу пожить за границей."
+            }
+          ],
+          "tip": "<em>wollen</em> твёрже, чем <em>möchte</em>: это уже намерение, а не пожелание. <em>eine Weile</em> «какое-то время» — Akkusativ длительности, без предлога."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "In Zukunft möchte ich reisen.",
+              "ipa": "ɪn ˈt͡suːkʊnft ˈmœçtə ɪç ˈʁaɪ̯zn̩",
+              "ru": "В будущем я хотел бы путешествовать."
+            }
+          ],
+          "tip": "<em>In Zukunft</em> — застывший оборот без артикля. В <em>reisen</em> <em>s</em> стоит между гласными и потому звонкое: «ра́йзн»."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wir werden nächsten Monat nach Wien fahren.",
+              "ipa": "viːɐ̯ ˈveːɐ̯dn̩ ˈnɛːçstn̩ ˈmoːnat naːx viːn ˈfaːʁən",
+              "ru": "Мы поедем в Вену в следующем месяце."
+            }
+          ],
+          "tip": "<em>werden</em> плюс инфинитив — будущее время. Но в разговоре о будущем чаще говорят настоящим: <em>Wir fahren nächsten Monat</em>, и это не ошибка."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Nach meinem Praktikum möchte ich mein Zimmer renovieren.",
+              "ipa": "naːx ˈmaɪ̯nəm ˈpʁaktikʊm ˈmœçtə ɪç maɪ̯n ˈt͡sɪmɐ ʁenoˈviːʁən",
+              "ru": "После практики я хочу сделать ремонт в комнате."
+            }
+          ],
+          "tip": "<em>Praktikum</em> — латинское заимствование с ударением на первый слог; во множественном будет <em>Praktika</em>. <em>renovieren</em> — ударение на <em>-vie-</em>."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich werde im Winter einen Schreibworkshop organisieren.",
+              "ipa": "ɪç ˈveːɐ̯də ɪm ˈvɪntɐ ˈaɪ̯nən ˈʃʁaɪ̯pˌvœːɐ̯kʃɔp ɔʁɡaniˈziːʁən",
+              "ru": "Зимой я организую писательский мастер-класс."
+            }
+          ],
+          "tip": "Снова будущее: <em>werde … organisieren</em>. <em>Schreibworkshop</em> — немецкое <em>Schreib-</em> плюс английское <em>Workshop</em>, и <em>b</em> перед <em>w</em> оглушается в «п»."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Планы после курса.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Was möchtest du nach dem Kurs machen?"
+            },
+            {
+              "voice": "max",
+              "de": "Nach dem Kurs möchte ich eine gute Arbeit finden. Und du?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich will eine Weile im Ausland leben."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Мечта о путешествии.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ich möchte irgendwann nach Schweden reisen. Ich will dort die kleinen Buchhandlungen besuchen. Ich sammle sowieso Ideen aus verschiedenen Ländern."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Мастер-класс зимой.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Im Winter werde ich einen Workshop organisieren. Möchtest du dabei helfen?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, sehr gerne! Ich will mehr praktische Erfahrung sammeln."
+            },
+            {
+              "voice": "clara",
+              "de": "Super, und nach dem Workshop trinken wir zusammen einen Kakao."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

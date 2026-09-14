@@ -1,0 +1,144 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Am Samstag habe ich meine Freundin Julia getroffen.",
+              "ipa": "am ˈzamsˌtaːk ˈhaːbə ɪç ˈmaɪ̯nə ˈfʁɔɪ̯ndɪn ˈjuːli̯a ɡəˈtʁɔfn̩",
+              "ru": "В субботу я встретила свою подругу Юлию."
+            }
+          ],
+          "tip": "Perfekt: <em>haben</em> на втором месте, причастие в самом конце. <em>getroffen</em> — от <em>treffen</em>, с приставкой <em>ge-</em> и сменой гласной: глагол неправильный."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wir sind zusammen ins Kino gegangen und haben einen interessanten Film gesehen.",
+              "ipa": "viːɐ̯ zɪnt t͡suˈzamən ɪns ˈkiːno ɡəˈɡaŋən ʊnt ˈhaːbn̩ ˈaɪ̯nən ɪntəʁɛˈsantn̩ fɪlm ɡəˈzeːən",
+              "ru": "Мы вместе пошли в кино и посмотрели интересный фильм."
+            }
+          ],
+          "tip": "Глаголы движения строят Perfekt через <em>sein</em>: <em>sind … gegangen</em>. Во второй половине снова <em>haben</em> — у <em>sehen</em> никакого движения нет."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Am Sonntag habe ich für die Uni gelernt.",
+              "ipa": "am ˈzɔnˌtaːk ˈhaːbə ɪç fyːɐ̯ diː ˈʊni ɡəˈlɛʁnt",
+              "ru": "В воскресенье я занималась для университета."
+            }
+          ],
+          "tip": "<em>gelernt</em> — правильное причастие: <em>ge-</em> плюс основа плюс <em>-t</em>. <em>Uni</em> — разговорное сокращение от <em>Universität</em>, с кратким «у»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Das war ein bisschen langweilig, aber notwendig.",
+              "ipa": "das vaːɐ̯ aɪ̯n ˈbɪsçən ˈlaŋvaɪ̯lɪç · ˈaːbɐ ˈnoːtvɛndɪç",
+              "ru": "Это было немного скучно, но необходимо."
+            }
+          ],
+          "tip": "В <em>bisschen</em> нет сочетания <em>sch</em>: это <em>biss</em> плюс суффикс <em>-chen</em>, поэтому «бис-хьен». Оба прилагательных кончаются на <em>-ig</em>, то есть мягким «хь»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe für meine Mitbewohner gekocht.",
+              "ipa": "ɪç ˈhaːbə fyːɐ̯ ˈmaɪ̯nə ˈmɪtbəˌvoːnɐ ɡəˈkɔxt",
+              "ru": "Я приготовила для соседей по квартире."
+            }
+          ],
+          "tip": "<em>gekocht</em> — снова правильное причастие, и <em>ch</em> после <em>o</em> твёрдое. Предлог <em>für</em> требует Akkusativ: <em>meine Mitbewohner</em>."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Nach dem Essen sind wir spazieren gegangen.",
+              "ipa": "naːx deːm ˈɛsn̩ zɪnt viːɐ̯ ʃpaˈt͡siːʁən ɡəˈɡaŋən",
+              "ru": "После ужина мы пошли гулять."
+            }
+          ],
+          "tip": "В конце сходятся сразу два глагола: <em>spazieren gegangen</em>. Обстоятельство впереди — и <em>sind</em> сразу за ним, а <em>wir</em> ушло назад."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Es war ein schönes Wochenende!",
+              "ipa": "ɛs vaːɐ̯ aɪ̯n ˈʃøːnəs ˈvɔxn̩ˌʔɛndə",
+              "ru": "Это были прекрасные выходные!"
+            }
+          ],
+          "tip": "<em>war</em> — простое прошедшее от <em>sein</em>: у <em>sein</em> и <em>haben</em> Perfekt в разговоре не используют. В <em>Wochenende</em> внутри слова твёрдый приступ."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Как прошла суббота.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wie war dein Wochenende?"
+            },
+            {
+              "voice": "lena",
+              "de": "Sehr schön! Am Samstag bin ich früh aufgestanden und habe mit Sophia gefrühstückt. Wir haben frische Brötchen geholt und Kaffee getrunken. Danach bin ich in die Stadt gefahren und habe Julia getroffen."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Воскресенье за учёбой.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Und was hast du am Sonntag gemacht?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich habe für die Uni gelernt. Das war ein bisschen langweilig, aber notwendig. Mein Bruder hat mich angerufen und wir haben lange telefoniert. Am Abend habe ich gekocht."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Разговор об ужине.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Die Lasagne war wirklich lecker! Was hast du hineingemacht?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich habe viel Gemüse und Käse verwendet. Ich habe das Rezept am Wochenende ausprobiert — es ist ein neues vegetarisches Rezept."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

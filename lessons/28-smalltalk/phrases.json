@@ -1,0 +1,188 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Guten Tag, Herr Müller! Na, wie geht's?",
+              "ipa": "ˈɡuːtn̩ ˈtaːk · hɛʁ ˈmʏlɐ · naː · viː ɡeːt͡s",
+              "ru": "Добрый день, господин Мюллер! Ну, как дела?"
+            }
+          ],
+          "tip": "<em>Na</em> — коротенькое «ну», с которого начинают лёгкий разговор. Само по себе оно ничего не значит, но без него фраза выходит суховатой."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Danke, mir geht's gut. Und Ihnen?",
+              "ipa": "ˈdaŋkə · miːɐ̯ ɡeːt͡s ɡuːt · ʊnt ˈiːnən",
+              "ru": "Спасибо, у меня всё хорошо. А у Вас?"
+            }
+          ],
+          "tip": "Стяжение <em>geht’s</em> знакомо с первого урока: <em>t</em> и <em>s</em> дают «ц». Ответный вопрос <em>Und Ihnen?</em> обязателен, иначе разговор оборвётся."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Schönes Wetter heute, nicht wahr?",
+              "ipa": "ˈʃøːnəs ˈvɛtɐ ˈhɔɪ̯tə · nɪçt vaːɐ̯",
+              "ru": "Хорошая погода сегодня, не так ли?"
+            }
+          ],
+          "tip": "<em>nicht wahr?</em> — «не правда ли?», приглашение согласиться. <em>Schönes</em> без артикля и с окончанием <em>-es</em>, потому что <em>das Wetter</em> среднего рода."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Ja, endlich Sonne!",
+              "ipa": "jaː · ˈɛntlɪç ˈzɔnə",
+              "ru": "Да, наконец-то солнце!"
+            }
+          ],
+          "tip": "<em>endlich</em> — «наконец-то», и <em>-lich</em> кончается мягким «хь». Целое предложение без глагола: в таких коротких репликах он не нужен."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Haben Sie etwas Schönes am Wochenende vor?",
+              "ipa": "ˈhaːbn̩ ziː ˈɛtvas ˈʃøːnəs am ˈvɔxn̩ˌʔɛndə foːɐ̯",
+              "ru": "У Вас есть какие-нибудь планы на выходные?"
+            }
+          ],
+          "tip": "У <em>vorhaben</em> приставка <em>vor</em> улетела в самый конец фразы — и пропустить её там легко. <em>etwas Schönes</em> пишется с заглавной: это существительное."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Ja, meine Tochter kommt mit meiner Enkelin zu Besuch.",
+              "ipa": "jaː · ˈmaɪ̯nə ˈtɔxtɐ kɔmt mɪt ˈmaɪ̯nɐ ˈɛŋkəlɪn t͡suː bəˈzuːx",
+              "ru": "Да, моя дочь приезжает с внучкой в гости."
+            }
+          ],
+          "tip": "<em>Enkelin</em> — женская форма от <em>Enkel</em>, с окончанием <em>-in</em>. После <em>mit</em> идёт Dativ: <em>meiner</em>. В <em>Besuch</em> <em>ch</em> после <em>u</em> твёрдое."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Nichts Besonderes.",
+              "ipa": "nɪçt͡s bəˈzɔndəʁəs",
+              "ru": "Ничего особенного."
+            }
+          ],
+          "tip": "Оба слова стоят в родительном падеже — застывший оборот. Самый частый ответ, когда рассказывать особо нечего, и звучит он совершенно нейтрально."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Rufen Sie mich an, wenn Sie Hilfe brauchen.",
+              "ipa": "ˈʁuːfn̩ ziː mɪç an · vɛn ziː ˈhɪlfə ˈbʁaʊ̯xn̩",
+              "ru": "Позвоните мне, если понадобится помощь."
+            }
+          ],
+          "tip": "У <em>anrufen</em> приставка <em>an</em> ушла в конец первой половины. После <em>wenn</em> глагол <em>brauchen</em> уходит в конец придаточного — это уже второе правило в одной фразе."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Machen Sie's gut und genießen Sie das Wochenende!",
+              "ipa": "ˈmaxn̩ ziːs ɡuːt ʊnt ɡəˈniːsn̩ ziː das ˈvɔxn̩ˌʔɛndə",
+              "ru": "Всего хорошего и приятных выходных!"
+            }
+          ],
+          "tip": "<em>Machen Sie’s</em> — стяжение <em>Machen Sie es</em>. Оба глагола в повелительном наклонении на «Вы»: глагол первым, <em>Sie</em> сразу за ним."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Danke, das werde ich.",
+              "ipa": "ˈdaŋkə · das ˈveːɐ̯də ɪç",
+              "ru": "Спасибо, так и сделаю."
+            }
+          ],
+          "tip": "<em>werde</em> — будущее время, но само действие не названо: его заменяет <em>das</em>. Так короче и естественнее, чем повторять всю фразу целиком."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Короткий обмен про хорошую погоду.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Schönes Wetter heute, nicht wahr?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, endlich Sonne! Nach dem ganzen Regen ist das eine echte Erleichterung."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Жалуетесь на дождь и спрашиваете о планах.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Furchtbares Wetter, nicht wahr? Es regnet seit drei Tagen."
+            },
+            {
+              "voice": "mueller",
+              "de": "Oh ja! Ich hoffe, am Wochenende wird es besser. Haben Sie etwas vor?"
+            },
+            {
+              "voice": "lena",
+              "de": "Nichts Besonderes."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Предлагаете соседу помощь.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ihr Rolladen ist kaputt? Brauchen Sie vielleicht Hilfe? Ich bin handwerklich begabt."
+            },
+            {
+              "voice": "mueller",
+              "de": "Das ist sehr freundlich von Ihnen!"
+            },
+            {
+              "voice": "max",
+              "de": "Rufen Sie mich einfach an. So, ich muss jetzt weiter. Machen Sie's gut!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

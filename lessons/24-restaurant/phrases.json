@@ -1,0 +1,236 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Herzlich willkommen in unserem Restaurant!",
+              "ipa": "ˈhɛʁt͡slɪç vɪlˈkɔmən ɪn ˈʊnzəʁəm ʁɛstoˈʁãː",
+              "ru": "Добро пожаловать в наш ресторан!"
+            }
+          ],
+          "tip": "<em>herzlich</em> — от <em>Herz</em> «сердце»: «ц» в середине и мягкое «хь» в конце. <em>Restaurant</em> сохранило французское звучание — конечное <em>-ant</em> идёт в нос, и «т» не слышно."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Möchten Sie etwas trinken?",
+              "ipa": "ˈmœçtn̩ ziː ˈɛtvas ˈtʁɪŋkn̩",
+              "ru": "Хотите что-нибудь выпить?"
+            }
+          ],
+          "tip": "<em>möchten</em> — вежливая форма от <em>mögen</em>, ею и предлагают, и заказывают. В <em>etwas</em> ударение на первый слог, а <em>w</em> даёт «в»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich hätte gern ein Glas Weißwein, trocken.",
+              "ipa": "ɪç ˈhɛtə ɡɛʁn aɪ̯n ɡlaːs ˈvaɪ̯sˌvaɪ̯n · ˈtʁɔkn̩",
+              "ru": "Я хотел(а) бы бокал белого вина, сухого."
+            }
+          ],
+          "tip": "<em>Ich hätte gern</em> — самая вежливая формула заказа, сослагательное от <em>haben</em>. <em>Weißwein</em> — два дифтонга «ай» подряд, а <em>ß</em> даёт глухое «с»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Hier ist die Speisekarte. Ich bin gleich wieder da mit Ihren Getränken.",
+              "ipa": "hiːɐ̯ ɪst diː ˈʃpaɪ̯zəˌkaʁtə · ɪç bɪn ɡlaɪ̯ç ˈviːdɐ daː mɪt ˈiːʁən ɡəˈtʁɛŋkn̩",
+              "ru": "Вот меню. Я сейчас вернусь с напитками."
+            }
+          ],
+          "tip": "Список блюд называется <em>Speisekarte</em>, а не <em>Menü</em>: последнее значит комплексный обед. <em>gleich</em> здесь «сейчас, вот-вот», а не «одинаково»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Haben Sie schon gewählt?",
+              "ipa": "ˈhaːbn̩ ziː ʃoːn ɡəˈvɛːlt",
+              "ru": "Вы уже выбрали?"
+            }
+          ],
+          "tip": "<em>gewählt</em> — причастие от <em>wählen</em>, <em>ä</em> долгое. Perfekt строится с <em>haben</em>: выбирали, а никуда не двигались."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was können Sie empfehlen?",
+              "ipa": "vas ˈkœnən ziː ɛmˈp͡feːlən",
+              "ru": "Что вы можете порекомендовать?"
+            }
+          ],
+          "tip": "В <em>empfehlen</em> сочетание <em>mpf</em> произносится слитно, а дальше идёт долгое «е:». После <em>können</em> смысловой глагол уходит в конец без <em>zu</em>."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Haben Sie auch vegetarische Gerichte?",
+              "ipa": "ˈhaːbn̩ ziː aʊ̯x veɡeˈtaːʁɪʃə ɡəˈʁɪçtə",
+              "ru": "У вас есть вегетарианские блюда?"
+            }
+          ],
+          "tip": "<em>vegetarische</em> — ударение на <em>-ta-</em>, окончание <em>-e</em> перед множественным числом. <em>Gerichte</em> «блюда»: приставка <em>ge-</em> безударная, <em>ch</em> мягкое."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich nehme das Schnitzel mit Pommes.",
+              "ipa": "ɪç ˈneːmə das ˈʃnɪt͡sl̩ mɪt ˈpɔməs",
+              "ru": "Я возьму шницель с картофелем фри."
+            }
+          ],
+          "tip": "<em>Pommes</em> пришло из французского и читается «по́мэс» — конечное <em>-es</em> не глотается. В <em>Schnitzel</em> «ц» в середине и слоговое «л» на конце."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Guten Appetit!",
+              "ipa": "ˈɡuːtn̩ apeˈtiːt",
+              "ru": "Приятного аппетита!"
+            }
+          ],
+          "tip": "Пожелание в Akkusativ, как <em>Guten Tag</em>. <em>Appetit</em> с ударением на последний слог: «апети́:т», а не «аппе́тит»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Hat es Ihnen geschmeckt?",
+              "ipa": "hat ɛs ˈiːnən ɡəˈʃmɛkt",
+              "ru": "Вам понравилось?"
+            }
+          ],
+          "tip": "У <em>schmecken</em> подлежащее — сама еда: дословно «оно вам вкусилось». Человек стоит в Dativ, отсюда <em>Ihnen</em>."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Zahlen Sie zusammen oder getrennt?",
+              "ipa": "ˈt͡saːlən ziː t͡suˈzamən ˈoːdɐ ɡəˈtʁɛnt",
+              "ru": "Вы платите вместе или раздельно?"
+            }
+          ],
+          "tip": "Тот же вопрос, что в уроке 5, но на «Вы» и с полным глаголом. <em>getrennt</em> — причастие от <em>trennen</em> «разделять», с безударным <em>ge-</em>."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Die Rechnung, bitte.",
+              "ipa": "diː ˈʁɛçnʊŋ ˈbɪtə",
+              "ru": "Счёт, пожалуйста."
+            }
+          ],
+          "tip": "<em>Rechnung</em> — от <em>rechnen</em> «считать», и <em>ch</em> здесь мягкое: «рэ́хьнунг». В ресторане просят именно счёт, а не <em>Ticket</em>."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Вас усаживают и предлагают напитки.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Herzlich willkommen! Hier ist Ihr Tisch. Möchten Sie zuerst etwas trinken?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, bitte. Ich hätte gern ein Bier vom Fass."
+            },
+            {
+              "voice": "lena",
+              "de": "Und für mich bitte ein Glas Weißwein, trocken."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Выбор блюда и совет официанта.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Haben Sie schon gewählt?"
+            },
+            {
+              "voice": "max",
+              "de": "Was können Sie empfehlen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Unser Tagesgericht ist Rinderbraten mit Knödeln."
+            },
+            {
+              "voice": "lena",
+              "de": "Haben Sie auch vegetarische Gerichte?"
+            },
+            {
+              "voice": "clara",
+              "de": "Natürlich, wir haben Käsespätzle und einen großen Salatteller."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Десерт и счёт.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Hat es Ihnen geschmeckt?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, danke, sehr gut! Das Schnitzel war perfekt."
+            },
+            {
+              "voice": "clara",
+              "de": "Möchten Sie noch einen Nachtisch oder einen Kaffee?"
+            },
+            {
+              "voice": "max",
+              "de": "Einen Espresso, bitte. Und die Rechnung bitte auch."
+            },
+            {
+              "voice": "clara",
+              "de": "Zahlen Sie zusammen oder getrennt?"
+            },
+            {
+              "voice": "max",
+              "de": "Zusammen, bitte."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

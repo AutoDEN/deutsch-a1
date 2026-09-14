@@ -1,0 +1,188 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Zahlen, bitte!",
+              "ipa": "ˈt͡saːlən ˈbɪtə",
+              "ru": "Оплатите, пожалуйста!"
+            }
+          ],
+          "tip": "Буква <em>z</em> всегда даёт «ц», здесь она в начале: «ца:лэн». Фраза — обрубок <em>Ich möchte zahlen</em>, в кафе говорят именно так, коротко."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Zusammen oder getrennt?",
+              "ipa": "t͡suˈzamən ˈoːdɐ ɡəˈtʁɛnt",
+              "ru": "Вместе или раздельно?"
+            }
+          ],
+          "tip": "Первый вопрос официанта, когда вас двое. В <em>zusammen</em> ударение на второй слог, <em>s</em> между гласными звонкое. В <em>oder</em> конечное <em>-er</em> звучит как «а»."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was kostet das?",
+              "ipa": "vas ˈkɔstət das",
+              "ru": "Сколько это стоит?"
+            }
+          ],
+          "tip": "Дословно «что стоит это». Окончание <em>-et</em> произносится полностью, с невнятным «э»: без гласной три согласных подряд не выговорить."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Das macht neun Euro.",
+              "ipa": "das maxt nɔɪ̯n ˈɔɪ̯ʁo",
+              "ru": "Это стоит девять евро."
+            }
+          ],
+          "tip": "<em>machen</em> в счёте значит «выходит»: <em>Das macht</em> — «с вас». В <em>neun</em> и <em>Euro</em> один и тот же дифтонг: <em>eu</em> всегда читается «ой», никогда «еу»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Hier sind zehn Euro.",
+              "ipa": "hiːɐ̯ zɪnt t͡seːn ˈɔɪ̯ʁo",
+              "ru": "Вот десять евро."
+            }
+          ],
+          "tip": "<em>hier</em> — «хи:а»: <em>r</em> после долгой гласной превращается в «а». В <em>sind</em> конечное <em>d</em> оглушается. В <em>zehn</em> буква <em>h</em> не читается, она только тянет гласную."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Danke schön! Hier ist ein Euro zurück.",
+              "ipa": "ˈdaŋkə ʃøːn · hiːɐ̯ ɪst aɪ̯n ˈɔɪ̯ʁo t͡suˈʁʏk",
+              "ru": "Спасибо! Вот один евро сдачи."
+            }
+          ],
+          "tip": "<em>zurück</em>: ударение на второй слог, <em>z</em> даёт «ц», <em>ü</em> — губы для «у», а звук «и», <em>r</em> в начале слога картавое."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Nächstes Mal zahle ich.",
+              "ipa": "ˈnɛːçstəs maːl ˈt͡saːlə ɪç",
+              "ru": "В следующий раз я заплачу."
+            }
+          ],
+          "tip": "В <em>nächstes</em> <em>ä</em> долгое и открытое, а <em>ch</em> тут мягкое «хь» — оно относится к корню <em>näch-</em>, и <em>chs</em> не сливается в «кс». Обстоятельство встало первым, поэтому глагол сразу за ним, а <em>ich</em> ушло назад."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Zwei Kaffee macht vier Euro.",
+              "ipa": "t͡svaɪ̯ ˈkafe maxt fiːɐ̯ ˈɔɪ̯ʁo",
+              "ru": "Два кофе стоят четыре евро."
+            }
+          ],
+          "tip": "В <em>zwei</em> <em>z</em> — «ц», <em>ei</em> — «ай»: «цвай». <em>Kaffee</em> с ударением на первый слог и кратким «а». <em>vier</em> — «фи:а». Глагол в единственном числе: считают сумму, а не чашки."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Просите счёт в кафе.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Entschuldigung! Zahlen, bitte!"
+            },
+            {
+              "voice": "clara",
+              "de": "Zusammen oder getrennt?"
+            },
+            {
+              "voice": "max",
+              "de": "Zusammen, bitte. Was kostet das?"
+            },
+            {
+              "voice": "clara",
+              "de": "Neun Euro."
+            },
+            {
+              "voice": "max",
+              "de": "Hier sind zehn Euro."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Официантка называет сумму по позициям.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Also, zwei Kaffee macht vier Euro, ein Stück Kuchen drei Euro und ein Wasser zwei Euro. Das macht insgesamt neun Euro."
+            },
+            {
+              "voice": "max",
+              "de": "Hier sind zehn Euro."
+            },
+            {
+              "voice": "clara",
+              "de": "Danke schön! Hier ist ein Euro zurück."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Покупка в булочной.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Guten Tag! Was möchten Sie?"
+            },
+            {
+              "voice": "max",
+              "de": "Ich hätte gern drei Brötchen und ein Brot."
+            },
+            {
+              "voice": "clara",
+              "de": "Das macht insgesamt fünf Euro."
+            },
+            {
+              "voice": "max",
+              "de": "Was kostet ein Brötchen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ein Brötchen kostet einen Euro."
+            },
+            {
+              "voice": "max",
+              "de": "Hier sind fünf Euro."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

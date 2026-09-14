@@ -1,0 +1,235 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich brauche Käse.",
+              "ipa": "ɪç ˈbʁaʊ̯xə ˈkɛːzə",
+              "ru": "Мне нужен сыр."
+            }
+          ],
+          "tip": "В <em>Käse</em> <em>ä</em> долгое и открытое, а <em>s</em> между гласными звонкое: «кэ́:зэ». Продукт назван без артикля — речь о сыре вообще, а не о конкретном куске."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich brauche Milch und Äpfel.",
+              "ipa": "ɪç ˈbʁaʊ̯xə mɪlç ʊnt ˈɛp͡fl̩",
+              "ru": "Мне нужно молоко и яблоки."
+            }
+          ],
+          "tip": "<em>Äpfel</em> — множественное от <em>Apfel</em>, с умлаутом. Сочетание <em>pf</em> произносится слитно, одним звуком: губы смыкаются и сразу выпускают «ф». В <em>Milch</em> <em>ch</em> после <em>l</em> мягкое."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was kosten die Äpfel?",
+              "ipa": "vas ˈkɔstn̩ diː ˈɛp͡fl̩",
+              "ru": "Сколько стоят яблоки?"
+            }
+          ],
+          "tip": "Множественное число требует <em>kosten</em>, и окончание <em>-en</em> тут проглочено. Сравните со следующей фразой — на этой паре и спотыкаются чаще всего."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Was kostet der Käse?",
+              "ipa": "vas ˈkɔstət deːɐ̯ ˈkɛːzə",
+              "ru": "Сколько стоит сыр?"
+            }
+          ],
+          "tip": "Единственное число — <em>kostet</em>, и окончание <em>-et</em> произносится полностью, с невнятным «э». Артикль здесь обязателен: спрашивают про конкретный сыр на прилавке."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Haben Sie Äpfel?",
+              "ipa": "ˈhaːbn̩ ziː ˈɛp͡fl̩",
+              "ru": "У вас есть яблоки?"
+            }
+          ],
+          "tip": "Вопрос без вопросительного слова — глагол первым. Продукт снова без артикля: «яблоки вообще», а не какие-то определённые."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Haben Sie einen milden Gouda?",
+              "ipa": "ˈhaːbn̩ ziː ˈaɪ̯nən ˈmɪldn̩ ˈɡuːda",
+              "ru": "У вас есть мягкая гауда?"
+            }
+          ],
+          "tip": "После <em>einen</em> прилагательное получает окончание <em>-en</em>: Akkusativ мужского рода. <em>Gouda</em> — голландское название и читается мягко: «гу́:да»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wo finde ich Milch?",
+              "ipa": "voː ˈfɪndə ɪç mɪlç",
+              "ru": "Где мне найти молоко?"
+            }
+          ],
+          "tip": "<em>finden</em> — «находить», и вопрос дословно звучит «где я нахожу». По-русски мы говорим «где найти», по-немецки — в настоящем времени."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Wo finde ich den Käse?",
+              "ipa": "voː ˈfɪndə ɪç deːn ˈkɛːzə",
+              "ru": "Где находится сыр?"
+            }
+          ],
+          "tip": "<em>den</em> — Akkusativ от <em>der</em>: сыр здесь конкретный, тот самый. Сравните с предыдущей фразой, где молоко идёт без артикля."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ein Kilo rote Äpfel, bitte.",
+              "ipa": "aɪ̯n ˈkiːlo ˈʁoːtə ˈɛp͡fl̩ ˈbɪtə",
+              "ru": "Килограмм красных яблок, пожалуйста."
+            }
+          ],
+          "tip": "После счётного слова продукт идёт без предлога — просто рядом. Прилагательное при этом ведёт себя как без артикля: <em>rote</em>, а не <em>roten</em>."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Eine Packung Milch, bitte.",
+              "ipa": "ˈaɪ̯nə ˈpakʊŋ mɪlç ˈbɪtə",
+              "ru": "Упаковку молока, пожалуйста."
+            }
+          ],
+          "tip": "<em>Packung</em> — от <em>packen</em> «упаковывать», ударение на первый слог, а <em>-ung</em> на конце даёт носовое «н». Так покупают всё жидкое и сыпучее."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Ein Stück Käse, bitte.",
+              "ipa": "aɪ̯n ʃtʏk ˈkɛːzə ˈbɪtə",
+              "ru": "Кусок сыра, пожалуйста."
+            }
+          ],
+          "tip": "<em>Stück</em> — «кусок, штука», <em>St-</em> в начале даёт «шт», <em>ü</em> краткое. То же слово в уроке 5 считало пирожные: мера универсальная."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich nehme ein Stück Käse und eine Packung Milch.",
+              "ipa": "ɪç ˈneːmə aɪ̯n ʃtʏk ˈkɛːzə ʊnt ˈaɪ̯nə ˈpakʊŋ mɪlç",
+              "ru": "Я возьму кусок сыра и упаковку молока."
+            }
+          ],
+          "tip": "<em>nehmen</em> «брать» — этим глаголом в магазине говорят «я возьму». Гласная долгая, <em>h</em> не звучит: «не:мэ». Оба предмета стоят в Akkusativ."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Ищете молоко и сыр.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Guten Tag. Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Natürlich. Die Milch ist in Gang 3, neben den Joghurts.",
+              "speak": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts."
+            },
+            {
+              "voice": "lena",
+              "de": "Vielen Dank. Ich brauche auch Käse. Wo finde ich den?"
+            },
+            {
+              "voice": "clara",
+              "de": "Käse ist auch in Gang 3, gegenüber von der Milch.",
+              "speak": "Käse ist auch in Gang drei, gegenüber von der Milch."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Яблоки: где лежат и сколько стоят.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Haben Sie auch Äpfel?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, in der Obstabteilung, gleich am Eingang links."
+            },
+            {
+              "voice": "max",
+              "de": "Was kosten die Äpfel?"
+            },
+            {
+              "voice": "clara",
+              "de": "Die roten kosten 2,99 Euro pro Kilo.",
+              "speak": "Die roten kosten zwei Euro neunundneunzig pro Kilo."
+            },
+            {
+              "voice": "max",
+              "de": "Ich nehme ein Kilo rote Äpfel."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Вы недавно переехали и не знаете магазин.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich bin erst vor kurzem umgezogen und kenne mich hier noch nicht aus."
+            },
+            {
+              "voice": "clara",
+              "de": "Kein Problem. Sind Sie neu in der Stadt?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, ich bin vor zwei Wochen aus Hamburg hierher gezogen. Wo sind die Kassen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Vorne rechts."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

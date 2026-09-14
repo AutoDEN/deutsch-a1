@@ -1,0 +1,244 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ja, bitte.",
+              "ipa": "jaː ˈbɪtə",
+              "ru": "Да, пожалуйста."
+            }
+          ],
+          "tip": "<em>bitte</em> отвечает и на «хотите?», и на «вот, пожалуйста». Гласная краткая — после неё две <em>t</em>, а конечное <em>-e</em> — невнятное «э»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Nein, danke.",
+              "ipa": "naɪ̯n ˈdaŋkə",
+              "ru": "Нет, спасибо."
+            }
+          ],
+          "tip": "В <em>nein</em> <em>ei</em> читается «ай»: «найн», а не «нейн». Отказ в Германии почти всегда идёт с <em>danke</em> — без него звучит резко."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Vielen Dank.",
+              "ipa": "ˈfiːlən daŋk",
+              "ru": "Большое спасибо."
+            }
+          ],
+          "tip": "<em>vielen</em> — от <em>viel</em> «много», и буква <em>v</em> даёт «ф»: «фи:лэн». В <em>Dank</em> «н» перед <em>k</em> носовое, как в <em>danke</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Bitte schön.",
+              "ipa": "ˈbɪtə ʃøːn",
+              "ru": "Пожалуйста. / Вот, пожалуйста."
+            }
+          ],
+          "tip": "Ответ на «спасибо» и одновременно то, что говорят, передавая вещь. В <em>schön</em> губы складываются для «о», а звук идёт как «э»."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Danke schön.",
+              "ipa": "ˈdaŋkə ʃøːn",
+              "ru": "Большое спасибо."
+            }
+          ],
+          "tip": "Усиленное <em>danke</em>. <em>Danke schön</em> говорит тот, кто получил, <em>Bitte schön</em> — тот, кто дал; перепутать легко, но разница слышна сразу."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Gerne.",
+              "ipa": "ˈɡɛʁnə",
+              "ru": "С удовольствием. / Не за что."
+            }
+          ],
+          "tip": "И ответ на спасибо, и согласие «с удовольствием». <em>r</em> здесь в начале слога и потому картавое, а конечное <em>-e</em> — невнятное «э»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Kann ich Ihnen helfen?",
+              "ipa": "kan ɪç ˈiːnən ˈhɛlfn̩",
+              "ru": "Могу я вам помочь?"
+            }
+          ],
+          "tip": "Стандартное предложение помощи. <em>Ihnen</em> — Dativ: помогают «кому», а не «кого». В <em>kann</em> гласная краткая, в <em>helfen</em> окончание <em>-en</em> проглочено."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Einen Kaffee, bitte.",
+              "ipa": "ˈaɪ̯nən ˈkafe ˈbɪtə",
+              "ru": "Кофе, пожалуйста."
+            }
+          ],
+          "tip": "<em>einen</em> — Akkusativ мужского рода: заказывают «что-то», поэтому <em>der Kaffee</em> превращается в <em>einen Kaffee</em>. Ударение в <em>Kaffee</em> на первый слог."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Brauchen Sie eine Tüte?",
+              "ipa": "ˈbʁaʊ̯xn̩ ziː ˈaɪ̯nə ˈtyːtə",
+              "ru": "Вам нужен пакет?"
+            }
+          ],
+          "tip": "Вопрос на кассе. В <em>brauchen</em> <em>au</em> — один слог «ау», а <em>ch</em> после него твёрдое «х». В <em>Tüte</em> <em>ü</em> долгое: губы для «у», звук «и»."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Nein, danke. Ich habe eine Tasche dabei.",
+              "ipa": "naɪ̯n ˈdaŋkə · ɪç ˈhaːbə ˈaɪ̯nə ˈtaʃə daˈbaɪ̯",
+              "ru": "Нет, спасибо. У меня есть сумка."
+            }
+          ],
+          "tip": "<em>dabei</em> — ударение на второй слог, <em>ei</em> «ай»: «даба́й». Значит «с собой»: без него фраза была бы просто «у меня есть сумка», без «при себе»."
+        },
+        {
+          "id": "11",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Einen schönen Tag noch!",
+              "ipa": "ˈaɪ̯nən ˈʃøːnən ˈtaːk nɔx",
+              "ru": "Хорошего дня!"
+            }
+          ],
+          "tip": "Пожелание стоит в Akkusativ — отсюда <em>einen schönen</em>, а не <em>ein schön</em>. Оба окончания <em>-en</em> в беглой речи сливаются с согласной."
+        },
+        {
+          "id": "12",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Danke, gleichfalls!",
+              "ipa": "ˈdaŋkə ˈɡlaɪ̯çfals",
+              "ru": "Спасибо, взаимно!"
+            }
+          ],
+          "tip": "Ответ на любое пожелание — «и Вам того же». В <em>gleichfalls</em> <em>ch</em> после «ай» мягкое, «хь», а <em>-ls</em> на конце звучит глухо."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. В булочной: хлеб и вопрос про пакет.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Guten Morgen! Ein Vollkornbrot, bitte."
+            },
+            {
+              "voice": "clara",
+              "de": "Möchten Sie das Brot geschnitten haben?"
+            },
+            {
+              "voice": "max",
+              "de": "Ja, bitte."
+            },
+            {
+              "voice": "clara",
+              "de": "Brauchen Sie eine Tüte?"
+            },
+            {
+              "voice": "max",
+              "de": "Nein, danke. Ich habe eine Tasche dabei."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Помогаете соседу донести сумки.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Sie tragen viele Taschen. Kann ich Ihnen helfen?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Ja, bitte. Das ist sehr nett."
+            },
+            {
+              "voice": "max",
+              "de": "Bitte schön. Geben Sie mir die schwere Tasche."
+            },
+            {
+              "voice": "mueller",
+              "de": "Vielen Dank für Ihre Hilfe!"
+            },
+            {
+              "voice": "max",
+              "de": "Brauchen Sie noch Hilfe bis zur Wohnung?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Nein, danke. Es geht schon."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Заказ кофе.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Guten Nachmittag. Einen Kaffee, bitte."
+            },
+            {
+              "voice": "clara",
+              "de": "Gerne. Mit Milch?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, bitte. Und haben Sie Hafermilch?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, natürlich. Möchten Sie auch etwas Süßes dazu?"
+            },
+            {
+              "voice": "lena",
+              "de": "Nein, danke. Nur den Kaffee."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

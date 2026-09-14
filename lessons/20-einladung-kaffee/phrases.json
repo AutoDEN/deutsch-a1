@@ -1,0 +1,204 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Hast du am Samstag Zeit?",
+              "ipa": "hast duː am ˈzamsˌtaːk t͡saɪ̯t",
+              "ru": "У тебя есть время в субботу?"
+            }
+          ],
+          "tip": "Дни недели идут с <em>am</em>: <em>am Samstag</em>. В самом слове <em>ms</em> произносится слитно, а конечное <em>-tag</em> оглушается до «та:к»."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich möchte dich zum Kaffee einladen.",
+              "ipa": "ɪç ˈmœçtə dɪç t͡sʊm ˈkafe ˈaɪ̯nˌlaːdn̩",
+              "ru": "Я хочу пригласить тебя на кофе."
+            }
+          ],
+          "tip": "У <em>einladen</em> отделяемая приставка <em>ein-</em>, но после <em>möchte</em> глагол стоит в инфинитиве и остаётся целым. Приглашают «кого» — Akkusativ: <em>dich</em>."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Oh, das klingt toll! Um wie viel Uhr?",
+              "ipa": "oː · das klɪŋt tɔl · ʊm viː fiːl uːɐ̯",
+              "ru": "О, это звучит здорово! Во сколько?"
+            }
+          ],
+          "tip": "<em>Um wie viel Uhr</em> — четыре слова там, где по-русски одно «во сколько». В <em>klingt</em> носовое «н», а <em>t</em> после него слышно отдельно."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Um 15 Uhr? In meinem Lieblingscafé am Marktplatz.",
+              "speak": "Um fünfzehn Uhr? In meinem Lieblingscafé am Marktplatz.",
+              "ipa": "ʊm ˈfʏnft͡seːn uːɐ̯ · ɪn ˈmaɪ̯nəm ˈliːplɪŋskaˌfeː am ˈmaʁktˌplat͡s",
+              "ru": "В 15 часов? В моём любимом кафе на площади."
+            }
+          ],
+          "tip": "<em>Lieblingscafé</em> — <em>Lieblings-</em> «любимый» плюс <em>Café</em> с французским ударением на последний слог; между частями соединительная <em>s</em>."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Tut mir leid, am Samstag kann ich nicht.",
+              "ipa": "tuːt miːɐ̯ laɪ̯t · am ˈzamsˌtaːk kan ɪç nɪçt",
+              "ru": "Извини, в субботу я не могу."
+            }
+          ],
+          "tip": "Здесь <em>Tut mir leid</em> без <em>Das</em> в начале — так короче и живее. В <em>leid</em> <em>ei</em> читается «ай», а <em>d</em> оглушается."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Vielleicht nächste Woche?",
+              "ipa": "fiˈlaɪ̯çt ˈnɛːçstə ˈvɔxə",
+              "ru": "Может быть, на следующей неделе?"
+            }
+          ],
+          "tip": "В <em>nächste</em> <em>ä</em> долгое, а <em>ch</em> мягкое: «нэ́:хьстэ». Предлога нет: «на следующей неделе» стоит в Akkusativ и держится само."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Passt dir vielleicht Dienstagabend?",
+              "ipa": "past diːɐ̯ fiˈlaɪ̯çt ˈdiːnstaːkˌʔaːbn̩t",
+              "ru": "Тебе подходит вечер вторника?"
+            }
+          ],
+          "tip": "<em>Dienstagabend</em> — один кусок из двух слов, и между ними слышен твёрдый приступ. <em>passen</em> требует Dativ, отсюда <em>dir</em>."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ja, am Dienstag kann ich!",
+              "ipa": "jaː · am ˈdiːnsˌtaːk kan ɪç",
+              "ru": "Да, во вторник я могу!"
+            }
+          ],
+          "tip": "Обстоятельство встало первым — глагол сразу за ним, а <em>ich</em> ушло назад. В <em>kann</em> гласная краткая: после неё две <em>n</em>."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Dann bis Dienstag um 17 Uhr!",
+              "speak": "Dann bis Dienstag um siebzehn Uhr!",
+              "ipa": "dan bɪs ˈdiːnsˌtaːk ʊm ˈziːpt͡seːn uːɐ̯",
+              "ru": "Тогда до вторника в 17 часов!"
+            }
+          ],
+          "tip": "<em>bis</em> здесь прощание с назначенным сроком — «до вторника». <em>17 Uhr</em> читается <em>siebzehn Uhr</em>: время всегда по двадцатичетырёхчасовым часам."
+        },
+        {
+          "id": "10",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich freue mich auf unser Treffen!",
+              "ipa": "ɪç ˈfʁɔɪ̯ə mɪç aʊ̯f ˈʊnzɐ ˈtʁɛfn̩",
+              "ru": "Я радуюсь нашей встрече!"
+            }
+          ],
+          "tip": "<em>sich freuen auf</em> — радоваться тому, что ещё будет, и после <em>auf</em> идёт Akkusativ. Есть и <em>sich freuen über</em> — но это уже о случившемся."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Зовёте подругу на кофе в субботу.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen."
+            },
+            {
+              "voice": "lena",
+              "de": "Oh, das klingt toll! Um wie viel Uhr?"
+            },
+            {
+              "voice": "max",
+              "de": "Um 15 Uhr, in meinem Lieblingscafé am Marktplatz. Sie machen dort fantastischen Kuchen.",
+              "speak": "Um fünfzehn Uhr, in meinem Lieblingscafé am Marktplatz. Sie machen dort fantastischen Kuchen."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Вам вежливо отказывают.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Hast du am Samstag Zeit für einen Kaffee?"
+            },
+            {
+              "voice": "lena",
+              "de": "Das klingt sehr schön! Aber tut mir leid, am Samstag kann ich nicht. Ich treffe meine Freunde und danach besuchen wir eine Ausstellung."
+            },
+            {
+              "voice": "max",
+              "de": "Kein Problem! Vielleicht nächste Woche?"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Договариваетесь на вторник.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Passt dir vielleicht Dienstagabend?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, am Dienstag kann ich! Nach meinem Seminar bin ich frei. Um wie viel Uhr?"
+            },
+            {
+              "voice": "max",
+              "de": "Um 17 Uhr im Café Sonnenschein.",
+              "speak": "Um siebzehn Uhr im Café Sonnenschein."
+            },
+            {
+              "voice": "lena",
+              "de": "Das passt mir gut! Ich freue mich auf unser Treffen!"
+            },
+            {
+              "voice": "max",
+              "de": "Ich mich auch! Bis dann!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

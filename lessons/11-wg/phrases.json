@@ -1,0 +1,192 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich wohne in einer WG.",
+              "ipa": "ɪç ˈvoːnə ɪn ˈaɪ̯nɐ veːˈɡeː",
+              "ru": "Я живу в общей квартире."
+            }
+          ],
+          "tip": "<em>WG</em> — сокращение от <em>Wohngemeinschaft</em>, и читается оно по буквам: «ве:-ге:», с ударением на второй. После <em>in</em> здесь Dativ: речь о том, где живут."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich habe zwei Mitbewohner.",
+              "ipa": "ɪç ˈhaːbə t͡svaɪ̯ ˈmɪtbəˌvoːnɐ",
+              "ru": "У меня два соседа по квартире."
+            }
+          ],
+          "tip": "<em>Mitbewohner</em> — <em>mit</em> плюс <em>bewohnen</em>: тот, кто живёт вместе. Ударение на <em>mit</em>, конечное <em>-er</em> звучит как «а», а форма одна и для одного, и для двоих."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Mein Zimmer ist nicht sehr groß, aber gemütlich.",
+              "ipa": "maɪ̯n ˈt͡sɪmɐ ɪst nɪçt zeːɐ̯ ɡʁoːs · ˈaːbɐ ɡəˈmyːtlɪç",
+              "ru": "Моя комната небольшая, но уютная."
+            }
+          ],
+          "tip": "<em>gemütlich</em> одним русским словом не переводится: это «уютно, по-домашнему, спокойно» сразу. <em>ü</em> долгое — губы для «у», звук «и», а конец с мягким «хь»."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wir haben eine große Küche.",
+              "ipa": "viːɐ̯ ˈhaːbn̩ ˈaɪ̯nə ˈɡʁoːsə ˈkʏçə",
+              "ru": "У нас большая кухня."
+            }
+          ],
+          "tip": "<em>Küche</em> «кухня» и <em>Kuchen</em> «пирог» различаются только гласной: краткое <em>ü</em> против долгого <em>u</em>. Прилагательное перед существительным получает окончание: <em>große</em>."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "In der Küche haben wir einen Tisch und vier Stühle.",
+              "ipa": "ɪn deːɐ̯ ˈkʏçə ˈhaːbn̩ viːɐ̯ ˈaɪ̯nən tɪʃ ʊnt fiːɐ̯ ˈʃtyːlə",
+              "ru": "На кухне у нас стол и четыре стула."
+            }
+          ],
+          "tip": "<em>Stühle</em> — множественное от <em>Stuhl</em>, с умлаутом и «-э» на конце. В <em>vier</em> конечное <em>r</em> не звучит: «фи:а». Обстоятельство впереди — глагол сразу за ним."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Unser Bad ist klein.",
+              "ipa": "ˈʊnzɐ baːt ɪst klaɪ̯n",
+              "ru": "Наша ванная маленькая."
+            }
+          ],
+          "tip": "<em>unser</em> «наш» перед средним родом окончания не получает. В <em>Bad</em> гласная долгая, а <em>d</em> на конце оглушается: «ба:т»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich habe ein Bett und einen Schreibtisch.",
+              "ipa": "ɪç ˈhaːbə aɪ̯n bɛt ʊnt ˈaɪ̯nən ˈʃʁaɪ̯pˌtɪʃ",
+              "ru": "У меня есть кровать и письменный стол."
+            }
+          ],
+          "tip": "<em>ein Bett</em>, но <em>einen Schreibtisch</em>: средний род в Akkusativ не меняется, мужской меняется. В <em>Schreibtisch</em> <em>b</em> оглушается перед <em>t</em>: «шрайп-тиш»."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Viele Studenten wohnen in WGs.",
+              "ipa": "ˈfiːlə ʃtuˈdɛntn̩ ˈvoːnən ɪn veːˈɡeːs",
+              "ru": "Многие студенты живут в общих квартирах."
+            }
+          ],
+          "tip": "<em>Studenten</em> — множественное по слабому склонению, с <em>-en</em>. Сокращение тоже склоняется: <em>WGs</em> читается «ве:-ге:с»."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Manchmal kochen wir gemeinsam in der Küche.",
+              "ipa": "ˈmançmaːl ˈkɔxn̩ viːɐ̯ ɡəˈmaɪ̯nzaːm ɪn deːɐ̯ ˈkʏçə",
+              "ru": "Иногда мы вместе готовим на кухне."
+            }
+          ],
+          "tip": "В <em>manchmal</em> <em>ch</em> после <em>n</em> мягкое, «хь». <em>gemeinsam</em> «сообща»: ударение на <em>-mein-</em>, а <em>s</em> между гласными звонкое."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Рассказываете о новой квартире.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Wie ist deine neue WG?"
+            },
+            {
+              "voice": "lena",
+              "de": "Die WG ist super! Ich habe zwei Mitbewohner: Sophia und Felix."
+            },
+            {
+              "voice": "clara",
+              "de": "Wie ist dein Zimmer?"
+            },
+            {
+              "voice": "lena",
+              "de": "Es ist nicht sehr groß, aber sehr gemütlich. Ich habe ein Bett und einen Schreibtisch."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Кухня и ванная в общей квартире.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Habt ihr eine große Küche?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ja, unsere Küche ist groß. Wir haben einen Tisch und vier Stühle dort."
+            },
+            {
+              "voice": "max",
+              "de": "Und wie ist das Bad?"
+            },
+            {
+              "voice": "lena",
+              "de": "Es ist klein. Manchmal ist es schwierig, wenn alle gleichzeitig ins Bad müssen."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Готовите вместе на выходных.",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Was machst du am Wochenende?"
+            },
+            {
+              "voice": "lena",
+              "de": "Ich koche für euch alle! Möchtest du mir helfen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, gerne! Haben wir genug Zutaten?"
+            },
+            {
+              "voice": "lena",
+              "de": "Nein, wir müssen noch einkaufen. Ich habe eine Liste gemacht."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

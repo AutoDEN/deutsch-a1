@@ -1,0 +1,185 @@
+{
+  "groups": [
+    {
+      "id": "merken",
+      "layout": "table",
+      "items": [
+        {
+          "id": "01",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich fahre mit der U-Bahn / dem Bus / der Straßenbahn.",
+              "speak": "Ich fahre mit der U-Bahn, dem Bus, der Straßenbahn.",
+              "ipa": "ɪç ˈfaːʁə mɪt deːɐ̯ ˈuːˌbaːn · deːm bʊs · deːɐ̯ ˈʃtʁaːsn̩ˌbaːn",
+              "ru": "Я еду на метро / автобусе / трамвае."
+            }
+          ],
+          "tip": "Транспорт всегда идёт с <em>mit</em> и Dativ, а артикль меняется по роду: <em>der</em> U-Bahn, <em>dem</em> Bus. <em>U-Bahn</em> читается «у:-ба:н», буква плюс слово."
+        },
+        {
+          "id": "02",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wo kann ich ein Ticket kaufen?",
+              "ipa": "voː kan ɪç aɪ̯n ˈtɪkɛt ˈkaʊ̯fn̩",
+              "ru": "Где я могу купить билет?"
+            }
+          ],
+          "tip": "<em>Ticket</em> — заимствование: ударение на первый слог, конечное <em>-et</em> произносится полностью. Немецкое слово для того же — <em>Fahrkarte</em>."
+        },
+        {
+          "id": "03",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Ich kaufe ein Ticket am Automaten.",
+              "ipa": "ɪç ˈkaʊ̯fə aɪ̯n ˈtɪkɛt am aʊ̯toˈmaːtn̩",
+              "ru": "Я покупаю билет в автомате."
+            }
+          ],
+          "tip": "<em>am Automaten</em> — Dativ со слабым склонением: у <em>der Automat</em> во всех падежах, кроме именительного, появляется <em>-en</em>."
+        },
+        {
+          "id": "04",
+          "lines": [
+            {
+              "voice": "clara",
+              "de": "Vergiss nicht, das Ticket zu entwerten!",
+              "ipa": "fɛɐ̯ˈɡɪs nɪçt · das ˈtɪkɛt t͡suː ɛntˈveːɐ̯tn̩",
+              "ru": "Не забудь прокомпостировать билет!"
+            }
+          ],
+          "tip": "Повелительное на «ты»: <em>vergiss</em> без окончания и со сменой гласной. Дальше оборот с <em>zu</em>: частица встаёт перед инфинитивом в конце."
+        },
+        {
+          "id": "05",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "An welcher Haltestelle muss ich aussteigen?",
+              "ipa": "an ˈvɛlçɐ ˈhaltəˌʃtɛlə mʊs ɪç ˈaʊ̯sˌʃtaɪ̯ɡn̩",
+              "ru": "На какой остановке мне выходить?"
+            }
+          ],
+          "tip": "<em>an welcher</em> — Dativ женского рода, потому что вопрос «где?». <em>aussteigen</em> «выходить» с отделяемой приставкой <em>aus</em>, здесь она при инфинитиве."
+        },
+        {
+          "id": "06",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wo ist die nächste Haltestelle?",
+              "ipa": "voː ɪst diː ˈnɛːçstə ˈhaltəˌʃtɛlə",
+              "ru": "Где ближайшая остановка?"
+            }
+          ],
+          "tip": "<em>nächste</em> здесь «ближайшая», а не «следующая по счёту» — смысл подсказывает вопрос. <em>ä</em> долгое, <em>ch</em> мягкое: «нэ́:хьстэ»."
+        },
+        {
+          "id": "07",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich fahre zum Bahnhof.",
+              "ipa": "ɪç ˈfaːʁə t͡sʊm ˈbaːnˌhoːf",
+              "ru": "Я еду на вокзал."
+            }
+          ],
+          "tip": "<em>zum</em> — стянутое <em>zu dem</em>. <em>fahren</em> — ехать на чём-то, в отличие от <em>gehen</em> «идти пешком»: немцы эти два глагола не путают."
+        },
+        {
+          "id": "08",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Ich muss in den Bus umsteigen.",
+              "ipa": "ɪç mʊs ɪn deːn bʊs ˈʊmˌʃtaɪ̯ɡn̩",
+              "ru": "Мне нужно пересесть на автобус."
+            }
+          ],
+          "tip": "<em>umsteigen</em> — «пересаживаться». Приставка ушла бы в конец, но после <em>muss</em> глагол стоит в инфинитиве. <em>in den Bus</em> — Akkusativ, есть движение."
+        },
+        {
+          "id": "09",
+          "lines": [
+            {
+              "voice": "mueller",
+              "de": "Mit dem öffentlichen Nahverkehr kann man überall hinkommen!",
+              "ipa": "mɪt deːm ˈœfn̩tlɪçn̩ ˈnaːfɛɐ̯ˌkeːɐ̯ kan man yːbɐˈʔal ˈhɪnˌkɔmən",
+              "ru": "На общественном транспорте можно добраться везде."
+            }
+          ],
+          "tip": "<em>Nahverkehr</em> — «ближнее сообщение», то есть городской транспорт. В <em>öffentlichen</em> <em>ö</em> краткое, а окончание пришло от <em>dem</em>."
+        }
+      ]
+    },
+    {
+      "id": "sprechen",
+      "layout": "sample",
+      "join": true,
+      "title": "Образец для самопроверки — с озвучкой",
+      "items": [
+        {
+          "id": "s1",
+          "label": "Ситуация 1. Покупка билета.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Entschuldigung, wo kann ich ein Ticket kaufen?"
+            },
+            {
+              "voice": "clara",
+              "de": "Am Automaten oder mit der App."
+            },
+            {
+              "voice": "max",
+              "de": "Was kostet ein Ticket für eine Fahrt?"
+            },
+            {
+              "voice": "clara",
+              "de": "Drei Euro. Wenn Sie oft fahren, ist eine Monatskarte billiger."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "label": "Ситуация 2. Компостер и ближайшая остановка.",
+          "lines": [
+            {
+              "voice": "max",
+              "de": "Muss ich das Ticket irgendwo entwerten?"
+            },
+            {
+              "voice": "clara",
+              "de": "Ja, Sie müssen es im Entwerter stempeln, bevor Sie einsteigen."
+            },
+            {
+              "voice": "max",
+              "de": "Wo ist die nächste Haltestelle?"
+            },
+            {
+              "voice": "clara",
+              "de": "Die U-Bahn-Haltestelle ist nur fünf Minuten von hier entfernt."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "label": "Ситуация 3. Дорога до главного вокзала с пересадкой.",
+          "lines": [
+            {
+              "voice": "lena",
+              "de": "Wie komme ich zum Hauptbahnhof?"
+            },
+            {
+              "voice": "mueller",
+              "de": "Mit der U-Bahn fahren Sie bis Alexanderplatz und dann steigen Sie in die S-Bahn um. Mit dem öffentlichen Nahverkehr kann man in Berlin überall hinkommen!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
