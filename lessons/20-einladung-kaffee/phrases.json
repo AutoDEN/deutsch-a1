@@ -2,7 +2,7 @@
   "groups": [
     {
       "id": "merken",
-      "layout": "table",
+      "layout": "columns",
       "items": [
         {
           "id": "01",

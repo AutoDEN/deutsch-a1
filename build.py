@@ -43,6 +43,18 @@ EXTRA = [
      'slug': 'prep-3-transkription', 'sources': []},
 ]
 
+# Контрольные работы: тоже написаны нами, но встают НЕ перед уроками, а внутрь
+# списка — каждая сразу за уроком, который она закрывает (поле after). Материал
+# только из этих пяти уроков, новых слов и тем в контрольной нет.
+TESTS = [
+    {'n': 1, 'after': 5,  'title': 'Уроки 1–5',   'slug': 'test-1-lektionen-1-5'},
+    {'n': 2, 'after': 10, 'title': 'Уроки 6–10',  'slug': 'test-2-lektionen-6-10'},
+    {'n': 3, 'after': 15, 'title': 'Уроки 11–15', 'slug': 'test-3-lektionen-11-15'},
+    {'n': 4, 'after': 20, 'title': 'Уроки 16–20', 'slug': 'test-4-lektionen-16-20'},
+    {'n': 5, 'after': 25, 'title': 'Уроки 21–25', 'slug': 'test-5-lektionen-21-25'},
+    {'n': 6, 'after': 30, 'title': 'Уроки 26–30', 'slug': 'test-6-lektionen-26-30'},
+]
+
 
 def scan_sources():
     """Все исходные папки курса, включая вложенную «05 (грамматика)»."""
@@ -109,15 +121,27 @@ def build_manifest():
         # но владелец решил её не собирать, поэтому в список курса она не идёт.
         bonus = {'n': 0, 'kind': 'bonus', 'title': clean, 'slug': BONUS_SLUG, 'sources': [src]}
 
+    numbered = []
+    for k in sorted(lessons):
+        numbered.append(lessons[k])
+        for t in TESTS:                                      # контрольная сразу за своим уроком
+            if t['after'] == k:
+                numbered.append({'n': t['n'], 'kind': 'test', 'title': t['title'],
+                                 'slug': t['slug'], 'sources': []})
+
     items = ([preps[k] for k in sorted(preps)]
              + [dict(e, sources=[]) for e in EXTRA]
-             + [lessons[k] for k in sorted(lessons)])
+             + numbered)
 
     for it in items:
         it['sources'].sort(key=lambda s: s['part'])          # grammar раньше materials
         it['ready'] = os.path.isfile(os.path.join(SITE, 'lessons', it['slug'], 'index.html'))
         it['has_video'] = any(s['media']['video'] for s in it['sources'])
         it['has_audio'] = any(s['media']['audio'] for s in it['sources'])
+        if it['kind'] == 'test':                             # у контрольной нет исходной папки:
+            media = os.path.join(SITE, 'lessons', it['slug'], 'media')   # звук её собственный
+            it['has_audio'] = os.path.isdir(media) and any(
+                f.endswith('.mp3') for f in os.listdir(media))
     return items
 
 
@@ -128,6 +152,8 @@ def label_of(it):
         return 'Подготовительный урок %d. %s' % (it['n'], it['title'])
     if it['kind'] == 'guide':
         return 'Справочник. %s' % it['title']
+    if it['kind'] == 'test':
+        return 'Контрольная %d. %s' % (it['n'], it['title'])
     return it['title']
 
 
@@ -139,6 +165,8 @@ def nav_label(it):
         return it['title']
     if it['kind'] == 'lesson':
         return 'Урок %d. %s' % (it['n'], it['title'])
+    if it['kind'] == 'test':
+        return 'Контрольная %d' % it['n']
     return it['title']
 
 
@@ -229,15 +257,17 @@ def render_index(items):
             marks.append('грамматика + материалы')
         meta = '<span class="meta">%s</span>' % ' · '.join(marks) if marks else ''
 
+        test = it['kind'] == 'test'
+        tag = 'контрольная' if test else 'готов'
+        cls = 'done test' if test else 'done'
         if it['ready']:
-            return ('<li class="done"><a href="lessons/%s/index.html">%s</a>'
-                    '<span class="tag">готов</span>%s</li>' % (it['slug'], label, meta))
-        return '<li>%s%s</li>' % (label, meta)
+            return ('<li class="%s"><a href="lessons/%s/index.html">%s</a>'
+                    '<span class="tag">%s</span>%s</li>' % (cls, it['slug'], label, tag, meta))
+        return '<li%s>%s%s</li>' % (' class="test"' if test else '', label, meta)
 
     preps = [i for i in items if i['kind'] == 'prep']
     guides = [i for i in items if i['kind'] == 'guide']
-    lessons = [i for i in items if i['kind'] == 'lesson']
-    ready = sum(1 for i in items if i['ready'])
+    lessons = [i for i in items if i['kind'] in ('lesson', 'test')]   # контрольные стоят в списке на своих местах
 
     def block(title, group):
         if not group:
@@ -274,6 +304,10 @@ def render_index(items):
 .toc a{font-weight:600}
 .tag{font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:#3f7d46}
 .meta{margin-left:auto; font-size:13.5px; color:#a8aeb6}
+/* контрольная стоит в том же списке, но это не урок — отделяем цветом */
+.toc li.test{background:#fdf5f5; border-left:3px solid var(--accent); padding:11px 12px}
+.toc li.test a,
+.toc li.test .tag{color:var(--accent)}
 @media (max-width:560px){ .meta{margin-left:0; flex-basis:100%%} }
 </style>
 </head>
@@ -281,15 +315,13 @@ def render_index(items):
 <article class="lesson">
 <header class="magnet-hero">
 <h1>Немецкий для жизни A1</h1>
-<p class="magnet-lede">Все уроки курса в одном месте. Перенесено %d из %d.</p>
 </header>
 <hr class="magnet-rule">
 %s%s%s</article>
 <script src="shared/offline-assets.js"></script>
 </body>
 </html>
-''' % (ready, len(items),
-       block('Подготовительные уроки', preps) + block('Справочники', guides),
+''' % (block('Подготовительные уроки', preps) + block('Справочники', guides),
        block('Уроки', lessons),
        materials())
 
@@ -302,11 +334,12 @@ if __name__ == '__main__':
         f.write(render_index(items))
     touched = update_navs(items)
 
-    print('позиций в курсе: %d (подготовительных %d, справочников %d, уроков %d)' % (
+    print('позиций в курсе: %d (подготовительных %d, справочников %d, уроков %d, контрольных %d)' % (
         len(items),
         sum(1 for i in items if i['kind'] == 'prep'),
         sum(1 for i in items if i['kind'] == 'guide'),
-        sum(1 for i in items if i['kind'] == 'lesson')))
+        sum(1 for i in items if i['kind'] == 'lesson'),
+        sum(1 for i in items if i['kind'] == 'test')))
     for i in items:
         if len(i['sources']) > 1:
             print('  склеено:', i['slug'], '<-', ' + '.join(s['part'] for s in i['sources']))

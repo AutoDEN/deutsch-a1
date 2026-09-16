@@ -1,0 +1,30 @@
+{
+ "_": "Контрольная 5, задание на слух: три сцены за уроки 21-25 — приём у врача, билет и остановка, заказ в ресторане.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "clara",   "text": "Guten Tag, Herr Fischer. Was fehlt Ihnen heute?" },
+  { "voice": "max",     "text": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Halsschmerzen. Und seit gestern habe ich auch Husten." },
+  { "voice": "clara",   "text": "Haben Sie auch Fieber?" },
+  { "voice": "max",     "text": "Ja, ich glaube schon." },
+  { "voice": "clara",   "text": "Sie haben eine Erkältung. Sie müssen unbedingt im Bett bleiben, mindestens drei Tage. Trinken Sie viel Tee mit Honig." },
+  { "voice": "max",     "text": "Wann soll ich wiederkommen?" },
+  { "voice": "clara",   "text": "Wenn es nach drei Tagen nicht besser wird, kommen Sie sofort wieder.", "pause": 1.4 },
+
+  { "voice": "max",     "text": "Entschuldigung, wo kann ich ein Ticket kaufen?" },
+  { "voice": "lena",    "text": "Am Automaten oder mit der App." },
+  { "voice": "max",     "text": "Was kostet ein Ticket für eine Fahrt?" },
+  { "voice": "lena",    "text": "Drei Euro. Wenn Sie oft fahren, ist eine Monatskarte billiger." },
+  { "voice": "max",     "text": "Muss ich das Ticket irgendwo entwerten?" },
+  { "voice": "lena",    "text": "Ja, Sie müssen es im Entwerter stempeln, bevor Sie einsteigen." },
+  { "voice": "max",     "text": "Und wo ist die nächste Haltestelle?" },
+  { "voice": "lena",    "text": "Die U-Bahn-Haltestelle ist nur fünf Minuten von hier entfernt.", "pause": 1.4 },
+
+  { "voice": "clara",   "text": "Herzlich willkommen in unserem Gasthaus! Möchten Sie zuerst etwas trinken?" },
+  { "voice": "max",     "text": "Ja, bitte. Ich hätte gern ein Bier vom Fass." },
+  { "voice": "clara",   "text": "Hier ist die Speisekarte. Haben Sie schon gewählt?" },
+  { "voice": "max",     "text": "Was können Sie empfehlen?" },
+  { "voice": "clara",   "text": "Unser Tagesgericht ist Rinderbraten mit Knödeln. Sehr beliebt ist auch das Wiener Schnitzel mit Pommes." },
+  { "voice": "max",     "text": "Ich nehme das Wiener Schnitzel mit Pommes." },
+  { "voice": "clara",   "text": "Sehr gute Wahl. Guten Appetit!" }
+ ]
+}

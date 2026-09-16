@@ -1,0 +1,27 @@
+{
+ "_": "Контрольная 6, задание на слух: три сцены за уроки 26-30 — планы на выходные с модальными глаголами, сортировка мусора, разговор с соседом.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "lena",    "text": "Hallo zusammen! Was macht ihr am Wochenende?" },
+  { "voice": "max",     "text": "Ich muss leider am Samstag arbeiten. Wir haben einen Sonderauftrag in der Werkstatt." },
+  { "voice": "clara",   "text": "Ich will am Samstag unbedingt meine neue Buchlieferung auspacken." },
+  { "voice": "lena",    "text": "Und am Sonntag? Habt ihr Lust auf einen Ausflug zum See?" },
+  { "voice": "max",     "text": "Am Sonntag kann ich! Ein Ausflug zum See klingt super." },
+  { "voice": "clara",   "text": "Das hört sich toll an! Ich kann einen Picknickkorb vorbereiten." },
+  { "voice": "max",     "text": "Wir können uns um 14 Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten zum See laufen.", "pause": 1.4 },
+
+  { "voice": "lena",    "text": "Können Sie mir erklären, wie die Mülltrennung funktioniert?" },
+  { "voice": "mueller", "text": "Natürlich. Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack, für Biomüll die braune Tonne. Der Rest kommt in den Restmüll." },
+  { "voice": "lena",    "text": "Wohin gehört dieser Joghurtbecher?" },
+  { "voice": "mueller", "text": "Der kommt in die gelbe Tonne, aber er muss sauber sein.", "pause": 1.4 },
+
+  { "voice": "mueller", "text": "Guten Tag, Herr Fischer! Na, wie geht's?" },
+  { "voice": "max",     "text": "Danke, mir geht's gut. Und Ihnen?" },
+  { "voice": "mueller", "text": "Ach, auch nicht schlecht. Schönes Wetter heute, nicht wahr?" },
+  { "voice": "max",     "text": "Ja, endlich Sonne!" },
+  { "voice": "mueller", "text": "Haben Sie etwas Schönes am Wochenende vor?" },
+  { "voice": "max",     "text": "Nichts Besonderes. Ich muss meine neue Werkstatt im Keller einrichten." },
+  { "voice": "mueller", "text": "Rufen Sie mich an, wenn Sie Hilfe brauchen." },
+  { "voice": "max",     "text": "Danke! Machen Sie's gut und genießen Sie das Wochenende!" }
+ ]
+}

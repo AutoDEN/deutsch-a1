@@ -1,0 +1,48 @@
+{
+ "groups": [
+  {
+   "id": "sprechen",
+   "layout": "sample",
+   "join": true,
+   "title": "Образцы для самопроверки — с озвучкой",
+   "items": [
+    {
+     "id": "s1",
+     "label": "Ситуация 1. В булочной: купите хлеб, откажитесь от пакета, попрощайтесь.",
+     "lines": [
+      { "voice": "max", "de": "Guten Morgen! Ein Vollkornbrot, bitte." },
+      { "voice": "clara", "de": "Gerne. Möchten Sie das Brot geschnitten haben?" },
+      { "voice": "max", "de": "Ja, bitte." },
+      { "voice": "clara", "de": "Bitte schön. Brauchen Sie eine Tüte?" },
+      { "voice": "max", "de": "Nein, danke. Ich habe eine Tasche dabei. Einen schönen Tag noch!" },
+      { "voice": "clara", "de": "Danke, gleichfalls!" }
+     ]
+    },
+    {
+     "id": "s2",
+     "label": "Ситуация 2. Вы недавно въехали: представьтесь соседу, скажите адрес и спросите телефон.",
+     "lines": [
+      { "voice": "max", "de": "Guten Tag! Ich bin vor kurzem eingezogen und wollte mich vorstellen." },
+      { "voice": "mueller", "de": "Das ist sehr nett. Wo genau wohnen Sie?" },
+      { "voice": "max", "de": "Ich wohne in der Eichenstraße 42, im dritten Stock." },
+      { "voice": "mueller", "de": "Oh, wir sind ja Nachbarn! Ich wohne in der Eichenstraße 44." },
+      { "voice": "max", "de": "Darf ich fragen, wie Ihre Telefonnummer ist? Falls ich einmal Hilfe brauche." },
+      { "voice": "mueller", "de": "Natürlich. Meine Nummer ist 089 73 25 698." },
+      { "voice": "max", "de": "Vielen Dank, Herr Müller. Ich werde die Nummer speichern." }
+     ]
+    },
+    {
+     "id": "s3",
+     "label": "Ситуация 3. Разговор о свободном времени: спросите про хобби и расскажите про своё.",
+     "lines": [
+      { "voice": "max", "de": "Was machst du gern in deiner Freizeit?" },
+      { "voice": "clara", "de": "Ich lese sehr gern, besonders Romane und Gedichte. Und ich schreibe gern in mein Tagebuch. Und was machst du sonst gern?" },
+      { "voice": "max", "de": "Ich höre gern Musik und treffe gern Freunde. Am Wochenende gehe ich gern spazieren." },
+      { "voice": "clara", "de": "Wo gehst du gern spazieren?" },
+      { "voice": "max", "de": "Am liebsten im Wald oder am See. Die Natur ist so schön." }
+     ]
+    }
+   ]
+  }
+ ]
+}

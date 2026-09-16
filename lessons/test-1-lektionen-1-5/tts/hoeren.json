@@ -1,0 +1,27 @@
+{
+ "_": "Контрольная 1, задание на слух: три коротких сцены за уроки 1-5 — знакомство, «как дела», счёт в кафе. Все реплики взяты из диалогов и таблиц «Выучить наизусть» уроков 1-5, ничего нового. Между сценами пауза подлиннее, чтобы было слышно, где кончается одна и начинается другая. Темп разговорный: на слух должно звучать так же, как диалоги курса.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "lena",    "text": "Guten Tag! Ich bin Lena. Und wie heißt du?" },
+  { "voice": "max",     "text": "Hallo Lena! Ich heiße Max. Max Fischer." },
+  { "voice": "lena",    "text": "Freut mich, Max! Woher kommst du?" },
+  { "voice": "max",     "text": "Ich komme aus Hamburg. Und du?" },
+  { "voice": "lena",    "text": "Ich komme aus Berlin. Ich bin hier geboren und aufgewachsen." },
+  { "voice": "max",     "text": "Und wo wohnst du in Berlin?" },
+  { "voice": "lena",    "text": "Ich wohne in einer WG in der Bergstraße.", "pause": 1.4 },
+
+  { "voice": "mueller", "text": "Guten Tag, Frau Weber. Wie geht es Ihnen heute?" },
+  { "voice": "lena",    "text": "Mir geht es gut, danke! Und Ihnen?" },
+  { "voice": "mueller", "text": "Ach, es geht. Ich habe etwas Rückenschmerzen." },
+  { "voice": "lena",    "text": "Oh, das tut mir leid. Waren Sie schon beim Arzt?" },
+  { "voice": "mueller", "text": "Nein, noch nicht." },
+  { "voice": "lena",    "text": "Ruhen Sie sich aus. Gute Besserung!", "pause": 1.4 },
+
+  { "voice": "max",     "text": "Entschuldigung! Zahlen, bitte!" },
+  { "voice": "clara",   "text": "Zusammen oder getrennt?" },
+  { "voice": "max",     "text": "Zusammen, bitte. Was kostet das?" },
+  { "voice": "clara",   "text": "Zwei Kaffee machen vier Euro, ein Stück Kuchen kostet drei Euro und ein Wasser kostet zwei Euro. Das macht insgesamt neun Euro." },
+  { "voice": "max",     "text": "Hier sind zehn Euro." },
+  { "voice": "clara",   "text": "Danke schön! Hier ist ein Euro zurück." }
+ ]
+}

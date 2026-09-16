@@ -1,0 +1,27 @@
+{
+ "_": "Контрольная 2, задание на слух: три сцены за уроки 6-10 — покупка хлеба, разговор о семье и адресе, хобби соседа. Все реплики из диалогов и таблиц уроков 6-10.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "max",     "text": "Guten Morgen! Ein Vollkornbrot, bitte." },
+  { "voice": "clara",   "text": "Guten Morgen! Gerne. Möchten Sie das Brot geschnitten haben?" },
+  { "voice": "max",     "text": "Ja, bitte." },
+  { "voice": "clara",   "text": "Bitte schön. Brauchen Sie eine Tüte?" },
+  { "voice": "max",     "text": "Nein, danke. Ich habe eine Tasche dabei." },
+  { "voice": "clara",   "text": "Gut. Einen schönen Tag noch!" },
+  { "voice": "max",     "text": "Danke, gleichfalls!", "pause": 1.4 },
+
+  { "voice": "lena",    "text": "Sag mal, hast du Geschwister?" },
+  { "voice": "max",     "text": "Ja, ich habe zwei Brüder. Mein älterer Bruder ist Lehrer, und mein jüngerer Bruder studiert noch. Und du?" },
+  { "voice": "lena",    "text": "Ich habe auch einen Bruder. Wohnen deine Eltern auch hier in Berlin?" },
+  { "voice": "max",     "text": "Meine Eltern leben in Hamburg. Mein Vater war Mechaniker wie ich, und meine Mutter arbeitet in einer Bäckerei." },
+  { "voice": "lena",    "text": "Und wo wohnst du eigentlich?" },
+  { "voice": "max",     "text": "Ich wohne in der Eichenstraße 42, im dritten Stock.", "pause": 1.4 },
+
+  { "voice": "lena",    "text": "Herr Müller, kochen Sie gern?" },
+  { "voice": "mueller", "text": "Ja, ich koche sehr gern. Das ist mein Hobby." },
+  { "voice": "lena",    "text": "Was kochen Sie am liebsten?" },
+  { "voice": "mueller", "text": "Ich koche gern traditionelle deutsche Gerichte. Und Sie?" },
+  { "voice": "lena",    "text": "Nicht so oft, aber am Wochenende koche ich gern für meine Mitbewohner." },
+  { "voice": "mueller", "text": "Vielleicht tauschen wir mal Rezepte aus?" }
+ ]
+}

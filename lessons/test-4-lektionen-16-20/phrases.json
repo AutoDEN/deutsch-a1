@@ -1,0 +1,50 @@
+{
+ "groups": [
+  {
+   "id": "sprechen",
+   "layout": "sample",
+   "join": true,
+   "title": "Образцы для самопроверки — с озвучкой",
+   "items": [
+    {
+     "id": "s1",
+     "label": "Ситуация 1. Звоните в кабинет врача: попросите приём, откажитесь от первого времени, согласитесь на второе.",
+     "lines": [
+      { "voice": "max", "de": "Praxis Dr. Bauer, guten Tag. Was kann ich für Sie tun?" },
+      { "voice": "mueller", "de": "Mein Name ist Thomas Müller. Ich möchte einen Termin vereinbaren." },
+      { "voice": "max", "de": "Wann hätten Sie denn Zeit?" },
+      { "voice": "mueller", "de": "Am liebsten am Montag oder Dienstag, vormittags." },
+      { "voice": "max", "de": "Am Montag um 10 Uhr hätten wir einen Termin frei. Passt das?" },
+      { "voice": "mueller", "de": "Nein, da kann ich leider nicht. Da habe ich schon einen Termin." },
+      { "voice": "max", "de": "Dann vielleicht Dienstag um 9 Uhr?", "speak": "Dann vielleicht Dienstag um neun Uhr?" },
+      { "voice": "mueller", "de": "Ja, das geht. Vielen Dank für Ihre Hilfe. Auf Wiederhören!" }
+     ]
+    },
+    {
+     "id": "s2",
+     "label": "Ситуация 2. Вы в незнакомом городе: спросите дорогу к вокзалу и далеко ли это.",
+     "lines": [
+      { "voice": "max", "de": "Entschuldigung, ich bin neu hier. Wie komme ich zum Bahnhof?" },
+      { "voice": "clara", "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links. Gehen Sie an der Bäckerei vorbei und nehmen Sie die zweite Straße rechts." },
+      { "voice": "max", "de": "Ist das weit?" },
+      { "voice": "clara", "de": "Etwa 10 Minuten zu Fuß. Sie können auch den Bus Nummer 16 nehmen." },
+      { "voice": "max", "de": "Vielen Dank für die Hilfe!" },
+      { "voice": "clara", "de": "Gern geschehen!" }
+     ]
+    },
+    {
+     "id": "s3",
+     "label": "Ситуация 3. Пригласите подругу на кофе, примите отказ и договоритесь на другой день.",
+     "lines": [
+      { "voice": "max", "de": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen." },
+      { "voice": "lena", "de": "Das klingt sehr schön! Aber tut mir leid, am Samstag kann ich nicht." },
+      { "voice": "max", "de": "Kein Problem! Vielleicht nächste Woche? Passt dir vielleicht Dienstagabend?" },
+      { "voice": "lena", "de": "Ja, am Dienstag kann ich! Um wie viel Uhr?" },
+      { "voice": "max", "de": "Um 17 Uhr in meinem Lieblingscafé am Marktplatz." },
+      { "voice": "lena", "de": "Das passt mir gut! Ich freue mich auf unser Treffen!" }
+     ]
+    }
+   ]
+  }
+ ]
+}

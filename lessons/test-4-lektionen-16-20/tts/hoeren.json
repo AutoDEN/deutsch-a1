@@ -1,0 +1,29 @@
+{
+ "_": "Контрольная 4, задание на слух: три сцены за уроки 16-20 — запись к врачу по телефону, дорога к почте, приглашение на кофе с переносом на вторник.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "max",   "text": "Praxis Dr. Bauer, guten Tag. Was kann ich für Sie tun?" },
+  { "voice": "mueller", "text": "Mein Name ist Thomas Müller. Ich möchte einen Termin vereinbaren." },
+  { "voice": "max",   "text": "Wann hätten Sie denn Zeit?" },
+  { "voice": "mueller", "text": "Am liebsten am Montag oder Dienstag, vormittags." },
+  { "voice": "max",   "text": "Am Montag um 10 Uhr hätten wir einen Termin frei. Passt das?" },
+  { "voice": "mueller", "text": "Nein, da kann ich leider nicht." },
+  { "voice": "max",   "text": "Dann vielleicht Dienstag um neun Uhr?" },
+  { "voice": "mueller", "text": "Ja, das geht. Soll ich meine Versichertenkarte mitbringen?" },
+  { "voice": "max",   "text": "Ja, bitte. Auf Wiederhören!", "pause": 1.4 },
+
+  { "voice": "lena",    "text": "Entschuldigung, wie komme ich zur Post?" },
+  { "voice": "mueller", "text": "Gehen Sie hier geradeaus bis zur Ampel, dann die erste Straße rechts. Die Post ist gleich auf der linken Seite." },
+  { "voice": "lena",    "text": "Ist das weit?" },
+  { "voice": "mueller", "text": "Nein, ganz in der Nähe. Höchstens fünf Minuten zu Fuß." },
+  { "voice": "lena",    "text": "Vielen Dank für die Hilfe!" },
+  { "voice": "mueller", "text": "Gern geschehen!", "pause": 1.4 },
+
+  { "voice": "clara",   "text": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen." },
+  { "voice": "lena",    "text": "Das klingt sehr schön! Aber tut mir leid, am Samstag kann ich nicht." },
+  { "voice": "clara",   "text": "Kein Problem! Passt dir vielleicht Dienstagabend?" },
+  { "voice": "lena",    "text": "Ja, am Dienstag kann ich! Um wie viel Uhr?" },
+  { "voice": "clara",   "text": "Um 17 Uhr im Café Sonnenschein." },
+  { "voice": "lena",    "text": "Das passt mir gut! Ich freue mich auf unser Treffen!" }
+ ]
+}

@@ -240,6 +240,16 @@
   "has_audio": true
  },
  {
+  "n": 1,
+  "kind": "test",
+  "title": "Уроки 1–5",
+  "slug": "test-1-lektionen-1-5",
+  "sources": [],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
   "n": 6,
   "kind": "lesson",
   "title": "Да, Нет, Спасибо, Пожалуйста",
@@ -367,6 +377,16 @@
     }
    }
   ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 2,
+  "kind": "test",
+  "title": "Уроки 6–10",
+  "slug": "test-2-lektionen-6-10",
+  "sources": [],
   "ready": true,
   "has_video": false,
   "has_audio": true
@@ -504,6 +524,16 @@
   "has_audio": true
  },
  {
+  "n": 3,
+  "kind": "test",
+  "title": "Уроки 11–15",
+  "slug": "test-3-lektionen-11-15",
+  "sources": [],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
   "n": 16,
   "kind": "lesson",
   "title": "Запись к врачу",
@@ -629,6 +659,16 @@
     }
    }
   ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 4,
+  "kind": "test",
+  "title": "Уроки 16–20",
+  "slug": "test-4-lektionen-16-20",
+  "sources": [],
   "ready": true,
   "has_video": false,
   "has_audio": true
@@ -764,6 +804,16 @@
   "has_audio": true
  },
  {
+  "n": 5,
+  "kind": "test",
+  "title": "Уроки 21–25",
+  "slug": "test-5-lektionen-21-25",
+  "sources": [],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
   "n": 26,
   "kind": "lesson",
   "title": "Планы на выходные (Мод. глаголы)",
@@ -889,6 +939,16 @@
     }
    }
   ],
+  "ready": true,
+  "has_video": false,
+  "has_audio": true
+ },
+ {
+  "n": 6,
+  "kind": "test",
+  "title": "Уроки 26–30",
+  "slug": "test-6-lektionen-26-30",
+  "sources": [],
   "ready": true,
   "has_video": false,
   "has_audio": true

@@ -1,0 +1,53 @@
+{
+ "groups": [
+  {
+   "id": "sprechen",
+   "layout": "sample",
+   "join": true,
+   "title": "Образцы для самопроверки — с озвучкой",
+   "items": [
+    {
+     "id": "s1",
+     "label": "Ситуация 1. Планы на выходные: скажите, что должны работать, предложите поездку и договоритесь о встрече.",
+     "lines": [
+      { "voice": "lena", "de": "Was machst du am Wochenende?" },
+      { "voice": "max", "de": "Am Samstag muss ich leider arbeiten. Aber am Sonntag will ich einen Ausflug machen." },
+      { "voice": "lena", "de": "Hast du Lust auf einen Ausflug zum See?" },
+      { "voice": "max", "de": "Ja, gerne! Wann und wo sollen wir uns treffen?" },
+      { "voice": "lena", "de": "Wir können uns um 14 Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten laufen." },
+      { "voice": "max", "de": "Perfekt! Ich kann einen Picknickkorb vorbereiten." },
+      { "voice": "lena", "de": "Super, dann bringe ich die Getränke mit. Hauptsache, wir verbringen Zeit zusammen!" }
+     ]
+    },
+    {
+     "id": "s2",
+     "label": "Ситуация 2. Сосед объясняет Вам сортировку мусора: спросите про контейнеры, бутылку и стаканчик от йогурта.",
+     "lines": [
+      { "voice": "lena", "de": "Können Sie mir erklären, wie die Mülltrennung funktioniert?" },
+      { "voice": "mueller", "de": "Natürlich. Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack, für Biomüll die braune Tonne. Der Rest kommt in den Restmüll." },
+      { "voice": "lena", "de": "Wohin gehört diese Flasche?" },
+      { "voice": "mueller", "de": "Flaschen bringt man zum Container für Glas, sortiert nach Farben." },
+      { "voice": "lena", "de": "Und dieser Joghurtbecher?" },
+      { "voice": "mueller", "de": "Der kommt in die gelbe Tonne, aber er muss sauber sein." },
+      { "voice": "lena", "de": "Warum muss man den Müll trennen?" },
+      { "voice": "mueller", "de": "Weil das wichtig für die Umwelt ist. Was man trennt, kann man recyceln." }
+     ]
+    },
+    {
+     "id": "s3",
+     "label": "Ситуация 3. Короткий разговор с соседом во дворе: погода, планы на выходные, предложение помощи и прощание.",
+     "lines": [
+      { "voice": "mueller", "de": "Guten Tag, Herr Fischer! Na, wie geht's?" },
+      { "voice": "max", "de": "Danke, mir geht's gut. Und Ihnen?" },
+      { "voice": "mueller", "de": "Schönes Wetter heute, nicht wahr?" },
+      { "voice": "max", "de": "Ja, endlich Sonne! Haben Sie etwas Schönes am Wochenende vor?" },
+      { "voice": "mueller", "de": "Ja, meine Tochter kommt mit meiner Enkelin zu Besuch. Und Sie?" },
+      { "voice": "max", "de": "Nichts Besonderes. Nach dem Praktikum möchte ich mein Zimmer renovieren." },
+      { "voice": "mueller", "de": "Rufen Sie mich an, wenn Sie Hilfe brauchen." },
+      { "voice": "max", "de": "Danke! Machen Sie's gut und genießen Sie das Wochenende!" }
+     ]
+    }
+   ]
+  }
+ ]
+}

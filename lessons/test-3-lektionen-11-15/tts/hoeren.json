@@ -1,0 +1,27 @@
+{
+ "_": "Контрольная 3, задание на слух: три сцены за уроки 11-15 — супермаркет, рабочий день Макса, покупка футболки. Числа до десяти написаны словами, чтобы синтез читал их как в уроке; крупные оставлены цифрами.",
+ "pause": 0.45,
+ "lines": [
+  { "voice": "lena",    "text": "Guten Tag. Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?" },
+  { "voice": "clara",   "text": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts." },
+  { "voice": "lena",    "text": "Vielen Dank. Ich brauche auch Käse. Wo finde ich den?" },
+  { "voice": "clara",   "text": "Käse ist auch in Gang drei, gegenüber von der Milch." },
+  { "voice": "lena",    "text": "Haben Sie auch Äpfel?" },
+  { "voice": "clara",   "text": "Ja, in der Obstabteilung, gleich am Eingang links." },
+  { "voice": "lena",    "text": "Ich nehme ein Kilo rote Äpfel.", "pause": 1.4 },
+
+  { "voice": "lena",    "text": "Wann stehst du morgens auf?" },
+  { "voice": "max",     "text": "Ich stehe jeden Tag um sechs Uhr auf." },
+  { "voice": "lena",    "text": "Das ist früh! Wie kommst du zur Arbeit?" },
+  { "voice": "max",     "text": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten." },
+  { "voice": "lena",    "text": "Und wann machst du Feierabend?" },
+  { "voice": "max",     "text": "Um 17:00 Uhr. Ich komme gegen 17:45 Uhr nach Hause zurück.", "pause": 1.4 },
+
+  { "voice": "clara",   "text": "Kann ich Ihnen helfen?" },
+  { "voice": "lena",    "text": "Ja, ich suche ein T-Shirt, am liebsten in Rot oder Blau." },
+  { "voice": "clara",   "text": "Welche Größe brauchen Sie?" },
+  { "voice": "lena",    "text": "Normalerweise trage ich Größe M. Kann ich das anprobieren?" },
+  { "voice": "clara",   "text": "Natürlich, die Umkleidekabinen sind hinten links." },
+  { "voice": "lena",    "text": "Das rote passt mir gut, aber das blaue gefällt mir besser. Ich nehme das blaue." }
+ ]
+}

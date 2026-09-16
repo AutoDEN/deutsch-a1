@@ -1,0 +1,49 @@
+{
+ "groups": [
+  {
+   "id": "sprechen",
+   "layout": "sample",
+   "join": true,
+   "title": "Образцы для самопроверки — с озвучкой",
+   "intro_add": [],
+   "items": [
+    {
+     "id": "s1",
+     "label": "Ситуация 1. Вы переехали. На лестнице встречаете соседа, которого видите впервые.",
+     "lines": [
+      { "voice": "mueller", "de": "Guten Tag! Ich heiße Thomas Müller. Und wie heißen Sie?" },
+      { "voice": "max", "de": "Guten Tag! Mein Name ist Max Fischer. Freut mich, Herr Müller!" },
+      { "voice": "mueller", "de": "Freut mich auch, Herr Fischer! Woher kommen Sie?" },
+      { "voice": "max", "de": "Ich komme aus Hamburg. Ich wohne jetzt in der Eichenstraße 42." },
+      { "voice": "mueller", "de": "Das ist ja interessant! Ich bin Ihr Nachbar. Einen schönen Tag noch!" },
+      { "voice": "max", "de": "Danke, gleichfalls! Auf Wiedersehen!" }
+     ]
+    },
+    {
+     "id": "s2",
+     "label": "Ситуация 2. Утро, сосед спрашивает, как дела. Вы плохо спали, и у Вас болит голова.",
+     "lines": [
+      { "voice": "mueller", "de": "Guten Morgen, Frau Weber! Wie geht es Ihnen?" },
+      { "voice": "lena", "de": "Nicht so gut. Ich bin müde und habe Kopfschmerzen." },
+      { "voice": "mueller", "de": "Oh, das tut mir leid. Was ist los?" },
+      { "voice": "lena", "de": "Ich habe bis spät gearbeitet und schlecht geschlafen." },
+      { "voice": "mueller", "de": "Ruhen Sie sich aus. Gute Besserung!" },
+      { "voice": "lena", "de": "Danke der Nachfrage. Einen schönen Tag noch!" }
+     ]
+    },
+    {
+     "id": "s3",
+     "label": "Ситуация 3. Вы в кафе с другом. Просите счёт, платите за двоих и получаете сдачу.",
+     "lines": [
+      { "voice": "max", "de": "Entschuldigung! Zahlen, bitte!" },
+      { "voice": "clara", "de": "Zusammen oder getrennt?" },
+      { "voice": "max", "de": "Zusammen, bitte. Was kostet das?" },
+      { "voice": "clara", "de": "Zwei Kaffee machen vier Euro und ein Stück Kuchen kostet drei Euro. Das macht insgesamt sieben Euro." },
+      { "voice": "max", "de": "Hier sind zehn Euro." },
+      { "voice": "clara", "de": "Danke schön! Hier sind drei Euro zurück." }
+     ]
+    }
+   ]
+  }
+ ]
+}

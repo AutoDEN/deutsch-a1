@@ -1,0 +1,53 @@
+{
+ "groups": [
+  {
+   "id": "sprechen",
+   "layout": "sample",
+   "join": true,
+   "title": "Образцы для самопроверки — с озвучкой",
+   "items": [
+    {
+     "id": "s1",
+     "label": "Ситуация 1. В супермаркете: Вы не можете найти молоко и сыр, потом спрашиваете про яблоки.",
+     "lines": [
+      { "voice": "max", "de": "Guten Tag. Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?" },
+      { "voice": "clara", "de": "Natürlich. Die Milch ist in Gang 3, neben den Joghurts.", "speak": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts." },
+      { "voice": "max", "de": "Vielen Dank. Ich brauche auch Käse. Wo finde ich den?" },
+      { "voice": "clara", "de": "Käse ist auch in Gang 3, gegenüber von der Milch.", "speak": "Käse ist auch in Gang drei, gegenüber von der Milch." },
+      { "voice": "max", "de": "Haben Sie auch Äpfel? Was kosten die Äpfel?" },
+      { "voice": "clara", "de": "Ja, in der Obstabteilung, gleich am Eingang links. Die roten kosten 2,99 Euro pro Kilo.", "speak": "Ja, in der Obstabteilung, gleich am Eingang links." },
+      { "voice": "max", "de": "Ich nehme ein Kilo rote Äpfel und eine Packung Milch." }
+     ]
+    },
+    {
+     "id": "s2",
+     "label": "Ситуация 2. Ваш день: во сколько встаёте, как добираетесь, когда заканчиваете работу.",
+     "lines": [
+      { "voice": "lena", "de": "Wann stehst du morgens auf?" },
+      { "voice": "max", "de": "Ich stehe jeden Tag um 6:00 Uhr auf.", "speak": "Ich stehe jeden Tag um sechs Uhr auf." },
+      { "voice": "lena", "de": "Das ist früh! Was machst du zum Frühstück?" },
+      { "voice": "max", "de": "Ich esse Brötchen mit Käse und trinke einen starken Kaffee." },
+      { "voice": "lena", "de": "Wie kommst du zur Arbeit?" },
+      { "voice": "max", "de": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten." },
+      { "voice": "lena", "de": "Und wann machst du Feierabend?" },
+      { "voice": "max", "de": "Um 17:00 Uhr. Danach sehe ich fern oder rufe meine Brüder an." }
+     ]
+    },
+    {
+     "id": "s3",
+     "label": "Ситуация 3. В магазине одежды: попросите футболку своего размера, примерьте и выберите цвет.",
+     "lines": [
+      { "voice": "clara", "de": "Kann ich Ihnen helfen?" },
+      { "voice": "lena", "de": "Ja, ich suche ein T-Shirt, am liebsten in Rot oder Blau." },
+      { "voice": "clara", "de": "Welche Größe brauchen Sie?" },
+      { "voice": "lena", "de": "Normalerweise trage ich Größe M. Kann ich das anprobieren?" },
+      { "voice": "clara", "de": "Natürlich, die Umkleidekabinen sind hinten links." },
+      { "voice": "lena", "de": "Was denkst du, das rote oder das blaue?" },
+      { "voice": "clara", "de": "Das rote passt dir sehr gut, aber das blaue passt besser zu deinen Jeans." },
+      { "voice": "lena", "de": "Dann nehme ich das blaue. Es gefällt mir auch besser." }
+     ]
+    }
+   ]
+  }
+ ]
+}

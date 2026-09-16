@@ -490,6 +490,23 @@ video{display:block; width:100%; margin:18px 0; background:#000; border-radius:1
 }
 .sample-body{color:#2f4a33; line-height:1.7; font-style:italic}
 
+/* Спрятанный текст: расшифровка записи в контрольной. Задание на слух
+   перестаёт быть заданием, если текст сцены лежит рядом открытым, поэтому
+   он убран под <details> — открывается только тем, кто уже проверил себя. */
+details.script{
+  border:1px solid var(--line); border-radius:8px;
+  padding:10px 16px; margin:22px 0; background:var(--soft);
+}
+details.script>summary{
+  cursor:pointer; font-size:13.5px; color:var(--muted);
+  list-style:none; padding:2px 0;
+}
+details.script>summary::-webkit-details-marker{display:none}
+details.script>summary::before{content:'▸ '; color:#a8aeb6}
+details.script[open]>summary::before{content:'▾ '}
+details.script[open]>summary{margin-bottom:6px; border-bottom:1px solid var(--line)}
+details.script p{font-size:15px}
+
 /* подсветка слова внутри абзаца */
 .hl{background:#fff3e6; color:#c2410c; padding:.05em .32em; border-radius:4px; font-weight:600}
 
@@ -543,22 +560,37 @@ video{display:block; width:100%; margin:18px 0; background:#000; border-radius:1
 
 @media (max-width:560px){
   .lesson-nav{flex-direction:column; align-items:stretch; text-align:center; gap:10px}
+  /* в колонке flex-basis задаёт высоту: с `flex:1 1 0` боковые ссылки
+     схлопывались в нулевую высоту и пропадали под overflow:hidden —
+     на телефоне оставалось одно «Все уроки». Здесь высота по содержимому,
+     длинный заголовок переносится по строкам вместо многоточия. */
+  .lesson-nav .nav-prev,
+  .lesson-nav .nav-next{
+    flex:0 0 auto;
+    white-space:normal; overflow:visible; text-overflow:clip;
+  }
+  .lesson-nav .nav-next{text-align:center}
   .voc-l{flex:1 1 100%; max-width:none}
 }
 
 /* =====================================================================
-   Фразы наизусть: таблица «русский — немецкий», как в материалах курса,
-   плюс кнопка звука, транскрипция и разбор произношения.
+   Фразы наизусть: слева немецкая фраза со звуком и транскрипцией,
+   справа перевод, под переводом — закрытый разбор произношения.
    Разметку собирает tools/render_phrases.py из phrases.json урока,
    звук включает shared/phrase-audio.js.
    ===================================================================== */
 
-.ph-table{margin:18px 0}
-.ph-table td{vertical-align:top}
-/* русская колонка уже немецкой: там перевод, а в немецкой ещё звук и транскрипция */
-.ph-table td.ph-ru{width:40%; color:#4b5159}
-/* реплики одной фразы идут подряд, линия потолще открывает следующую фразу */
-.ph-table tbody tr.ph-first>td{border-top:2px solid #d7dbe2}
+/* Сетка, а не таблица: у фразы бывает несколько реплик (диалог в уроке 1),
+   и в сетке каждая встаёт ровно напротив своего перевода — с кнопкой звука
+   у каждой реплики строки таблицы разъезжались по высоте. */
+.ph-item{
+  display:grid; grid-template-columns:46% 1fr; gap:7px 22px;
+  padding:13px 0; border-bottom:1px solid var(--line);
+}
+.ph-item:first-of-type{border-top:1px solid var(--line)}
+.ph-item .ph-ru{color:#4b5159; font-weight:500}
+/* разбор всегда под переводом, даже если реплик чётное число */
+.ph-item>.ph-tip{grid-column:2}
 
 /* строка = одна реплика: кнопка слева, текст с транскрипцией справа */
 .ph-line{display:flex; gap:12px; align-items:flex-start}
@@ -570,11 +602,18 @@ video{display:block; width:100%; margin:18px 0; background:#000; border-radius:1
   color:#8a9099; font-weight:400; font-size:.92em; margin-top:3px; line-height:1.45;
 }
 
-/* разбор произношения — отдельной строкой во всю ширину: это проза на
-   две-три фразы, в колонку такое не влезает */
-.ph-tip-row>td{background:#fffdf7; padding-top:9px; padding-bottom:9px}
-.ph-tip{
-  font-size:13px; line-height:1.55; color:#9a7b45;
+/* Разбор произношения закрыт: сначала вспомнить и проверить себя по звуку,
+   и только потом читать объяснение. Открывается щелчком по строке. */
+.ph-tip>summary{
+  cursor:pointer; list-style:none; padding:1px 0;
+  font-size:12.5px; color:#a8aeb6;
+}
+.ph-tip>summary::-webkit-details-marker{display:none}
+.ph-tip>summary::before{content:'▸ '}
+.ph-tip[open]>summary::before{content:'▾ '}
+.ph-tip>summary:hover{color:#8a6a34}
+.ph-tip>div{
+  font-size:13px; line-height:1.55; color:#9a7b45; margin-top:5px;
   border-left:2px solid #f2dfb8; padding-left:10px;
 }
 .ph-tip em{font-style:normal; font-weight:600; color:#8a6a34}
@@ -611,7 +650,11 @@ video{display:block; width:100%; margin:18px 0; background:#000; border-radius:1
 .sample-body .ph-play:hover{background:#eef6ee}
 
 @media (max-width:560px){
-  .ph-table{font-size:14.5px}
-  .ph-table td.ph-ru{width:38%}
+  /* на телефоне колонки не помещаются: перевод и разбор уходят под фразу
+     и сдвигаются на ширину кнопки, чтобы стоять под её текстом */
+  .ph-item{grid-template-columns:1fr; gap:5px}
+  .ph-item>.ph-tip{grid-column:1}
+  .ph-item .ph-ru,
+  .ph-item>.ph-tip{margin-left:37px}
   .ph-line{gap:9px}
 }
