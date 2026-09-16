@@ -243,6 +243,10 @@ audio{display:block; width:100%; margin:18px 0}
 .fill-blank select.fill-choice {
   max-width: 100%;
   box-sizing: border-box;
+  /* длинный вариант в закрытом виде обрезается — пусть это будет видно
+     многоточием, а не оборванным словом; в раскрытом списке текст целый */
+  overflow: hidden;
+  text-overflow: ellipsis;
   font: inherit;
   font-size: 1em;
   color: #111;
