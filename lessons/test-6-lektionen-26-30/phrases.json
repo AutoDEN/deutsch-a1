@@ -1,6 +1,172 @@
 {
  "groups": [
   {
+   "id": "qa",
+   "layout": "qa",
+   "items": [
+    {
+     "id": "q01",
+     "task": "Спросите друзей, что они делают в выходные.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Was macht ihr am Wochenende?",
+       "ru": "Что вы делаете в выходные?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich muss leider am Samstag arbeiten.",
+       "ru": "В субботу мне, к сожалению, нужно работать."
+      }
+     ]
+    },
+    {
+     "id": "q02",
+     "task": "Предложите поехать на озеро.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Habt ihr Lust auf einen Ausflug zum See?",
+       "ru": "Есть желание съездить на озеро?"
+      },
+      {
+       "voice": "clara",
+       "de": "Am Sonntag kann ich! Das hört sich toll an!",
+       "ru": "В воскресенье я могу! Звучит здорово!"
+      }
+     ]
+    },
+    {
+     "id": "q03",
+     "task": "Спросите, когда и где встретиться.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Wann und wo sollen wir uns treffen?",
+       "ru": "Когда и где нам встретиться?"
+      },
+      {
+       "voice": "max",
+       "de": "Wir können uns um 14 Uhr am U-Bahnhof treffen.",
+       "ru": "Мы можем встретиться в 14 часов у метро."
+      }
+     ]
+    },
+    {
+     "id": "q04",
+     "task": "Попросите соседа объяснить сортировку мусора.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Können Sie mir erklären, wie die Mülltrennung funktioniert?",
+       "ru": "Вы можете объяснить мне, как работает сортировка мусора?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack.",
+       "ru": "Для бумаги у нас синий контейнер, для пластика жёлтый мешок."
+      }
+     ]
+    },
+    {
+     "id": "q05",
+     "task": "Спросите, куда девать стаканчик от йогурта.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wohin gehört dieser Joghurtbecher?",
+       "ru": "Куда относится этот стаканчик от йогурта?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Der kommt in die gelbe Tonne, aber er muss sauber sein.",
+       "ru": "Он идёт в жёлтый контейнер, но должен быть чистым."
+      }
+     ]
+    },
+    {
+     "id": "q06",
+     "task": "Спросите, зачем вообще сортировать мусор.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Warum muss man den Müll trennen?",
+       "ru": "Почему нужно сортировать мусор?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Weil das wichtig für die Umwelt ist.",
+       "ru": "Потому что это важно для окружающей среды."
+      }
+     ]
+    },
+    {
+     "id": "q07",
+     "task": "Заговорите с соседом во дворе о погоде.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Schönes Wetter heute, nicht wahr?",
+       "ru": "Хорошая погода сегодня, не правда ли?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, endlich Sonne!",
+       "ru": "Да, наконец-то солнце!"
+      }
+     ]
+    },
+    {
+     "id": "q08",
+     "task": "Спросите соседа про планы на выходные — на «Вы».",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Haben Sie etwas Schönes am Wochenende vor?",
+       "ru": "У Вас есть планы на выходные?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, meine Tochter kommt mit meiner Enkelin zu Besuch.",
+       "ru": "Да, моя дочь приезжает с внучкой в гости."
+      }
+     ]
+    },
+    {
+     "id": "q09",
+     "task": "Спросите, как человек празднует Рождество.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wie feierst du Weihnachten?",
+       "ru": "Как ты празднуешь Рождество?"
+      },
+      {
+       "voice": "clara",
+       "de": "Am Heiligabend kommt die ganze Familie zusammen.",
+       "ru": "В сочельник собирается вся семья."
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "task": "Спросите, что человек хочет делать после учёбы.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Was möchtest du nach dem Studium machen?",
+       "ru": "Что ты хочешь делать после учёбы?"
+      },
+      {
+       "voice": "lena",
+       "de": "Ich möchte eine gute Arbeit finden. Und ich will eine Weile im Ausland leben.",
+       "ru": "Я хочу найти хорошую работу. И хочу пожить за границей."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sprechen",
    "layout": "sample",
    "join": true,
@@ -10,41 +176,110 @@
      "id": "s1",
      "label": "Ситуация 1. Планы на выходные: скажите, что должны работать, предложите поездку и договоритесь о встрече.",
      "lines": [
-      { "voice": "lena", "de": "Was machst du am Wochenende?" },
-      { "voice": "max", "de": "Am Samstag muss ich leider arbeiten. Aber am Sonntag will ich einen Ausflug machen." },
-      { "voice": "lena", "de": "Hast du Lust auf einen Ausflug zum See?" },
-      { "voice": "max", "de": "Ja, gerne! Wann und wo sollen wir uns treffen?" },
-      { "voice": "lena", "de": "Wir können uns um 14 Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten laufen." },
-      { "voice": "max", "de": "Perfekt! Ich kann einen Picknickkorb vorbereiten." },
-      { "voice": "lena", "de": "Super, dann bringe ich die Getränke mit. Hauptsache, wir verbringen Zeit zusammen!" }
+      {
+       "voice": "lena",
+       "de": "Was machst du am Wochenende?"
+      },
+      {
+       "voice": "max",
+       "de": "Am Samstag muss ich leider arbeiten. Aber am Sonntag will ich einen Ausflug machen."
+      },
+      {
+       "voice": "lena",
+       "de": "Hast du Lust auf einen Ausflug zum See?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, gerne! Wann und wo sollen wir uns treffen?"
+      },
+      {
+       "voice": "lena",
+       "de": "Wir können uns um 14 Uhr am U-Bahnhof treffen. Von dort müssen wir nur zehn Minuten laufen."
+      },
+      {
+       "voice": "max",
+       "de": "Perfekt! Ich kann einen Picknickkorb vorbereiten."
+      },
+      {
+       "voice": "lena",
+       "de": "Super, dann bringe ich die Getränke mit. Hauptsache, wir verbringen Zeit zusammen!"
+      }
      ]
     },
     {
      "id": "s2",
      "label": "Ситуация 2. Сосед объясняет Вам сортировку мусора: спросите про контейнеры, бутылку и стаканчик от йогурта.",
      "lines": [
-      { "voice": "lena", "de": "Können Sie mir erklären, wie die Mülltrennung funktioniert?" },
-      { "voice": "mueller", "de": "Natürlich. Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack, für Biomüll die braune Tonne. Der Rest kommt in den Restmüll." },
-      { "voice": "lena", "de": "Wohin gehört diese Flasche?" },
-      { "voice": "mueller", "de": "Flaschen bringt man zum Container für Glas, sortiert nach Farben." },
-      { "voice": "lena", "de": "Und dieser Joghurtbecher?" },
-      { "voice": "mueller", "de": "Der kommt in die gelbe Tonne, aber er muss sauber sein." },
-      { "voice": "lena", "de": "Warum muss man den Müll trennen?" },
-      { "voice": "mueller", "de": "Weil das wichtig für die Umwelt ist. Was man trennt, kann man recyceln." }
+      {
+       "voice": "lena",
+       "de": "Können Sie mir erklären, wie die Mülltrennung funktioniert?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Natürlich. Für Papier haben wir die blaue Tonne, für Plastik den gelben Sack, für Biomüll die braune Tonne. Der Rest kommt in den Restmüll."
+      },
+      {
+       "voice": "lena",
+       "de": "Wohin gehört diese Flasche?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Flaschen bringt man zum Container für Glas, sortiert nach Farben."
+      },
+      {
+       "voice": "lena",
+       "de": "Und dieser Joghurtbecher?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Der kommt in die gelbe Tonne, aber er muss sauber sein."
+      },
+      {
+       "voice": "lena",
+       "de": "Warum muss man den Müll trennen?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Weil das wichtig für die Umwelt ist. Was man trennt, kann man recyceln."
+      }
      ]
     },
     {
      "id": "s3",
      "label": "Ситуация 3. Короткий разговор с соседом во дворе: погода, планы на выходные, предложение помощи и прощание.",
      "lines": [
-      { "voice": "mueller", "de": "Guten Tag, Herr Fischer! Na, wie geht's?" },
-      { "voice": "max", "de": "Danke, mir geht's gut. Und Ihnen?" },
-      { "voice": "mueller", "de": "Schönes Wetter heute, nicht wahr?" },
-      { "voice": "max", "de": "Ja, endlich Sonne! Haben Sie etwas Schönes am Wochenende vor?" },
-      { "voice": "mueller", "de": "Ja, meine Tochter kommt mit meiner Enkelin zu Besuch. Und Sie?" },
-      { "voice": "max", "de": "Nichts Besonderes. Nach dem Praktikum möchte ich mein Zimmer renovieren." },
-      { "voice": "mueller", "de": "Rufen Sie mich an, wenn Sie Hilfe brauchen." },
-      { "voice": "max", "de": "Danke! Machen Sie's gut und genießen Sie das Wochenende!" }
+      {
+       "voice": "mueller",
+       "de": "Guten Tag, Herr Fischer! Na, wie geht's?"
+      },
+      {
+       "voice": "max",
+       "de": "Danke, mir geht's gut. Und Ihnen?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Schönes Wetter heute, nicht wahr?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, endlich Sonne! Haben Sie etwas Schönes am Wochenende vor?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, meine Tochter kommt mit meiner Enkelin zu Besuch. Und Sie?"
+      },
+      {
+       "voice": "max",
+       "de": "Nichts Besonderes. Nach dem Praktikum möchte ich mein Zimmer renovieren."
+      },
+      {
+       "voice": "mueller",
+       "de": "Rufen Sie mich an, wenn Sie Hilfe brauchen."
+      },
+      {
+       "voice": "max",
+       "de": "Danke! Machen Sie's gut und genießen Sie das Wochenende!"
+      }
      ]
     }
    ]

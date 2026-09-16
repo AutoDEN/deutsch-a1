@@ -1,6 +1,172 @@
 {
  "groups": [
   {
+   "id": "qa",
+   "layout": "qa",
+   "items": [
+    {
+     "id": "q01",
+     "task": "Вы в регистратуре. Спросите пациента, когда ему удобно прийти.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Wann hätten Sie denn Zeit?",
+       "ru": "Когда Вам было бы удобно?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Am liebsten am Montag oder Dienstag, vormittags.",
+       "ru": "Лучше всего в понедельник или вторник, в первой половине дня."
+      }
+     ]
+    },
+    {
+     "id": "q02",
+     "task": "Вы записались к врачу. Спросите, брать ли страховую карту.",
+     "lines": [
+      {
+       "voice": "mueller",
+       "de": "Soll ich meine Versichertenkarte mitbringen?",
+       "ru": "Мне взять с собой страховую карту?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ja, bitte bringen Sie Ihre Versichertenkarte mit.",
+       "ru": "Да, пожалуйста, возьмите свою страховую карту."
+      }
+     ]
+    },
+    {
+     "id": "q03",
+     "task": "Сосед показывает сад. Спросите, растут ли у него овощи.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Und was ist mit Gemüse?",
+       "ru": "А как насчёт овощей?"
+      },
+      {
+       "voice": "mueller",
+       "de": "In der Ecke wachsen Tomaten und Gurken.",
+       "ru": "В углу растут помидоры и огурцы."
+      }
+     ]
+    },
+    {
+     "id": "q04",
+     "task": "Спросите, не тяжело ли ему возиться в саду.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Ist das nicht anstrengend?",
+       "ru": "Это не утомительно?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Nein, die Gartenarbeit ist für mich entspannend.",
+       "ru": "Нет, работа в саду меня расслабляет."
+      }
+     ]
+    },
+    {
+     "id": "q05",
+     "task": "Спросите дорогу к почте.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Entschuldigung, wie komme ich zur Post?",
+       "ru": "Извините, как мне пройти к почте?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Gehen Sie hier geradeaus bis zur Ampel, dann die erste Straße rechts.",
+       "ru": "Идите прямо до светофора, затем первая улица направо."
+      }
+     ]
+    },
+    {
+     "id": "q06",
+     "task": "Уточните, далеко ли это.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Ist das weit?",
+       "ru": "Это далеко?"
+      },
+      {
+       "voice": "clara",
+       "de": "Nein, ganz in der Nähe. Höchstens fünf Minuten zu Fuß.",
+       "ru": "Нет, совсем рядом. Максимум пять минут пешком."
+      }
+     ]
+    },
+    {
+     "id": "q07",
+     "task": "Вы в незнакомом городе. Спросите дорогу к вокзалу.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wie komme ich zum Bahnhof?",
+       "ru": "Как мне добраться до вокзала?"
+      },
+      {
+       "voice": "clara",
+       "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links.",
+       "ru": "Идите по этой улице до перекрёстка, потом налево."
+      }
+     ]
+    },
+    {
+     "id": "q08",
+     "task": "Спросите, какая сегодня погода.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wie ist das Wetter heute?",
+       "ru": "Какая сегодня погода?"
+      },
+      {
+       "voice": "clara",
+       "de": "Die Sonne scheint und es regnet nicht. Der Himmel ist blau.",
+       "ru": "Светит солнце и дождя нет. Небо голубое."
+      }
+     ]
+    },
+    {
+     "id": "q09",
+     "task": "Спросите у соседа, какое у него любимое время года.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Was ist Ihre Lieblingsjahreszeit?",
+       "ru": "Какое у Вас любимое время года?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ich genieße den Frühling am meisten.",
+       "ru": "Больше всего я люблю весну."
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "task": "Пригласите подругу на кофе в субботу.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen.",
+       "ru": "У тебя есть время в субботу? Я хочу пригласить тебя на кофе."
+      },
+      {
+       "voice": "lena",
+       "de": "Oh, das klingt toll! Um wie viel Uhr?",
+       "ru": "О, звучит здорово! Во сколько?"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sprechen",
    "layout": "sample",
    "join": true,
@@ -10,38 +176,99 @@
      "id": "s1",
      "label": "Ситуация 1. Звоните в кабинет врача: попросите приём, откажитесь от первого времени, согласитесь на второе.",
      "lines": [
-      { "voice": "max", "de": "Praxis Dr. Bauer, guten Tag. Was kann ich für Sie tun?" },
-      { "voice": "mueller", "de": "Mein Name ist Thomas Müller. Ich möchte einen Termin vereinbaren." },
-      { "voice": "max", "de": "Wann hätten Sie denn Zeit?" },
-      { "voice": "mueller", "de": "Am liebsten am Montag oder Dienstag, vormittags." },
-      { "voice": "max", "de": "Am Montag um 10 Uhr hätten wir einen Termin frei. Passt das?" },
-      { "voice": "mueller", "de": "Nein, da kann ich leider nicht. Da habe ich schon einen Termin." },
-      { "voice": "max", "de": "Dann vielleicht Dienstag um 9 Uhr?", "speak": "Dann vielleicht Dienstag um neun Uhr?" },
-      { "voice": "mueller", "de": "Ja, das geht. Vielen Dank für Ihre Hilfe. Auf Wiederhören!" }
+      {
+       "voice": "max",
+       "de": "Praxis Dr. Bauer, guten Tag. Was kann ich für Sie tun?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Mein Name ist Thomas Müller. Ich möchte einen Termin vereinbaren."
+      },
+      {
+       "voice": "max",
+       "de": "Wann hätten Sie denn Zeit?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Am liebsten am Montag oder Dienstag, vormittags."
+      },
+      {
+       "voice": "max",
+       "de": "Am Montag um 10 Uhr hätten wir einen Termin frei. Passt das?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Nein, da kann ich leider nicht. Da habe ich schon einen Termin."
+      },
+      {
+       "voice": "max",
+       "de": "Dann vielleicht Dienstag um 9 Uhr?",
+       "speak": "Dann vielleicht Dienstag um neun Uhr?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, das geht. Vielen Dank für Ihre Hilfe. Auf Wiederhören!"
+      }
      ]
     },
     {
      "id": "s2",
      "label": "Ситуация 2. Вы в незнакомом городе: спросите дорогу к вокзалу и далеко ли это.",
      "lines": [
-      { "voice": "max", "de": "Entschuldigung, ich bin neu hier. Wie komme ich zum Bahnhof?" },
-      { "voice": "clara", "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links. Gehen Sie an der Bäckerei vorbei und nehmen Sie die zweite Straße rechts." },
-      { "voice": "max", "de": "Ist das weit?" },
-      { "voice": "clara", "de": "Etwa 10 Minuten zu Fuß. Sie können auch den Bus Nummer 16 nehmen." },
-      { "voice": "max", "de": "Vielen Dank für die Hilfe!" },
-      { "voice": "clara", "de": "Gern geschehen!" }
+      {
+       "voice": "max",
+       "de": "Entschuldigung, ich bin neu hier. Wie komme ich zum Bahnhof?"
+      },
+      {
+       "voice": "clara",
+       "de": "Gehen Sie diese Straße entlang bis zur Kreuzung, dann nach links. Gehen Sie an der Bäckerei vorbei und nehmen Sie die zweite Straße rechts."
+      },
+      {
+       "voice": "max",
+       "de": "Ist das weit?"
+      },
+      {
+       "voice": "clara",
+       "de": "Etwa 10 Minuten zu Fuß. Sie können auch den Bus Nummer 16 nehmen."
+      },
+      {
+       "voice": "max",
+       "de": "Vielen Dank für die Hilfe!"
+      },
+      {
+       "voice": "clara",
+       "de": "Gern geschehen!"
+      }
      ]
     },
     {
      "id": "s3",
      "label": "Ситуация 3. Пригласите подругу на кофе, примите отказ и договоритесь на другой день.",
      "lines": [
-      { "voice": "max", "de": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen." },
-      { "voice": "lena", "de": "Das klingt sehr schön! Aber tut mir leid, am Samstag kann ich nicht." },
-      { "voice": "max", "de": "Kein Problem! Vielleicht nächste Woche? Passt dir vielleicht Dienstagabend?" },
-      { "voice": "lena", "de": "Ja, am Dienstag kann ich! Um wie viel Uhr?" },
-      { "voice": "max", "de": "Um 17 Uhr in meinem Lieblingscafé am Marktplatz." },
-      { "voice": "lena", "de": "Das passt mir gut! Ich freue mich auf unser Treffen!" }
+      {
+       "voice": "max",
+       "de": "Hast du am Samstag Zeit? Ich möchte dich zum Kaffee einladen."
+      },
+      {
+       "voice": "lena",
+       "de": "Das klingt sehr schön! Aber tut mir leid, am Samstag kann ich nicht."
+      },
+      {
+       "voice": "max",
+       "de": "Kein Problem! Vielleicht nächste Woche? Passt dir vielleicht Dienstagabend?"
+      },
+      {
+       "voice": "lena",
+       "de": "Ja, am Dienstag kann ich! Um wie viel Uhr?"
+      },
+      {
+       "voice": "max",
+       "de": "Um 17 Uhr in meinem Lieblingscafé am Marktplatz."
+      },
+      {
+       "voice": "lena",
+       "de": "Das passt mir gut! Ich freue mich auf unser Treffen!"
+      }
      ]
     }
    ]

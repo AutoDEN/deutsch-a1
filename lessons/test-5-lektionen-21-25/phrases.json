@@ -1,6 +1,172 @@
 {
  "groups": [
   {
+   "id": "qa",
+   "layout": "qa",
+   "items": [
+    {
+     "id": "q01",
+     "task": "Спросите у друга, как прошли выходные.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wie war dein Wochenende?",
+       "ru": "Как прошли твои выходные?"
+      },
+      {
+       "voice": "lena",
+       "de": "Sehr schön! Am Samstag bin ich früh aufgestanden.",
+       "ru": "Очень хорошо! В субботу я рано встала."
+      }
+     ]
+    },
+    {
+     "id": "q02",
+     "task": "Спросите, что он делал в воскресенье.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Und was hast du am Sonntag gemacht?",
+       "ru": "А что ты делала в воскресенье?"
+      },
+      {
+       "voice": "lena",
+       "de": "Ich habe für die Uni gelernt.",
+       "ru": "Я занималась для университета."
+      }
+     ]
+    },
+    {
+     "id": "q03",
+     "task": "Вы врач. Спросите пациента, что его беспокоит.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Was fehlt Ihnen heute?",
+       "ru": "Что Вас сегодня беспокоит?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Halsschmerzen.",
+       "ru": "Я плохо себя чувствую. У меня болит голова и горло."
+      }
+     ]
+    },
+    {
+     "id": "q04",
+     "task": "Спросите пациента про температуру.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Haben Sie auch Fieber?",
+       "ru": "У Вас есть температура?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, ich glaube schon.",
+       "ru": "Да, кажется, есть."
+      }
+     ]
+    },
+    {
+     "id": "q05",
+     "task": "Вы пациент. Спросите, когда прийти снова.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wann soll ich wiederkommen?",
+       "ru": "Когда мне прийти снова?"
+      },
+      {
+       "voice": "clara",
+       "de": "Wenn es nach drei Tagen nicht besser wird, kommen Sie sofort wieder.",
+       "ru": "Если через три дня не станет лучше, приходите сразу."
+      }
+     ]
+    },
+    {
+     "id": "q06",
+     "task": "Спросите, где купить билет.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Entschuldigung, wo kann ich ein Ticket kaufen?",
+       "ru": "Извините, где я могу купить билет?"
+      },
+      {
+       "voice": "clara",
+       "de": "Am Automaten oder mit der App.",
+       "ru": "В автомате или через приложение."
+      }
+     ]
+    },
+    {
+     "id": "q07",
+     "task": "Спросите, надо ли компостировать билет.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Muss ich das Ticket irgendwo entwerten?",
+       "ru": "Мне нужно где-то прокомпостировать билет?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ja, Sie müssen es im Entwerter stempeln, bevor Sie einsteigen.",
+       "ru": "Да, нужно пробить его в компостере, прежде чем войти."
+      }
+     ]
+    },
+    {
+     "id": "q08",
+     "task": "Спросите, где ближайшая остановка.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wo ist die nächste Haltestelle?",
+       "ru": "Где ближайшая остановка?"
+      },
+      {
+       "voice": "clara",
+       "de": "Die U-Bahn-Haltestelle ist nur fünf Minuten von hier entfernt.",
+       "ru": "Остановка метро всего в пяти минутах отсюда."
+      }
+     ]
+    },
+    {
+     "id": "q09",
+     "task": "В ресторане: спросите совета официанта.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Was können Sie empfehlen?",
+       "ru": "Что вы можете порекомендовать?"
+      },
+      {
+       "voice": "clara",
+       "de": "Unser Tagesgericht ist Rinderbraten mit Knödeln.",
+       "ru": "Блюдо дня — жаркое из говядины с кнедликами."
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "task": "Теперь Вы официант. Спросите, понравилось ли гостям и как они платят.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Hat es Ihnen geschmeckt? Zahlen Sie zusammen oder getrennt?",
+       "ru": "Вам понравилось? Вы платите вместе или раздельно?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, sehr gut! Zusammen, bitte.",
+       "ru": "Да, очень вкусно! Вместе, пожалуйста."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sprechen",
    "layout": "sample",
    "join": true,
@@ -10,42 +176,114 @@
      "id": "s1",
      "label": "Ситуация 1. Вы на приёме у врача: расскажите, что болит, и спросите, когда прийти снова.",
      "lines": [
-      { "voice": "clara", "de": "Was fehlt Ihnen heute?" },
-      { "voice": "max", "de": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Halsschmerzen, und seit gestern habe ich auch Husten." },
-      { "voice": "clara", "de": "Haben Sie auch Fieber?" },
-      { "voice": "max", "de": "Ja, ich glaube schon. Mein Hals tut weh beim Schlucken." },
-      { "voice": "clara", "de": "Sie haben eine Erkältung. Sie müssen unbedingt im Bett bleiben, mindestens drei Tage. Trinken Sie viel Tee mit Honig." },
-      { "voice": "max", "de": "Wann soll ich wiederkommen?" },
-      { "voice": "clara", "de": "Wenn es nach drei Tagen nicht besser wird oder das Fieber steigt, kommen Sie sofort wieder." }
+      {
+       "voice": "clara",
+       "de": "Was fehlt Ihnen heute?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Halsschmerzen, und seit gestern habe ich auch Husten."
+      },
+      {
+       "voice": "clara",
+       "de": "Haben Sie auch Fieber?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, ich glaube schon. Mein Hals tut weh beim Schlucken."
+      },
+      {
+       "voice": "clara",
+       "de": "Sie haben eine Erkältung. Sie müssen unbedingt im Bett bleiben, mindestens drei Tage. Trinken Sie viel Tee mit Honig."
+      },
+      {
+       "voice": "max",
+       "de": "Wann soll ich wiederkommen?"
+      },
+      {
+       "voice": "clara",
+       "de": "Wenn es nach drei Tagen nicht besser wird oder das Fieber steigt, kommen Sie sofort wieder."
+      }
      ]
     },
     {
      "id": "s2",
      "label": "Ситуация 2. Вы впервые едете на общественном транспорте: билет, компостер, остановка.",
      "lines": [
-      { "voice": "max", "de": "Entschuldigung, wo kann ich ein Ticket kaufen?" },
-      { "voice": "clara", "de": "Am Automaten oder mit der App." },
-      { "voice": "max", "de": "Was kostet ein Ticket für eine Fahrt?" },
-      { "voice": "clara", "de": "Drei Euro. Wenn Sie oft fahren, ist eine Monatskarte billiger." },
-      { "voice": "max", "de": "Muss ich das Ticket irgendwo entwerten?" },
-      { "voice": "clara", "de": "Ja, Sie müssen es im Entwerter stempeln, bevor Sie einsteigen." },
-      { "voice": "max", "de": "Wo ist die nächste Haltestelle?" },
-      { "voice": "clara", "de": "Die U-Bahn-Haltestelle ist nur fünf Minuten von hier entfernt." }
+      {
+       "voice": "max",
+       "de": "Entschuldigung, wo kann ich ein Ticket kaufen?"
+      },
+      {
+       "voice": "clara",
+       "de": "Am Automaten oder mit der App."
+      },
+      {
+       "voice": "max",
+       "de": "Was kostet ein Ticket für eine Fahrt?"
+      },
+      {
+       "voice": "clara",
+       "de": "Drei Euro. Wenn Sie oft fahren, ist eine Monatskarte billiger."
+      },
+      {
+       "voice": "max",
+       "de": "Muss ich das Ticket irgendwo entwerten?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ja, Sie müssen es im Entwerter stempeln, bevor Sie einsteigen."
+      },
+      {
+       "voice": "max",
+       "de": "Wo ist die nächste Haltestelle?"
+      },
+      {
+       "voice": "clara",
+       "de": "Die U-Bahn-Haltestelle ist nur fünf Minuten von hier entfernt."
+      }
      ]
     },
     {
      "id": "s3",
      "label": "Ситуация 3. В ресторане: напиток, совет официанта, заказ и счёт.",
      "lines": [
-      { "voice": "clara", "de": "Herzlich willkommen! Möchten Sie zuerst etwas trinken?" },
-      { "voice": "max", "de": "Ja, bitte. Ich hätte gern ein Bier vom Fass." },
-      { "voice": "clara", "de": "Haben Sie schon gewählt?" },
-      { "voice": "max", "de": "Was können Sie empfehlen?" },
-      { "voice": "clara", "de": "Unser Tagesgericht ist Rinderbraten mit Knödeln." },
-      { "voice": "max", "de": "Ich nehme das Schnitzel mit Pommes." },
-      { "voice": "clara", "de": "Hat es Ihnen geschmeckt?" },
-      { "voice": "max", "de": "Ja, danke, sehr gut! Die Rechnung, bitte." },
-      { "voice": "clara", "de": "Zahlen Sie zusammen oder getrennt?" }
+      {
+       "voice": "clara",
+       "de": "Herzlich willkommen! Möchten Sie zuerst etwas trinken?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, bitte. Ich hätte gern ein Bier vom Fass."
+      },
+      {
+       "voice": "clara",
+       "de": "Haben Sie schon gewählt?"
+      },
+      {
+       "voice": "max",
+       "de": "Was können Sie empfehlen?"
+      },
+      {
+       "voice": "clara",
+       "de": "Unser Tagesgericht ist Rinderbraten mit Knödeln."
+      },
+      {
+       "voice": "max",
+       "de": "Ich nehme das Schnitzel mit Pommes."
+      },
+      {
+       "voice": "clara",
+       "de": "Hat es Ihnen geschmeckt?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, danke, sehr gut! Die Rechnung, bitte."
+      },
+      {
+       "voice": "clara",
+       "de": "Zahlen Sie zusammen oder getrennt?"
+      }
      ]
     }
    ]

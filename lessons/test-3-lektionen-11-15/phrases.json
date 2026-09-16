@@ -1,6 +1,175 @@
 {
  "groups": [
   {
+   "id": "qa",
+   "layout": "qa",
+   "items": [
+    {
+     "id": "q01",
+     "task": "Подруга переехала. Спросите, какая у неё новая квартира.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Wie ist deine neue WG?",
+       "ru": "Какая у тебя новая квартира?"
+      },
+      {
+       "voice": "lena",
+       "de": "Die WG ist super! Ich habe zwei Mitbewohner.",
+       "ru": "Квартира отличная! У меня два соседа."
+      }
+     ]
+    },
+    {
+     "id": "q02",
+     "task": "Спросите, большая ли у них кухня.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Habt ihr eine große Küche?",
+       "ru": "У вас большая кухня?"
+      },
+      {
+       "voice": "lena",
+       "de": "Ja, unsere Küche ist groß. Wir haben einen Tisch und vier Stühle dort.",
+       "ru": "Да, наша кухня большая. У нас там стол и четыре стула."
+      }
+     ]
+    },
+    {
+     "id": "q03",
+     "task": "В супермаркете Вы не находите молоко. Попросите помощи.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?",
+       "ru": "Я ищу молоко, но не нахожу его. Вы можете мне помочь?"
+      },
+      {
+       "voice": "clara",
+       "de": "Natürlich. Die Milch ist in Gang 3, neben den Joghurts.",
+       "ru": "Конечно. Молоко в третьем ряду, рядом с йогуртами.",
+       "speak": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts."
+      }
+     ]
+    },
+    {
+     "id": "q04",
+     "task": "Спросите, где найти сыр.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wo finde ich den Käse?",
+       "ru": "Где мне найти сыр?"
+      },
+      {
+       "voice": "clara",
+       "de": "Käse ist auch in Gang 3, gegenüber von der Milch.",
+       "ru": "Сыр тоже в третьем ряду, напротив молока.",
+       "speak": "Käse ist auch in Gang drei, gegenüber von der Milch."
+      }
+     ]
+    },
+    {
+     "id": "q05",
+     "task": "Спросите, сколько стоят яблоки.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Was kosten die Äpfel?",
+       "ru": "Сколько стоят яблоки?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ein Kilo kostet drei Euro.",
+       "ru": "Килограмм стоит три евро."
+      }
+     ]
+    },
+    {
+     "id": "q06",
+     "task": "Спросите у друга, во сколько он встаёт.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wann stehst du morgens auf?",
+       "ru": "Во сколько ты встаёшь по утрам?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich stehe jeden Tag um 6:00 Uhr auf.",
+       "ru": "Я встаю каждый день в 6 часов.",
+       "speak": "Ich stehe jeden Tag um sechs Uhr auf."
+      }
+     ]
+    },
+    {
+     "id": "q07",
+     "task": "Спросите, как он добирается до работы.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wie kommst du zur Arbeit?",
+       "ru": "Как ты добираешься до работы?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten.",
+       "ru": "Я еду на автобусе, дорога занимает около 25 минут."
+      }
+     ]
+    },
+    {
+     "id": "q08",
+     "task": "Спросите, когда у него заканчивается рабочий день.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wann machst du Feierabend?",
+       "ru": "Когда ты заканчиваешь работу?"
+      },
+      {
+       "voice": "max",
+       "de": "Um 17:00 Uhr.",
+       "ru": "В 17 часов."
+      }
+     ]
+    },
+    {
+     "id": "q09",
+     "task": "Вы продавец в магазине одежды. Спросите размер.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Welche Größe brauchen Sie?",
+       "ru": "Какой размер Вам нужен?"
+      },
+      {
+       "voice": "lena",
+       "de": "Normalerweise trage ich Größe M.",
+       "ru": "Обычно я ношу размер M."
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "task": "Спросите, можно ли примерить и где примерочные.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Kann ich das anprobieren? Wo sind die Umkleidekabinen?",
+       "ru": "Могу я это примерить? Где примерочные?"
+      },
+      {
+       "voice": "clara",
+       "de": "Natürlich, die Umkleidekabinen sind hinten links.",
+       "ru": "Конечно, примерочные сзади слева."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sprechen",
    "layout": "sample",
    "join": true,
@@ -10,41 +179,114 @@
      "id": "s1",
      "label": "Ситуация 1. В супермаркете: Вы не можете найти молоко и сыр, потом спрашиваете про яблоки.",
      "lines": [
-      { "voice": "max", "de": "Guten Tag. Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?" },
-      { "voice": "clara", "de": "Natürlich. Die Milch ist in Gang 3, neben den Joghurts.", "speak": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts." },
-      { "voice": "max", "de": "Vielen Dank. Ich brauche auch Käse. Wo finde ich den?" },
-      { "voice": "clara", "de": "Käse ist auch in Gang 3, gegenüber von der Milch.", "speak": "Käse ist auch in Gang drei, gegenüber von der Milch." },
-      { "voice": "max", "de": "Haben Sie auch Äpfel? Was kosten die Äpfel?" },
-      { "voice": "clara", "de": "Ja, in der Obstabteilung, gleich am Eingang links. Die roten kosten 2,99 Euro pro Kilo.", "speak": "Ja, in der Obstabteilung, gleich am Eingang links." },
-      { "voice": "max", "de": "Ich nehme ein Kilo rote Äpfel und eine Packung Milch." }
+      {
+       "voice": "max",
+       "de": "Guten Tag. Ich suche Milch, aber ich finde sie nicht. Können Sie mir helfen?"
+      },
+      {
+       "voice": "clara",
+       "de": "Natürlich. Die Milch ist in Gang 3, neben den Joghurts.",
+       "speak": "Natürlich. Die Milch ist in Gang drei, neben den Joghurts."
+      },
+      {
+       "voice": "max",
+       "de": "Vielen Dank. Ich brauche auch Käse. Wo finde ich den?"
+      },
+      {
+       "voice": "clara",
+       "de": "Käse ist auch in Gang 3, gegenüber von der Milch.",
+       "speak": "Käse ist auch in Gang drei, gegenüber von der Milch."
+      },
+      {
+       "voice": "max",
+       "de": "Haben Sie auch Äpfel? Was kosten die Äpfel?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ja, in der Obstabteilung, gleich am Eingang links. Die roten kosten 2,99 Euro pro Kilo.",
+       "speak": "Ja, in der Obstabteilung, gleich am Eingang links."
+      },
+      {
+       "voice": "max",
+       "de": "Ich nehme ein Kilo rote Äpfel und eine Packung Milch."
+      }
      ]
     },
     {
      "id": "s2",
      "label": "Ситуация 2. Ваш день: во сколько встаёте, как добираетесь, когда заканчиваете работу.",
      "lines": [
-      { "voice": "lena", "de": "Wann stehst du morgens auf?" },
-      { "voice": "max", "de": "Ich stehe jeden Tag um 6:00 Uhr auf.", "speak": "Ich stehe jeden Tag um sechs Uhr auf." },
-      { "voice": "lena", "de": "Das ist früh! Was machst du zum Frühstück?" },
-      { "voice": "max", "de": "Ich esse Brötchen mit Käse und trinke einen starken Kaffee." },
-      { "voice": "lena", "de": "Wie kommst du zur Arbeit?" },
-      { "voice": "max", "de": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten." },
-      { "voice": "lena", "de": "Und wann machst du Feierabend?" },
-      { "voice": "max", "de": "Um 17:00 Uhr. Danach sehe ich fern oder rufe meine Brüder an." }
+      {
+       "voice": "lena",
+       "de": "Wann stehst du morgens auf?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich stehe jeden Tag um 6:00 Uhr auf.",
+       "speak": "Ich stehe jeden Tag um sechs Uhr auf."
+      },
+      {
+       "voice": "lena",
+       "de": "Das ist früh! Was machst du zum Frühstück?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich esse Brötchen mit Käse und trinke einen starken Kaffee."
+      },
+      {
+       "voice": "lena",
+       "de": "Wie kommst du zur Arbeit?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich fahre mit dem Bus, die Fahrt dauert etwa 25 Minuten."
+      },
+      {
+       "voice": "lena",
+       "de": "Und wann machst du Feierabend?"
+      },
+      {
+       "voice": "max",
+       "de": "Um 17:00 Uhr. Danach sehe ich fern oder rufe meine Brüder an."
+      }
      ]
     },
     {
      "id": "s3",
      "label": "Ситуация 3. В магазине одежды: попросите футболку своего размера, примерьте и выберите цвет.",
      "lines": [
-      { "voice": "clara", "de": "Kann ich Ihnen helfen?" },
-      { "voice": "lena", "de": "Ja, ich suche ein T-Shirt, am liebsten in Rot oder Blau." },
-      { "voice": "clara", "de": "Welche Größe brauchen Sie?" },
-      { "voice": "lena", "de": "Normalerweise trage ich Größe M. Kann ich das anprobieren?" },
-      { "voice": "clara", "de": "Natürlich, die Umkleidekabinen sind hinten links." },
-      { "voice": "lena", "de": "Was denkst du, das rote oder das blaue?" },
-      { "voice": "clara", "de": "Das rote passt dir sehr gut, aber das blaue passt besser zu deinen Jeans." },
-      { "voice": "lena", "de": "Dann nehme ich das blaue. Es gefällt mir auch besser." }
+      {
+       "voice": "clara",
+       "de": "Kann ich Ihnen helfen?"
+      },
+      {
+       "voice": "lena",
+       "de": "Ja, ich suche ein T-Shirt, am liebsten in Rot oder Blau."
+      },
+      {
+       "voice": "clara",
+       "de": "Welche Größe brauchen Sie?"
+      },
+      {
+       "voice": "lena",
+       "de": "Normalerweise trage ich Größe M. Kann ich das anprobieren?"
+      },
+      {
+       "voice": "clara",
+       "de": "Natürlich, die Umkleidekabinen sind hinten links."
+      },
+      {
+       "voice": "lena",
+       "de": "Was denkst du, das rote oder das blaue?"
+      },
+      {
+       "voice": "clara",
+       "de": "Das rote passt dir sehr gut, aber das blaue passt besser zu deinen Jeans."
+      },
+      {
+       "voice": "lena",
+       "de": "Dann nehme ich das blaue. Es gefällt mir auch besser."
+      }
      ]
     }
    ]

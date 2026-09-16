@@ -1,6 +1,172 @@
 {
  "groups": [
   {
+   "id": "qa",
+   "layout": "qa",
+   "items": [
+    {
+     "id": "q01",
+     "task": "Вы продавец в булочной. Спросите, нужен ли покупателю пакет.",
+     "lines": [
+      {
+       "voice": "clara",
+       "de": "Brauchen Sie eine Tüte?",
+       "ru": "Вам нужен пакет?"
+      },
+      {
+       "voice": "max",
+       "de": "Nein, danke. Ich habe eine Tasche dabei.",
+       "ru": "Нет, спасибо. У меня есть сумка."
+      }
+     ]
+    },
+    {
+     "id": "q02",
+     "task": "Сосед несёт тяжёлые сумки. Предложите помощь — на «Вы».",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Sie tragen viele Taschen. Kann ich Ihnen helfen?",
+       "ru": "Вы несёте много сумок. Могу я Вам помочь?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, bitte. Das ist sehr nett.",
+       "ru": "Да, пожалуйста. Это очень мило."
+      }
+     ]
+    },
+    {
+     "id": "q03",
+     "task": "Закажите кофе в кафе.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Guten Nachmittag. Einen Kaffee, bitte.",
+       "ru": "Добрый день. Кофе, пожалуйста."
+      },
+      {
+       "voice": "clara",
+       "de": "Gerne. Mit Milch?",
+       "ru": "С удовольствием. С молоком?"
+      }
+     ]
+    },
+    {
+     "id": "q04",
+     "task": "Вы не знаете, что это за предмет. Спросите.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Was ist das?",
+       "ru": "Что это?"
+      },
+      {
+       "voice": "clara",
+       "de": "Das ist eine Lampe. Die Lampe ist neu.",
+       "ru": "Это лампа. Лампа новая."
+      }
+     ]
+    },
+    {
+     "id": "q05",
+     "task": "Спросите у друга, есть ли у него братья и сёстры.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Hast du Geschwister?",
+       "ru": "У тебя есть братья и сёстры?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, ich habe zwei Brüder.",
+       "ru": "Да, у меня два брата."
+      }
+     ]
+    },
+    {
+     "id": "q06",
+     "task": "То же самое пожилому соседу, но про детей и на «Вы».",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Haben Sie Kinder?",
+       "ru": "У Вас есть дети?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ja, ich habe zwei Kinder.",
+       "ru": "Да, у меня двое детей."
+      }
+     ]
+    },
+    {
+     "id": "q07",
+     "task": "Спросите подругу, живут ли её родители здесь.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wohnen deine Eltern auch hier in Berlin?",
+       "ru": "Твои родители тоже живут в Берлине?"
+      },
+      {
+       "voice": "clara",
+       "de": "Nein, meine Eltern leben in München.",
+       "ru": "Нет, мои родители живут в Мюнхене."
+      }
+     ]
+    },
+    {
+     "id": "q08",
+     "task": "Спросите у друга номер телефона.",
+     "lines": [
+      {
+       "voice": "lena",
+       "de": "Wie ist deine Telefonnummer?",
+       "ru": "Какой у тебя номер телефона?"
+      },
+      {
+       "voice": "max",
+       "de": "Meine Nummer ist 0157 42 36 890.",
+       "ru": "Мой номер 0157 42 36 890."
+      }
+     ]
+    },
+    {
+     "id": "q09",
+     "task": "Спросите у соседа адрес — на «Вы».",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Wie ist Ihre Adresse?",
+       "ru": "Какой у Вас адрес?"
+      },
+      {
+       "voice": "mueller",
+       "de": "Ich wohne in der Eichenstraße 44.",
+       "ru": "Я живу на Айхенштрассе, 44."
+      }
+     ]
+    },
+    {
+     "id": "q10",
+     "task": "Спросите, чем человек занимается в свободное время.",
+     "lines": [
+      {
+       "voice": "max",
+       "de": "Was machst du in deiner Freizeit?",
+       "ru": "Чем ты занимаешься в свободное время?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ich lese gern, besonders Romane.",
+       "ru": "Я люблю читать, особенно романы."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sprechen",
    "layout": "sample",
    "join": true,
@@ -10,36 +176,90 @@
      "id": "s1",
      "label": "Ситуация 1. В булочной: купите хлеб, откажитесь от пакета, попрощайтесь.",
      "lines": [
-      { "voice": "max", "de": "Guten Morgen! Ein Vollkornbrot, bitte." },
-      { "voice": "clara", "de": "Gerne. Möchten Sie das Brot geschnitten haben?" },
-      { "voice": "max", "de": "Ja, bitte." },
-      { "voice": "clara", "de": "Bitte schön. Brauchen Sie eine Tüte?" },
-      { "voice": "max", "de": "Nein, danke. Ich habe eine Tasche dabei. Einen schönen Tag noch!" },
-      { "voice": "clara", "de": "Danke, gleichfalls!" }
+      {
+       "voice": "max",
+       "de": "Guten Morgen! Ein Vollkornbrot, bitte."
+      },
+      {
+       "voice": "clara",
+       "de": "Gerne. Möchten Sie das Brot geschnitten haben?"
+      },
+      {
+       "voice": "max",
+       "de": "Ja, bitte."
+      },
+      {
+       "voice": "clara",
+       "de": "Bitte schön. Brauchen Sie eine Tüte?"
+      },
+      {
+       "voice": "max",
+       "de": "Nein, danke. Ich habe eine Tasche dabei. Einen schönen Tag noch!"
+      },
+      {
+       "voice": "clara",
+       "de": "Danke, gleichfalls!"
+      }
      ]
     },
     {
      "id": "s2",
      "label": "Ситуация 2. Вы недавно въехали: представьтесь соседу, скажите адрес и спросите телефон.",
      "lines": [
-      { "voice": "max", "de": "Guten Tag! Ich bin vor kurzem eingezogen und wollte mich vorstellen." },
-      { "voice": "mueller", "de": "Das ist sehr nett. Wo genau wohnen Sie?" },
-      { "voice": "max", "de": "Ich wohne in der Eichenstraße 42, im dritten Stock." },
-      { "voice": "mueller", "de": "Oh, wir sind ja Nachbarn! Ich wohne in der Eichenstraße 44." },
-      { "voice": "max", "de": "Darf ich fragen, wie Ihre Telefonnummer ist? Falls ich einmal Hilfe brauche." },
-      { "voice": "mueller", "de": "Natürlich. Meine Nummer ist 089 73 25 698." },
-      { "voice": "max", "de": "Vielen Dank, Herr Müller. Ich werde die Nummer speichern." }
+      {
+       "voice": "max",
+       "de": "Guten Tag! Ich bin vor kurzem eingezogen und wollte mich vorstellen."
+      },
+      {
+       "voice": "mueller",
+       "de": "Das ist sehr nett. Wo genau wohnen Sie?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich wohne in der Eichenstraße 42, im dritten Stock."
+      },
+      {
+       "voice": "mueller",
+       "de": "Oh, wir sind ja Nachbarn! Ich wohne in der Eichenstraße 44."
+      },
+      {
+       "voice": "max",
+       "de": "Darf ich fragen, wie Ihre Telefonnummer ist? Falls ich einmal Hilfe brauche."
+      },
+      {
+       "voice": "mueller",
+       "de": "Natürlich. Meine Nummer ist 089 73 25 698."
+      },
+      {
+       "voice": "max",
+       "de": "Vielen Dank, Herr Müller. Ich werde die Nummer speichern."
+      }
      ]
     },
     {
      "id": "s3",
      "label": "Ситуация 3. Разговор о свободном времени: спросите про хобби и расскажите про своё.",
      "lines": [
-      { "voice": "max", "de": "Was machst du gern in deiner Freizeit?" },
-      { "voice": "clara", "de": "Ich lese sehr gern, besonders Romane und Gedichte. Und ich schreibe gern in mein Tagebuch. Und was machst du sonst gern?" },
-      { "voice": "max", "de": "Ich höre gern Musik und treffe gern Freunde. Am Wochenende gehe ich gern spazieren." },
-      { "voice": "clara", "de": "Wo gehst du gern spazieren?" },
-      { "voice": "max", "de": "Am liebsten im Wald oder am See. Die Natur ist so schön." }
+      {
+       "voice": "max",
+       "de": "Was machst du gern in deiner Freizeit?"
+      },
+      {
+       "voice": "clara",
+       "de": "Ich lese sehr gern, besonders Romane und Gedichte. Und ich schreibe gern in mein Tagebuch. Und was machst du sonst gern?"
+      },
+      {
+       "voice": "max",
+       "de": "Ich höre gern Musik und treffe gern Freunde. Am Wochenende gehe ich gern spazieren."
+      },
+      {
+       "voice": "clara",
+       "de": "Wo gehst du gern spazieren?"
+      },
+      {
+       "voice": "max",
+       "de": "Am liebsten im Wald oder am See. Die Natur ist so schön."
+      }
      ]
     }
    ]
