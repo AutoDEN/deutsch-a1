@@ -36,7 +36,7 @@ from build import TESTS, SLUGS                      # noqa: E402  (нужен п
 # Язык самого бланка: названия частей, «верно/неверно», роли в расшифровке.
 # Материалом урока они не являются и в словарь не обязаны попадать.
 SERVICE = {
-    'teil', 'aufgabe', 'hören', 'lesen', 'schreiben', 'sprechen',
+    'teil', 'aufgabe', 'wiederholung', 'hören', 'lesen', 'schreiben', 'sprechen',
     'richtig', 'falsch', 'kellnerin', 'erzählt',
 }
 
